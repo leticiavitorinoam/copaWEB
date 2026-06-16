@@ -13,9 +13,32 @@ BASE_URL = "https://v3.football.api-sports.io"
 
 headers = {"x-apisports-key": API_KEY}
 
+@app.route("/api/dia/<data>")
+def dia_completo(data):
+    # busca TODOS os jogos da copa de uma vez
+    todos = requests.get(f"{BASE_URL}/fixtures?league=1&season=2022", headers=headers).json()
+    
+    # filtra só os do dia escolhido no Python
+    jogos_do_dia = [
+        jogo for jogo in todos["response"]
+        if jogo["fixture"]["date"].startswith(data)
+    ]
+
+    return jsonify({"jogos": jogos_do_dia})
+
 @app.route("/api/classificacao")
 def classificacao():
-    response = requests.get(f"{BASE_URL}/standings?league=1&season=2026", headers=headers)
+    response = requests.get(f"{BASE_URL}/standings?league=1&season=2022", headers=headers)
+    return jsonify(response.json())
+
+@app.route("/api/classificacao/<data>")
+def classificacao_por_data(data):
+    response = requests.get(f"{BASE_URL}/standings?league=1&season=2022&date={data}", headers=headers).json()
+    return jsonify(response["response"])
+
+@app.route("/api/artilheiros")
+def artilheiros():
+    response = requests.get(f"{BASE_URL}/players/topscorers?league=1&season=2022", headers=headers)
     return jsonify(response.json())
 
 if __name__ == "__main__":

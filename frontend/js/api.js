@@ -1,13 +1,18 @@
-var myHeaders = new Headers();
-myHeaders.append("x-apisports-key", "XxXxXxXxXxXxXxXxXxXxXxXx");
+// chama o backend, API de forma indireta
+async function getClassificacao() {
+    const response = await fetch("http://localhost:5000/api/classificacao");
+    const dados = await response.json();
+    return dados;
+}
 
-var requestOptions = {
-  method: 'GET',
-  headers: myHeaders,
-  redirect: 'follow'
-};
+async function getJogos() {
+    const response = await fetch("http://localhost:5000/api/jogos");
+    const dados = await response.json();
+    return dados;
+}
 
-fetch("https://v3.football.api-sports.io/leagues", requestOptions)
-  .then(response => response.text())
-  .then(result => console.log(result))
-  .catch(error => console.log('error', error));
+async function getArtilheiros() {
+    const response = await fetch("http://localhost:5000/api/artilheiros");
+    const dados = await response.json();
+    return dados;
+}
