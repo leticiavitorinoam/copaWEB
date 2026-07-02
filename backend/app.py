@@ -13,7 +13,7 @@ BASE_URL = "https://v3.football.api-sports.io"
 
 headers = {"x-apisports-key": API_KEY}
 
-# Seleções
+# SELEÇÕES
 @app.route("/api/selecoes")
 def selecoes():
 
@@ -45,7 +45,7 @@ def selecoes():
     return jsonify(selecoes)
 
 
-# Todos os jogos
+# TODOS OS JOGOS
 @app.route("/api/jogos")
 def jogos():
 
@@ -116,7 +116,7 @@ def jogos():
     return jsonify(jogos)
 
 
-# Classificação
+# CLASSIFICAÇÃO
 @app.route("/api/classificacao")
 def classificacao():
 
@@ -175,7 +175,7 @@ def classificacao():
     return jsonify(classificacao)
 
 
-# Artilheiros
+# ARTILHEIROS
 @app.route("/api/artilheiros")
 def artilheiros():
 
@@ -226,8 +226,8 @@ def artilheiros():
 
     return jsonify(artilheiros)
 
-#=========================continuar====================
-# Dados de um jogador
+
+# DADOS DE UM JOGADOR
 @app.route("/api/jogador/<int:player>")
 def jogador(player):
 
@@ -240,10 +240,73 @@ def jogador(player):
         }
     )
 
-    return jsonify(response.json()["response"])
+    dados = response.json()["response"]
+
+    if not dados:
+        return jsonify({"erro": "Jogador não encontrado"}), 404
+
+    jogador = dados[0]
+
+    player = jogador["player"]
+    stats = jogador["statistics"][0]
+    team = stats["team"]
+
+    jogador_info = {
+
+        "id": player["id"],
+        "nome": player["name"],
+        "foto": player["photo"],
+
+        "idade": player["age"],
+        "dataNascimento": player["birth"]["date"],
+        "localNascimento": player["birth"]["place"],
+        "nacionalidade": player["nationality"],
+
+        "altura": player["height"],
+        "peso": player["weight"],
+
+        "selecao": {
+            "id": team["id"],
+            "nome": team["name"],
+            "escudo": team["logo"]
+        },
+
+        "posicao": stats["games"].get("position"),
+        "numeroCamisa": stats["games"].get("number"),
+
+        "estatisticas": {
+
+            "jogos": stats["games"].get("appearences"),
+            "minutos": stats["games"].get("minutes"),
+
+            "gols": stats["goals"].get("total"),
+            "assistencias": stats["goals"].get("assists"),
+
+            "nota": stats["games"].get("rating"),
+
+            "chutesAoGol": stats["shots"].get("on"),
+
+            "passes": stats["passes"].get("total"),
+            "passesPrecisos": stats["passes"].get("key"),
+            "percentualPasses": stats["passes"].get("accuracy"),
+
+            "dribles": stats["dribbles"].get("attempts"),
+            "driblesCertos": stats["dribbles"].get("success"),
+
+            "desarmes": stats["tackles"].get("total"),
+            "interceptacoes": stats["tackles"].get("interceptions"),
+
+            "cartoesAmarelos": stats["cards"].get("yellow"),
+            "cartoesVermelhos": stats["cards"].get("red")
+
+        }
+
+    }
+
+    return jsonify(jogador_info)
 
 
-# Estatísticas de uma partida
+# ESTATÍSTICAS DE UMA PARTIDA
 @app.route("/api/estatisticas/<int:fixture>")
 def estatisticas(fixture):
 
@@ -255,10 +318,52 @@ def estatisticas(fixture):
         }
     )
 
-    return jsonify(response.json()["response"])
+    dados = response.json()["response"]
+
+    estatisticas_partida = {}
+
+    for i, equipe in enumerate(dados, start=1):
+
+        stats = {}
+
+        for item in equipe["statistics"]:
+            stats[item["type"]] = item["value"]
+
+        estatisticas_partida[f"selecao0{i}"] = {
+
+            "id": equipe["team"]["id"],
+            "nome": equipe["team"]["name"],
+            "escudo": equipe["team"]["logo"],
+
+            "estatisticas": {
+
+                "posseBola": stats.get("Ball Possession"),
+                "finalizacoes": stats.get("Total Shots"),
+                "chutesAoGol": stats.get("Shots on Goal"),
+                "chutesFora": stats.get("Shots off Goal"),
+                "chutesBloqueados": stats.get("Blocked Shots"),
+
+                "escanteios": stats.get("Corner Kicks"),
+                "impedimentos": stats.get("Offsides"),
+                "faltas": stats.get("Fouls"),
+
+                "cartoesAmarelos": stats.get("Yellow Cards"),
+                "cartoesVermelhos": stats.get("Red Cards"),
+
+                "defesas": stats.get("Goalkeeper Saves"),
+
+                "passes": stats.get("Total passes"),
+                "passesCertos": stats.get("Passes accurate"),
+                "precisaoPasses": stats.get("Passes %")
+            }
+
+        }
+
+    return jsonify(estatisticas_partida)
 
 
-# Eventos da partida
+
+# EVENTOS DE UMA PARTIDA
 @app.route("/api/eventos/<int:fixture>")
 def eventos(fixture):
 
@@ -270,10 +375,46 @@ def eventos(fixture):
         }
     )
 
-    return jsonify(response.json()["response"])
+    dados = response.json()["response"]
+
+    eventos = []
+
+    for evento in dados:
+
+        minuto = evento["time"]["elapsed"]
+
+        if minuto <= 45:
+            tempo = "1º Tempo"
+        elif minuto <= 90:
+            tempo = "2º Tempo"
+        else:
+            tempo = "Prorrogação"
+
+        eventos.append({
+
+            "minuto": minuto,
+            "acrescimos": evento["time"]["extra"],
+
+            "tempo": tempo,
+
+            "tipo": evento["type"],
+            "detalhe": evento["detail"],
+
+            "jogador": evento["player"]["name"],
+            "assistencia": evento["assist"]["name"] if evento["assist"] else None,
+
+            "selecao": {
+                "id": evento["team"]["id"],
+                "nome": evento["team"]["name"],
+                "escudo": evento["team"]["logo"]
+            }
+
+        })
+
+    return jsonify(eventos)
 
 
-# Escalações
+# ESCALAÇÕES
 @app.route("/api/escalacoes/<int:fixture>")
 def escalacoes(fixture):
 
@@ -285,10 +426,50 @@ def escalacoes(fixture):
         }
     )
 
-    return jsonify(response.json()["response"])
+    dados = response.json()["response"]
+
+    escalacoes = {}
+
+    for i, equipe in enumerate(dados, start=1):
+
+        escalacoes[f"selecao0{i}"] = {
+
+            "id": equipe["team"]["id"],
+            "nome": equipe["team"]["name"],
+            "escudo": equipe["team"]["logo"],
+
+            "tecnico": equipe["coach"]["name"],
+            "formacao": equipe.get("formation"),
+
+            "titulares": [
+                {
+                    "id": jogador["player"]["id"],
+                    "nome": jogador["player"]["name"],
+                    "numeroCamisa": jogador["player"].get("number"),
+                    "posicao": jogador["player"].get("pos"),
+                    "coordenadas": jogador["player"].get("grid")
+                }
+
+                for jogador in equipe["startXI"]
+            ],
+
+            "reservas": [
+                {
+                    "id": jogador["player"]["id"],
+                    "nome": jogador["player"]["name"],
+                    "numeroCamisa": jogador["player"].get("number"),
+                    "posicao": jogador["player"].get("pos")
+                }
+
+                for jogador in equipe["substitutes"]
+            ]
+
+        }
+
+    return jsonify(escalacoes)
 
 
-# Estatísticas dos jogadores na partida
+# ESTATÍSTICAS DOS JOGADORES NA PARRIDA
 @app.route("/api/jogadores-partida/<int:fixture>")
 def jogadores_partida(fixture):
 
@@ -300,7 +481,60 @@ def jogadores_partida(fixture):
         }
     )
 
-    return jsonify(response.json()["response"])
+    dados = response.json()["response"]
+
+    jogadores_partida = {}
+
+    for i, equipe in enumerate(dados, start=1):
+
+        jogadores_partida[f"selecao0{i}"] = {
+
+            "id": equipe["team"]["id"],
+            "nome": equipe["team"]["name"],
+            "escudo": equipe["team"]["logo"],
+
+            "jogadores": [
+
+                {
+
+                    "id": jogador["player"]["id"],
+                    "nome": jogador["player"]["name"],
+                    "foto": jogador["player"]["photo"],
+
+                    "numeroCamisa": jogador["statistics"][0]["games"].get("number"),
+                    "posicao": jogador["statistics"][0]["games"].get("position"),
+
+                    "estatisticas": {
+
+                        "minutos": jogador["statistics"][0]["games"].get("minutes"),
+                        "nota": jogador["statistics"][0]["games"].get("rating"),
+
+                        "gols": jogador["statistics"][0]["goals"].get("total"),
+                        "assistencias": jogador["statistics"][0]["goals"].get("assists"),
+
+                        "chutesAoGol": jogador["statistics"][0]["shots"].get("on"),
+
+                        "passes": jogador["statistics"][0]["passes"].get("total"),
+                        "precisaoPasses": jogador["statistics"][0]["passes"].get("accuracy"),
+
+                        "desarmes": jogador["statistics"][0]["tackles"].get("total"),
+
+                        "dribles": jogador["statistics"][0]["dribbles"].get("success"),
+
+                        "cartoesAmarelos": jogador["statistics"][0]["cards"].get("yellow"),
+                        "cartoesVermelhos": jogador["statistics"][0]["cards"].get("red")
+
+                    }
+
+                }
+
+                for jogador in equipe["players"]
+
+            ]
+
+        }
+
+    return jsonify(jogadores_partida)
 
 if __name__ == "__main__":
     app.run(debug=True)
