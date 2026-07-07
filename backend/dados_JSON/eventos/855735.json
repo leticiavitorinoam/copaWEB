@@ -1,0 +1,310 @@
+[
+    {
+        "minuto": 20,
+        "acrescimos": null,
+        "tempo": "1º Tempo",
+        "tipo": "subst",
+        "detalhe": "Substitution 1",
+        "jogador": "A. Beiranvand",
+        "assistencia": "H. Hosseini",
+        "selecao": {
+            "id": 22,
+            "nome": "Iran",
+            "escudo": "https://media.api-sports.io/football/teams/22.png"
+        }
+    },
+    {
+        "minuto": 25,
+        "acrescimos": null,
+        "tempo": "1º Tempo",
+        "tipo": "Card",
+        "detalhe": "Yellow Card",
+        "jogador": "Alireza Jahanbakhsh",
+        "assistencia": null,
+        "selecao": {
+            "id": 22,
+            "nome": "Iran",
+            "escudo": "https://media.api-sports.io/football/teams/22.png"
+        }
+    },
+    {
+        "minuto": 35,
+        "acrescimos": null,
+        "tempo": "1º Tempo",
+        "tipo": "Goal",
+        "detalhe": "Normal Goal",
+        "jogador": "J. Bellingham",
+        "assistencia": "L. Shaw",
+        "selecao": {
+            "id": 10,
+            "nome": "England",
+            "escudo": "https://media.api-sports.io/football/teams/10.png"
+        }
+    },
+    {
+        "minuto": 43,
+        "acrescimos": null,
+        "tempo": "1º Tempo",
+        "tipo": "Goal",
+        "detalhe": "Normal Goal",
+        "jogador": "B. Saka",
+        "assistencia": "H. Maguire",
+        "selecao": {
+            "id": 10,
+            "nome": "England",
+            "escudo": "https://media.api-sports.io/football/teams/10.png"
+        }
+    },
+    {
+        "minuto": 45,
+        "acrescimos": 1,
+        "tempo": "1º Tempo",
+        "tipo": "Goal",
+        "detalhe": "Normal Goal",
+        "jogador": "R. Sterling",
+        "assistencia": "H. Kane",
+        "selecao": {
+            "id": 10,
+            "nome": "England",
+            "escudo": "https://media.api-sports.io/football/teams/10.png"
+        }
+    },
+    {
+        "minuto": 46,
+        "acrescimos": null,
+        "tempo": "2º Tempo",
+        "tipo": "subst",
+        "detalhe": "Substitution 2",
+        "jogador": "A. Karimi",
+        "assistencia": "S. Ezatolahi",
+        "selecao": {
+            "id": 22,
+            "nome": "Iran",
+            "escudo": "https://media.api-sports.io/football/teams/22.png"
+        }
+    },
+    {
+        "minuto": 46,
+        "acrescimos": null,
+        "tempo": "2º Tempo",
+        "tipo": "subst",
+        "detalhe": "Substitution 3",
+        "jogador": "A. Jahanbakhsh",
+        "assistencia": "A. Gholizadeh",
+        "selecao": {
+            "id": 22,
+            "nome": "Iran",
+            "escudo": "https://media.api-sports.io/football/teams/22.png"
+        }
+    },
+    {
+        "minuto": 46,
+        "acrescimos": null,
+        "tempo": "2º Tempo",
+        "tipo": "subst",
+        "detalhe": "Substitution 4",
+        "jogador": "R. Cheshmi",
+        "assistencia": "H. Kanani",
+        "selecao": {
+            "id": 22,
+            "nome": "Iran",
+            "escudo": "https://media.api-sports.io/football/teams/22.png"
+        }
+    },
+    {
+        "minuto": 48,
+        "acrescimos": null,
+        "tempo": "2º Tempo",
+        "tipo": "Card",
+        "detalhe": "Yellow Card",
+        "jogador": "Morteza Pouraliganji",
+        "assistencia": null,
+        "selecao": {
+            "id": 22,
+            "nome": "Iran",
+            "escudo": "https://media.api-sports.io/football/teams/22.png"
+        }
+    },
+    {
+        "minuto": 62,
+        "acrescimos": null,
+        "tempo": "2º Tempo",
+        "tipo": "Goal",
+        "detalhe": "Normal Goal",
+        "jogador": "B. Saka",
+        "assistencia": "R. Sterling",
+        "selecao": {
+            "id": 10,
+            "nome": "England",
+            "escudo": "https://media.api-sports.io/football/teams/10.png"
+        }
+    },
+    {
+        "minuto": 63,
+        "acrescimos": null,
+        "tempo": "2º Tempo",
+        "tipo": "subst",
+        "detalhe": "Substitution 5",
+        "jogador": "M. Mohammadi",
+        "assistencia": "M. Torabi",
+        "selecao": {
+            "id": 22,
+            "nome": "Iran",
+            "escudo": "https://media.api-sports.io/football/teams/22.png"
+        }
+    },
+    {
+        "minuto": 65,
+        "acrescimos": null,
+        "tempo": "2º Tempo",
+        "tipo": "Goal",
+        "detalhe": "Normal Goal",
+        "jogador": "M. Taremi",
+        "assistencia": "A. Gholizadeh",
+        "selecao": {
+            "id": 22,
+            "nome": "Iran",
+            "escudo": "https://media.api-sports.io/football/teams/22.png"
+        }
+    },
+    {
+        "minuto": 70,
+        "acrescimos": null,
+        "tempo": "2º Tempo",
+        "tipo": "subst",
+        "detalhe": "Substitution 1",
+        "jogador": "H. Maguire",
+        "assistencia": "E. Dier",
+        "selecao": {
+            "id": 10,
+            "nome": "England",
+            "escudo": "https://media.api-sports.io/football/teams/10.png"
+        }
+    },
+    {
+        "minuto": 71,
+        "acrescimos": null,
+        "tempo": "2º Tempo",
+        "tipo": "subst",
+        "detalhe": "Substitution 2",
+        "jogador": "M. Mount",
+        "assistencia": "P. Foden",
+        "selecao": {
+            "id": 10,
+            "nome": "England",
+            "escudo": "https://media.api-sports.io/football/teams/10.png"
+        }
+    },
+    {
+        "minuto": 71,
+        "acrescimos": null,
+        "tempo": "2º Tempo",
+        "tipo": "subst",
+        "detalhe": "Substitution 3",
+        "jogador": "B. Saka",
+        "assistencia": "M. Rashford",
+        "selecao": {
+            "id": 10,
+            "nome": "England",
+            "escudo": "https://media.api-sports.io/football/teams/10.png"
+        }
+    },
+    {
+        "minuto": 71,
+        "acrescimos": null,
+        "tempo": "2º Tempo",
+        "tipo": "subst",
+        "detalhe": "Substitution 4",
+        "jogador": "R. Sterling",
+        "assistencia": "J. Grealish",
+        "selecao": {
+            "id": 10,
+            "nome": "England",
+            "escudo": "https://media.api-sports.io/football/teams/10.png"
+        }
+    },
+    {
+        "minuto": 71,
+        "acrescimos": null,
+        "tempo": "2º Tempo",
+        "tipo": "Goal",
+        "detalhe": "Normal Goal",
+        "jogador": "M. Rashford",
+        "assistencia": "H. Kane",
+        "selecao": {
+            "id": 10,
+            "nome": "England",
+            "escudo": "https://media.api-sports.io/football/teams/10.png"
+        }
+    },
+    {
+        "minuto": 76,
+        "acrescimos": null,
+        "tempo": "2º Tempo",
+        "tipo": "subst",
+        "detalhe": "Substitution 5",
+        "jogador": "H. Kane",
+        "assistencia": "C. Wilson",
+        "selecao": {
+            "id": 10,
+            "nome": "England",
+            "escudo": "https://media.api-sports.io/football/teams/10.png"
+        }
+    },
+    {
+        "minuto": 77,
+        "acrescimos": null,
+        "tempo": "2º Tempo",
+        "tipo": "subst",
+        "detalhe": "Substitution 6",
+        "jogador": "A. Noorollahi",
+        "assistencia": "S. Azmoun",
+        "selecao": {
+            "id": 22,
+            "nome": "Iran",
+            "escudo": "https://media.api-sports.io/football/teams/22.png"
+        }
+    },
+    {
+        "minuto": 90,
+        "acrescimos": 10,
+        "tempo": "2º Tempo",
+        "tipo": "Var",
+        "detalhe": "Penalty confirmed",
+        "jogador": "Morteza Pouraliganji",
+        "assistencia": null,
+        "selecao": {
+            "id": 22,
+            "nome": "Iran",
+            "escudo": "https://media.api-sports.io/football/teams/22.png"
+        }
+    },
+    {
+        "minuto": 90,
+        "acrescimos": null,
+        "tempo": "2º Tempo",
+        "tipo": "Goal",
+        "detalhe": "Normal Goal",
+        "jogador": "J. Grealish",
+        "assistencia": "C. Wilson",
+        "selecao": {
+            "id": 10,
+            "nome": "England",
+            "escudo": "https://media.api-sports.io/football/teams/10.png"
+        }
+    },
+    {
+        "minuto": 90,
+        "acrescimos": 13,
+        "tempo": "2º Tempo",
+        "tipo": "Goal",
+        "detalhe": "Penalty",
+        "jogador": "3                         M. Taremi",
+        "assistencia": null,
+        "selecao": {
+            "id": 22,
+            "nome": "Iran",
+            "escudo": "https://media.api-sports.io/football/teams/22.png"
+        }
+    }
+]

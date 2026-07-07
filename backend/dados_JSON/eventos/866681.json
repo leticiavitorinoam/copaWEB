@@ -1,0 +1,240 @@
+[
+    {
+        "minuto": 11,
+        "acrescimos": null,
+        "tempo": "1º Tempo",
+        "tipo": "Card",
+        "detalhe": "Yellow Card",
+        "jogador": "Sergiño Dest",
+        "assistencia": null,
+        "selecao": {
+            "id": 2384,
+            "nome": "USA",
+            "escudo": "https://media.api-sports.io/football/teams/2384.png"
+        }
+    },
+    {
+        "minuto": 13,
+        "acrescimos": null,
+        "tempo": "1º Tempo",
+        "tipo": "Card",
+        "detalhe": "Yellow Card",
+        "jogador": "Weston McKennie",
+        "assistencia": null,
+        "selecao": {
+            "id": 2384,
+            "nome": "USA",
+            "escudo": "https://media.api-sports.io/football/teams/2384.png"
+        }
+    },
+    {
+        "minuto": 36,
+        "acrescimos": null,
+        "tempo": "1º Tempo",
+        "tipo": "Goal",
+        "detalhe": "Normal Goal",
+        "jogador": "T. Weah",
+        "assistencia": "C. Pulišić",
+        "selecao": {
+            "id": 2384,
+            "nome": "USA",
+            "escudo": "https://media.api-sports.io/football/teams/2384.png"
+        }
+    },
+    {
+        "minuto": 40,
+        "acrescimos": null,
+        "tempo": "1º Tempo",
+        "tipo": "Card",
+        "detalhe": "Yellow Card",
+        "jogador": "Gareth Bale",
+        "assistencia": null,
+        "selecao": {
+            "id": 767,
+            "nome": "Wales",
+            "escudo": "https://media.api-sports.io/football/teams/767.png"
+        }
+    },
+    {
+        "minuto": 45,
+        "acrescimos": 3,
+        "tempo": "1º Tempo",
+        "tipo": "Card",
+        "detalhe": "Yellow Card",
+        "jogador": "Chris Mepham",
+        "assistencia": null,
+        "selecao": {
+            "id": 767,
+            "nome": "Wales",
+            "escudo": "https://media.api-sports.io/football/teams/767.png"
+        }
+    },
+    {
+        "minuto": 46,
+        "acrescimos": null,
+        "tempo": "2º Tempo",
+        "tipo": "subst",
+        "detalhe": "Substitution 1",
+        "jogador": "D. James",
+        "assistencia": "K. Moore",
+        "selecao": {
+            "id": 767,
+            "nome": "Wales",
+            "escudo": "https://media.api-sports.io/football/teams/767.png"
+        }
+    },
+    {
+        "minuto": 51,
+        "acrescimos": null,
+        "tempo": "2º Tempo",
+        "tipo": "Card",
+        "detalhe": "Yellow Card",
+        "jogador": "Tim Ream",
+        "assistencia": null,
+        "selecao": {
+            "id": 2384,
+            "nome": "USA",
+            "escudo": "https://media.api-sports.io/football/teams/2384.png"
+        }
+    },
+    {
+        "minuto": 66,
+        "acrescimos": null,
+        "tempo": "2º Tempo",
+        "tipo": "subst",
+        "detalhe": "Substitution 1",
+        "jogador": "W. McKennie",
+        "assistencia": "B. Aaronson",
+        "selecao": {
+            "id": 2384,
+            "nome": "USA",
+            "escudo": "https://media.api-sports.io/football/teams/2384.png"
+        }
+    },
+    {
+        "minuto": 74,
+        "acrescimos": null,
+        "tempo": "2º Tempo",
+        "tipo": "subst",
+        "detalhe": "Substitution 2",
+        "jogador": "J. Sargent",
+        "assistencia": "H. Wright",
+        "selecao": {
+            "id": 2384,
+            "nome": "USA",
+            "escudo": "https://media.api-sports.io/football/teams/2384.png"
+        }
+    },
+    {
+        "minuto": 74,
+        "acrescimos": null,
+        "tempo": "2º Tempo",
+        "tipo": "subst",
+        "detalhe": "Substitution 3",
+        "jogador": "S. Dest",
+        "assistencia": "D. Yedlin",
+        "selecao": {
+            "id": 2384,
+            "nome": "USA",
+            "escudo": "https://media.api-sports.io/football/teams/2384.png"
+        }
+    },
+    {
+        "minuto": 75,
+        "acrescimos": null,
+        "tempo": "2º Tempo",
+        "tipo": "subst",
+        "detalhe": "Substitution 4",
+        "jogador": "Y. Musah",
+        "assistencia": "K. Acosta",
+        "selecao": {
+            "id": 2384,
+            "nome": "USA",
+            "escudo": "https://media.api-sports.io/football/teams/2384.png"
+        }
+    },
+    {
+        "minuto": 79,
+        "acrescimos": null,
+        "tempo": "2º Tempo",
+        "tipo": "subst",
+        "detalhe": "Substitution 2",
+        "jogador": "N. Williams",
+        "assistencia": "B. Johnson",
+        "selecao": {
+            "id": 767,
+            "nome": "Wales",
+            "escudo": "https://media.api-sports.io/football/teams/767.png"
+        }
+    },
+    {
+        "minuto": 82,
+        "acrescimos": null,
+        "tempo": "2º Tempo",
+        "tipo": "Goal",
+        "detalhe": "Penalty",
+        "jogador": "G. Bale",
+        "assistencia": null,
+        "selecao": {
+            "id": 767,
+            "nome": "Wales",
+            "escudo": "https://media.api-sports.io/football/teams/767.png"
+        }
+    },
+    {
+        "minuto": 88,
+        "acrescimos": null,
+        "tempo": "2º Tempo",
+        "tipo": "subst",
+        "detalhe": "Substitution 5",
+        "jogador": "T. Weah",
+        "assistencia": "J. Morris",
+        "selecao": {
+            "id": 2384,
+            "nome": "USA",
+            "escudo": "https://media.api-sports.io/football/teams/2384.png"
+        }
+    },
+    {
+        "minuto": 90,
+        "acrescimos": 10,
+        "tempo": "2º Tempo",
+        "tipo": "Card",
+        "detalhe": "Yellow Card",
+        "jogador": "Kellyn Acosta",
+        "assistencia": null,
+        "selecao": {
+            "id": 2384,
+            "nome": "USA",
+            "escudo": "https://media.api-sports.io/football/teams/2384.png"
+        }
+    },
+    {
+        "minuto": 90,
+        "acrescimos": 5,
+        "tempo": "2º Tempo",
+        "tipo": "subst",
+        "detalhe": "Substitution 3",
+        "jogador": "E. Ampadu",
+        "assistencia": "J. Morrell",
+        "selecao": {
+            "id": 767,
+            "nome": "Wales",
+            "escudo": "https://media.api-sports.io/football/teams/767.png"
+        }
+    },
+    {
+        "minuto": 90,
+        "acrescimos": 3,
+        "tempo": "2º Tempo",
+        "tipo": "subst",
+        "detalhe": "Substitution 4",
+        "jogador": "H. Wilson",
+        "assistencia": "S. Thomas",
+        "selecao": {
+            "id": 767,
+            "nome": "Wales",
+            "escudo": "https://media.api-sports.io/football/teams/767.png"
+        }
+    }
+]

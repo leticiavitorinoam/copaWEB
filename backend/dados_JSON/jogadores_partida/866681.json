@@ -1,0 +1,1056 @@
+{
+    "selecao01": {
+        "id": 2384,
+        "nome": "USA",
+        "escudo": "https://media.api-sports.io/football/teams/2384.png",
+        "jogadores": [
+            {
+                "id": 50999,
+                "nome": "Matt Turner",
+                "foto": "https://media.api-sports.io/football/players/50999.png",
+                "numeroCamisa": 1,
+                "posicao": "G",
+                "estatisticas": {
+                    "minutos": 90,
+                    "nota": "6.9",
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": 26,
+                    "precisaoPasses": "18",
+                    "desarmes": null,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 38735,
+                "nome": "Sergiño Dest",
+                "foto": "https://media.api-sports.io/football/players/38735.png",
+                "numeroCamisa": 2,
+                "posicao": "D",
+                "estatisticas": {
+                    "minutos": 74,
+                    "nota": "6.6",
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": 66,
+                    "precisaoPasses": "60",
+                    "desarmes": 2,
+                    "dribles": null,
+                    "cartoesAmarelos": 1,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 51032,
+                "nome": "Walker Zimmerman",
+                "foto": "https://media.api-sports.io/football/players/51032.png",
+                "numeroCamisa": 3,
+                "posicao": "D",
+                "estatisticas": {
+                    "minutos": 90,
+                    "nota": "6.3",
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": 90,
+                    "precisaoPasses": "85",
+                    "desarmes": null,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 19023,
+                "nome": "Tim Ream",
+                "foto": "https://media.api-sports.io/football/players/19023.png",
+                "numeroCamisa": 13,
+                "posicao": "M",
+                "estatisticas": {
+                    "minutos": 90,
+                    "nota": "7.3",
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": 73,
+                    "precisaoPasses": "68",
+                    "desarmes": 2,
+                    "dribles": 1,
+                    "cartoesAmarelos": 1,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 19549,
+                "nome": "Antonee Robinson",
+                "foto": "https://media.api-sports.io/football/players/19549.png",
+                "numeroCamisa": 5,
+                "posicao": "D",
+                "estatisticas": {
+                    "minutos": 90,
+                    "nota": "6.6",
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": 52,
+                    "precisaoPasses": "43",
+                    "desarmes": 1,
+                    "dribles": 1,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 415,
+                "nome": "Weston McKennie",
+                "foto": "https://media.api-sports.io/football/players/415.png",
+                "numeroCamisa": 8,
+                "posicao": "M",
+                "estatisticas": {
+                    "minutos": 66,
+                    "nota": "6.5",
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": 33,
+                    "precisaoPasses": "23",
+                    "desarmes": null,
+                    "dribles": null,
+                    "cartoesAmarelos": 1,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 1150,
+                "nome": "Tyler Adams",
+                "foto": "https://media.api-sports.io/football/players/1150.png",
+                "numeroCamisa": 4,
+                "posicao": "D",
+                "estatisticas": {
+                    "minutos": 90,
+                    "nota": "7.5",
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": 69,
+                    "precisaoPasses": "62",
+                    "desarmes": 6,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 162106,
+                "nome": "Yunus Musah",
+                "foto": "https://media.api-sports.io/football/players/162106.png",
+                "numeroCamisa": 6,
+                "posicao": "M",
+                "estatisticas": {
+                    "minutos": 75,
+                    "nota": "6.3",
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": 43,
+                    "precisaoPasses": "39",
+                    "desarmes": null,
+                    "dribles": 1,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 1138,
+                "nome": "Timothy Weah",
+                "foto": "https://media.api-sports.io/football/players/1138.png",
+                "numeroCamisa": 21,
+                "posicao": "F",
+                "estatisticas": {
+                    "minutos": 88,
+                    "nota": "7.2",
+                    "gols": 1,
+                    "assistencias": null,
+                    "chutesAoGol": 1,
+                    "passes": 25,
+                    "precisaoPasses": "22",
+                    "desarmes": null,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 25332,
+                "nome": "Josh Sargent",
+                "foto": "https://media.api-sports.io/football/players/25332.png",
+                "numeroCamisa": 24,
+                "posicao": "F",
+                "estatisticas": {
+                    "minutos": 74,
+                    "nota": "6.2",
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": 11,
+                    "precisaoPasses": "10",
+                    "desarmes": null,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 17,
+                "nome": "Christian Pulišić",
+                "foto": "https://media.api-sports.io/football/players/17.png",
+                "numeroCamisa": 10,
+                "posicao": "F",
+                "estatisticas": {
+                    "minutos": 90,
+                    "nota": "7.3",
+                    "gols": null,
+                    "assistencias": 1,
+                    "chutesAoGol": null,
+                    "passes": 38,
+                    "precisaoPasses": "29",
+                    "desarmes": null,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 50848,
+                "nome": "Sean Johnson",
+                "foto": "https://media.api-sports.io/football/players/50848.png",
+                "numeroCamisa": 25,
+                "posicao": "G",
+                "estatisticas": {
+                    "minutos": null,
+                    "nota": null,
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": null,
+                    "precisaoPasses": null,
+                    "desarmes": null,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 62,
+                "nome": "Ethan Horvath",
+                "foto": "https://media.api-sports.io/football/players/62.png",
+                "numeroCamisa": 12,
+                "posicao": "G",
+                "estatisticas": {
+                    "minutos": null,
+                    "nota": null,
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": null,
+                    "precisaoPasses": null,
+                    "desarmes": null,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 50952,
+                "nome": "Aaron Long",
+                "foto": "https://media.api-sports.io/football/players/50952.png",
+                "numeroCamisa": 15,
+                "posicao": "D",
+                "estatisticas": {
+                    "minutos": null,
+                    "nota": null,
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": null,
+                    "precisaoPasses": null,
+                    "desarmes": null,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 18897,
+                "nome": "DeAndre Yedlin",
+                "foto": "https://media.api-sports.io/football/players/18897.png",
+                "numeroCamisa": 22,
+                "posicao": "D",
+                "estatisticas": {
+                    "minutos": 16,
+                    "nota": "6.5",
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": 10,
+                    "precisaoPasses": "8",
+                    "desarmes": 1,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 50852,
+                "nome": "Joseph Scally",
+                "foto": "https://media.api-sports.io/football/players/50852.png",
+                "numeroCamisa": 26,
+                "posicao": "D",
+                "estatisticas": {
+                    "minutos": null,
+                    "nota": null,
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": null,
+                    "precisaoPasses": null,
+                    "desarmes": null,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 19314,
+                "nome": "Cameron Carter-Vickers",
+                "foto": "https://media.api-sports.io/football/players/19314.png",
+                "numeroCamisa": 20,
+                "posicao": "D",
+                "estatisticas": {
+                    "minutos": null,
+                    "nota": null,
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": null,
+                    "precisaoPasses": null,
+                    "desarmes": null,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 64310,
+                "nome": "Shaq Moore",
+                "foto": "https://media.api-sports.io/football/players/64310.png",
+                "numeroCamisa": 18,
+                "posicao": "D",
+                "estatisticas": {
+                    "minutos": null,
+                    "nota": null,
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": null,
+                    "precisaoPasses": null,
+                    "desarmes": null,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 50739,
+                "nome": "Brenden Aaronson",
+                "foto": "https://media.api-sports.io/football/players/50739.png",
+                "numeroCamisa": 11,
+                "posicao": "M",
+                "estatisticas": {
+                    "minutos": 24,
+                    "nota": "6.3",
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": 18,
+                    "precisaoPasses": "16",
+                    "desarmes": 1,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 51118,
+                "nome": "Jordan Morris",
+                "foto": "https://media.api-sports.io/football/players/51118.png",
+                "numeroCamisa": 16,
+                "posicao": "F",
+                "estatisticas": {
+                    "minutos": 13,
+                    "nota": "6.3",
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": 1,
+                    "precisaoPasses": "1",
+                    "desarmes": null,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 51114,
+                "nome": "Cristian Roldán",
+                "foto": "https://media.api-sports.io/football/players/51114.png",
+                "numeroCamisa": 17,
+                "posicao": "M",
+                "estatisticas": {
+                    "minutos": null,
+                    "nota": null,
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": null,
+                    "precisaoPasses": null,
+                    "desarmes": null,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 19026,
+                "nome": "Luca De La Torre",
+                "foto": "https://media.api-sports.io/football/players/19026.png",
+                "numeroCamisa": 14,
+                "posicao": "M",
+                "estatisticas": {
+                    "minutos": null,
+                    "nota": null,
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": null,
+                    "precisaoPasses": null,
+                    "desarmes": null,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 51310,
+                "nome": "Kellyn Acosta",
+                "foto": "https://media.api-sports.io/football/players/51310.png",
+                "numeroCamisa": 23,
+                "posicao": "M",
+                "estatisticas": {
+                    "minutos": 15,
+                    "nota": "6.3",
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": 8,
+                    "precisaoPasses": "7",
+                    "desarmes": 1,
+                    "dribles": null,
+                    "cartoesAmarelos": 1,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 161921,
+                "nome": "Giovanni Reyna",
+                "foto": "https://media.api-sports.io/football/players/161921.png",
+                "numeroCamisa": 7,
+                "posicao": "M",
+                "estatisticas": {
+                    "minutos": null,
+                    "nota": null,
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": null,
+                    "precisaoPasses": null,
+                    "desarmes": null,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 51142,
+                "nome": "Jesús Ferreira",
+                "foto": "https://media.api-sports.io/football/players/51142.png",
+                "numeroCamisa": 9,
+                "posicao": "F",
+                "estatisticas": {
+                    "minutos": null,
+                    "nota": null,
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": null,
+                    "precisaoPasses": null,
+                    "desarmes": null,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 427,
+                "nome": "Haji Wright",
+                "foto": "https://media.api-sports.io/football/players/427.png",
+                "numeroCamisa": 19,
+                "posicao": "F",
+                "estatisticas": {
+                    "minutos": 16,
+                    "nota": "6.7",
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": 4,
+                    "precisaoPasses": "4",
+                    "desarmes": null,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            }
+        ]
+    },
+    "selecao02": {
+        "id": 767,
+        "nome": "Wales",
+        "escudo": "https://media.api-sports.io/football/teams/767.png",
+        "jogadores": [
+            {
+                "id": 18836,
+                "nome": "Wayne Hennessey",
+                "foto": "https://media.api-sports.io/football/players/18836.png",
+                "numeroCamisa": 1,
+                "posicao": "G",
+                "estatisticas": {
+                    "minutos": 90,
+                    "nota": "6.3",
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": 29,
+                    "precisaoPasses": "17",
+                    "desarmes": null,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 18866,
+                "nome": "Chris Mepham",
+                "foto": "https://media.api-sports.io/football/players/18866.png",
+                "numeroCamisa": 5,
+                "posicao": "M",
+                "estatisticas": {
+                    "minutos": 90,
+                    "nota": "7.2",
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": 55,
+                    "precisaoPasses": "44",
+                    "desarmes": 4,
+                    "dribles": null,
+                    "cartoesAmarelos": 1,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 19321,
+                "nome": "Joe Rodon",
+                "foto": "https://media.api-sports.io/football/players/19321.png",
+                "numeroCamisa": 6,
+                "posicao": "M",
+                "estatisticas": {
+                    "minutos": 90,
+                    "nota": "6.6",
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": 62,
+                    "precisaoPasses": "53",
+                    "desarmes": 1,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 164,
+                "nome": "Ben Davies",
+                "foto": "https://media.api-sports.io/football/players/164.png",
+                "numeroCamisa": 4,
+                "posicao": "D",
+                "estatisticas": {
+                    "minutos": 90,
+                    "nota": "6.9",
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": 1,
+                    "passes": 47,
+                    "precisaoPasses": "39",
+                    "desarmes": null,
+                    "dribles": 1,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 19331,
+                "nome": "Connor Roberts",
+                "foto": "https://media.api-sports.io/football/players/19331.png",
+                "numeroCamisa": 14,
+                "posicao": "D",
+                "estatisticas": {
+                    "minutos": 90,
+                    "nota": "6.9",
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": 39,
+                    "precisaoPasses": "32",
+                    "desarmes": 2,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 1459,
+                "nome": "Aaron Ramsey",
+                "foto": "https://media.api-sports.io/football/players/1459.png",
+                "numeroCamisa": 10,
+                "posicao": "M",
+                "estatisticas": {
+                    "minutos": 90,
+                    "nota": "6.3",
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": 29,
+                    "precisaoPasses": "23",
+                    "desarmes": 1,
+                    "dribles": 2,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 2279,
+                "nome": "Ethan Ampadu",
+                "foto": "https://media.api-sports.io/football/players/2279.png",
+                "numeroCamisa": 15,
+                "posicao": "M",
+                "estatisticas": {
+                    "minutos": 89,
+                    "nota": "7",
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": 43,
+                    "precisaoPasses": "30",
+                    "desarmes": 2,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 19221,
+                "nome": "Harry Wilson",
+                "foto": "https://media.api-sports.io/football/players/19221.png",
+                "numeroCamisa": 8,
+                "posicao": "M",
+                "estatisticas": {
+                    "minutos": 89,
+                    "nota": "7.7",
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": 24,
+                    "precisaoPasses": "20",
+                    "desarmes": 3,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 138780,
+                "nome": "Neco Williams",
+                "foto": "https://media.api-sports.io/football/players/138780.png",
+                "numeroCamisa": 3,
+                "posicao": "D",
+                "estatisticas": {
+                    "minutos": 79,
+                    "nota": "6.7",
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": 21,
+                    "precisaoPasses": "14",
+                    "desarmes": 1,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 758,
+                "nome": "Gareth Bale",
+                "foto": "https://media.api-sports.io/football/players/758.png",
+                "numeroCamisa": 11,
+                "posicao": "F",
+                "estatisticas": {
+                    "minutos": 90,
+                    "nota": "7.5",
+                    "gols": 1,
+                    "assistencias": null,
+                    "chutesAoGol": 1,
+                    "passes": 22,
+                    "precisaoPasses": "12",
+                    "desarmes": 1,
+                    "dribles": null,
+                    "cartoesAmarelos": 1,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 19329,
+                "nome": "Daniel James",
+                "foto": "https://media.api-sports.io/football/players/19329.png",
+                "numeroCamisa": 20,
+                "posicao": "F",
+                "estatisticas": {
+                    "minutos": 45,
+                    "nota": "6.2",
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": 10,
+                    "precisaoPasses": "8",
+                    "desarmes": null,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 18146,
+                "nome": "Danny Ward",
+                "foto": "https://media.api-sports.io/football/players/18146.png",
+                "numeroCamisa": 12,
+                "posicao": "G",
+                "estatisticas": {
+                    "minutos": null,
+                    "nota": null,
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": null,
+                    "precisaoPasses": null,
+                    "desarmes": null,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 19779,
+                "nome": "Adam Davies",
+                "foto": "https://media.api-sports.io/football/players/19779.png",
+                "numeroCamisa": 21,
+                "posicao": "G",
+                "estatisticas": {
+                    "minutos": null,
+                    "nota": null,
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": null,
+                    "precisaoPasses": null,
+                    "desarmes": null,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 19602,
+                "nome": "Chris Gunter",
+                "foto": "https://media.api-sports.io/football/players/19602.png",
+                "numeroCamisa": 2,
+                "posicao": "D",
+                "estatisticas": {
+                    "minutos": null,
+                    "nota": null,
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": null,
+                    "precisaoPasses": null,
+                    "desarmes": null,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 104041,
+                "nome": "Ben Cabango",
+                "foto": "https://media.api-sports.io/football/players/104041.png",
+                "numeroCamisa": 24,
+                "posicao": "D",
+                "estatisticas": {
+                    "minutos": null,
+                    "nota": null,
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": null,
+                    "precisaoPasses": null,
+                    "desarmes": null,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 20203,
+                "nome": "Tom Lockyer",
+                "foto": "https://media.api-sports.io/football/players/20203.png",
+                "numeroCamisa": 17,
+                "posicao": "D",
+                "estatisticas": {
+                    "minutos": null,
+                    "nota": null,
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": null,
+                    "precisaoPasses": null,
+                    "desarmes": null,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 70335,
+                "nome": "Dylan Levitt",
+                "foto": "https://media.api-sports.io/football/players/70335.png",
+                "numeroCamisa": 23,
+                "posicao": "M",
+                "estatisticas": {
+                    "minutos": null,
+                    "nota": null,
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": null,
+                    "precisaoPasses": null,
+                    "desarmes": null,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 301184,
+                "nome": "Rubin Colwill",
+                "foto": "https://media.api-sports.io/football/players/301184.png",
+                "numeroCamisa": 25,
+                "posicao": "M",
+                "estatisticas": {
+                    "minutos": null,
+                    "nota": null,
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": null,
+                    "precisaoPasses": null,
+                    "desarmes": null,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 19271,
+                "nome": "Joe Morrell",
+                "foto": "https://media.api-sports.io/football/players/19271.png",
+                "numeroCamisa": 16,
+                "posicao": "M",
+                "estatisticas": {
+                    "minutos": 1,
+                    "nota": null,
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": 2,
+                    "precisaoPasses": "1",
+                    "desarmes": 1,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 36843,
+                "nome": "Matthew Smith",
+                "foto": "https://media.api-sports.io/football/players/36843.png",
+                "numeroCamisa": 26,
+                "posicao": "M",
+                "estatisticas": {
+                    "minutos": null,
+                    "nota": null,
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": null,
+                    "precisaoPasses": null,
+                    "desarmes": null,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 19837,
+                "nome": "Jonathan Williams",
+                "foto": "https://media.api-sports.io/football/players/19837.png",
+                "numeroCamisa": 18,
+                "posicao": "M",
+                "estatisticas": {
+                    "minutos": null,
+                    "nota": null,
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": null,
+                    "precisaoPasses": null,
+                    "desarmes": null,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 19502,
+                "nome": "Joe Allen",
+                "foto": "https://media.api-sports.io/football/players/19502.png",
+                "numeroCamisa": 7,
+                "posicao": "M",
+                "estatisticas": {
+                    "minutos": null,
+                    "nota": null,
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": null,
+                    "precisaoPasses": null,
+                    "desarmes": null,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 18599,
+                "nome": "Sorba Thomas",
+                "foto": "https://media.api-sports.io/football/players/18599.png",
+                "numeroCamisa": 22,
+                "posicao": "M",
+                "estatisticas": {
+                    "minutos": 8,
+                    "nota": "6.3",
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": 3,
+                    "precisaoPasses": "2",
+                    "desarmes": 1,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 19804,
+                "nome": "Kieffer Moore",
+                "foto": "https://media.api-sports.io/football/players/19804.png",
+                "numeroCamisa": 13,
+                "posicao": "F",
+                "estatisticas": {
+                    "minutos": 45,
+                    "nota": "6.5",
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": 13,
+                    "precisaoPasses": "11",
+                    "desarmes": 1,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 129711,
+                "nome": "Brennan Johnson",
+                "foto": "https://media.api-sports.io/football/players/129711.png",
+                "numeroCamisa": 9,
+                "posicao": "F",
+                "estatisticas": {
+                    "minutos": 11,
+                    "nota": "6.7",
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": 1,
+                    "passes": 4,
+                    "precisaoPasses": "2",
+                    "desarmes": null,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 17932,
+                "nome": "Mark Harris",
+                "foto": "https://media.api-sports.io/football/players/17932.png",
+                "numeroCamisa": 19,
+                "posicao": "F",
+                "estatisticas": {
+                    "minutos": null,
+                    "nota": null,
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": null,
+                    "precisaoPasses": null,
+                    "desarmes": null,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            }
+        ]
+    }
+}

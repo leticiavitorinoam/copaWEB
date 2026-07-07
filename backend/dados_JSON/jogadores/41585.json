@@ -1,0 +1,30 @@
+{
+    "id": 41585,
+    "nome": "Gonçalo Ramos",
+    "foto": "https://media.api-sports.io/football/players/41585.png",
+    "idade": 24,
+    "nacionalidade": "Portugal",
+    "altura": "185",
+    "peso": "79",
+    "selecao": {
+        "id": 211,
+        "nome": "Benfica",
+        "escudo": "https://media.api-sports.io/football/teams/211.png"
+    },
+    "numeroCamisa": null,
+    "posicao": "Attacker",
+    "estatisticas": {
+        "jogos": 30,
+        "minutos": 2307,
+        "nota": "7.146428",
+        "gols": 19,
+        "assistencias": 2,
+        "chutesAoGol": 36,
+        "passes": 400,
+        "precisaoPasses": null,
+        "dribles": 18,
+        "desarmes": 18,
+        "cartoesAmarelos": 3,
+        "cartoesVermelhos": 0
+    }
+}

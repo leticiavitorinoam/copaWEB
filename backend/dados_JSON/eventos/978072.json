@@ -1,0 +1,352 @@
+[
+    {
+        "minuto": 25,
+        "acrescimos": null,
+        "tempo": "1º Tempo",
+        "tipo": "Card",
+        "detalhe": "Yellow Card",
+        "jogador": "Danilo",
+        "assistencia": null,
+        "selecao": {
+            "id": 6,
+            "nome": "Brazil",
+            "escudo": "https://media.api-sports.io/football/teams/6.png"
+        }
+    },
+    {
+        "minuto": 31,
+        "acrescimos": null,
+        "tempo": "1º Tempo",
+        "tipo": "Card",
+        "detalhe": "Yellow Card",
+        "jogador": "Marcelo Brozović",
+        "assistencia": null,
+        "selecao": {
+            "id": 3,
+            "nome": "Croatia",
+            "escudo": "https://media.api-sports.io/football/teams/3.png"
+        }
+    },
+    {
+        "minuto": 56,
+        "acrescimos": null,
+        "tempo": "2º Tempo",
+        "tipo": "subst",
+        "detalhe": "Substitution 1",
+        "jogador": "Raphinha",
+        "assistencia": "Antony",
+        "selecao": {
+            "id": 6,
+            "nome": "Brazil",
+            "escudo": "https://media.api-sports.io/football/teams/6.png"
+        }
+    },
+    {
+        "minuto": 64,
+        "acrescimos": null,
+        "tempo": "2º Tempo",
+        "tipo": "subst",
+        "detalhe": "Substitution 2",
+        "jogador": "Vinícius Júnior",
+        "assistencia": "Rodrygo",
+        "selecao": {
+            "id": 6,
+            "nome": "Brazil",
+            "escudo": "https://media.api-sports.io/football/teams/6.png"
+        }
+    },
+    {
+        "minuto": 68,
+        "acrescimos": null,
+        "tempo": "2º Tempo",
+        "tipo": "Card",
+        "detalhe": "Yellow Card",
+        "jogador": "Casemiro",
+        "assistencia": null,
+        "selecao": {
+            "id": 6,
+            "nome": "Brazil",
+            "escudo": "https://media.api-sports.io/football/teams/6.png"
+        }
+    },
+    {
+        "minuto": 72,
+        "acrescimos": null,
+        "tempo": "2º Tempo",
+        "tipo": "subst",
+        "detalhe": "Substitution 1",
+        "jogador": "M. Pašalić",
+        "assistencia": "N. Vlašić",
+        "selecao": {
+            "id": 3,
+            "nome": "Croatia",
+            "escudo": "https://media.api-sports.io/football/teams/3.png"
+        }
+    },
+    {
+        "minuto": 72,
+        "acrescimos": null,
+        "tempo": "2º Tempo",
+        "tipo": "subst",
+        "detalhe": "Substitution 2",
+        "jogador": "A. Kramarić",
+        "assistencia": "B. Petković",
+        "selecao": {
+            "id": 3,
+            "nome": "Croatia",
+            "escudo": "https://media.api-sports.io/football/teams/3.png"
+        }
+    },
+    {
+        "minuto": 77,
+        "acrescimos": null,
+        "tempo": "2º Tempo",
+        "tipo": "Card",
+        "detalhe": "Yellow Card",
+        "jogador": "Marquinhos",
+        "assistencia": null,
+        "selecao": {
+            "id": 6,
+            "nome": "Brazil",
+            "escudo": "https://media.api-sports.io/football/teams/6.png"
+        }
+    },
+    {
+        "minuto": 84,
+        "acrescimos": null,
+        "tempo": "2º Tempo",
+        "tipo": "subst",
+        "detalhe": "Substitution 3",
+        "jogador": "Richarlison",
+        "assistencia": "Pedro",
+        "selecao": {
+            "id": 6,
+            "nome": "Brazil",
+            "escudo": "https://media.api-sports.io/football/teams/6.png"
+        }
+    },
+    {
+        "minuto": 105,
+        "acrescimos": null,
+        "tempo": "Prorrogação",
+        "tipo": "subst",
+        "detalhe": "Substitution 3",
+        "jogador": "M. Kovačić",
+        "assistencia": "L. Majer",
+        "selecao": {
+            "id": 3,
+            "nome": "Croatia",
+            "escudo": "https://media.api-sports.io/football/teams/3.png"
+        }
+    },
+    {
+        "minuto": 105,
+        "acrescimos": null,
+        "tempo": "Prorrogação",
+        "tipo": "subst",
+        "detalhe": "Substitution 4",
+        "jogador": "Lucas Paquetá",
+        "assistencia": "Fred",
+        "selecao": {
+            "id": 6,
+            "nome": "Brazil",
+            "escudo": "https://media.api-sports.io/football/teams/6.png"
+        }
+    },
+    {
+        "minuto": 105,
+        "acrescimos": null,
+        "tempo": "Prorrogação",
+        "tipo": "subst",
+        "detalhe": "Substitution 5",
+        "jogador": "Éder Militão",
+        "assistencia": "Alex Sandro",
+        "selecao": {
+            "id": 6,
+            "nome": "Brazil",
+            "escudo": "https://media.api-sports.io/football/teams/6.png"
+        }
+    },
+    {
+        "minuto": 105,
+        "acrescimos": 1,
+        "tempo": "Prorrogação",
+        "tipo": "Goal",
+        "detalhe": "Normal Goal",
+        "jogador": "Neymar",
+        "assistencia": "Lucas Paquetá",
+        "selecao": {
+            "id": 6,
+            "nome": "Brazil",
+            "escudo": "https://media.api-sports.io/football/teams/6.png"
+        }
+    },
+    {
+        "minuto": 110,
+        "acrescimos": null,
+        "tempo": "Prorrogação",
+        "tipo": "subst",
+        "detalhe": "Substitution 4",
+        "jogador": "B. Sosa",
+        "assistencia": "A. Budimir",
+        "selecao": {
+            "id": 3,
+            "nome": "Croatia",
+            "escudo": "https://media.api-sports.io/football/teams/3.png"
+        }
+    },
+    {
+        "minuto": 114,
+        "acrescimos": null,
+        "tempo": "Prorrogação",
+        "tipo": "subst",
+        "detalhe": "Substitution 5",
+        "jogador": "M. Brozović",
+        "assistencia": "M. Oršić",
+        "selecao": {
+            "id": 3,
+            "nome": "Croatia",
+            "escudo": "https://media.api-sports.io/football/teams/3.png"
+        }
+    },
+    {
+        "minuto": 117,
+        "acrescimos": null,
+        "tempo": "Prorrogação",
+        "tipo": "Card",
+        "detalhe": "Yellow Card",
+        "jogador": "Bruno Petković",
+        "assistencia": null,
+        "selecao": {
+            "id": 3,
+            "nome": "Croatia",
+            "escudo": "https://media.api-sports.io/football/teams/3.png"
+        }
+    },
+    {
+        "minuto": 117,
+        "acrescimos": null,
+        "tempo": "Prorrogação",
+        "tipo": "Goal",
+        "detalhe": "Normal Goal",
+        "jogador": "B. Petković",
+        "assistencia": "M. Oršić",
+        "selecao": {
+            "id": 3,
+            "nome": "Croatia",
+            "escudo": "https://media.api-sports.io/football/teams/3.png"
+        }
+    },
+    {
+        "minuto": 120,
+        "acrescimos": 1,
+        "tempo": "Prorrogação",
+        "tipo": "Goal",
+        "detalhe": "Penalty",
+        "jogador": "N. Vlašić",
+        "assistencia": null,
+        "selecao": {
+            "id": 3,
+            "nome": "Croatia",
+            "escudo": "https://media.api-sports.io/football/teams/3.png"
+        }
+    },
+    {
+        "minuto": 120,
+        "acrescimos": 2,
+        "tempo": "Prorrogação",
+        "tipo": "Goal",
+        "detalhe": "Missed Penalty",
+        "jogador": "Rodrygo",
+        "assistencia": null,
+        "selecao": {
+            "id": 6,
+            "nome": "Brazil",
+            "escudo": "https://media.api-sports.io/football/teams/6.png"
+        }
+    },
+    {
+        "minuto": 120,
+        "acrescimos": 3,
+        "tempo": "Prorrogação",
+        "tipo": "Goal",
+        "detalhe": "Penalty",
+        "jogador": "L. Majer",
+        "assistencia": null,
+        "selecao": {
+            "id": 3,
+            "nome": "Croatia",
+            "escudo": "https://media.api-sports.io/football/teams/3.png"
+        }
+    },
+    {
+        "minuto": 120,
+        "acrescimos": 4,
+        "tempo": "Prorrogação",
+        "tipo": "Goal",
+        "detalhe": "Penalty",
+        "jogador": "Casemiro",
+        "assistencia": null,
+        "selecao": {
+            "id": 6,
+            "nome": "Brazil",
+            "escudo": "https://media.api-sports.io/football/teams/6.png"
+        }
+    },
+    {
+        "minuto": 120,
+        "acrescimos": 5,
+        "tempo": "Prorrogação",
+        "tipo": "Goal",
+        "detalhe": "Penalty",
+        "jogador": "L. Modrić",
+        "assistencia": null,
+        "selecao": {
+            "id": 3,
+            "nome": "Croatia",
+            "escudo": "https://media.api-sports.io/football/teams/3.png"
+        }
+    },
+    {
+        "minuto": 120,
+        "acrescimos": 6,
+        "tempo": "Prorrogação",
+        "tipo": "Goal",
+        "detalhe": "Penalty",
+        "jogador": "Pedro",
+        "assistencia": null,
+        "selecao": {
+            "id": 6,
+            "nome": "Brazil",
+            "escudo": "https://media.api-sports.io/football/teams/6.png"
+        }
+    },
+    {
+        "minuto": 120,
+        "acrescimos": 7,
+        "tempo": "Prorrogação",
+        "tipo": "Goal",
+        "detalhe": "Penalty",
+        "jogador": "M. Oršić",
+        "assistencia": null,
+        "selecao": {
+            "id": 3,
+            "nome": "Croatia",
+            "escudo": "https://media.api-sports.io/football/teams/3.png"
+        }
+    },
+    {
+        "minuto": 120,
+        "acrescimos": 8,
+        "tempo": "Prorrogação",
+        "tipo": "Goal",
+        "detalhe": "Missed Penalty",
+        "jogador": "Marquinhos",
+        "assistencia": null,
+        "selecao": {
+            "id": 6,
+            "nome": "Brazil",
+            "escudo": "https://media.api-sports.io/football/teams/6.png"
+        }
+    }
+]

@@ -1,0 +1,42 @@
+{
+    "selecao01": {
+        "id": 26,
+        "nome": "Argentina",
+        "escudo": "https://media.api-sports.io/football/teams/26.png",
+        "estatisticas": {
+            "chutesAoGol": 10,
+            "chutesFora": 7,
+            "totalChutes": 20,
+            "posseBola": "54%",
+            "passes": 635,
+            "passesCertos": 525,
+            "precisaoPasses": "83%",
+            "escanteios": 6,
+            "impedimentos": 4,
+            "faltas": 26,
+            "cartoesAmarelos": 5,
+            "cartoesVermelhos": null,
+            "defesasGoleiro": 2
+        }
+    },
+    "selecao02": {
+        "id": 2,
+        "nome": "France",
+        "escudo": "https://media.api-sports.io/football/teams/2.png",
+        "estatisticas": {
+            "chutesAoGol": 5,
+            "chutesFora": 2,
+            "totalChutes": 10,
+            "posseBola": "46%",
+            "passes": 532,
+            "passesCertos": 409,
+            "precisaoPasses": "77%",
+            "escanteios": 5,
+            "impedimentos": 4,
+            "faltas": 19,
+            "cartoesAmarelos": 3,
+            "cartoesVermelhos": null,
+            "defesasGoleiro": 7
+        }
+    }
+}

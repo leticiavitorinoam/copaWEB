@@ -1,0 +1,2242 @@
+[
+    {
+        "id": 855736,
+        "data": "2022-11-20T16:00:00+00:00",
+        "fase": "Group Stage - 1",
+        "estadio": "Al Bayt Stadium",
+        "cidade": "Al Khor",
+        "selecao01": {
+            "id": 1569,
+            "nome": "Qatar",
+            "escudo": "https://media.api-sports.io/football/teams/1569.png"
+        },
+        "selecao02": {
+            "id": 2382,
+            "nome": "Ecuador",
+            "escudo": "https://media.api-sports.io/football/teams/2382.png"
+        },
+        "score": {
+            "intervalo": {
+                "selecao01": 0,
+                "selecao02": 2
+            },
+            "final": {
+                "selecao01": 0,
+                "selecao02": 2
+            },
+            "prorrogacao": {
+                "selecao01": null,
+                "selecao02": null
+            },
+            "penaltis": {
+                "selecao01": null,
+                "selecao02": null
+            }
+        }
+    },
+    {
+        "id": 855735,
+        "data": "2022-11-21T13:00:00+00:00",
+        "fase": "Group Stage - 1",
+        "estadio": "Khalifa International Stadium",
+        "cidade": "Ar-Rayyan",
+        "selecao01": {
+            "id": 10,
+            "nome": "England",
+            "escudo": "https://media.api-sports.io/football/teams/10.png"
+        },
+        "selecao02": {
+            "id": 22,
+            "nome": "Iran",
+            "escudo": "https://media.api-sports.io/football/teams/22.png"
+        },
+        "score": {
+            "intervalo": {
+                "selecao01": 3,
+                "selecao02": 0
+            },
+            "final": {
+                "selecao01": 6,
+                "selecao02": 2
+            },
+            "prorrogacao": {
+                "selecao01": null,
+                "selecao02": null
+            },
+            "penaltis": {
+                "selecao01": null,
+                "selecao02": null
+            }
+        }
+    },
+    {
+        "id": 855734,
+        "data": "2022-11-21T16:00:00+00:00",
+        "fase": "Group Stage - 1",
+        "estadio": "Al Thumama Stadium",
+        "cidade": "Doha",
+        "selecao01": {
+            "id": 13,
+            "nome": "Senegal",
+            "escudo": "https://media.api-sports.io/football/teams/13.png"
+        },
+        "selecao02": {
+            "id": 1118,
+            "nome": "Netherlands",
+            "escudo": "https://media.api-sports.io/football/teams/1118.png"
+        },
+        "score": {
+            "intervalo": {
+                "selecao01": 0,
+                "selecao02": 0
+            },
+            "final": {
+                "selecao01": 0,
+                "selecao02": 2
+            },
+            "prorrogacao": {
+                "selecao01": null,
+                "selecao02": null
+            },
+            "penaltis": {
+                "selecao01": null,
+                "selecao02": null
+            }
+        }
+    },
+    {
+        "id": 866681,
+        "data": "2022-11-21T19:00:00+00:00",
+        "fase": "Group Stage - 1",
+        "estadio": "Ahmad bin Ali Stadium",
+        "cidade": "Al-Rayyan",
+        "selecao01": {
+            "id": 2384,
+            "nome": "USA",
+            "escudo": "https://media.api-sports.io/football/teams/2384.png"
+        },
+        "selecao02": {
+            "id": 767,
+            "nome": "Wales",
+            "escudo": "https://media.api-sports.io/football/teams/767.png"
+        },
+        "score": {
+            "intervalo": {
+                "selecao01": 1,
+                "selecao02": 0
+            },
+            "final": {
+                "selecao01": 1,
+                "selecao02": 1
+            },
+            "prorrogacao": {
+                "selecao01": null,
+                "selecao02": null
+            },
+            "penaltis": {
+                "selecao01": null,
+                "selecao02": null
+            }
+        }
+    },
+    {
+        "id": 855737,
+        "data": "2022-11-22T10:00:00+00:00",
+        "fase": "Group Stage - 1",
+        "estadio": "Lusail Iconic Stadium",
+        "cidade": "Lusail",
+        "selecao01": {
+            "id": 26,
+            "nome": "Argentina",
+            "escudo": "https://media.api-sports.io/football/teams/26.png"
+        },
+        "selecao02": {
+            "id": 23,
+            "nome": "Saudi Arabia",
+            "escudo": "https://media.api-sports.io/football/teams/23.png"
+        },
+        "score": {
+            "intervalo": {
+                "selecao01": 1,
+                "selecao02": 0
+            },
+            "final": {
+                "selecao01": 1,
+                "selecao02": 2
+            },
+            "prorrogacao": {
+                "selecao01": null,
+                "selecao02": null
+            },
+            "penaltis": {
+                "selecao01": null,
+                "selecao02": null
+            }
+        }
+    },
+    {
+        "id": 855738,
+        "data": "2022-11-22T13:00:00+00:00",
+        "fase": "Group Stage - 1",
+        "estadio": "Education City Stadium",
+        "cidade": "Ar-Rayyan",
+        "selecao01": {
+            "id": 21,
+            "nome": "Denmark",
+            "escudo": "https://media.api-sports.io/football/teams/21.png"
+        },
+        "selecao02": {
+            "id": 28,
+            "nome": "Tunisia",
+            "escudo": "https://media.api-sports.io/football/teams/28.png"
+        },
+        "score": {
+            "intervalo": {
+                "selecao01": 0,
+                "selecao02": 0
+            },
+            "final": {
+                "selecao01": 0,
+                "selecao02": 0
+            },
+            "prorrogacao": {
+                "selecao01": null,
+                "selecao02": null
+            },
+            "penaltis": {
+                "selecao01": null,
+                "selecao02": null
+            }
+        }
+    },
+    {
+        "id": 855739,
+        "data": "2022-11-22T16:00:00+00:00",
+        "fase": "Group Stage - 1",
+        "estadio": "Stadium 974",
+        "cidade": "Doha",
+        "selecao01": {
+            "id": 16,
+            "nome": "Mexico",
+            "escudo": "https://media.api-sports.io/football/teams/16.png"
+        },
+        "selecao02": {
+            "id": 24,
+            "nome": "Poland",
+            "escudo": "https://media.api-sports.io/football/teams/24.png"
+        },
+        "score": {
+            "intervalo": {
+                "selecao01": 0,
+                "selecao02": 0
+            },
+            "final": {
+                "selecao01": 0,
+                "selecao02": 0
+            },
+            "prorrogacao": {
+                "selecao01": null,
+                "selecao02": null
+            },
+            "penaltis": {
+                "selecao01": null,
+                "selecao02": null
+            }
+        }
+    },
+    {
+        "id": 871850,
+        "data": "2022-11-22T19:00:00+00:00",
+        "fase": "Group Stage - 1",
+        "estadio": "Al Janoub Stadium",
+        "cidade": "Al Wakrah",
+        "selecao01": {
+            "id": 2,
+            "nome": "France",
+            "escudo": "https://media.api-sports.io/football/teams/2.png"
+        },
+        "selecao02": {
+            "id": 20,
+            "nome": "Australia",
+            "escudo": "https://media.api-sports.io/football/teams/20.png"
+        },
+        "score": {
+            "intervalo": {
+                "selecao01": 2,
+                "selecao02": 1
+            },
+            "final": {
+                "selecao01": 4,
+                "selecao02": 1
+            },
+            "prorrogacao": {
+                "selecao01": null,
+                "selecao02": null
+            },
+            "penaltis": {
+                "selecao01": null,
+                "selecao02": null
+            }
+        }
+    },
+    {
+        "id": 855740,
+        "data": "2022-11-23T10:00:00+00:00",
+        "fase": "Group Stage - 1",
+        "estadio": "Al Bayt Stadium",
+        "cidade": "Al Khor",
+        "selecao01": {
+            "id": 31,
+            "nome": "Morocco",
+            "escudo": "https://media.api-sports.io/football/teams/31.png"
+        },
+        "selecao02": {
+            "id": 3,
+            "nome": "Croatia",
+            "escudo": "https://media.api-sports.io/football/teams/3.png"
+        },
+        "score": {
+            "intervalo": {
+                "selecao01": 0,
+                "selecao02": 0
+            },
+            "final": {
+                "selecao01": 0,
+                "selecao02": 0
+            },
+            "prorrogacao": {
+                "selecao01": null,
+                "selecao02": null
+            },
+            "penaltis": {
+                "selecao01": null,
+                "selecao02": null
+            }
+        }
+    },
+    {
+        "id": 855741,
+        "data": "2022-11-23T13:00:00+00:00",
+        "fase": "Group Stage - 1",
+        "estadio": "Khalifa International Stadium",
+        "cidade": "Ar-Rayyan",
+        "selecao01": {
+            "id": 25,
+            "nome": "Germany",
+            "escudo": "https://media.api-sports.io/football/teams/25.png"
+        },
+        "selecao02": {
+            "id": 12,
+            "nome": "Japan",
+            "escudo": "https://media.api-sports.io/football/teams/12.png"
+        },
+        "score": {
+            "intervalo": {
+                "selecao01": 1,
+                "selecao02": 0
+            },
+            "final": {
+                "selecao01": 1,
+                "selecao02": 2
+            },
+            "prorrogacao": {
+                "selecao01": null,
+                "selecao02": null
+            },
+            "penaltis": {
+                "selecao01": null,
+                "selecao02": null
+            }
+        }
+    },
+    {
+        "id": 871851,
+        "data": "2022-11-23T16:00:00+00:00",
+        "fase": "Group Stage - 1",
+        "estadio": "Al Thumama Stadium",
+        "cidade": "Doha",
+        "selecao01": {
+            "id": 9,
+            "nome": "Spain",
+            "escudo": "https://media.api-sports.io/football/teams/9.png"
+        },
+        "selecao02": {
+            "id": 29,
+            "nome": "Costa Rica",
+            "escudo": "https://media.api-sports.io/football/teams/29.png"
+        },
+        "score": {
+            "intervalo": {
+                "selecao01": 3,
+                "selecao02": 0
+            },
+            "final": {
+                "selecao01": 7,
+                "selecao02": 0
+            },
+            "prorrogacao": {
+                "selecao01": null,
+                "selecao02": null
+            },
+            "penaltis": {
+                "selecao01": null,
+                "selecao02": null
+            }
+        }
+    },
+    {
+        "id": 855742,
+        "data": "2022-11-23T19:00:00+00:00",
+        "fase": "Group Stage - 1",
+        "estadio": "Ahmad bin Ali Stadium",
+        "cidade": "Al-Rayyan",
+        "selecao01": {
+            "id": 1,
+            "nome": "Belgium",
+            "escudo": "https://media.api-sports.io/football/teams/1.png"
+        },
+        "selecao02": {
+            "id": 5529,
+            "nome": "Canada",
+            "escudo": "https://media.api-sports.io/football/teams/5529.png"
+        },
+        "score": {
+            "intervalo": {
+                "selecao01": 1,
+                "selecao02": 0
+            },
+            "final": {
+                "selecao01": 1,
+                "selecao02": 0
+            },
+            "prorrogacao": {
+                "selecao01": null,
+                "selecao02": null
+            },
+            "penaltis": {
+                "selecao01": null,
+                "selecao02": null
+            }
+        }
+    },
+    {
+        "id": 855743,
+        "data": "2022-11-24T10:00:00+00:00",
+        "fase": "Group Stage - 1",
+        "estadio": "Al Janoub Stadium",
+        "cidade": "Al Wakrah",
+        "selecao01": {
+            "id": 15,
+            "nome": "Switzerland",
+            "escudo": "https://media.api-sports.io/football/teams/15.png"
+        },
+        "selecao02": {
+            "id": 1530,
+            "nome": "Cameroon",
+            "escudo": "https://media.api-sports.io/football/teams/1530.png"
+        },
+        "score": {
+            "intervalo": {
+                "selecao01": 0,
+                "selecao02": 0
+            },
+            "final": {
+                "selecao01": 1,
+                "selecao02": 0
+            },
+            "prorrogacao": {
+                "selecao01": null,
+                "selecao02": null
+            },
+            "penaltis": {
+                "selecao01": null,
+                "selecao02": null
+            }
+        }
+    },
+    {
+        "id": 855744,
+        "data": "2022-11-24T13:00:00+00:00",
+        "fase": "Group Stage - 1",
+        "estadio": "Education City Stadium",
+        "cidade": "Ar-Rayyan",
+        "selecao01": {
+            "id": 7,
+            "nome": "Uruguay",
+            "escudo": "https://media.api-sports.io/football/teams/7.png"
+        },
+        "selecao02": {
+            "id": 17,
+            "nome": "South Korea",
+            "escudo": "https://media.api-sports.io/football/teams/17.png"
+        },
+        "score": {
+            "intervalo": {
+                "selecao01": 0,
+                "selecao02": 0
+            },
+            "final": {
+                "selecao01": 0,
+                "selecao02": 0
+            },
+            "prorrogacao": {
+                "selecao01": null,
+                "selecao02": null
+            },
+            "penaltis": {
+                "selecao01": null,
+                "selecao02": null
+            }
+        }
+    },
+    {
+        "id": 855745,
+        "data": "2022-11-24T16:00:00+00:00",
+        "fase": "Group Stage - 1",
+        "estadio": "Stadium 974",
+        "cidade": "Doha",
+        "selecao01": {
+            "id": 27,
+            "nome": "Portugal",
+            "escudo": "https://media.api-sports.io/football/teams/27.png"
+        },
+        "selecao02": {
+            "id": 1504,
+            "nome": "Ghana",
+            "escudo": "https://media.api-sports.io/football/teams/1504.png"
+        },
+        "score": {
+            "intervalo": {
+                "selecao01": 0,
+                "selecao02": 0
+            },
+            "final": {
+                "selecao01": 3,
+                "selecao02": 2
+            },
+            "prorrogacao": {
+                "selecao01": null,
+                "selecao02": null
+            },
+            "penaltis": {
+                "selecao01": null,
+                "selecao02": null
+            }
+        }
+    },
+    {
+        "id": 855746,
+        "data": "2022-11-24T19:00:00+00:00",
+        "fase": "Group Stage - 1",
+        "estadio": "Lusail Iconic Stadium",
+        "cidade": "Lusail",
+        "selecao01": {
+            "id": 6,
+            "nome": "Brazil",
+            "escudo": "https://media.api-sports.io/football/teams/6.png"
+        },
+        "selecao02": {
+            "id": 14,
+            "nome": "Serbia",
+            "escudo": "https://media.api-sports.io/football/teams/14.png"
+        },
+        "score": {
+            "intervalo": {
+                "selecao01": 0,
+                "selecao02": 0
+            },
+            "final": {
+                "selecao01": 2,
+                "selecao02": 0
+            },
+            "prorrogacao": {
+                "selecao01": null,
+                "selecao02": null
+            },
+            "penaltis": {
+                "selecao01": null,
+                "selecao02": null
+            }
+        }
+    },
+    {
+        "id": 866682,
+        "data": "2022-11-25T10:00:00+00:00",
+        "fase": "Group Stage - 2",
+        "estadio": "Ahmad bin Ali Stadium",
+        "cidade": "Al-Rayyan",
+        "selecao01": {
+            "id": 767,
+            "nome": "Wales",
+            "escudo": "https://media.api-sports.io/football/teams/767.png"
+        },
+        "selecao02": {
+            "id": 22,
+            "nome": "Iran",
+            "escudo": "https://media.api-sports.io/football/teams/22.png"
+        },
+        "score": {
+            "intervalo": {
+                "selecao01": 0,
+                "selecao02": 0
+            },
+            "final": {
+                "selecao01": 0,
+                "selecao02": 2
+            },
+            "prorrogacao": {
+                "selecao01": null,
+                "selecao02": null
+            },
+            "penaltis": {
+                "selecao01": null,
+                "selecao02": null
+            }
+        }
+    },
+    {
+        "id": 855747,
+        "data": "2022-11-25T13:00:00+00:00",
+        "fase": "Group Stage - 2",
+        "estadio": "Al Thumama Stadium",
+        "cidade": "Doha",
+        "selecao01": {
+            "id": 1569,
+            "nome": "Qatar",
+            "escudo": "https://media.api-sports.io/football/teams/1569.png"
+        },
+        "selecao02": {
+            "id": 13,
+            "nome": "Senegal",
+            "escudo": "https://media.api-sports.io/football/teams/13.png"
+        },
+        "score": {
+            "intervalo": {
+                "selecao01": 0,
+                "selecao02": 1
+            },
+            "final": {
+                "selecao01": 1,
+                "selecao02": 3
+            },
+            "prorrogacao": {
+                "selecao01": null,
+                "selecao02": null
+            },
+            "penaltis": {
+                "selecao01": null,
+                "selecao02": null
+            }
+        }
+    },
+    {
+        "id": 855748,
+        "data": "2022-11-25T16:00:00+00:00",
+        "fase": "Group Stage - 2",
+        "estadio": "Khalifa International Stadium",
+        "cidade": "Ar-Rayyan",
+        "selecao01": {
+            "id": 1118,
+            "nome": "Netherlands",
+            "escudo": "https://media.api-sports.io/football/teams/1118.png"
+        },
+        "selecao02": {
+            "id": 2382,
+            "nome": "Ecuador",
+            "escudo": "https://media.api-sports.io/football/teams/2382.png"
+        },
+        "score": {
+            "intervalo": {
+                "selecao01": 1,
+                "selecao02": 0
+            },
+            "final": {
+                "selecao01": 1,
+                "selecao02": 1
+            },
+            "prorrogacao": {
+                "selecao01": null,
+                "selecao02": null
+            },
+            "penaltis": {
+                "selecao01": null,
+                "selecao02": null
+            }
+        }
+    },
+    {
+        "id": 855749,
+        "data": "2022-11-25T19:00:00+00:00",
+        "fase": "Group Stage - 2",
+        "estadio": "Al Bayt Stadium",
+        "cidade": "Al Khor",
+        "selecao01": {
+            "id": 10,
+            "nome": "England",
+            "escudo": "https://media.api-sports.io/football/teams/10.png"
+        },
+        "selecao02": {
+            "id": 2384,
+            "nome": "USA",
+            "escudo": "https://media.api-sports.io/football/teams/2384.png"
+        },
+        "score": {
+            "intervalo": {
+                "selecao01": 0,
+                "selecao02": 0
+            },
+            "final": {
+                "selecao01": 0,
+                "selecao02": 0
+            },
+            "prorrogacao": {
+                "selecao01": null,
+                "selecao02": null
+            },
+            "penaltis": {
+                "selecao01": null,
+                "selecao02": null
+            }
+        }
+    },
+    {
+        "id": 871852,
+        "data": "2022-11-26T10:00:00+00:00",
+        "fase": "Group Stage - 2",
+        "estadio": "Al Janoub Stadium",
+        "cidade": "Al Wakrah",
+        "selecao01": {
+            "id": 28,
+            "nome": "Tunisia",
+            "escudo": "https://media.api-sports.io/football/teams/28.png"
+        },
+        "selecao02": {
+            "id": 20,
+            "nome": "Australia",
+            "escudo": "https://media.api-sports.io/football/teams/20.png"
+        },
+        "score": {
+            "intervalo": {
+                "selecao01": 0,
+                "selecao02": 1
+            },
+            "final": {
+                "selecao01": 0,
+                "selecao02": 1
+            },
+            "prorrogacao": {
+                "selecao01": null,
+                "selecao02": null
+            },
+            "penaltis": {
+                "selecao01": null,
+                "selecao02": null
+            }
+        }
+    },
+    {
+        "id": 855750,
+        "data": "2022-11-26T13:00:00+00:00",
+        "fase": "Group Stage - 2",
+        "estadio": "Education City Stadium",
+        "cidade": "Ar-Rayyan",
+        "selecao01": {
+            "id": 24,
+            "nome": "Poland",
+            "escudo": "https://media.api-sports.io/football/teams/24.png"
+        },
+        "selecao02": {
+            "id": 23,
+            "nome": "Saudi Arabia",
+            "escudo": "https://media.api-sports.io/football/teams/23.png"
+        },
+        "score": {
+            "intervalo": {
+                "selecao01": 1,
+                "selecao02": 0
+            },
+            "final": {
+                "selecao01": 2,
+                "selecao02": 0
+            },
+            "prorrogacao": {
+                "selecao01": null,
+                "selecao02": null
+            },
+            "penaltis": {
+                "selecao01": null,
+                "selecao02": null
+            }
+        }
+    },
+    {
+        "id": 855751,
+        "data": "2022-11-26T16:00:00+00:00",
+        "fase": "Group Stage - 2",
+        "estadio": "Stadium 974",
+        "cidade": "Doha",
+        "selecao01": {
+            "id": 2,
+            "nome": "France",
+            "escudo": "https://media.api-sports.io/football/teams/2.png"
+        },
+        "selecao02": {
+            "id": 21,
+            "nome": "Denmark",
+            "escudo": "https://media.api-sports.io/football/teams/21.png"
+        },
+        "score": {
+            "intervalo": {
+                "selecao01": 0,
+                "selecao02": 0
+            },
+            "final": {
+                "selecao01": 2,
+                "selecao02": 1
+            },
+            "prorrogacao": {
+                "selecao01": null,
+                "selecao02": null
+            },
+            "penaltis": {
+                "selecao01": null,
+                "selecao02": null
+            }
+        }
+    },
+    {
+        "id": 855752,
+        "data": "2022-11-26T19:00:00+00:00",
+        "fase": "Group Stage - 2",
+        "estadio": "Lusail Iconic Stadium",
+        "cidade": "Lusail",
+        "selecao01": {
+            "id": 26,
+            "nome": "Argentina",
+            "escudo": "https://media.api-sports.io/football/teams/26.png"
+        },
+        "selecao02": {
+            "id": 16,
+            "nome": "Mexico",
+            "escudo": "https://media.api-sports.io/football/teams/16.png"
+        },
+        "score": {
+            "intervalo": {
+                "selecao01": 0,
+                "selecao02": 0
+            },
+            "final": {
+                "selecao01": 2,
+                "selecao02": 0
+            },
+            "prorrogacao": {
+                "selecao01": null,
+                "selecao02": null
+            },
+            "penaltis": {
+                "selecao01": null,
+                "selecao02": null
+            }
+        }
+    },
+    {
+        "id": 871853,
+        "data": "2022-11-27T10:00:00+00:00",
+        "fase": "Group Stage - 2",
+        "estadio": "Ahmad bin Ali Stadium",
+        "cidade": "Al-Rayyan",
+        "selecao01": {
+            "id": 12,
+            "nome": "Japan",
+            "escudo": "https://media.api-sports.io/football/teams/12.png"
+        },
+        "selecao02": {
+            "id": 29,
+            "nome": "Costa Rica",
+            "escudo": "https://media.api-sports.io/football/teams/29.png"
+        },
+        "score": {
+            "intervalo": {
+                "selecao01": 0,
+                "selecao02": 0
+            },
+            "final": {
+                "selecao01": 0,
+                "selecao02": 1
+            },
+            "prorrogacao": {
+                "selecao01": null,
+                "selecao02": null
+            },
+            "penaltis": {
+                "selecao01": null,
+                "selecao02": null
+            }
+        }
+    },
+    {
+        "id": 855753,
+        "data": "2022-11-27T13:00:00+00:00",
+        "fase": "Group Stage - 2",
+        "estadio": "Al Thumama Stadium",
+        "cidade": "Doha",
+        "selecao01": {
+            "id": 1,
+            "nome": "Belgium",
+            "escudo": "https://media.api-sports.io/football/teams/1.png"
+        },
+        "selecao02": {
+            "id": 31,
+            "nome": "Morocco",
+            "escudo": "https://media.api-sports.io/football/teams/31.png"
+        },
+        "score": {
+            "intervalo": {
+                "selecao01": 0,
+                "selecao02": 0
+            },
+            "final": {
+                "selecao01": 0,
+                "selecao02": 2
+            },
+            "prorrogacao": {
+                "selecao01": null,
+                "selecao02": null
+            },
+            "penaltis": {
+                "selecao01": null,
+                "selecao02": null
+            }
+        }
+    },
+    {
+        "id": 855754,
+        "data": "2022-11-27T16:00:00+00:00",
+        "fase": "Group Stage - 2",
+        "estadio": "Khalifa International Stadium",
+        "cidade": "Ar-Rayyan",
+        "selecao01": {
+            "id": 3,
+            "nome": "Croatia",
+            "escudo": "https://media.api-sports.io/football/teams/3.png"
+        },
+        "selecao02": {
+            "id": 5529,
+            "nome": "Canada",
+            "escudo": "https://media.api-sports.io/football/teams/5529.png"
+        },
+        "score": {
+            "intervalo": {
+                "selecao01": 2,
+                "selecao02": 1
+            },
+            "final": {
+                "selecao01": 4,
+                "selecao02": 1
+            },
+            "prorrogacao": {
+                "selecao01": null,
+                "selecao02": null
+            },
+            "penaltis": {
+                "selecao01": null,
+                "selecao02": null
+            }
+        }
+    },
+    {
+        "id": 855755,
+        "data": "2022-11-27T19:00:00+00:00",
+        "fase": "Group Stage - 2",
+        "estadio": "Al Bayt Stadium",
+        "cidade": "Al Khor",
+        "selecao01": {
+            "id": 9,
+            "nome": "Spain",
+            "escudo": "https://media.api-sports.io/football/teams/9.png"
+        },
+        "selecao02": {
+            "id": 25,
+            "nome": "Germany",
+            "escudo": "https://media.api-sports.io/football/teams/25.png"
+        },
+        "score": {
+            "intervalo": {
+                "selecao01": 0,
+                "selecao02": 0
+            },
+            "final": {
+                "selecao01": 1,
+                "selecao02": 1
+            },
+            "prorrogacao": {
+                "selecao01": null,
+                "selecao02": null
+            },
+            "penaltis": {
+                "selecao01": null,
+                "selecao02": null
+            }
+        }
+    },
+    {
+        "id": 855756,
+        "data": "2022-11-28T10:00:00+00:00",
+        "fase": "Group Stage - 2",
+        "estadio": "Al Janoub Stadium",
+        "cidade": "Al Wakrah",
+        "selecao01": {
+            "id": 1530,
+            "nome": "Cameroon",
+            "escudo": "https://media.api-sports.io/football/teams/1530.png"
+        },
+        "selecao02": {
+            "id": 14,
+            "nome": "Serbia",
+            "escudo": "https://media.api-sports.io/football/teams/14.png"
+        },
+        "score": {
+            "intervalo": {
+                "selecao01": 1,
+                "selecao02": 2
+            },
+            "final": {
+                "selecao01": 3,
+                "selecao02": 3
+            },
+            "prorrogacao": {
+                "selecao01": null,
+                "selecao02": null
+            },
+            "penaltis": {
+                "selecao01": null,
+                "selecao02": null
+            }
+        }
+    },
+    {
+        "id": 855757,
+        "data": "2022-11-28T13:00:00+00:00",
+        "fase": "Group Stage - 2",
+        "estadio": "Education City Stadium",
+        "cidade": "Ar-Rayyan",
+        "selecao01": {
+            "id": 17,
+            "nome": "South Korea",
+            "escudo": "https://media.api-sports.io/football/teams/17.png"
+        },
+        "selecao02": {
+            "id": 1504,
+            "nome": "Ghana",
+            "escudo": "https://media.api-sports.io/football/teams/1504.png"
+        },
+        "score": {
+            "intervalo": {
+                "selecao01": 0,
+                "selecao02": 2
+            },
+            "final": {
+                "selecao01": 2,
+                "selecao02": 3
+            },
+            "prorrogacao": {
+                "selecao01": null,
+                "selecao02": null
+            },
+            "penaltis": {
+                "selecao01": null,
+                "selecao02": null
+            }
+        }
+    },
+    {
+        "id": 855758,
+        "data": "2022-11-28T16:00:00+00:00",
+        "fase": "Group Stage - 2",
+        "estadio": "Stadium 974",
+        "cidade": "Doha",
+        "selecao01": {
+            "id": 6,
+            "nome": "Brazil",
+            "escudo": "https://media.api-sports.io/football/teams/6.png"
+        },
+        "selecao02": {
+            "id": 15,
+            "nome": "Switzerland",
+            "escudo": "https://media.api-sports.io/football/teams/15.png"
+        },
+        "score": {
+            "intervalo": {
+                "selecao01": 0,
+                "selecao02": 0
+            },
+            "final": {
+                "selecao01": 1,
+                "selecao02": 0
+            },
+            "prorrogacao": {
+                "selecao01": null,
+                "selecao02": null
+            },
+            "penaltis": {
+                "selecao01": null,
+                "selecao02": null
+            }
+        }
+    },
+    {
+        "id": 855759,
+        "data": "2022-11-28T19:00:00+00:00",
+        "fase": "Group Stage - 2",
+        "estadio": "Lusail Iconic Stadium",
+        "cidade": "Lusail",
+        "selecao01": {
+            "id": 27,
+            "nome": "Portugal",
+            "escudo": "https://media.api-sports.io/football/teams/27.png"
+        },
+        "selecao02": {
+            "id": 7,
+            "nome": "Uruguay",
+            "escudo": "https://media.api-sports.io/football/teams/7.png"
+        },
+        "score": {
+            "intervalo": {
+                "selecao01": 0,
+                "selecao02": 0
+            },
+            "final": {
+                "selecao01": 2,
+                "selecao02": 0
+            },
+            "prorrogacao": {
+                "selecao01": null,
+                "selecao02": null
+            },
+            "penaltis": {
+                "selecao01": null,
+                "selecao02": null
+            }
+        }
+    },
+    {
+        "id": 855760,
+        "data": "2022-11-29T15:00:00+00:00",
+        "fase": "Group Stage - 3",
+        "estadio": "Al Bayt Stadium",
+        "cidade": "Al Khor",
+        "selecao01": {
+            "id": 1118,
+            "nome": "Netherlands",
+            "escudo": "https://media.api-sports.io/football/teams/1118.png"
+        },
+        "selecao02": {
+            "id": 1569,
+            "nome": "Qatar",
+            "escudo": "https://media.api-sports.io/football/teams/1569.png"
+        },
+        "score": {
+            "intervalo": {
+                "selecao01": 1,
+                "selecao02": 0
+            },
+            "final": {
+                "selecao01": 2,
+                "selecao02": 0
+            },
+            "prorrogacao": {
+                "selecao01": null,
+                "selecao02": null
+            },
+            "penaltis": {
+                "selecao01": null,
+                "selecao02": null
+            }
+        }
+    },
+    {
+        "id": 855761,
+        "data": "2022-11-29T15:00:00+00:00",
+        "fase": "Group Stage - 3",
+        "estadio": "Khalifa International Stadium",
+        "cidade": "Ar-Rayyan",
+        "selecao01": {
+            "id": 2382,
+            "nome": "Ecuador",
+            "escudo": "https://media.api-sports.io/football/teams/2382.png"
+        },
+        "selecao02": {
+            "id": 13,
+            "nome": "Senegal",
+            "escudo": "https://media.api-sports.io/football/teams/13.png"
+        },
+        "score": {
+            "intervalo": {
+                "selecao01": 0,
+                "selecao02": 1
+            },
+            "final": {
+                "selecao01": 1,
+                "selecao02": 2
+            },
+            "prorrogacao": {
+                "selecao01": null,
+                "selecao02": null
+            },
+            "penaltis": {
+                "selecao01": null,
+                "selecao02": null
+            }
+        }
+    },
+    {
+        "id": 855762,
+        "data": "2022-11-29T19:00:00+00:00",
+        "fase": "Group Stage - 3",
+        "estadio": "Al Thumama Stadium",
+        "cidade": "Doha",
+        "selecao01": {
+            "id": 22,
+            "nome": "Iran",
+            "escudo": "https://media.api-sports.io/football/teams/22.png"
+        },
+        "selecao02": {
+            "id": 2384,
+            "nome": "USA",
+            "escudo": "https://media.api-sports.io/football/teams/2384.png"
+        },
+        "score": {
+            "intervalo": {
+                "selecao01": 0,
+                "selecao02": 1
+            },
+            "final": {
+                "selecao01": 0,
+                "selecao02": 1
+            },
+            "prorrogacao": {
+                "selecao01": null,
+                "selecao02": null
+            },
+            "penaltis": {
+                "selecao01": null,
+                "selecao02": null
+            }
+        }
+    },
+    {
+        "id": 866683,
+        "data": "2022-11-29T19:00:00+00:00",
+        "fase": "Group Stage - 3",
+        "estadio": "Ahmad bin Ali Stadium",
+        "cidade": "Al-Rayyan",
+        "selecao01": {
+            "id": 767,
+            "nome": "Wales",
+            "escudo": "https://media.api-sports.io/football/teams/767.png"
+        },
+        "selecao02": {
+            "id": 10,
+            "nome": "England",
+            "escudo": "https://media.api-sports.io/football/teams/10.png"
+        },
+        "score": {
+            "intervalo": {
+                "selecao01": 0,
+                "selecao02": 0
+            },
+            "final": {
+                "selecao01": 0,
+                "selecao02": 3
+            },
+            "prorrogacao": {
+                "selecao01": null,
+                "selecao02": null
+            },
+            "penaltis": {
+                "selecao01": null,
+                "selecao02": null
+            }
+        }
+    },
+    {
+        "id": 871854,
+        "data": "2022-11-30T15:00:00+00:00",
+        "fase": "Group Stage - 3",
+        "estadio": "Al Janoub Stadium",
+        "cidade": "Al Wakrah",
+        "selecao01": {
+            "id": 20,
+            "nome": "Australia",
+            "escudo": "https://media.api-sports.io/football/teams/20.png"
+        },
+        "selecao02": {
+            "id": 21,
+            "nome": "Denmark",
+            "escudo": "https://media.api-sports.io/football/teams/21.png"
+        },
+        "score": {
+            "intervalo": {
+                "selecao01": 0,
+                "selecao02": 0
+            },
+            "final": {
+                "selecao01": 1,
+                "selecao02": 0
+            },
+            "prorrogacao": {
+                "selecao01": null,
+                "selecao02": null
+            },
+            "penaltis": {
+                "selecao01": null,
+                "selecao02": null
+            }
+        }
+    },
+    {
+        "id": 855763,
+        "data": "2022-11-30T15:00:00+00:00",
+        "fase": "Group Stage - 3",
+        "estadio": "Education City Stadium",
+        "cidade": "Ar-Rayyan",
+        "selecao01": {
+            "id": 28,
+            "nome": "Tunisia",
+            "escudo": "https://media.api-sports.io/football/teams/28.png"
+        },
+        "selecao02": {
+            "id": 2,
+            "nome": "France",
+            "escudo": "https://media.api-sports.io/football/teams/2.png"
+        },
+        "score": {
+            "intervalo": {
+                "selecao01": 0,
+                "selecao02": 0
+            },
+            "final": {
+                "selecao01": 1,
+                "selecao02": 0
+            },
+            "prorrogacao": {
+                "selecao01": null,
+                "selecao02": null
+            },
+            "penaltis": {
+                "selecao01": null,
+                "selecao02": null
+            }
+        }
+    },
+    {
+        "id": 855765,
+        "data": "2022-11-30T19:00:00+00:00",
+        "fase": "Group Stage - 3",
+        "estadio": "Lusail Iconic Stadium",
+        "cidade": "Lusail",
+        "selecao01": {
+            "id": 23,
+            "nome": "Saudi Arabia",
+            "escudo": "https://media.api-sports.io/football/teams/23.png"
+        },
+        "selecao02": {
+            "id": 16,
+            "nome": "Mexico",
+            "escudo": "https://media.api-sports.io/football/teams/16.png"
+        },
+        "score": {
+            "intervalo": {
+                "selecao01": 0,
+                "selecao02": 0
+            },
+            "final": {
+                "selecao01": 1,
+                "selecao02": 2
+            },
+            "prorrogacao": {
+                "selecao01": null,
+                "selecao02": null
+            },
+            "penaltis": {
+                "selecao01": null,
+                "selecao02": null
+            }
+        }
+    },
+    {
+        "id": 855764,
+        "data": "2022-11-30T19:00:00+00:00",
+        "fase": "Group Stage - 3",
+        "estadio": "Stadium 974",
+        "cidade": "Doha",
+        "selecao01": {
+            "id": 24,
+            "nome": "Poland",
+            "escudo": "https://media.api-sports.io/football/teams/24.png"
+        },
+        "selecao02": {
+            "id": 26,
+            "nome": "Argentina",
+            "escudo": "https://media.api-sports.io/football/teams/26.png"
+        },
+        "score": {
+            "intervalo": {
+                "selecao01": 0,
+                "selecao02": 0
+            },
+            "final": {
+                "selecao01": 0,
+                "selecao02": 2
+            },
+            "prorrogacao": {
+                "selecao01": null,
+                "selecao02": null
+            },
+            "penaltis": {
+                "selecao01": null,
+                "selecao02": null
+            }
+        }
+    },
+    {
+        "id": 855766,
+        "data": "2022-12-01T15:00:00+00:00",
+        "fase": "Group Stage - 3",
+        "estadio": "Ahmad bin Ali Stadium",
+        "cidade": "Al-Rayyan",
+        "selecao01": {
+            "id": 3,
+            "nome": "Croatia",
+            "escudo": "https://media.api-sports.io/football/teams/3.png"
+        },
+        "selecao02": {
+            "id": 1,
+            "nome": "Belgium",
+            "escudo": "https://media.api-sports.io/football/teams/1.png"
+        },
+        "score": {
+            "intervalo": {
+                "selecao01": 0,
+                "selecao02": 0
+            },
+            "final": {
+                "selecao01": 0,
+                "selecao02": 0
+            },
+            "prorrogacao": {
+                "selecao01": null,
+                "selecao02": null
+            },
+            "penaltis": {
+                "selecao01": null,
+                "selecao02": null
+            }
+        }
+    },
+    {
+        "id": 855767,
+        "data": "2022-12-01T15:00:00+00:00",
+        "fase": "Group Stage - 3",
+        "estadio": "Al Thumama Stadium",
+        "cidade": "Doha",
+        "selecao01": {
+            "id": 5529,
+            "nome": "Canada",
+            "escudo": "https://media.api-sports.io/football/teams/5529.png"
+        },
+        "selecao02": {
+            "id": 31,
+            "nome": "Morocco",
+            "escudo": "https://media.api-sports.io/football/teams/31.png"
+        },
+        "score": {
+            "intervalo": {
+                "selecao01": 1,
+                "selecao02": 2
+            },
+            "final": {
+                "selecao01": 1,
+                "selecao02": 2
+            },
+            "prorrogacao": {
+                "selecao01": null,
+                "selecao02": null
+            },
+            "penaltis": {
+                "selecao01": null,
+                "selecao02": null
+            }
+        }
+    },
+    {
+        "id": 855768,
+        "data": "2022-12-01T19:00:00+00:00",
+        "fase": "Group Stage - 3",
+        "estadio": "Khalifa International Stadium",
+        "cidade": "Ar-Rayyan",
+        "selecao01": {
+            "id": 12,
+            "nome": "Japan",
+            "escudo": "https://media.api-sports.io/football/teams/12.png"
+        },
+        "selecao02": {
+            "id": 9,
+            "nome": "Spain",
+            "escudo": "https://media.api-sports.io/football/teams/9.png"
+        },
+        "score": {
+            "intervalo": {
+                "selecao01": 0,
+                "selecao02": 1
+            },
+            "final": {
+                "selecao01": 2,
+                "selecao02": 1
+            },
+            "prorrogacao": {
+                "selecao01": null,
+                "selecao02": null
+            },
+            "penaltis": {
+                "selecao01": null,
+                "selecao02": null
+            }
+        }
+    },
+    {
+        "id": 871855,
+        "data": "2022-12-01T19:00:00+00:00",
+        "fase": "Group Stage - 3",
+        "estadio": "Al Bayt Stadium",
+        "cidade": "Al Khor",
+        "selecao01": {
+            "id": 29,
+            "nome": "Costa Rica",
+            "escudo": "https://media.api-sports.io/football/teams/29.png"
+        },
+        "selecao02": {
+            "id": 25,
+            "nome": "Germany",
+            "escudo": "https://media.api-sports.io/football/teams/25.png"
+        },
+        "score": {
+            "intervalo": {
+                "selecao01": 0,
+                "selecao02": 1
+            },
+            "final": {
+                "selecao01": 2,
+                "selecao02": 4
+            },
+            "prorrogacao": {
+                "selecao01": null,
+                "selecao02": null
+            },
+            "penaltis": {
+                "selecao01": null,
+                "selecao02": null
+            }
+        }
+    },
+    {
+        "id": 855769,
+        "data": "2022-12-02T15:00:00+00:00",
+        "fase": "Group Stage - 3",
+        "estadio": "Education City Stadium",
+        "cidade": "Ar-Rayyan",
+        "selecao01": {
+            "id": 17,
+            "nome": "South Korea",
+            "escudo": "https://media.api-sports.io/football/teams/17.png"
+        },
+        "selecao02": {
+            "id": 27,
+            "nome": "Portugal",
+            "escudo": "https://media.api-sports.io/football/teams/27.png"
+        },
+        "score": {
+            "intervalo": {
+                "selecao01": 1,
+                "selecao02": 1
+            },
+            "final": {
+                "selecao01": 2,
+                "selecao02": 1
+            },
+            "prorrogacao": {
+                "selecao01": null,
+                "selecao02": null
+            },
+            "penaltis": {
+                "selecao01": null,
+                "selecao02": null
+            }
+        }
+    },
+    {
+        "id": 855770,
+        "data": "2022-12-02T15:00:00+00:00",
+        "fase": "Group Stage - 3",
+        "estadio": "Al Janoub Stadium",
+        "cidade": "Al Wakrah",
+        "selecao01": {
+            "id": 1504,
+            "nome": "Ghana",
+            "escudo": "https://media.api-sports.io/football/teams/1504.png"
+        },
+        "selecao02": {
+            "id": 7,
+            "nome": "Uruguay",
+            "escudo": "https://media.api-sports.io/football/teams/7.png"
+        },
+        "score": {
+            "intervalo": {
+                "selecao01": 0,
+                "selecao02": 2
+            },
+            "final": {
+                "selecao01": 0,
+                "selecao02": 2
+            },
+            "prorrogacao": {
+                "selecao01": null,
+                "selecao02": null
+            },
+            "penaltis": {
+                "selecao01": null,
+                "selecao02": null
+            }
+        }
+    },
+    {
+        "id": 855772,
+        "data": "2022-12-02T19:00:00+00:00",
+        "fase": "Group Stage - 3",
+        "estadio": "Stadium 974",
+        "cidade": "Doha",
+        "selecao01": {
+            "id": 14,
+            "nome": "Serbia",
+            "escudo": "https://media.api-sports.io/football/teams/14.png"
+        },
+        "selecao02": {
+            "id": 15,
+            "nome": "Switzerland",
+            "escudo": "https://media.api-sports.io/football/teams/15.png"
+        },
+        "score": {
+            "intervalo": {
+                "selecao01": 2,
+                "selecao02": 2
+            },
+            "final": {
+                "selecao01": 2,
+                "selecao02": 3
+            },
+            "prorrogacao": {
+                "selecao01": null,
+                "selecao02": null
+            },
+            "penaltis": {
+                "selecao01": null,
+                "selecao02": null
+            }
+        }
+    },
+    {
+        "id": 855771,
+        "data": "2022-12-02T19:00:00+00:00",
+        "fase": "Group Stage - 3",
+        "estadio": "Lusail Iconic Stadium",
+        "cidade": "Lusail",
+        "selecao01": {
+            "id": 1530,
+            "nome": "Cameroon",
+            "escudo": "https://media.api-sports.io/football/teams/1530.png"
+        },
+        "selecao02": {
+            "id": 6,
+            "nome": "Brazil",
+            "escudo": "https://media.api-sports.io/football/teams/6.png"
+        },
+        "score": {
+            "intervalo": {
+                "selecao01": 0,
+                "selecao02": 0
+            },
+            "final": {
+                "selecao01": 1,
+                "selecao02": 0
+            },
+            "prorrogacao": {
+                "selecao01": null,
+                "selecao02": null
+            },
+            "penaltis": {
+                "selecao01": null,
+                "selecao02": null
+            }
+        }
+    },
+    {
+        "id": 976533,
+        "data": "2022-12-03T15:00:00+00:00",
+        "fase": "Round of 16",
+        "estadio": "Khalifa International Stadium",
+        "cidade": "Ar-Rayyan",
+        "selecao01": {
+            "id": 1118,
+            "nome": "Netherlands",
+            "escudo": "https://media.api-sports.io/football/teams/1118.png"
+        },
+        "selecao02": {
+            "id": 2384,
+            "nome": "USA",
+            "escudo": "https://media.api-sports.io/football/teams/2384.png"
+        },
+        "score": {
+            "intervalo": {
+                "selecao01": 2,
+                "selecao02": 0
+            },
+            "final": {
+                "selecao01": 3,
+                "selecao02": 1
+            },
+            "prorrogacao": {
+                "selecao01": null,
+                "selecao02": null
+            },
+            "penaltis": {
+                "selecao01": null,
+                "selecao02": null
+            }
+        }
+    },
+    {
+        "id": 976642,
+        "data": "2022-12-03T19:00:00+00:00",
+        "fase": "Round of 16",
+        "estadio": "Ahmad bin Ali Stadium",
+        "cidade": "Al-Rayyan",
+        "selecao01": {
+            "id": 26,
+            "nome": "Argentina",
+            "escudo": "https://media.api-sports.io/football/teams/26.png"
+        },
+        "selecao02": {
+            "id": 20,
+            "nome": "Australia",
+            "escudo": "https://media.api-sports.io/football/teams/20.png"
+        },
+        "score": {
+            "intervalo": {
+                "selecao01": 1,
+                "selecao02": 0
+            },
+            "final": {
+                "selecao01": 2,
+                "selecao02": 1
+            },
+            "prorrogacao": {
+                "selecao01": null,
+                "selecao02": null
+            },
+            "penaltis": {
+                "selecao01": null,
+                "selecao02": null
+            }
+        }
+    },
+    {
+        "id": 976643,
+        "data": "2022-12-04T15:00:00+00:00",
+        "fase": "Round of 16",
+        "estadio": "Al Thumama Stadium",
+        "cidade": "Doha",
+        "selecao01": {
+            "id": 2,
+            "nome": "France",
+            "escudo": "https://media.api-sports.io/football/teams/2.png"
+        },
+        "selecao02": {
+            "id": 24,
+            "nome": "Poland",
+            "escudo": "https://media.api-sports.io/football/teams/24.png"
+        },
+        "score": {
+            "intervalo": {
+                "selecao01": 1,
+                "selecao02": 0
+            },
+            "final": {
+                "selecao01": 3,
+                "selecao02": 1
+            },
+            "prorrogacao": {
+                "selecao01": null,
+                "selecao02": null
+            },
+            "penaltis": {
+                "selecao01": null,
+                "selecao02": null
+            }
+        }
+    },
+    {
+        "id": 976534,
+        "data": "2022-12-04T19:00:00+00:00",
+        "fase": "Round of 16",
+        "estadio": "Al Bayt Stadium",
+        "cidade": "Al Khor",
+        "selecao01": {
+            "id": 10,
+            "nome": "England",
+            "escudo": "https://media.api-sports.io/football/teams/10.png"
+        },
+        "selecao02": {
+            "id": 13,
+            "nome": "Senegal",
+            "escudo": "https://media.api-sports.io/football/teams/13.png"
+        },
+        "score": {
+            "intervalo": {
+                "selecao01": 2,
+                "selecao02": 0
+            },
+            "final": {
+                "selecao01": 3,
+                "selecao02": 0
+            },
+            "prorrogacao": {
+                "selecao01": null,
+                "selecao02": null
+            },
+            "penaltis": {
+                "selecao01": null,
+                "selecao02": null
+            }
+        }
+    },
+    {
+        "id": 977344,
+        "data": "2022-12-05T15:00:00+00:00",
+        "fase": "Round of 16",
+        "estadio": "Al Janoub Stadium",
+        "cidade": "Al Wakrah",
+        "selecao01": {
+            "id": 12,
+            "nome": "Japan",
+            "escudo": "https://media.api-sports.io/football/teams/12.png"
+        },
+        "selecao02": {
+            "id": 3,
+            "nome": "Croatia",
+            "escudo": "https://media.api-sports.io/football/teams/3.png"
+        },
+        "score": {
+            "intervalo": {
+                "selecao01": 1,
+                "selecao02": 0
+            },
+            "final": {
+                "selecao01": 1,
+                "selecao02": 1
+            },
+            "prorrogacao": {
+                "selecao01": 0,
+                "selecao02": 0
+            },
+            "penaltis": {
+                "selecao01": 1,
+                "selecao02": 3
+            }
+        }
+    },
+    {
+        "id": 977705,
+        "data": "2022-12-05T19:00:00+00:00",
+        "fase": "Round of 16",
+        "estadio": "Stadium 974",
+        "cidade": "Doha",
+        "selecao01": {
+            "id": 6,
+            "nome": "Brazil",
+            "escudo": "https://media.api-sports.io/football/teams/6.png"
+        },
+        "selecao02": {
+            "id": 17,
+            "nome": "South Korea",
+            "escudo": "https://media.api-sports.io/football/teams/17.png"
+        },
+        "score": {
+            "intervalo": {
+                "selecao01": 4,
+                "selecao02": 0
+            },
+            "final": {
+                "selecao01": 4,
+                "selecao02": 1
+            },
+            "prorrogacao": {
+                "selecao01": null,
+                "selecao02": null
+            },
+            "penaltis": {
+                "selecao01": null,
+                "selecao02": null
+            }
+        }
+    },
+    {
+        "id": 977345,
+        "data": "2022-12-06T15:00:00+00:00",
+        "fase": "Round of 16",
+        "estadio": "Education City Stadium",
+        "cidade": "Ar-Rayyan",
+        "selecao01": {
+            "id": 31,
+            "nome": "Morocco",
+            "escudo": "https://media.api-sports.io/football/teams/31.png"
+        },
+        "selecao02": {
+            "id": 9,
+            "nome": "Spain",
+            "escudo": "https://media.api-sports.io/football/teams/9.png"
+        },
+        "score": {
+            "intervalo": {
+                "selecao01": 0,
+                "selecao02": 0
+            },
+            "final": {
+                "selecao01": 0,
+                "selecao02": 0
+            },
+            "prorrogacao": {
+                "selecao01": 0,
+                "selecao02": 0
+            },
+            "penaltis": {
+                "selecao01": 3,
+                "selecao02": 0
+            }
+        }
+    },
+    {
+        "id": 977706,
+        "data": "2022-12-06T19:00:00+00:00",
+        "fase": "Round of 16",
+        "estadio": "Lusail Iconic Stadium",
+        "cidade": "Lusail",
+        "selecao01": {
+            "id": 27,
+            "nome": "Portugal",
+            "escudo": "https://media.api-sports.io/football/teams/27.png"
+        },
+        "selecao02": {
+            "id": 15,
+            "nome": "Switzerland",
+            "escudo": "https://media.api-sports.io/football/teams/15.png"
+        },
+        "score": {
+            "intervalo": {
+                "selecao01": 2,
+                "selecao02": 0
+            },
+            "final": {
+                "selecao01": 6,
+                "selecao02": 1
+            },
+            "prorrogacao": {
+                "selecao01": null,
+                "selecao02": null
+            },
+            "penaltis": {
+                "selecao01": null,
+                "selecao02": null
+            }
+        }
+    },
+    {
+        "id": 978072,
+        "data": "2022-12-09T15:00:00+00:00",
+        "fase": "Quarter-finals",
+        "estadio": "Education City Stadium",
+        "cidade": "Ar-Rayyan",
+        "selecao01": {
+            "id": 3,
+            "nome": "Croatia",
+            "escudo": "https://media.api-sports.io/football/teams/3.png"
+        },
+        "selecao02": {
+            "id": 6,
+            "nome": "Brazil",
+            "escudo": "https://media.api-sports.io/football/teams/6.png"
+        },
+        "score": {
+            "intervalo": {
+                "selecao01": 0,
+                "selecao02": 0
+            },
+            "final": {
+                "selecao01": 0,
+                "selecao02": 0
+            },
+            "prorrogacao": {
+                "selecao01": 1,
+                "selecao02": 1
+            },
+            "penaltis": {
+                "selecao01": 4,
+                "selecao02": 2
+            }
+        }
+    },
+    {
+        "id": 977794,
+        "data": "2022-12-09T19:00:00+00:00",
+        "fase": "Quarter-finals",
+        "estadio": "Lusail Iconic Stadium",
+        "cidade": "Lusail",
+        "selecao01": {
+            "id": 1118,
+            "nome": "Netherlands",
+            "escudo": "https://media.api-sports.io/football/teams/1118.png"
+        },
+        "selecao02": {
+            "id": 26,
+            "nome": "Argentina",
+            "escudo": "https://media.api-sports.io/football/teams/26.png"
+        },
+        "score": {
+            "intervalo": {
+                "selecao01": 0,
+                "selecao02": 1
+            },
+            "final": {
+                "selecao01": 2,
+                "selecao02": 2
+            },
+            "prorrogacao": {
+                "selecao01": 0,
+                "selecao02": 0
+            },
+            "penaltis": {
+                "selecao01": 3,
+                "selecao02": 4
+            }
+        }
+    },
+    {
+        "id": 978088,
+        "data": "2022-12-10T15:00:00+00:00",
+        "fase": "Quarter-finals",
+        "estadio": "Al Thumama Stadium",
+        "cidade": "Doha",
+        "selecao01": {
+            "id": 31,
+            "nome": "Morocco",
+            "escudo": "https://media.api-sports.io/football/teams/31.png"
+        },
+        "selecao02": {
+            "id": 27,
+            "nome": "Portugal",
+            "escudo": "https://media.api-sports.io/football/teams/27.png"
+        },
+        "score": {
+            "intervalo": {
+                "selecao01": 1,
+                "selecao02": 0
+            },
+            "final": {
+                "selecao01": 1,
+                "selecao02": 0
+            },
+            "prorrogacao": {
+                "selecao01": null,
+                "selecao02": null
+            },
+            "penaltis": {
+                "selecao01": null,
+                "selecao02": null
+            }
+        }
+    },
+    {
+        "id": 978036,
+        "data": "2022-12-10T19:00:00+00:00",
+        "fase": "Quarter-finals",
+        "estadio": "Al Bayt Stadium",
+        "cidade": "Al Khor",
+        "selecao01": {
+            "id": 10,
+            "nome": "England",
+            "escudo": "https://media.api-sports.io/football/teams/10.png"
+        },
+        "selecao02": {
+            "id": 2,
+            "nome": "France",
+            "escudo": "https://media.api-sports.io/football/teams/2.png"
+        },
+        "score": {
+            "intervalo": {
+                "selecao01": 0,
+                "selecao02": 1
+            },
+            "final": {
+                "selecao01": 1,
+                "selecao02": 2
+            },
+            "prorrogacao": {
+                "selecao01": null,
+                "selecao02": null
+            },
+            "penaltis": {
+                "selecao01": null,
+                "selecao02": null
+            }
+        }
+    },
+    {
+        "id": 978279,
+        "data": "2022-12-13T19:00:00+00:00",
+        "fase": "Semi-finals",
+        "estadio": "Lusail Iconic Stadium",
+        "cidade": "Lusail",
+        "selecao01": {
+            "id": 26,
+            "nome": "Argentina",
+            "escudo": "https://media.api-sports.io/football/teams/26.png"
+        },
+        "selecao02": {
+            "id": 3,
+            "nome": "Croatia",
+            "escudo": "https://media.api-sports.io/football/teams/3.png"
+        },
+        "score": {
+            "intervalo": {
+                "selecao01": 2,
+                "selecao02": 0
+            },
+            "final": {
+                "selecao01": 3,
+                "selecao02": 0
+            },
+            "prorrogacao": {
+                "selecao01": null,
+                "selecao02": null
+            },
+            "penaltis": {
+                "selecao01": null,
+                "selecao02": null
+            }
+        }
+    },
+    {
+        "id": 978488,
+        "data": "2022-12-14T19:00:00+00:00",
+        "fase": "Semi-finals",
+        "estadio": "Al Bayt Stadium",
+        "cidade": "Al Khor",
+        "selecao01": {
+            "id": 2,
+            "nome": "France",
+            "escudo": "https://media.api-sports.io/football/teams/2.png"
+        },
+        "selecao02": {
+            "id": 31,
+            "nome": "Morocco",
+            "escudo": "https://media.api-sports.io/football/teams/31.png"
+        },
+        "score": {
+            "intervalo": {
+                "selecao01": 1,
+                "selecao02": 0
+            },
+            "final": {
+                "selecao01": 2,
+                "selecao02": 0
+            },
+            "prorrogacao": {
+                "selecao01": null,
+                "selecao02": null
+            },
+            "penaltis": {
+                "selecao01": null,
+                "selecao02": null
+            }
+        }
+    },
+    {
+        "id": 979138,
+        "data": "2022-12-17T15:00:00+00:00",
+        "fase": "3rd Place Final",
+        "estadio": "Khalifa International Stadium",
+        "cidade": "Ar-Rayyan",
+        "selecao01": {
+            "id": 3,
+            "nome": "Croatia",
+            "escudo": "https://media.api-sports.io/football/teams/3.png"
+        },
+        "selecao02": {
+            "id": 31,
+            "nome": "Morocco",
+            "escudo": "https://media.api-sports.io/football/teams/31.png"
+        },
+        "score": {
+            "intervalo": {
+                "selecao01": 2,
+                "selecao02": 1
+            },
+            "final": {
+                "selecao01": 2,
+                "selecao02": 1
+            },
+            "prorrogacao": {
+                "selecao01": null,
+                "selecao02": null
+            },
+            "penaltis": {
+                "selecao01": null,
+                "selecao02": null
+            }
+        }
+    },
+    {
+        "id": 979139,
+        "data": "2022-12-18T15:00:00+00:00",
+        "fase": "Final",
+        "estadio": "Lusail Iconic Stadium",
+        "cidade": "Lusail",
+        "selecao01": {
+            "id": 26,
+            "nome": "Argentina",
+            "escudo": "https://media.api-sports.io/football/teams/26.png"
+        },
+        "selecao02": {
+            "id": 2,
+            "nome": "France",
+            "escudo": "https://media.api-sports.io/football/teams/2.png"
+        },
+        "score": {
+            "intervalo": {
+                "selecao01": 2,
+                "selecao02": 0
+            },
+            "final": {
+                "selecao01": 2,
+                "selecao02": 2
+            },
+            "prorrogacao": {
+                "selecao01": 1,
+                "selecao02": 1
+            },
+            "penaltis": {
+                "selecao01": 4,
+                "selecao02": 2
+            }
+        }
+    }
+]

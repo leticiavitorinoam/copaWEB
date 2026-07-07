@@ -1,0 +1,334 @@
+{
+    "selecao01": {
+        "id": 10,
+        "nome": "England",
+        "escudo": "https://media.api-sports.io/football/teams/10.png",
+        "tecnico": "G. Southgate",
+        "formacao": "4-3-3",
+        "titulares": [
+            {
+                "id": 2932,
+                "nome": "J. Pickford",
+                "numeroCamisa": 1,
+                "posicao": "G",
+                "coordenadas": "1:1"
+            },
+            {
+                "id": 627,
+                "nome": "K. Walker",
+                "numeroCamisa": 2,
+                "posicao": "D",
+                "coordenadas": "2:4"
+            },
+            {
+                "id": 626,
+                "nome": "J. Stones",
+                "numeroCamisa": 5,
+                "posicao": "D",
+                "coordenadas": "2:3"
+            },
+            {
+                "id": 2935,
+                "nome": "H. Maguire",
+                "numeroCamisa": 6,
+                "posicao": "D",
+                "coordenadas": "2:2"
+            },
+            {
+                "id": 891,
+                "nome": "L. Shaw",
+                "numeroCamisa": 3,
+                "posicao": "D",
+                "coordenadas": "2:1"
+            },
+            {
+                "id": 292,
+                "nome": "J. Henderson",
+                "numeroCamisa": 8,
+                "posicao": "M",
+                "coordenadas": "3:3"
+            },
+            {
+                "id": 2937,
+                "nome": "D. Rice",
+                "numeroCamisa": 4,
+                "posicao": "M",
+                "coordenadas": "3:2"
+            },
+            {
+                "id": 129718,
+                "nome": "J. Bellingham",
+                "numeroCamisa": 22,
+                "posicao": "M",
+                "coordenadas": "3:1"
+            },
+            {
+                "id": 1460,
+                "nome": "B. Saka",
+                "numeroCamisa": 17,
+                "posicao": "F",
+                "coordenadas": "4:3"
+            },
+            {
+                "id": 184,
+                "nome": "H. Kane",
+                "numeroCamisa": 9,
+                "posicao": "F",
+                "coordenadas": "4:2"
+            },
+            {
+                "id": 631,
+                "nome": "P. Foden",
+                "numeroCamisa": 20,
+                "posicao": "F",
+                "coordenadas": "4:1"
+            }
+        ],
+        "reservas": [
+            {
+                "id": 19187,
+                "nome": "J. Grealish",
+                "numeroCamisa": 7,
+                "posicao": "M"
+            },
+            {
+                "id": 909,
+                "nome": "M. Rashford",
+                "numeroCamisa": 11,
+                "posicao": "F"
+            },
+            {
+                "id": 19220,
+                "nome": "M. Mount",
+                "numeroCamisa": 19,
+                "posicao": "M"
+            },
+            {
+                "id": 175,
+                "nome": "E. Dier",
+                "numeroCamisa": 15,
+                "posicao": "D"
+            },
+            {
+                "id": 19130,
+                "nome": "K. Phillips",
+                "numeroCamisa": 14,
+                "posicao": "M"
+            },
+            {
+                "id": 18911,
+                "nome": "N. Pope",
+                "numeroCamisa": 13,
+                "posicao": "G"
+            },
+            {
+                "id": 283,
+                "nome": "T. Alexander-Arnold",
+                "numeroCamisa": 18,
+                "posicao": "D"
+            },
+            {
+                "id": 18784,
+                "nome": "J. Maddison",
+                "numeroCamisa": 25,
+                "posicao": "M"
+            },
+            {
+                "id": 169,
+                "nome": "K. Trippier",
+                "numeroCamisa": 12,
+                "posicao": "D"
+            },
+            {
+                "id": 67972,
+                "nome": "C. Gallagher",
+                "numeroCamisa": 26,
+                "posicao": "M"
+            },
+            {
+                "id": 18741,
+                "nome": "C. Coady",
+                "numeroCamisa": 16,
+                "posicao": "D"
+            },
+            {
+                "id": 2939,
+                "nome": "C. Wilson",
+                "numeroCamisa": 24,
+                "posicao": "F"
+            },
+            {
+                "id": 20355,
+                "nome": "A. Ramsdale",
+                "numeroCamisa": 23,
+                "posicao": "G"
+            }
+        ]
+    },
+    "selecao02": {
+        "id": 13,
+        "nome": "Senegal",
+        "escudo": "https://media.api-sports.io/football/teams/13.png",
+        "tecnico": "A. Cissé",
+        "formacao": "4-2-3-1",
+        "titulares": [
+            {
+                "id": 2986,
+                "nome": "É. Mendy",
+                "numeroCamisa": 16,
+                "posicao": "G",
+                "coordenadas": "1:1"
+            },
+            {
+                "id": 1264,
+                "nome": "Y. Sabaly",
+                "numeroCamisa": 21,
+                "posicao": "D",
+                "coordenadas": "2:4"
+            },
+            {
+                "id": 318,
+                "nome": "K. Koulibaly",
+                "numeroCamisa": 3,
+                "posicao": "D",
+                "coordenadas": "2:3"
+            },
+            {
+                "id": 7,
+                "nome": "A. Diallo",
+                "numeroCamisa": 22,
+                "posicao": "D",
+                "coordenadas": "2:2"
+            },
+            {
+                "id": 158121,
+                "nome": "I. Jakobs",
+                "numeroCamisa": 14,
+                "posicao": "D",
+                "coordenadas": "2:1"
+            },
+            {
+                "id": 41552,
+                "nome": "P. Ciss",
+                "numeroCamisa": 11,
+                "posicao": "M",
+                "coordenadas": "3:2"
+            },
+            {
+                "id": 18785,
+                "nome": "N. Mendy",
+                "numeroCamisa": 6,
+                "posicao": "M",
+                "coordenadas": "3:1"
+            },
+            {
+                "id": 81,
+                "nome": "K. Diatta",
+                "numeroCamisa": 15,
+                "posicao": "M",
+                "coordenadas": "4:3"
+            },
+            {
+                "id": 18592,
+                "nome": "I. Ndiaye",
+                "numeroCamisa": 13,
+                "posicao": "M",
+                "coordenadas": "4:2"
+            },
+            {
+                "id": 2218,
+                "nome": "I. Sarr",
+                "numeroCamisa": 18,
+                "posicao": "M",
+                "coordenadas": "4:1"
+            },
+            {
+                "id": 22015,
+                "nome": "B. Dia",
+                "numeroCamisa": 9,
+                "posicao": "F",
+                "coordenadas": "5:1"
+            }
+        ],
+        "reservas": [
+            {
+                "id": 20696,
+                "nome": "P. Gueye",
+                "numeroCamisa": 26,
+                "posicao": "M"
+            },
+            {
+                "id": 237129,
+                "nome": "P. Sarr",
+                "numeroCamisa": 17,
+                "posicao": "M"
+            },
+            {
+                "id": 284072,
+                "nome": "B. Dieng",
+                "numeroCamisa": 20,
+                "posicao": "F"
+            },
+            {
+                "id": 19278,
+                "nome": "F. Diédhiou",
+                "numeroCamisa": 19,
+                "posicao": "F"
+            },
+            {
+                "id": 105,
+                "nome": "F. Ballo",
+                "numeroCamisa": 12,
+                "posicao": "D"
+            },
+            {
+                "id": 384,
+                "nome": "M. Loum",
+                "numeroCamisa": 25,
+                "posicao": "M"
+            },
+            {
+                "id": 162236,
+                "nome": "F. Mendy",
+                "numeroCamisa": 2,
+                "posicao": "D"
+            },
+            {
+                "id": 2985,
+                "nome": "A. Gomis",
+                "numeroCamisa": 23,
+                "posicao": "G"
+            },
+            {
+                "id": 1592,
+                "nome": "P. Cissé",
+                "numeroCamisa": 4,
+                "posicao": "D"
+            },
+            {
+                "id": 45021,
+                "nome": "S. Dieng",
+                "numeroCamisa": 1,
+                "posicao": "G"
+            },
+            {
+                "id": 175415,
+                "nome": "M. N'Diaye",
+                "numeroCamisa": 10,
+                "posicao": "D"
+            },
+            {
+                "id": 283058,
+                "nome": "N. Jackson",
+                "numeroCamisa": 7,
+                "posicao": "F"
+            },
+            {
+                "id": 23129,
+                "nome": "M. Name",
+                "numeroCamisa": 24,
+                "posicao": "M"
+            }
+        ]
+    }
+}

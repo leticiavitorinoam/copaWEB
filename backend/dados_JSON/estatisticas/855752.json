@@ -1,0 +1,42 @@
+{
+    "selecao01": {
+        "id": 26,
+        "nome": "Argentina",
+        "escudo": "https://media.api-sports.io/football/teams/26.png",
+        "estatisticas": {
+            "chutesAoGol": 2,
+            "chutesFora": 3,
+            "totalChutes": 5,
+            "posseBola": "59%",
+            "passes": 528,
+            "passesCertos": 446,
+            "precisaoPasses": "84%",
+            "escanteios": 4,
+            "impedimentos": 2,
+            "faltas": 15,
+            "cartoesAmarelos": 1,
+            "cartoesVermelhos": null,
+            "defesasGoleiro": 1
+        }
+    },
+    "selecao02": {
+        "id": 16,
+        "nome": "Mexico",
+        "escudo": "https://media.api-sports.io/football/teams/16.png",
+        "estatisticas": {
+            "chutesAoGol": 1,
+            "chutesFora": 2,
+            "totalChutes": 4,
+            "posseBola": "41%",
+            "passes": 370,
+            "passesCertos": 284,
+            "precisaoPasses": "77%",
+            "escanteios": 2,
+            "impedimentos": 4,
+            "faltas": 19,
+            "cartoesAmarelos": 4,
+            "cartoesVermelhos": null,
+            "defesasGoleiro": 0
+        }
+    }
+}

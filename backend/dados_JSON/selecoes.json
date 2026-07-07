@@ -1,1 +1,226 @@
-[]
+[
+    {
+        "id": 1,
+        "nome": "Belgium",
+        "pais": "Belgium",
+        "fundacao": 1895,
+        "escudo": "https://media.api-sports.io/football/teams/1.png"
+    },
+    {
+        "id": 2,
+        "nome": "France",
+        "pais": "France",
+        "fundacao": 1919,
+        "escudo": "https://media.api-sports.io/football/teams/2.png"
+    },
+    {
+        "id": 3,
+        "nome": "Croatia",
+        "pais": "Croatia",
+        "fundacao": 1912,
+        "escudo": "https://media.api-sports.io/football/teams/3.png"
+    },
+    {
+        "id": 6,
+        "nome": "Brazil",
+        "pais": "Brazil",
+        "fundacao": 1914,
+        "escudo": "https://media.api-sports.io/football/teams/6.png"
+    },
+    {
+        "id": 7,
+        "nome": "Uruguay",
+        "pais": "Uruguay",
+        "fundacao": 1900,
+        "escudo": "https://media.api-sports.io/football/teams/7.png"
+    },
+    {
+        "id": 9,
+        "nome": "Spain",
+        "pais": "Spain",
+        "fundacao": 1913,
+        "escudo": "https://media.api-sports.io/football/teams/9.png"
+    },
+    {
+        "id": 10,
+        "nome": "England",
+        "pais": "England",
+        "fundacao": 1863,
+        "escudo": "https://media.api-sports.io/football/teams/10.png"
+    },
+    {
+        "id": 12,
+        "nome": "Japan",
+        "pais": "Japan",
+        "fundacao": 1921,
+        "escudo": "https://media.api-sports.io/football/teams/12.png"
+    },
+    {
+        "id": 13,
+        "nome": "Senegal",
+        "pais": "Senegal",
+        "fundacao": 1960,
+        "escudo": "https://media.api-sports.io/football/teams/13.png"
+    },
+    {
+        "id": 14,
+        "nome": "Serbia",
+        "pais": "Serbia",
+        "fundacao": 1919,
+        "escudo": "https://media.api-sports.io/football/teams/14.png"
+    },
+    {
+        "id": 15,
+        "nome": "Switzerland",
+        "pais": "Switzerland",
+        "fundacao": 1895,
+        "escudo": "https://media.api-sports.io/football/teams/15.png"
+    },
+    {
+        "id": 16,
+        "nome": "Mexico",
+        "pais": "Mexico",
+        "fundacao": 1927,
+        "escudo": "https://media.api-sports.io/football/teams/16.png"
+    },
+    {
+        "id": 17,
+        "nome": "South Korea",
+        "pais": "South-Korea",
+        "fundacao": 1933,
+        "escudo": "https://media.api-sports.io/football/teams/17.png"
+    },
+    {
+        "id": 20,
+        "nome": "Australia",
+        "pais": "Australia",
+        "fundacao": 1961,
+        "escudo": "https://media.api-sports.io/football/teams/20.png"
+    },
+    {
+        "id": 21,
+        "nome": "Denmark",
+        "pais": "Denmark",
+        "fundacao": 1889,
+        "escudo": "https://media.api-sports.io/football/teams/21.png"
+    },
+    {
+        "id": 22,
+        "nome": "Iran",
+        "pais": "Iran",
+        "fundacao": 1920,
+        "escudo": "https://media.api-sports.io/football/teams/22.png"
+    },
+    {
+        "id": 23,
+        "nome": "Saudi Arabia",
+        "pais": "Saudi-Arabia",
+        "fundacao": 1956,
+        "escudo": "https://media.api-sports.io/football/teams/23.png"
+    },
+    {
+        "id": 24,
+        "nome": "Poland",
+        "pais": "Poland",
+        "fundacao": 1919,
+        "escudo": "https://media.api-sports.io/football/teams/24.png"
+    },
+    {
+        "id": 25,
+        "nome": "Germany",
+        "pais": "Germany",
+        "fundacao": 1900,
+        "escudo": "https://media.api-sports.io/football/teams/25.png"
+    },
+    {
+        "id": 26,
+        "nome": "Argentina",
+        "pais": "Argentina",
+        "fundacao": 1893,
+        "escudo": "https://media.api-sports.io/football/teams/26.png"
+    },
+    {
+        "id": 27,
+        "nome": "Portugal",
+        "pais": "Portugal",
+        "fundacao": 1914,
+        "escudo": "https://media.api-sports.io/football/teams/27.png"
+    },
+    {
+        "id": 28,
+        "nome": "Tunisia",
+        "pais": "Tunisia",
+        "fundacao": 1957,
+        "escudo": "https://media.api-sports.io/football/teams/28.png"
+    },
+    {
+        "id": 29,
+        "nome": "Costa Rica",
+        "pais": "Costa-Rica",
+        "fundacao": 1921,
+        "escudo": "https://media.api-sports.io/football/teams/29.png"
+    },
+    {
+        "id": 31,
+        "nome": "Morocco",
+        "pais": "Morocco",
+        "fundacao": 1955,
+        "escudo": "https://media.api-sports.io/football/teams/31.png"
+    },
+    {
+        "id": 767,
+        "nome": "Wales",
+        "pais": "Wales",
+        "fundacao": 1876,
+        "escudo": "https://media.api-sports.io/football/teams/767.png"
+    },
+    {
+        "id": 1118,
+        "nome": "Netherlands",
+        "pais": "Netherlands",
+        "fundacao": 1889,
+        "escudo": "https://media.api-sports.io/football/teams/1118.png"
+    },
+    {
+        "id": 1504,
+        "nome": "Ghana",
+        "pais": "Ghana",
+        "fundacao": 1957,
+        "escudo": "https://media.api-sports.io/football/teams/1504.png"
+    },
+    {
+        "id": 1530,
+        "nome": "Cameroon",
+        "pais": "Cameroon",
+        "fundacao": 1959,
+        "escudo": "https://media.api-sports.io/football/teams/1530.png"
+    },
+    {
+        "id": 1569,
+        "nome": "Qatar",
+        "pais": "Qatar",
+        "fundacao": 1960,
+        "escudo": "https://media.api-sports.io/football/teams/1569.png"
+    },
+    {
+        "id": 2382,
+        "nome": "Ecuador",
+        "pais": "Ecuador",
+        "fundacao": 1925,
+        "escudo": "https://media.api-sports.io/football/teams/2382.png"
+    },
+    {
+        "id": 2384,
+        "nome": "USA",
+        "pais": "USA",
+        "fundacao": 1913,
+        "escudo": "https://media.api-sports.io/football/teams/2384.png"
+    },
+    {
+        "id": 5529,
+        "nome": "Canada",
+        "pais": "Canada",
+        "fundacao": 1912,
+        "escudo": "https://media.api-sports.io/football/teams/5529.png"
+    }
+]

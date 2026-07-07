@@ -1,0 +1,226 @@
+[
+    {
+        "minuto": 7,
+        "acrescimos": null,
+        "tempo": "1º Tempo",
+        "tipo": "Goal",
+        "detalhe": "Normal Goal",
+        "jogador": "Vinícius Júnior",
+        "assistencia": "Neymar",
+        "selecao": {
+            "id": 6,
+            "nome": "Brazil",
+            "escudo": "https://media.api-sports.io/football/teams/6.png"
+        }
+    },
+    {
+        "minuto": 13,
+        "acrescimos": null,
+        "tempo": "1º Tempo",
+        "tipo": "Goal",
+        "detalhe": "Penalty",
+        "jogador": "Neymar",
+        "assistencia": null,
+        "selecao": {
+            "id": 6,
+            "nome": "Brazil",
+            "escudo": "https://media.api-sports.io/football/teams/6.png"
+        }
+    },
+    {
+        "minuto": 29,
+        "acrescimos": null,
+        "tempo": "1º Tempo",
+        "tipo": "Goal",
+        "detalhe": "Normal Goal",
+        "jogador": "Richarlison",
+        "assistencia": "Thiago Silva",
+        "selecao": {
+            "id": 6,
+            "nome": "Brazil",
+            "escudo": "https://media.api-sports.io/football/teams/6.png"
+        }
+    },
+    {
+        "minuto": 36,
+        "acrescimos": null,
+        "tempo": "1º Tempo",
+        "tipo": "Goal",
+        "detalhe": "Normal Goal",
+        "jogador": "Lucas Paquetá",
+        "assistencia": "Vinícius Júnior",
+        "selecao": {
+            "id": 6,
+            "nome": "Brazil",
+            "escudo": "https://media.api-sports.io/football/teams/6.png"
+        }
+    },
+    {
+        "minuto": 44,
+        "acrescimos": null,
+        "tempo": "1º Tempo",
+        "tipo": "Card",
+        "detalhe": "Yellow Card",
+        "jogador": "Woo-Young Jung",
+        "assistencia": null,
+        "selecao": {
+            "id": 17,
+            "nome": "South Korea",
+            "escudo": "https://media.api-sports.io/football/teams/17.png"
+        }
+    },
+    {
+        "minuto": 46,
+        "acrescimos": null,
+        "tempo": "2º Tempo",
+        "tipo": "subst",
+        "detalhe": "Substitution 1",
+        "jogador": "Kim Jin-Su",
+        "assistencia": "Hong Chul",
+        "selecao": {
+            "id": 17,
+            "nome": "South Korea",
+            "escudo": "https://media.api-sports.io/football/teams/17.png"
+        }
+    },
+    {
+        "minuto": 46,
+        "acrescimos": null,
+        "tempo": "2º Tempo",
+        "tipo": "subst",
+        "detalhe": "Substitution 2",
+        "jogador": "Jung Woo-Young",
+        "assistencia": "Son Jun-Ho",
+        "selecao": {
+            "id": 17,
+            "nome": "South Korea",
+            "escudo": "https://media.api-sports.io/football/teams/17.png"
+        }
+    },
+    {
+        "minuto": 63,
+        "acrescimos": null,
+        "tempo": "2º Tempo",
+        "tipo": "subst",
+        "detalhe": "Substitution 1",
+        "jogador": "Éder Militão",
+        "assistencia": "Dani Alves",
+        "selecao": {
+            "id": 6,
+            "nome": "Brazil",
+            "escudo": "https://media.api-sports.io/football/teams/6.png"
+        }
+    },
+    {
+        "minuto": 65,
+        "acrescimos": null,
+        "tempo": "2º Tempo",
+        "tipo": "subst",
+        "detalhe": "Substitution 3",
+        "jogador": "Hwang In-Beom",
+        "assistencia": "Paik Seung-Ho",
+        "selecao": {
+            "id": 17,
+            "nome": "South Korea",
+            "escudo": "https://media.api-sports.io/football/teams/17.png"
+        }
+    },
+    {
+        "minuto": 72,
+        "acrescimos": null,
+        "tempo": "2º Tempo",
+        "tipo": "subst",
+        "detalhe": "Substitution 2",
+        "jogador": "Danilo",
+        "assistencia": "Bremer",
+        "selecao": {
+            "id": 6,
+            "nome": "Brazil",
+            "escudo": "https://media.api-sports.io/football/teams/6.png"
+        }
+    },
+    {
+        "minuto": 72,
+        "acrescimos": null,
+        "tempo": "2º Tempo",
+        "tipo": "subst",
+        "detalhe": "Substitution 3",
+        "jogador": "Vinícius Júnior",
+        "assistencia": "Gabriel Martinelli",
+        "selecao": {
+            "id": 6,
+            "nome": "Brazil",
+            "escudo": "https://media.api-sports.io/football/teams/6.png"
+        }
+    },
+    {
+        "minuto": 74,
+        "acrescimos": null,
+        "tempo": "2º Tempo",
+        "tipo": "subst",
+        "detalhe": "Substitution 4",
+        "jogador": "Lee Jae-Sung",
+        "assistencia": "Lee Kang-In",
+        "selecao": {
+            "id": 17,
+            "nome": "South Korea",
+            "escudo": "https://media.api-sports.io/football/teams/17.png"
+        }
+    },
+    {
+        "minuto": 76,
+        "acrescimos": null,
+        "tempo": "2º Tempo",
+        "tipo": "Goal",
+        "detalhe": "Normal Goal",
+        "jogador": "Paik Seung-Ho",
+        "assistencia": null,
+        "selecao": {
+            "id": 17,
+            "nome": "South Korea",
+            "escudo": "https://media.api-sports.io/football/teams/17.png"
+        }
+    },
+    {
+        "minuto": 80,
+        "acrescimos": null,
+        "tempo": "2º Tempo",
+        "tipo": "subst",
+        "detalhe": "Substitution 4",
+        "jogador": "Alisson",
+        "assistencia": "Weverton",
+        "selecao": {
+            "id": 6,
+            "nome": "Brazil",
+            "escudo": "https://media.api-sports.io/football/teams/6.png"
+        }
+    },
+    {
+        "minuto": 80,
+        "acrescimos": null,
+        "tempo": "2º Tempo",
+        "tipo": "subst",
+        "detalhe": "Substitution 5",
+        "jogador": "Cho Gue-Sung",
+        "assistencia": "Hwang Ui-Jo",
+        "selecao": {
+            "id": 17,
+            "nome": "South Korea",
+            "escudo": "https://media.api-sports.io/football/teams/17.png"
+        }
+    },
+    {
+        "minuto": 81,
+        "acrescimos": null,
+        "tempo": "2º Tempo",
+        "tipo": "subst",
+        "detalhe": "Substitution 5",
+        "jogador": "Neymar",
+        "assistencia": "Rodrygo",
+        "selecao": {
+            "id": 6,
+            "nome": "Brazil",
+            "escudo": "https://media.api-sports.io/football/teams/6.png"
+        }
+    }
+]

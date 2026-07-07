@@ -1,0 +1,382 @@
+[
+    {
+        "rank": 1,
+        "id": 278,
+        "nome": "Kylian Mbappé",
+        "foto": "https://media.api-sports.io/football/players/278.png",
+        "posicao": "Midfielder",
+        "selecao": {
+            "id": 2,
+            "nome": "France",
+            "escudo": "https://media.api-sports.io/football/teams/2.png"
+        },
+        "gols": 8,
+        "assistencias": 2,
+        "jogos": 7,
+        "minutos": 597,
+        "nota": "7.61",
+        "chutesAoGol": 14,
+        "numeroCamisa": 10
+    },
+    {
+        "rank": 2,
+        "id": 154,
+        "nome": "L. Messi",
+        "foto": "https://media.api-sports.io/football/players/154.png",
+        "posicao": "Attacker",
+        "selecao": {
+            "id": 26,
+            "nome": "Argentina",
+            "escudo": "https://media.api-sports.io/football/teams/26.png"
+        },
+        "gols": 7,
+        "assistencias": 3,
+        "jogos": 7,
+        "minutos": 690,
+        "nota": "8.31",
+        "chutesAoGol": 18,
+        "numeroCamisa": 10
+    },
+    {
+        "rank": 3,
+        "id": 6009,
+        "nome": "J. Álvarez",
+        "foto": "https://media.api-sports.io/football/players/6009.png",
+        "posicao": "Attacker",
+        "selecao": {
+            "id": 26,
+            "nome": "Argentina",
+            "escudo": "https://media.api-sports.io/football/teams/26.png"
+        },
+        "gols": 4,
+        "assistencias": 0,
+        "jogos": 7,
+        "minutos": 467,
+        "nota": "7",
+        "chutesAoGol": 8,
+        "numeroCamisa": 9
+    },
+    {
+        "rank": 4,
+        "id": 2295,
+        "nome": "O. Giroud",
+        "foto": "https://media.api-sports.io/football/players/2295.png",
+        "posicao": "Attacker",
+        "selecao": {
+            "id": 2,
+            "nome": "France",
+            "escudo": "https://media.api-sports.io/football/teams/2.png"
+        },
+        "gols": 4,
+        "assistencias": 0,
+        "jogos": 6,
+        "minutos": 423,
+        "nota": "7.23",
+        "chutesAoGol": 6,
+        "numeroCamisa": 9
+    },
+    {
+        "rank": 5,
+        "id": 41585,
+        "nome": "Gonçalo Ramos",
+        "foto": "https://media.api-sports.io/football/players/41585.png",
+        "posicao": "Attacker",
+        "selecao": {
+            "id": 27,
+            "nome": "Portugal",
+            "escudo": "https://media.api-sports.io/football/teams/27.png"
+        },
+        "gols": 3,
+        "assistencias": 1,
+        "jogos": 4,
+        "minutos": 164,
+        "nota": "7.33",
+        "chutesAoGol": 5,
+        "numeroCamisa": 26
+    },
+    {
+        "rank": 6,
+        "id": 59,
+        "nome": "Álvaro Morata",
+        "foto": "https://media.api-sports.io/football/players/59.png",
+        "posicao": "Attacker",
+        "selecao": {
+            "id": 9,
+            "nome": "Spain",
+            "escudo": "https://media.api-sports.io/football/teams/9.png"
+        },
+        "gols": 3,
+        "assistencias": 1,
+        "jogos": 4,
+        "minutos": 183,
+        "nota": "7.1",
+        "chutesAoGol": 5,
+        "numeroCamisa": 7
+    },
+    {
+        "rank": 7,
+        "id": 909,
+        "nome": "M. Rashford",
+        "foto": "https://media.api-sports.io/football/players/909.png",
+        "posicao": "Attacker",
+        "selecao": {
+            "id": 10,
+            "nome": "England",
+            "escudo": "https://media.api-sports.io/football/teams/10.png"
+        },
+        "gols": 3,
+        "assistencias": 0,
+        "jogos": 5,
+        "minutos": 148,
+        "nota": "7.2",
+        "chutesAoGol": 6,
+        "numeroCamisa": 11
+    },
+    {
+        "rank": 8,
+        "id": 247,
+        "nome": "C. Gakpo",
+        "foto": "https://media.api-sports.io/football/players/247.png",
+        "posicao": "Attacker",
+        "selecao": {
+            "id": 1118,
+            "nome": "Netherlands",
+            "escudo": "https://media.api-sports.io/football/teams/1118.png"
+        },
+        "gols": 3,
+        "assistencias": 0,
+        "jogos": 5,
+        "minutos": 453,
+        "nota": "7.48",
+        "chutesAoGol": 3,
+        "numeroCamisa": 8
+    },
+    {
+        "rank": 9,
+        "id": 1460,
+        "nome": "B. Saka",
+        "foto": "https://media.api-sports.io/football/players/1460.png",
+        "posicao": "Midfielder",
+        "selecao": {
+            "id": 10,
+            "nome": "England",
+            "escudo": "https://media.api-sports.io/football/teams/10.png"
+        },
+        "gols": 3,
+        "assistencias": 0,
+        "jogos": 4,
+        "minutos": 293,
+        "nota": "7.55",
+        "chutesAoGol": 5,
+        "numeroCamisa": 17
+    },
+    {
+        "rank": 10,
+        "id": 2413,
+        "nome": "Richarlison",
+        "foto": "https://media.api-sports.io/football/players/2413.png",
+        "posicao": "Attacker",
+        "selecao": {
+            "id": 6,
+            "nome": "Brazil",
+            "escudo": "https://media.api-sports.io/football/teams/6.png"
+        },
+        "gols": 3,
+        "assistencias": 0,
+        "jogos": 4,
+        "minutos": 326,
+        "nota": "7.43",
+        "chutesAoGol": 4,
+        "numeroCamisa": 9
+    },
+    {
+        "rank": 11,
+        "id": 35533,
+        "nome": "E. Valencia",
+        "foto": "https://media.api-sports.io/football/players/35533.png",
+        "posicao": "Attacker",
+        "selecao": {
+            "id": 2382,
+            "nome": "Ecuador",
+            "escudo": "https://media.api-sports.io/football/teams/2382.png"
+        },
+        "gols": 3,
+        "assistencias": 0,
+        "jogos": 3,
+        "minutos": 256,
+        "nota": "7.33",
+        "chutesAoGol": 4,
+        "numeroCamisa": 13
+    },
+    {
+        "rank": 12,
+        "id": 25391,
+        "nome": "N. Füllkrug",
+        "foto": "https://media.api-sports.io/football/players/25391.png",
+        "posicao": "Attacker",
+        "selecao": {
+            "id": 25,
+            "nome": "Germany",
+            "escudo": "https://media.api-sports.io/football/teams/25.png"
+        },
+        "gols": 2,
+        "assistencias": 1,
+        "jogos": 3,
+        "minutos": 66,
+        "nota": "7.2",
+        "chutesAoGol": 3,
+        "numeroCamisa": 9
+    },
+    {
+        "rank": 13,
+        "id": 386,
+        "nome": "V. Aboubakar",
+        "foto": "https://media.api-sports.io/football/players/386.png",
+        "posicao": "Attacker",
+        "selecao": {
+            "id": 1530,
+            "nome": "Cameroon",
+            "escudo": "https://media.api-sports.io/football/teams/1530.png"
+        },
+        "gols": 2,
+        "assistencias": 1,
+        "jogos": 3,
+        "minutos": 141,
+        "nota": "7.4",
+        "chutesAoGol": 3,
+        "numeroCamisa": 10
+    },
+    {
+        "rank": 14,
+        "id": 726,
+        "nome": "A. Kramarić",
+        "foto": "https://media.api-sports.io/football/players/726.png",
+        "posicao": "Attacker",
+        "selecao": {
+            "id": 3,
+            "nome": "Croatia",
+            "escudo": "https://media.api-sports.io/football/teams/3.png"
+        },
+        "gols": 2,
+        "assistencias": 0,
+        "jogos": 7,
+        "minutos": 481,
+        "nota": "6.8",
+        "chutesAoGol": 4,
+        "numeroCamisa": 9
+    },
+    {
+        "rank": 15,
+        "id": 47422,
+        "nome": "Y. En-Nesyri",
+        "foto": "https://media.api-sports.io/football/players/47422.png",
+        "posicao": "Attacker",
+        "selecao": {
+            "id": 31,
+            "nome": "Morocco",
+            "escudo": "https://media.api-sports.io/football/teams/31.png"
+        },
+        "gols": 2,
+        "assistencias": 0,
+        "jogos": 7,
+        "minutos": 547,
+        "nota": "6.86",
+        "chutesAoGol": 3,
+        "numeroCamisa": 19
+    },
+    {
+        "rank": 16,
+        "id": 22236,
+        "nome": "Rafael Leão",
+        "foto": "https://media.api-sports.io/football/players/22236.png",
+        "posicao": "Attacker",
+        "selecao": {
+            "id": 27,
+            "nome": "Portugal",
+            "escudo": "https://media.api-sports.io/football/teams/27.png"
+        },
+        "gols": 2,
+        "assistencias": 0,
+        "jogos": 5,
+        "minutos": 88,
+        "nota": "7.02",
+        "chutesAoGol": 2,
+        "numeroCamisa": 15
+    },
+    {
+        "rank": 17,
+        "id": 25416,
+        "nome": "W. Weghorst",
+        "foto": "https://media.api-sports.io/football/players/25416.png",
+        "posicao": "Attacker",
+        "selecao": {
+            "id": 1118,
+            "nome": "Netherlands",
+            "escudo": "https://media.api-sports.io/football/teams/1118.png"
+        },
+        "gols": 2,
+        "assistencias": 0,
+        "jogos": 4,
+        "minutos": 61,
+        "nota": "6.97",
+        "chutesAoGol": 2,
+        "numeroCamisa": 19
+    },
+    {
+        "rank": 18,
+        "id": 2598,
+        "nome": "R. Dōan",
+        "foto": "https://media.api-sports.io/football/players/2598.png",
+        "posicao": "Attacker",
+        "selecao": {
+            "id": 12,
+            "nome": "Japan",
+            "escudo": "https://media.api-sports.io/football/teams/12.png"
+        },
+        "gols": 2,
+        "assistencias": 0,
+        "jogos": 4,
+        "minutos": 218,
+        "nota": "7.18",
+        "chutesAoGol": 3,
+        "numeroCamisa": 8
+    },
+    {
+        "rank": 19,
+        "id": 34211,
+        "nome": "Cho Gue-Sung",
+        "foto": "https://media.api-sports.io/football/players/34211.png",
+        "posicao": "Attacker",
+        "selecao": {
+            "id": 17,
+            "nome": "South Korea",
+            "escudo": "https://media.api-sports.io/football/teams/17.png"
+        },
+        "gols": 2,
+        "assistencias": 0,
+        "jogos": 4,
+        "minutos": 275,
+        "nota": "6.98",
+        "chutesAoGol": 5,
+        "numeroCamisa": 9
+    },
+    {
+        "rank": 20,
+        "id": 421,
+        "nome": "B. Embolo",
+        "foto": "https://media.api-sports.io/football/players/421.png",
+        "posicao": "Attacker",
+        "selecao": {
+            "id": 15,
+            "nome": "Switzerland",
+            "escudo": "https://media.api-sports.io/football/teams/15.png"
+        },
+        "gols": 2,
+        "assistencias": 0,
+        "jogos": 4,
+        "minutos": 326,
+        "nota": "6.68",
+        "chutesAoGol": 3,
+        "numeroCamisa": 7
+    }
+]

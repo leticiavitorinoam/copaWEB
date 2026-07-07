@@ -1,0 +1,42 @@
+{
+    "selecao01": {
+        "id": 12,
+        "nome": "Japan",
+        "escudo": "https://media.api-sports.io/football/teams/12.png",
+        "estatisticas": {
+            "chutesAoGol": 3,
+            "chutesFora": 3,
+            "totalChutes": 13,
+            "posseBola": "57%",
+            "passes": 582,
+            "passesCertos": 505,
+            "precisaoPasses": "87%",
+            "escanteios": 5,
+            "impedimentos": 0,
+            "faltas": 22,
+            "cartoesAmarelos": 3,
+            "cartoesVermelhos": null,
+            "defesasGoleiro": 0
+        }
+    },
+    "selecao02": {
+        "id": 29,
+        "nome": "Costa Rica",
+        "escudo": "https://media.api-sports.io/football/teams/29.png",
+        "estatisticas": {
+            "chutesAoGol": 1,
+            "chutesFora": 2,
+            "totalChutes": 4,
+            "posseBola": "43%",
+            "passes": 443,
+            "passesCertos": 353,
+            "precisaoPasses": "80%",
+            "escanteios": 0,
+            "impedimentos": 2,
+            "faltas": 9,
+            "cartoesAmarelos": 3,
+            "cartoesVermelhos": null,
+            "defesasGoleiro": 3
+        }
+    }
+}

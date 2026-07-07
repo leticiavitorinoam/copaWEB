@@ -1,0 +1,590 @@
+[
+    {
+        "minuto": -5,
+        "acrescimos": null,
+        "tempo": "1º Tempo",
+        "tipo": "Card",
+        "detalhe": "Yellow Card",
+        "jogador": "Steven Bergwijn",
+        "assistencia": null,
+        "selecao": {
+            "id": 1118,
+            "nome": "Netherlands",
+            "escudo": "https://media.api-sports.io/football/teams/1118.png"
+        }
+    },
+    {
+        "minuto": -5,
+        "acrescimos": null,
+        "tempo": "1º Tempo",
+        "tipo": "Card",
+        "detalhe": "Yellow Card",
+        "jogador": "Wout Weghorst",
+        "assistencia": null,
+        "selecao": {
+            "id": 1118,
+            "nome": "Netherlands",
+            "escudo": "https://media.api-sports.io/football/teams/1118.png"
+        }
+    },
+    {
+        "minuto": 35,
+        "acrescimos": null,
+        "tempo": "1º Tempo",
+        "tipo": "Goal",
+        "detalhe": "Normal Goal",
+        "jogador": "N. Molina",
+        "assistencia": "L. Messi",
+        "selecao": {
+            "id": 26,
+            "nome": "Argentina",
+            "escudo": "https://media.api-sports.io/football/teams/26.png"
+        }
+    },
+    {
+        "minuto": 43,
+        "acrescimos": null,
+        "tempo": "1º Tempo",
+        "tipo": "Card",
+        "detalhe": "Yellow Card",
+        "jogador": "Jurriën Timber",
+        "assistencia": null,
+        "selecao": {
+            "id": 1118,
+            "nome": "Netherlands",
+            "escudo": "https://media.api-sports.io/football/teams/1118.png"
+        }
+    },
+    {
+        "minuto": 43,
+        "acrescimos": null,
+        "tempo": "1º Tempo",
+        "tipo": "Card",
+        "detalhe": "Yellow Card",
+        "jogador": "Marcos Acuña",
+        "assistencia": null,
+        "selecao": {
+            "id": 26,
+            "nome": "Argentina",
+            "escudo": "https://media.api-sports.io/football/teams/26.png"
+        }
+    },
+    {
+        "minuto": 45,
+        "acrescimos": null,
+        "tempo": "1º Tempo",
+        "tipo": "Card",
+        "detalhe": "Yellow Card",
+        "jogador": "Cristian Romero",
+        "assistencia": null,
+        "selecao": {
+            "id": 26,
+            "nome": "Argentina",
+            "escudo": "https://media.api-sports.io/football/teams/26.png"
+        }
+    },
+    {
+        "minuto": 46,
+        "acrescimos": null,
+        "tempo": "2º Tempo",
+        "tipo": "subst",
+        "detalhe": "Substitution 1",
+        "jogador": "S. Bergwijn",
+        "assistencia": "S. Berghuis",
+        "selecao": {
+            "id": 1118,
+            "nome": "Netherlands",
+            "escudo": "https://media.api-sports.io/football/teams/1118.png"
+        }
+    },
+    {
+        "minuto": 46,
+        "acrescimos": null,
+        "tempo": "2º Tempo",
+        "tipo": "subst",
+        "detalhe": "Substitution 2",
+        "jogador": "M. de Roon",
+        "assistencia": "T. Koopmeiners",
+        "selecao": {
+            "id": 1118,
+            "nome": "Netherlands",
+            "escudo": "https://media.api-sports.io/football/teams/1118.png"
+        }
+    },
+    {
+        "minuto": 64,
+        "acrescimos": null,
+        "tempo": "2º Tempo",
+        "tipo": "subst",
+        "detalhe": "Substitution 3",
+        "jogador": "D. Blind",
+        "assistencia": "L. de Jong",
+        "selecao": {
+            "id": 1118,
+            "nome": "Netherlands",
+            "escudo": "https://media.api-sports.io/football/teams/1118.png"
+        }
+    },
+    {
+        "minuto": 66,
+        "acrescimos": null,
+        "tempo": "2º Tempo",
+        "tipo": "subst",
+        "detalhe": "Substitution 1",
+        "jogador": "R. De Paul",
+        "assistencia": "L. Paredes",
+        "selecao": {
+            "id": 26,
+            "nome": "Argentina",
+            "escudo": "https://media.api-sports.io/football/teams/26.png"
+        }
+    },
+    {
+        "minuto": 73,
+        "acrescimos": null,
+        "tempo": "2º Tempo",
+        "tipo": "Goal",
+        "detalhe": "Penalty",
+        "jogador": "L. Messi",
+        "assistencia": null,
+        "selecao": {
+            "id": 26,
+            "nome": "Argentina",
+            "escudo": "https://media.api-sports.io/football/teams/26.png"
+        }
+    },
+    {
+        "minuto": 76,
+        "acrescimos": null,
+        "tempo": "2º Tempo",
+        "tipo": "Card",
+        "detalhe": "Yellow Card",
+        "jogador": "Memphis Depay",
+        "assistencia": null,
+        "selecao": {
+            "id": 1118,
+            "nome": "Netherlands",
+            "escudo": "https://media.api-sports.io/football/teams/1118.png"
+        }
+    },
+    {
+        "minuto": 76,
+        "acrescimos": null,
+        "tempo": "2º Tempo",
+        "tipo": "Card",
+        "detalhe": "Yellow Card",
+        "jogador": "Lisandro Martínez",
+        "assistencia": null,
+        "selecao": {
+            "id": 26,
+            "nome": "Argentina",
+            "escudo": "https://media.api-sports.io/football/teams/26.png"
+        }
+    },
+    {
+        "minuto": 78,
+        "acrescimos": null,
+        "tempo": "2º Tempo",
+        "tipo": "subst",
+        "detalhe": "Substitution 4",
+        "jogador": "M. Depay",
+        "assistencia": "W. Weghorst",
+        "selecao": {
+            "id": 1118,
+            "nome": "Netherlands",
+            "escudo": "https://media.api-sports.io/football/teams/1118.png"
+        }
+    },
+    {
+        "minuto": 78,
+        "acrescimos": null,
+        "tempo": "2º Tempo",
+        "tipo": "subst",
+        "detalhe": "Substitution 2",
+        "jogador": "C. Romero",
+        "assistencia": "G. Pezzella",
+        "selecao": {
+            "id": 26,
+            "nome": "Argentina",
+            "escudo": "https://media.api-sports.io/football/teams/26.png"
+        }
+    },
+    {
+        "minuto": 78,
+        "acrescimos": null,
+        "tempo": "2º Tempo",
+        "tipo": "subst",
+        "detalhe": "Substitution 3",
+        "jogador": "M. Acuña",
+        "assistencia": "N. Tagliafico",
+        "selecao": {
+            "id": 26,
+            "nome": "Argentina",
+            "escudo": "https://media.api-sports.io/football/teams/26.png"
+        }
+    },
+    {
+        "minuto": 82,
+        "acrescimos": null,
+        "tempo": "2º Tempo",
+        "tipo": "subst",
+        "detalhe": "Substitution 4",
+        "jogador": "J. Álvarez",
+        "assistencia": "Lautaro Martínez",
+        "selecao": {
+            "id": 26,
+            "nome": "Argentina",
+            "escudo": "https://media.api-sports.io/football/teams/26.png"
+        }
+    },
+    {
+        "minuto": 83,
+        "acrescimos": null,
+        "tempo": "2º Tempo",
+        "tipo": "Goal",
+        "detalhe": "Normal Goal",
+        "jogador": "W. Weghorst",
+        "assistencia": "S. Berghuis",
+        "selecao": {
+            "id": 1118,
+            "nome": "Netherlands",
+            "escudo": "https://media.api-sports.io/football/teams/1118.png"
+        }
+    },
+    {
+        "minuto": 88,
+        "acrescimos": null,
+        "tempo": "2º Tempo",
+        "tipo": "Card",
+        "detalhe": "Yellow Card",
+        "jogador": "Steven Berghuis",
+        "assistencia": null,
+        "selecao": {
+            "id": 1118,
+            "nome": "Netherlands",
+            "escudo": "https://media.api-sports.io/football/teams/1118.png"
+        }
+    },
+    {
+        "minuto": 89,
+        "acrescimos": null,
+        "tempo": "2º Tempo",
+        "tipo": "Card",
+        "detalhe": "Yellow Card",
+        "jogador": "Leandro Paredes",
+        "assistencia": null,
+        "selecao": {
+            "id": 26,
+            "nome": "Argentina",
+            "escudo": "https://media.api-sports.io/football/teams/26.png"
+        }
+    },
+    {
+        "minuto": 90,
+        "acrescimos": 11,
+        "tempo": "2º Tempo",
+        "tipo": "Goal",
+        "detalhe": "Normal Goal",
+        "jogador": "W. Weghorst                                  1",
+        "assistencia": "T. Koopmeiners",
+        "selecao": {
+            "id": 1118,
+            "nome": "Netherlands",
+            "escudo": "https://media.api-sports.io/football/teams/1118.png"
+        }
+    },
+    {
+        "minuto": 90,
+        "acrescimos": 11,
+        "tempo": "2º Tempo",
+        "tipo": "Card",
+        "detalhe": "Yellow Card",
+        "jogador": "Nicolás Otamendi",
+        "assistencia": null,
+        "selecao": {
+            "id": 26,
+            "nome": "Argentina",
+            "escudo": "https://media.api-sports.io/football/teams/26.png"
+        }
+    },
+    {
+        "minuto": 90,
+        "acrescimos": 10,
+        "tempo": "2º Tempo",
+        "tipo": "Card",
+        "detalhe": "Yellow Card",
+        "jogador": "Lionel Messi",
+        "assistencia": null,
+        "selecao": {
+            "id": 26,
+            "nome": "Argentina",
+            "escudo": "https://media.api-sports.io/football/teams/26.png"
+        }
+    },
+    {
+        "minuto": 105,
+        "acrescimos": null,
+        "tempo": "Prorrogação",
+        "tipo": "subst",
+        "detalhe": "Substitution 5",
+        "jogador": "N. Molina",
+        "assistencia": "G. Montiel",
+        "selecao": {
+            "id": 26,
+            "nome": "Argentina",
+            "escudo": "https://media.api-sports.io/football/teams/26.png"
+        }
+    },
+    {
+        "minuto": 109,
+        "acrescimos": null,
+        "tempo": "Prorrogação",
+        "tipo": "Card",
+        "detalhe": "Yellow Card",
+        "jogador": "Gonzalo Montiel",
+        "assistencia": null,
+        "selecao": {
+            "id": 26,
+            "nome": "Argentina",
+            "escudo": "https://media.api-sports.io/football/teams/26.png"
+        }
+    },
+    {
+        "minuto": 112,
+        "acrescimos": null,
+        "tempo": "Prorrogação",
+        "tipo": "Card",
+        "detalhe": "Yellow Card",
+        "jogador": "Germán Pezzella",
+        "assistencia": null,
+        "selecao": {
+            "id": 26,
+            "nome": "Argentina",
+            "escudo": "https://media.api-sports.io/football/teams/26.png"
+        }
+    },
+    {
+        "minuto": 112,
+        "acrescimos": null,
+        "tempo": "Prorrogação",
+        "tipo": "subst",
+        "detalhe": "Substitution 6",
+        "jogador": "Lisandro Martínez",
+        "assistencia": "Á. Di María",
+        "selecao": {
+            "id": 26,
+            "nome": "Argentina",
+            "escudo": "https://media.api-sports.io/football/teams/26.png"
+        }
+    },
+    {
+        "minuto": 113,
+        "acrescimos": null,
+        "tempo": "Prorrogação",
+        "tipo": "subst",
+        "detalhe": "Substitution 5",
+        "jogador": "C. Gakpo",
+        "assistencia": "N. Lang",
+        "selecao": {
+            "id": 1118,
+            "nome": "Netherlands",
+            "escudo": "https://media.api-sports.io/football/teams/1118.png"
+        }
+    },
+    {
+        "minuto": 120,
+        "acrescimos": 10,
+        "tempo": "Prorrogação",
+        "tipo": "Goal",
+        "detalhe": "Penalty",
+        "jogador": "Lautaro Martínez",
+        "assistencia": null,
+        "selecao": {
+            "id": 26,
+            "nome": "Argentina",
+            "escudo": "https://media.api-sports.io/football/teams/26.png"
+        }
+    },
+    {
+        "minuto": 120,
+        "acrescimos": 1,
+        "tempo": "Prorrogação",
+        "tipo": "Goal",
+        "detalhe": "Missed Penalty",
+        "jogador": "V. van Dijk",
+        "assistencia": null,
+        "selecao": {
+            "id": 1118,
+            "nome": "Netherlands",
+            "escudo": "https://media.api-sports.io/football/teams/1118.png"
+        }
+    },
+    {
+        "minuto": 120,
+        "acrescimos": 2,
+        "tempo": "Prorrogação",
+        "tipo": "Goal",
+        "detalhe": "Penalty",
+        "jogador": "L. Messi",
+        "assistencia": null,
+        "selecao": {
+            "id": 26,
+            "nome": "Argentina",
+            "escudo": "https://media.api-sports.io/football/teams/26.png"
+        }
+    },
+    {
+        "minuto": 120,
+        "acrescimos": 3,
+        "tempo": "Prorrogação",
+        "tipo": "Goal",
+        "detalhe": "Missed Penalty",
+        "jogador": "S. Berghuis",
+        "assistencia": null,
+        "selecao": {
+            "id": 1118,
+            "nome": "Netherlands",
+            "escudo": "https://media.api-sports.io/football/teams/1118.png"
+        }
+    },
+    {
+        "minuto": 120,
+        "acrescimos": 4,
+        "tempo": "Prorrogação",
+        "tipo": "Goal",
+        "detalhe": "Penalty",
+        "jogador": "L. Paredes",
+        "assistencia": null,
+        "selecao": {
+            "id": 26,
+            "nome": "Argentina",
+            "escudo": "https://media.api-sports.io/football/teams/26.png"
+        }
+    },
+    {
+        "minuto": 120,
+        "acrescimos": 5,
+        "tempo": "Prorrogação",
+        "tipo": "Goal",
+        "detalhe": "Penalty",
+        "jogador": "T. Koopmeiners",
+        "assistencia": null,
+        "selecao": {
+            "id": 1118,
+            "nome": "Netherlands",
+            "escudo": "https://media.api-sports.io/football/teams/1118.png"
+        }
+    },
+    {
+        "minuto": 120,
+        "acrescimos": 6,
+        "tempo": "Prorrogação",
+        "tipo": "Goal",
+        "detalhe": "Penalty",
+        "jogador": "W. Weghorst",
+        "assistencia": null,
+        "selecao": {
+            "id": 1118,
+            "nome": "Netherlands",
+            "escudo": "https://media.api-sports.io/football/teams/1118.png"
+        }
+    },
+    {
+        "minuto": 120,
+        "acrescimos": 7,
+        "tempo": "Prorrogação",
+        "tipo": "Goal",
+        "detalhe": "Penalty",
+        "jogador": "G. Montiel",
+        "assistencia": null,
+        "selecao": {
+            "id": 26,
+            "nome": "Argentina",
+            "escudo": "https://media.api-sports.io/football/teams/26.png"
+        }
+    },
+    {
+        "minuto": 120,
+        "acrescimos": 8,
+        "tempo": "Prorrogação",
+        "tipo": "Goal",
+        "detalhe": "Missed Penalty",
+        "jogador": "E. Fernández",
+        "assistencia": null,
+        "selecao": {
+            "id": 26,
+            "nome": "Argentina",
+            "escudo": "https://media.api-sports.io/football/teams/26.png"
+        }
+    },
+    {
+        "minuto": 120,
+        "acrescimos": 9,
+        "tempo": "Prorrogação",
+        "tipo": "Goal",
+        "detalhe": "Penalty",
+        "jogador": "L. de Jong",
+        "assistencia": null,
+        "selecao": {
+            "id": 1118,
+            "nome": "Netherlands",
+            "escudo": "https://media.api-sports.io/football/teams/1118.png"
+        }
+    },
+    {
+        "minuto": 128,
+        "acrescimos": null,
+        "tempo": "Prorrogação",
+        "tipo": "Card",
+        "detalhe": "Red Card",
+        "jogador": "Denzel Dumfries",
+        "assistencia": null,
+        "selecao": {
+            "id": 1118,
+            "nome": "Netherlands",
+            "escudo": "https://media.api-sports.io/football/teams/1118.png"
+        }
+    },
+    {
+        "minuto": 128,
+        "acrescimos": null,
+        "tempo": "Prorrogação",
+        "tipo": "Card",
+        "detalhe": "Yellow Card",
+        "jogador": "Denzel Dumfries",
+        "assistencia": null,
+        "selecao": {
+            "id": 1118,
+            "nome": "Netherlands",
+            "escudo": "https://media.api-sports.io/football/teams/1118.png"
+        }
+    },
+    {
+        "minuto": 128,
+        "acrescimos": null,
+        "tempo": "Prorrogação",
+        "tipo": "Card",
+        "detalhe": "Yellow Card",
+        "jogador": "Noa Lang",
+        "assistencia": null,
+        "selecao": {
+            "id": 1118,
+            "nome": "Netherlands",
+            "escudo": "https://media.api-sports.io/football/teams/1118.png"
+        }
+    },
+    {
+        "minuto": 128,
+        "acrescimos": null,
+        "tempo": "Prorrogação",
+        "tipo": "Card",
+        "detalhe": "Yellow Card",
+        "jogador": "Denzel Dumfries",
+        "assistencia": null,
+        "selecao": {
+            "id": 1118,
+            "nome": "Netherlands",
+            "escudo": "https://media.api-sports.io/football/teams/1118.png"
+        }
+    }
+]

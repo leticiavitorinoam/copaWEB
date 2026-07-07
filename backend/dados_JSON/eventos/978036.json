@@ -1,0 +1,184 @@
+[
+    {
+        "minuto": 17,
+        "acrescimos": null,
+        "tempo": "1º Tempo",
+        "tipo": "Goal",
+        "detalhe": "Normal Goal",
+        "jogador": "A. Tchouaméni",
+        "assistencia": "A. Griezmann",
+        "selecao": {
+            "id": 2,
+            "nome": "France",
+            "escudo": "https://media.api-sports.io/football/teams/2.png"
+        }
+    },
+    {
+        "minuto": 43,
+        "acrescimos": null,
+        "tempo": "1º Tempo",
+        "tipo": "Card",
+        "detalhe": "Yellow Card",
+        "jogador": "Antoine Griezmann",
+        "assistencia": null,
+        "selecao": {
+            "id": 2,
+            "nome": "France",
+            "escudo": "https://media.api-sports.io/football/teams/2.png"
+        }
+    },
+    {
+        "minuto": 46,
+        "acrescimos": null,
+        "tempo": "2º Tempo",
+        "tipo": "Card",
+        "detalhe": "Yellow Card",
+        "jogador": "Ousmane Dembélé",
+        "assistencia": null,
+        "selecao": {
+            "id": 2,
+            "nome": "France",
+            "escudo": "https://media.api-sports.io/football/teams/2.png"
+        }
+    },
+    {
+        "minuto": 54,
+        "acrescimos": null,
+        "tempo": "2º Tempo",
+        "tipo": "Goal",
+        "detalhe": "Penalty",
+        "jogador": "H. Kane",
+        "assistencia": null,
+        "selecao": {
+            "id": 10,
+            "nome": "England",
+            "escudo": "https://media.api-sports.io/football/teams/10.png"
+        }
+    },
+    {
+        "minuto": 78,
+        "acrescimos": null,
+        "tempo": "2º Tempo",
+        "tipo": "Goal",
+        "detalhe": "Normal Goal",
+        "jogador": "O. Giroud",
+        "assistencia": "A. Griezmann",
+        "selecao": {
+            "id": 2,
+            "nome": "France",
+            "escudo": "https://media.api-sports.io/football/teams/2.png"
+        }
+    },
+    {
+        "minuto": 79,
+        "acrescimos": null,
+        "tempo": "2º Tempo",
+        "tipo": "subst",
+        "detalhe": "Substitution 1",
+        "jogador": "J. Henderson",
+        "assistencia": "M. Mount",
+        "selecao": {
+            "id": 10,
+            "nome": "England",
+            "escudo": "https://media.api-sports.io/football/teams/10.png"
+        }
+    },
+    {
+        "minuto": 79,
+        "acrescimos": null,
+        "tempo": "2º Tempo",
+        "tipo": "subst",
+        "detalhe": "Substitution 2",
+        "jogador": "B. Saka",
+        "assistencia": "R. Sterling",
+        "selecao": {
+            "id": 10,
+            "nome": "England",
+            "escudo": "https://media.api-sports.io/football/teams/10.png"
+        }
+    },
+    {
+        "minuto": 79,
+        "acrescimos": null,
+        "tempo": "2º Tempo",
+        "tipo": "subst",
+        "detalhe": "Substitution 1",
+        "jogador": "O. Dembélé",
+        "assistencia": "K. Coman",
+        "selecao": {
+            "id": 2,
+            "nome": "France",
+            "escudo": "https://media.api-sports.io/football/teams/2.png"
+        }
+    },
+    {
+        "minuto": 81,
+        "acrescimos": null,
+        "tempo": "2º Tempo",
+        "tipo": "Var",
+        "detalhe": "Penalty confirmed",
+        "jogador": "Mason Mount",
+        "assistencia": null,
+        "selecao": {
+            "id": 10,
+            "nome": "England",
+            "escudo": "https://media.api-sports.io/football/teams/10.png"
+        }
+    },
+    {
+        "minuto": 82,
+        "acrescimos": null,
+        "tempo": "2º Tempo",
+        "tipo": "Card",
+        "detalhe": "Yellow Card",
+        "jogador": "Theo Hernández",
+        "assistencia": null,
+        "selecao": {
+            "id": 2,
+            "nome": "France",
+            "escudo": "https://media.api-sports.io/football/teams/2.png"
+        }
+    },
+    {
+        "minuto": 85,
+        "acrescimos": null,
+        "tempo": "2º Tempo",
+        "tipo": "subst",
+        "detalhe": "Substitution 3",
+        "jogador": "P. Foden",
+        "assistencia": "M. Rashford",
+        "selecao": {
+            "id": 10,
+            "nome": "England",
+            "escudo": "https://media.api-sports.io/football/teams/10.png"
+        }
+    },
+    {
+        "minuto": 90,
+        "acrescimos": null,
+        "tempo": "2º Tempo",
+        "tipo": "Card",
+        "detalhe": "Yellow Card",
+        "jogador": "Harry Maguire",
+        "assistencia": null,
+        "selecao": {
+            "id": 10,
+            "nome": "England",
+            "escudo": "https://media.api-sports.io/football/teams/10.png"
+        }
+    },
+    {
+        "minuto": 90,
+        "acrescimos": 8,
+        "tempo": "2º Tempo",
+        "tipo": "subst",
+        "detalhe": "Substitution 4",
+        "jogador": "J. Stones",
+        "assistencia": "J. Grealish",
+        "selecao": {
+            "id": 10,
+            "nome": "England",
+            "escudo": "https://media.api-sports.io/football/teams/10.png"
+        }
+    }
+]

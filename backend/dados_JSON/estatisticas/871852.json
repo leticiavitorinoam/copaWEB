@@ -1,0 +1,42 @@
+{
+    "selecao01": {
+        "id": 28,
+        "nome": "Tunisia",
+        "escudo": "https://media.api-sports.io/football/teams/28.png",
+        "estatisticas": {
+            "chutesAoGol": 4,
+            "chutesFora": 4,
+            "totalChutes": 14,
+            "posseBola": "58%",
+            "passes": 497,
+            "passesCertos": 378,
+            "precisaoPasses": "76%",
+            "escanteios": 5,
+            "impedimentos": 3,
+            "faltas": 16,
+            "cartoesAmarelos": 3,
+            "cartoesVermelhos": null,
+            "defesasGoleiro": 1
+        }
+    },
+    "selecao02": {
+        "id": 20,
+        "nome": "Australia",
+        "escudo": "https://media.api-sports.io/football/teams/20.png",
+        "estatisticas": {
+            "chutesAoGol": 2,
+            "chutesFora": 5,
+            "totalChutes": 9,
+            "posseBola": "42%",
+            "passes": 351,
+            "passesCertos": 239,
+            "precisaoPasses": "68%",
+            "escanteios": 2,
+            "impedimentos": 0,
+            "faltas": 15,
+            "cartoesAmarelos": 0,
+            "cartoesVermelhos": null,
+            "defesasGoleiro": 4
+        }
+    }
+}

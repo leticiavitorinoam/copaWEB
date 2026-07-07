@@ -1,0 +1,296 @@
+[
+    {
+        "minuto": 63,
+        "acrescimos": null,
+        "tempo": "2º Tempo",
+        "tipo": "subst",
+        "detalhe": "Substitution 1",
+        "jogador": "Gavi",
+        "assistencia": "Carlos Soler",
+        "selecao": {
+            "id": 9,
+            "nome": "Spain",
+            "escudo": "https://media.api-sports.io/football/teams/9.png"
+        }
+    },
+    {
+        "minuto": 63,
+        "acrescimos": null,
+        "tempo": "2º Tempo",
+        "tipo": "subst",
+        "detalhe": "Substitution 2",
+        "jogador": "Marco Asensio",
+        "assistencia": "Álvaro Morata",
+        "selecao": {
+            "id": 9,
+            "nome": "Spain",
+            "escudo": "https://media.api-sports.io/football/teams/9.png"
+        }
+    },
+    {
+        "minuto": 66,
+        "acrescimos": null,
+        "tempo": "2º Tempo",
+        "tipo": "subst",
+        "detalhe": "Substitution 1",
+        "jogador": "S. Boufal",
+        "assistencia": "A. Ezzalzouli",
+        "selecao": {
+            "id": 31,
+            "nome": "Morocco",
+            "escudo": "https://media.api-sports.io/football/teams/31.png"
+        }
+    },
+    {
+        "minuto": 75,
+        "acrescimos": null,
+        "tempo": "2º Tempo",
+        "tipo": "subst",
+        "detalhe": "Substitution 3",
+        "jogador": "Ferran Torres",
+        "assistencia": "Nico Williams",
+        "selecao": {
+            "id": 9,
+            "nome": "Spain",
+            "escudo": "https://media.api-sports.io/football/teams/9.png"
+        }
+    },
+    {
+        "minuto": 76,
+        "acrescimos": null,
+        "tempo": "2º Tempo",
+        "tipo": "Card",
+        "detalhe": "Yellow Card",
+        "jogador": "Aymeric Laporte",
+        "assistencia": null,
+        "selecao": {
+            "id": 9,
+            "nome": "Spain",
+            "escudo": "https://media.api-sports.io/football/teams/9.png"
+        }
+    },
+    {
+        "minuto": 82,
+        "acrescimos": null,
+        "tempo": "2º Tempo",
+        "tipo": "subst",
+        "detalhe": "Substitution 2",
+        "jogador": "Y. En-Nesyri",
+        "assistencia": "A. Sabiri",
+        "selecao": {
+            "id": 31,
+            "nome": "Morocco",
+            "escudo": "https://media.api-sports.io/football/teams/31.png"
+        }
+    },
+    {
+        "minuto": 82,
+        "acrescimos": null,
+        "tempo": "2º Tempo",
+        "tipo": "subst",
+        "detalhe": "Substitution 3",
+        "jogador": "N. Mazraoui",
+        "assistencia": "Y. Attiat-Allah",
+        "selecao": {
+            "id": 31,
+            "nome": "Morocco",
+            "escudo": "https://media.api-sports.io/football/teams/31.png"
+        }
+    },
+    {
+        "minuto": 82,
+        "acrescimos": null,
+        "tempo": "2º Tempo",
+        "tipo": "subst",
+        "detalhe": "Substitution 4",
+        "jogador": "S. Amallah",
+        "assistencia": "W. Cheddira",
+        "selecao": {
+            "id": 31,
+            "nome": "Morocco",
+            "escudo": "https://media.api-sports.io/football/teams/31.png"
+        }
+    },
+    {
+        "minuto": 84,
+        "acrescimos": null,
+        "tempo": "2º Tempo",
+        "tipo": "subst",
+        "detalhe": "Substitution 5",
+        "jogador": "N. Aguerd",
+        "assistencia": "J. El Yamiq",
+        "selecao": {
+            "id": 31,
+            "nome": "Morocco",
+            "escudo": "https://media.api-sports.io/football/teams/31.png"
+        }
+    },
+    {
+        "minuto": 90,
+        "acrescimos": null,
+        "tempo": "2º Tempo",
+        "tipo": "Card",
+        "detalhe": "Yellow Card",
+        "jogador": "Romain Saïss",
+        "assistencia": null,
+        "selecao": {
+            "id": 31,
+            "nome": "Morocco",
+            "escudo": "https://media.api-sports.io/football/teams/31.png"
+        }
+    },
+    {
+        "minuto": 98,
+        "acrescimos": null,
+        "tempo": "Prorrogação",
+        "tipo": "subst",
+        "detalhe": "Substitution 4",
+        "jogador": "Jordi Alba",
+        "assistencia": "Alejandro Balde",
+        "selecao": {
+            "id": 9,
+            "nome": "Spain",
+            "escudo": "https://media.api-sports.io/football/teams/9.png"
+        }
+    },
+    {
+        "minuto": 98,
+        "acrescimos": null,
+        "tempo": "Prorrogação",
+        "tipo": "subst",
+        "detalhe": "Substitution 5",
+        "jogador": "Dani Olmo",
+        "assistencia": "Ansu Fati",
+        "selecao": {
+            "id": 9,
+            "nome": "Spain",
+            "escudo": "https://media.api-sports.io/football/teams/9.png"
+        }
+    },
+    {
+        "minuto": 118,
+        "acrescimos": null,
+        "tempo": "Prorrogação",
+        "tipo": "subst",
+        "detalhe": "Substitution 6",
+        "jogador": "Nico Williams",
+        "assistencia": "Pablo Sarabia",
+        "selecao": {
+            "id": 9,
+            "nome": "Spain",
+            "escudo": "https://media.api-sports.io/football/teams/9.png"
+        }
+    },
+    {
+        "minuto": 120,
+        "acrescimos": null,
+        "tempo": "Prorrogação",
+        "tipo": "subst",
+        "detalhe": "Substitution 6",
+        "jogador": "A. Ounahi",
+        "assistencia": "B. Benoun",
+        "selecao": {
+            "id": 31,
+            "nome": "Morocco",
+            "escudo": "https://media.api-sports.io/football/teams/31.png"
+        }
+    },
+    {
+        "minuto": 120,
+        "acrescimos": 1,
+        "tempo": "Prorrogação",
+        "tipo": "Goal",
+        "detalhe": "Penalty",
+        "jogador": "A. Sabiri",
+        "assistencia": null,
+        "selecao": {
+            "id": 31,
+            "nome": "Morocco",
+            "escudo": "https://media.api-sports.io/football/teams/31.png"
+        }
+    },
+    {
+        "minuto": 120,
+        "acrescimos": 2,
+        "tempo": "Prorrogação",
+        "tipo": "Goal",
+        "detalhe": "Missed Penalty",
+        "jogador": "Pablo Sarabia",
+        "assistencia": null,
+        "selecao": {
+            "id": 9,
+            "nome": "Spain",
+            "escudo": "https://media.api-sports.io/football/teams/9.png"
+        }
+    },
+    {
+        "minuto": 120,
+        "acrescimos": 3,
+        "tempo": "Prorrogação",
+        "tipo": "Goal",
+        "detalhe": "Penalty",
+        "jogador": "H. Ziyech",
+        "assistencia": null,
+        "selecao": {
+            "id": 31,
+            "nome": "Morocco",
+            "escudo": "https://media.api-sports.io/football/teams/31.png"
+        }
+    },
+    {
+        "minuto": 120,
+        "acrescimos": 4,
+        "tempo": "Prorrogação",
+        "tipo": "Goal",
+        "detalhe": "Missed Penalty",
+        "jogador": "Carlos Soler",
+        "assistencia": null,
+        "selecao": {
+            "id": 9,
+            "nome": "Spain",
+            "escudo": "https://media.api-sports.io/football/teams/9.png"
+        }
+    },
+    {
+        "minuto": 120,
+        "acrescimos": 5,
+        "tempo": "Prorrogação",
+        "tipo": "Goal",
+        "detalhe": "Missed Penalty",
+        "jogador": "B. Benoun",
+        "assistencia": null,
+        "selecao": {
+            "id": 31,
+            "nome": "Morocco",
+            "escudo": "https://media.api-sports.io/football/teams/31.png"
+        }
+    },
+    {
+        "minuto": 120,
+        "acrescimos": 6,
+        "tempo": "Prorrogação",
+        "tipo": "Goal",
+        "detalhe": "Missed Penalty",
+        "jogador": "Sergio Busquets",
+        "assistencia": null,
+        "selecao": {
+            "id": 9,
+            "nome": "Spain",
+            "escudo": "https://media.api-sports.io/football/teams/9.png"
+        }
+    },
+    {
+        "minuto": 120,
+        "acrescimos": 7,
+        "tempo": "Prorrogação",
+        "tipo": "Goal",
+        "detalhe": "Penalty",
+        "jogador": "A. Hakimi",
+        "assistencia": null,
+        "selecao": {
+            "id": 31,
+            "nome": "Morocco",
+            "escudo": "https://media.api-sports.io/football/teams/31.png"
+        }
+    }
+]

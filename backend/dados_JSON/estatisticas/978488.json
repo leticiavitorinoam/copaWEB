@@ -1,0 +1,42 @@
+{
+    "selecao01": {
+        "id": 2,
+        "nome": "France",
+        "escudo": "https://media.api-sports.io/football/teams/2.png",
+        "estatisticas": {
+            "chutesAoGol": 3,
+            "chutesFora": 6,
+            "totalChutes": 14,
+            "posseBola": "39%",
+            "passes": 363,
+            "passesCertos": 293,
+            "precisaoPasses": "81%",
+            "escanteios": 2,
+            "impedimentos": 4,
+            "faltas": 10,
+            "cartoesAmarelos": 0,
+            "cartoesVermelhos": null,
+            "defesasGoleiro": 2
+        }
+    },
+    "selecao02": {
+        "id": 31,
+        "nome": "Morocco",
+        "escudo": "https://media.api-sports.io/football/teams/31.png",
+        "estatisticas": {
+            "chutesAoGol": 3,
+            "chutesFora": 5,
+            "totalChutes": 13,
+            "posseBola": "61%",
+            "passes": 575,
+            "passesCertos": 499,
+            "precisaoPasses": "87%",
+            "escanteios": 3,
+            "impedimentos": 3,
+            "faltas": 11,
+            "cartoesAmarelos": 1,
+            "cartoesVermelhos": null,
+            "defesasGoleiro": 0
+        }
+    }
+}

@@ -1,0 +1,268 @@
+[
+    {
+        "minuto": 17,
+        "acrescimos": null,
+        "tempo": "1º Tempo",
+        "tipo": "Goal",
+        "detalhe": "Normal Goal",
+        "jogador": "Gonçalo Ramos",
+        "assistencia": "João Félix",
+        "selecao": {
+            "id": 27,
+            "nome": "Portugal",
+            "escudo": "https://media.api-sports.io/football/teams/27.png"
+        }
+    },
+    {
+        "minuto": 33,
+        "acrescimos": null,
+        "tempo": "1º Tempo",
+        "tipo": "Goal",
+        "detalhe": "Normal Goal",
+        "jogador": "Pepe",
+        "assistencia": "Bruno Fernandes",
+        "selecao": {
+            "id": 27,
+            "nome": "Portugal",
+            "escudo": "https://media.api-sports.io/football/teams/27.png"
+        }
+    },
+    {
+        "minuto": 43,
+        "acrescimos": null,
+        "tempo": "1º Tempo",
+        "tipo": "Card",
+        "detalhe": "Yellow Card",
+        "jogador": "Fabian Schär",
+        "assistencia": null,
+        "selecao": {
+            "id": 15,
+            "nome": "Switzerland",
+            "escudo": "https://media.api-sports.io/football/teams/15.png"
+        }
+    },
+    {
+        "minuto": 46,
+        "acrescimos": null,
+        "tempo": "2º Tempo",
+        "tipo": "subst",
+        "detalhe": "Substitution 1",
+        "jogador": "F. Schär",
+        "assistencia": "E. Cömert",
+        "selecao": {
+            "id": 15,
+            "nome": "Switzerland",
+            "escudo": "https://media.api-sports.io/football/teams/15.png"
+        }
+    },
+    {
+        "minuto": 51,
+        "acrescimos": null,
+        "tempo": "2º Tempo",
+        "tipo": "Goal",
+        "detalhe": "Normal Goal",
+        "jogador": "Gonçalo Ramos",
+        "assistencia": null,
+        "selecao": {
+            "id": 27,
+            "nome": "Portugal",
+            "escudo": "https://media.api-sports.io/football/teams/27.png"
+        }
+    },
+    {
+        "minuto": 54,
+        "acrescimos": null,
+        "tempo": "2º Tempo",
+        "tipo": "subst",
+        "detalhe": "Substitution 2",
+        "jogador": "R. Freuler",
+        "assistencia": "D. Zakaria",
+        "selecao": {
+            "id": 15,
+            "nome": "Switzerland",
+            "escudo": "https://media.api-sports.io/football/teams/15.png"
+        }
+    },
+    {
+        "minuto": 54,
+        "acrescimos": null,
+        "tempo": "2º Tempo",
+        "tipo": "subst",
+        "detalhe": "Substitution 3",
+        "jogador": "D. Sow",
+        "assistencia": "H. Seferović",
+        "selecao": {
+            "id": 15,
+            "nome": "Switzerland",
+            "escudo": "https://media.api-sports.io/football/teams/15.png"
+        }
+    },
+    {
+        "minuto": 55,
+        "acrescimos": null,
+        "tempo": "2º Tempo",
+        "tipo": "Goal",
+        "detalhe": "Normal Goal",
+        "jogador": "Raphaël Guerreiro",
+        "assistencia": "Gonçalo Ramos",
+        "selecao": {
+            "id": 27,
+            "nome": "Portugal",
+            "escudo": "https://media.api-sports.io/football/teams/27.png"
+        }
+    },
+    {
+        "minuto": 58,
+        "acrescimos": null,
+        "tempo": "2º Tempo",
+        "tipo": "Goal",
+        "detalhe": "Normal Goal",
+        "jogador": "M. Akanji",
+        "assistencia": null,
+        "selecao": {
+            "id": 15,
+            "nome": "Switzerland",
+            "escudo": "https://media.api-sports.io/football/teams/15.png"
+        }
+    },
+    {
+        "minuto": 59,
+        "acrescimos": null,
+        "tempo": "2º Tempo",
+        "tipo": "Card",
+        "detalhe": "Yellow Card",
+        "jogador": "Eray Cömert",
+        "assistencia": null,
+        "selecao": {
+            "id": 15,
+            "nome": "Switzerland",
+            "escudo": "https://media.api-sports.io/football/teams/15.png"
+        }
+    },
+    {
+        "minuto": 66,
+        "acrescimos": null,
+        "tempo": "2º Tempo",
+        "tipo": "subst",
+        "detalhe": "Substitution 4",
+        "jogador": "R. Vargas",
+        "assistencia": "N. Okafor",
+        "selecao": {
+            "id": 15,
+            "nome": "Switzerland",
+            "escudo": "https://media.api-sports.io/football/teams/15.png"
+        }
+    },
+    {
+        "minuto": 67,
+        "acrescimos": null,
+        "tempo": "2º Tempo",
+        "tipo": "Goal",
+        "detalhe": "Normal Goal",
+        "jogador": "Gonçalo Ramos",
+        "assistencia": "João Félix",
+        "selecao": {
+            "id": 27,
+            "nome": "Portugal",
+            "escudo": "https://media.api-sports.io/football/teams/27.png"
+        }
+    },
+    {
+        "minuto": 73,
+        "acrescimos": null,
+        "tempo": "2º Tempo",
+        "tipo": "subst",
+        "detalhe": "Substitution 1",
+        "jogador": "João Félix",
+        "assistencia": "Cristiano Ronaldo",
+        "selecao": {
+            "id": 27,
+            "nome": "Portugal",
+            "escudo": "https://media.api-sports.io/football/teams/27.png"
+        }
+    },
+    {
+        "minuto": 74,
+        "acrescimos": null,
+        "tempo": "2º Tempo",
+        "tipo": "subst",
+        "detalhe": "Substitution 2",
+        "jogador": "Otávio",
+        "assistencia": "Vitinha",
+        "selecao": {
+            "id": 27,
+            "nome": "Portugal",
+            "escudo": "https://media.api-sports.io/football/teams/27.png"
+        }
+    },
+    {
+        "minuto": 74,
+        "acrescimos": null,
+        "tempo": "2º Tempo",
+        "tipo": "subst",
+        "detalhe": "Substitution 3",
+        "jogador": "Gonçalo Ramos",
+        "assistencia": "Ricardo Horta",
+        "selecao": {
+            "id": 27,
+            "nome": "Portugal",
+            "escudo": "https://media.api-sports.io/football/teams/27.png"
+        }
+    },
+    {
+        "minuto": 81,
+        "acrescimos": null,
+        "tempo": "2º Tempo",
+        "tipo": "subst",
+        "detalhe": "Substitution 4",
+        "jogador": "Bernardo Silva",
+        "assistencia": "Rúben Neves",
+        "selecao": {
+            "id": 27,
+            "nome": "Portugal",
+            "escudo": "https://media.api-sports.io/football/teams/27.png"
+        }
+    },
+    {
+        "minuto": 87,
+        "acrescimos": null,
+        "tempo": "2º Tempo",
+        "tipo": "subst",
+        "detalhe": "Substitution 5",
+        "jogador": "Bruno Fernandes",
+        "assistencia": "Rafael Leão",
+        "selecao": {
+            "id": 27,
+            "nome": "Portugal",
+            "escudo": "https://media.api-sports.io/football/teams/27.png"
+        }
+    },
+    {
+        "minuto": 89,
+        "acrescimos": null,
+        "tempo": "2º Tempo",
+        "tipo": "subst",
+        "detalhe": "Substitution 5",
+        "jogador": "B. Embolo",
+        "assistencia": "A. Jashari",
+        "selecao": {
+            "id": 15,
+            "nome": "Switzerland",
+            "escudo": "https://media.api-sports.io/football/teams/15.png"
+        }
+    },
+    {
+        "minuto": 90,
+        "acrescimos": 2,
+        "tempo": "2º Tempo",
+        "tipo": "Goal",
+        "detalhe": "Normal Goal",
+        "jogador": "Rafael Leão",
+        "assistencia": "Raphaël Guerreiro",
+        "selecao": {
+            "id": 27,
+            "nome": "Portugal",
+            "escudo": "https://media.api-sports.io/football/teams/27.png"
+        }
+    }
+]

@@ -1,0 +1,30 @@
+{
+    "id": 6009,
+    "nome": "J. Álvarez",
+    "foto": "https://media.api-sports.io/football/players/6009.png",
+    "idade": 25,
+    "nacionalidade": "Argentina",
+    "altura": "170",
+    "peso": "71",
+    "selecao": {
+        "id": 50,
+        "nome": "Manchester City",
+        "escudo": "https://media.api-sports.io/football/teams/50.png"
+    },
+    "numeroCamisa": null,
+    "posicao": "Attacker",
+    "estatisticas": {
+        "jogos": 31,
+        "minutos": 1451,
+        "nota": "6.873333",
+        "gols": 9,
+        "assistencias": null,
+        "chutesAoGol": 22,
+        "passes": 469,
+        "precisaoPasses": null,
+        "dribles": 21,
+        "desarmes": 26,
+        "cartoesAmarelos": 0,
+        "cartoesVermelhos": 0
+    }
+}

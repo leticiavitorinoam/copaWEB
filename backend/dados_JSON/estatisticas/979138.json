@@ -1,0 +1,42 @@
+{
+    "selecao01": {
+        "id": 3,
+        "nome": "Croatia",
+        "escudo": "https://media.api-sports.io/football/teams/3.png",
+        "estatisticas": {
+            "chutesAoGol": 4,
+            "chutesFora": 5,
+            "totalChutes": 12,
+            "posseBola": "51%",
+            "passes": 487,
+            "passesCertos": 411,
+            "precisaoPasses": "84%",
+            "escanteios": 6,
+            "impedimentos": 2,
+            "faltas": 13,
+            "cartoesAmarelos": 0,
+            "cartoesVermelhos": null,
+            "defesasGoleiro": 1
+        }
+    },
+    "selecao02": {
+        "id": 31,
+        "nome": "Morocco",
+        "escudo": "https://media.api-sports.io/football/teams/31.png",
+        "estatisticas": {
+            "chutesAoGol": 2,
+            "chutesFora": 5,
+            "totalChutes": 9,
+            "posseBola": "49%",
+            "passes": 472,
+            "passesCertos": 403,
+            "precisaoPasses": "85%",
+            "escanteios": 3,
+            "impedimentos": 2,
+            "faltas": 11,
+            "cartoesAmarelos": 2,
+            "cartoesVermelhos": null,
+            "defesasGoleiro": 2
+        }
+    }
+}
