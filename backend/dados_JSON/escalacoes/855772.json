@@ -1,1 +1,340 @@
-{}
+{
+    "selecao01": {
+        "id": 14,
+        "nome": "Serbia",
+        "escudo": "https://media.api-sports.io/football/teams/14.png",
+        "tecnico": "D. Stojković",
+        "formacao": "3-4-1-2",
+        "titulares": [
+            {
+                "id": 31156,
+                "nome": "V. Milinković-Savić",
+                "numeroCamisa": 23,
+                "posicao": "G",
+                "coordenadas": "1:1"
+            },
+            {
+                "id": 2817,
+                "nome": "N. Milenković",
+                "numeroCamisa": 4,
+                "posicao": "D",
+                "coordenadas": "2:3"
+            },
+            {
+                "id": 2821,
+                "nome": "M. Veljković",
+                "numeroCamisa": 5,
+                "posicao": "D",
+                "coordenadas": "2:2"
+            },
+            {
+                "id": 45826,
+                "nome": "S. Pavlović",
+                "numeroCamisa": 2,
+                "posicao": "D",
+                "coordenadas": "2:1"
+            },
+            {
+                "id": 579,
+                "nome": "A. Živković",
+                "numeroCamisa": 14,
+                "posicao": "M",
+                "coordenadas": "3:4"
+            },
+            {
+                "id": 2823,
+                "nome": "S. Lukić",
+                "numeroCamisa": 16,
+                "posicao": "M",
+                "coordenadas": "3:3"
+            },
+            {
+                "id": 1856,
+                "nome": "S. Milinković-Savić",
+                "numeroCamisa": 20,
+                "posicao": "M",
+                "coordenadas": "3:2"
+            },
+            {
+                "id": 1821,
+                "nome": "F. Kostić",
+                "numeroCamisa": 17,
+                "posicao": "M",
+                "coordenadas": "3:1"
+            },
+            {
+                "id": 554,
+                "nome": "D. Tadić",
+                "numeroCamisa": 10,
+                "posicao": "F",
+                "coordenadas": "4:1"
+            },
+            {
+                "id": 30415,
+                "nome": "D. Vlahović",
+                "numeroCamisa": 18,
+                "posicao": "F",
+                "coordenadas": "5:2"
+            },
+            {
+                "id": 2825,
+                "nome": "A. Mitrović",
+                "numeroCamisa": 9,
+                "posicao": "F",
+                "coordenadas": "5:1"
+            }
+        ],
+        "reservas": [
+            {
+                "id": 1489,
+                "nome": "N. Gudelj",
+                "numeroCamisa": 8,
+                "posicao": "M"
+            },
+            {
+                "id": 1828,
+                "nome": "L. Jović",
+                "numeroCamisa": 11,
+                "posicao": "F"
+            },
+            {
+                "id": 2824,
+                "nome": "N. Maksimović",
+                "numeroCamisa": 6,
+                "posicao": "M"
+            },
+            {
+                "id": 30536,
+                "nome": "F. Đuričić",
+                "numeroCamisa": 21,
+                "posicao": "M"
+            },
+            {
+                "id": 1920,
+                "nome": "N. Radonjić",
+                "numeroCamisa": 7,
+                "posicao": "M"
+            },
+            {
+                "id": 2813,
+                "nome": "M. Dmitrović",
+                "numeroCamisa": 1,
+                "posicao": "G"
+            },
+            {
+                "id": 2820,
+                "nome": "F. Mladenović",
+                "numeroCamisa": 25,
+                "posicao": "D"
+            },
+            {
+                "id": 25350,
+                "nome": "M. Grujić",
+                "numeroCamisa": 26,
+                "posicao": "M"
+            },
+            {
+                "id": 340,
+                "nome": "S. Babić",
+                "numeroCamisa": 15,
+                "posicao": "D"
+            },
+            {
+                "id": 2822,
+                "nome": "D. Lazović",
+                "numeroCamisa": 22,
+                "posicao": "M"
+            },
+            {
+                "id": 133391,
+                "nome": "S. Eraković",
+                "numeroCamisa": 3,
+                "posicao": "D"
+            },
+            {
+                "id": 2819,
+                "nome": "S. Mitrović",
+                "numeroCamisa": 13,
+                "posicao": "D"
+            },
+            {
+                "id": 46170,
+                "nome": "I. Ilić",
+                "numeroCamisa": 24,
+                "posicao": "M"
+            },
+            {
+                "id": 47087,
+                "nome": "U. Račić",
+                "numeroCamisa": 19,
+                "posicao": "M"
+            },
+            {
+                "id": 2814,
+                "nome": "P. Rajković",
+                "numeroCamisa": 12,
+                "posicao": "G"
+            }
+        ]
+    },
+    "selecao02": {
+        "id": 15,
+        "nome": "Switzerland",
+        "escudo": "https://media.api-sports.io/football/teams/15.png",
+        "tecnico": "M. Yakin",
+        "formacao": "4-2-3-1",
+        "titulares": [
+            {
+                "id": 25282,
+                "nome": "G. Kobel",
+                "numeroCamisa": 21,
+                "posicao": "G",
+                "coordenadas": "1:1"
+            },
+            {
+                "id": 48378,
+                "nome": "S. Widmer",
+                "numeroCamisa": 3,
+                "posicao": "D",
+                "coordenadas": "2:4"
+            },
+            {
+                "id": 2806,
+                "nome": "F. Schär",
+                "numeroCamisa": 22,
+                "posicao": "D",
+                "coordenadas": "2:3"
+            },
+            {
+                "id": 5,
+                "nome": "M. Akanji",
+                "numeroCamisa": 5,
+                "posicao": "D",
+                "coordenadas": "2:2"
+            },
+            {
+                "id": 1631,
+                "nome": "R. Rodríguez",
+                "numeroCamisa": 13,
+                "posicao": "D",
+                "coordenadas": "2:1"
+            },
+            {
+                "id": 2807,
+                "nome": "R. Freuler",
+                "numeroCamisa": 8,
+                "posicao": "M",
+                "coordenadas": "3:2"
+            },
+            {
+                "id": 1464,
+                "nome": "G. Xhaka",
+                "numeroCamisa": 10,
+                "posicao": "M",
+                "coordenadas": "3:1"
+            },
+            {
+                "id": 307,
+                "nome": "X. Shaqiri",
+                "numeroCamisa": 23,
+                "posicao": "M",
+                "coordenadas": "4:3"
+            },
+            {
+                "id": 957,
+                "nome": "D. Sow",
+                "numeroCamisa": 15,
+                "posicao": "M",
+                "coordenadas": "4:2"
+            },
+            {
+                "id": 48471,
+                "nome": "R. Vargas",
+                "numeroCamisa": 17,
+                "posicao": "M",
+                "coordenadas": "4:1"
+            },
+            {
+                "id": 421,
+                "nome": "B. Embolo",
+                "numeroCamisa": 7,
+                "posicao": "F",
+                "coordenadas": "5:1"
+            }
+        ],
+        "reservas": [
+            {
+                "id": 30405,
+                "nome": "E. Fernandes",
+                "numeroCamisa": 2,
+                "posicao": "M"
+            },
+            {
+                "id": 2810,
+                "nome": "D. Zakaria",
+                "numeroCamisa": 6,
+                "posicao": "M"
+            },
+            {
+                "id": 952,
+                "nome": "C. Fassnacht",
+                "numeroCamisa": 16,
+                "posicao": "M"
+            },
+            {
+                "id": 48389,
+                "nome": "N. Okafor",
+                "numeroCamisa": 19,
+                "posicao": "F"
+            },
+            {
+                "id": 264705,
+                "nome": "A. Jashari",
+                "numeroCamisa": 26,
+                "posicao": "M"
+            },
+            {
+                "id": 582,
+                "nome": "H. Seferović",
+                "numeroCamisa": 9,
+                "posicao": "F"
+            },
+            {
+                "id": 951,
+                "nome": "M. Aebischer",
+                "numeroCamisa": 14,
+                "posicao": "M"
+            },
+            {
+                "id": 48382,
+                "nome": "F. Frei",
+                "numeroCamisa": 20,
+                "posicao": "M"
+            },
+            {
+                "id": 163032,
+                "nome": "F. Rieder",
+                "numeroCamisa": 25,
+                "posicao": "M"
+            },
+            {
+                "id": 2809,
+                "nome": "R. Steffen",
+                "numeroCamisa": 11,
+                "posicao": "M"
+            },
+            {
+                "id": 2801,
+                "nome": "J. Omlin",
+                "numeroCamisa": 12,
+                "posicao": "G"
+            },
+            {
+                "id": 48372,
+                "nome": "E. Cömert",
+                "numeroCamisa": 18,
+                "posicao": "D"
+            }
+        ]
+    }
+}

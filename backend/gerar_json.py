@@ -492,6 +492,10 @@ def gerar_escalacoes():
 
         dados = response.json()["response"]
 
+       # if not dados:
+           # print(f"Sem escalação para a partida {fixture}")
+            #continue
+
         escalacoes = {}
 
         for i, equipe in enumerate(dados, start=1):
@@ -684,14 +688,14 @@ def gerar_artilheiros():
 # ==========================================
 if __name__ == "__main__":
 
-    gerar_selecoes()
-    gerar_jogos()
-    gerar_classificacao()
-    gerar_artilheiros()
+    # (OK) gerar_selecoes()
+    # (OK) gerar_jogos()
+    # (OK) gerar_classificacao()
+    # (OK) gerar_artilheiros()
 
-    gerar_jogadores()
-    gerar_estatisticas()
-    gerar_eventos()
+    # (OK) gerar_jogadores()
+    # (OK) gerar_estatisticas()
+    # (OK) gerar_eventos()
     # daqui pra baixo deu problema :)
     gerar_escalacoes()
-    gerar_jogadores_partida()
+    # gerar_jogadores_partida()

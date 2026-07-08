@@ -1,1 +1,1056 @@
-{}
+{
+    "selecao01": {
+        "id": 25,
+        "nome": "Germany",
+        "escudo": "https://media.api-sports.io/football/teams/25.png",
+        "jogadores": [
+            {
+                "id": 497,
+                "nome": "Manuel Neuer",
+                "foto": "https://media.api-sports.io/football/players/497.png",
+                "numeroCamisa": 1,
+                "posicao": "G",
+                "estatisticas": {
+                    "minutos": 90,
+                    "nota": "6.5",
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": 55,
+                    "precisaoPasses": "51",
+                    "desarmes": null,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 506,
+                "nome": "Niklas Süle",
+                "foto": "https://media.api-sports.io/football/players/506.png",
+                "numeroCamisa": 15,
+                "posicao": "D",
+                "estatisticas": {
+                    "minutos": 90,
+                    "nota": "6.3",
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": 94,
+                    "precisaoPasses": "87",
+                    "desarmes": null,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 2285,
+                "nome": "Antonio Rüdiger",
+                "foto": "https://media.api-sports.io/football/players/2285.png",
+                "numeroCamisa": 2,
+                "posicao": "D",
+                "estatisticas": {
+                    "minutos": 90,
+                    "nota": "7.2",
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": 114,
+                    "precisaoPasses": "107",
+                    "desarmes": null,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 26243,
+                "nome": "Nico Schlotterbeck",
+                "foto": "https://media.api-sports.io/football/players/26243.png",
+                "numeroCamisa": 23,
+                "posicao": "D",
+                "estatisticas": {
+                    "minutos": 90,
+                    "nota": "6.9",
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": 115,
+                    "precisaoPasses": "105",
+                    "desarmes": 3,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 25158,
+                "nome": "David Raum",
+                "foto": "https://media.api-sports.io/football/players/25158.png",
+                "numeroCamisa": 3,
+                "posicao": "D",
+                "estatisticas": {
+                    "minutos": 90,
+                    "nota": "7.3",
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": 56,
+                    "precisaoPasses": "49",
+                    "desarmes": 3,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 502,
+                "nome": "Joshua Kimmich",
+                "foto": "https://media.api-sports.io/football/players/502.png",
+                "numeroCamisa": 6,
+                "posicao": "M",
+                "estatisticas": {
+                    "minutos": 90,
+                    "nota": "7.9",
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": 2,
+                    "passes": 89,
+                    "precisaoPasses": "80",
+                    "desarmes": null,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 633,
+                "nome": "İlkay Gündoğan",
+                "foto": "https://media.api-sports.io/football/players/633.png",
+                "numeroCamisa": 21,
+                "posicao": "M",
+                "estatisticas": {
+                    "minutos": 67,
+                    "nota": "7.6",
+                    "gols": 1,
+                    "assistencias": null,
+                    "chutesAoGol": 3,
+                    "passes": 72,
+                    "precisaoPasses": "67",
+                    "desarmes": null,
+                    "dribles": 1,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 510,
+                "nome": "Serge Gnabry",
+                "foto": "https://media.api-sports.io/football/players/510.png",
+                "numeroCamisa": 10,
+                "posicao": "M",
+                "estatisticas": {
+                    "minutos": 89,
+                    "nota": "7",
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": 3,
+                    "passes": 45,
+                    "precisaoPasses": "35",
+                    "desarmes": 1,
+                    "dribles": 1,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 522,
+                "nome": "Thomas Müller",
+                "foto": "https://media.api-sports.io/football/players/522.png",
+                "numeroCamisa": 13,
+                "posicao": "M",
+                "estatisticas": {
+                    "minutos": 67,
+                    "nota": "7.2",
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": 34,
+                    "precisaoPasses": "25",
+                    "desarmes": 2,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 181812,
+                "nome": "Jamal Musiala",
+                "foto": "https://media.api-sports.io/football/players/181812.png",
+                "numeroCamisa": 14,
+                "posicao": "M",
+                "estatisticas": {
+                    "minutos": 79,
+                    "nota": "6",
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": 42,
+                    "precisaoPasses": "38",
+                    "desarmes": 1,
+                    "dribles": 1,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 978,
+                "nome": "Kai Havertz",
+                "foto": "https://media.api-sports.io/football/players/978.png",
+                "numeroCamisa": 7,
+                "posicao": "F",
+                "estatisticas": {
+                    "minutos": 79,
+                    "nota": "6.7",
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": 21,
+                    "precisaoPasses": "17",
+                    "desarmes": 1,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 1800,
+                "nome": "Kevin Trapp",
+                "foto": "https://media.api-sports.io/football/players/1800.png",
+                "numeroCamisa": 12,
+                "posicao": "G",
+                "estatisticas": {
+                    "minutos": null,
+                    "nota": null,
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": null,
+                    "precisaoPasses": null,
+                    "desarmes": null,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 127,
+                "nome": "Marc-André ter Stegen",
+                "foto": "https://media.api-sports.io/football/players/127.png",
+                "numeroCamisa": 22,
+                "posicao": "G",
+                "estatisticas": {
+                    "minutos": null,
+                    "nota": null,
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": null,
+                    "precisaoPasses": null,
+                    "desarmes": null,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 261,
+                "nome": "Thilo Kehrer",
+                "foto": "https://media.api-sports.io/football/players/261.png",
+                "numeroCamisa": 5,
+                "posicao": "D",
+                "estatisticas": {
+                    "minutos": null,
+                    "nota": null,
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": null,
+                    "precisaoPasses": null,
+                    "desarmes": null,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 26236,
+                "nome": "Christian Günter",
+                "foto": "https://media.api-sports.io/football/players/26236.png",
+                "numeroCamisa": 20,
+                "posicao": "D",
+                "estatisticas": {
+                    "minutos": null,
+                    "nota": null,
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": null,
+                    "precisaoPasses": null,
+                    "desarmes": null,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 25061,
+                "nome": "Armel Bella-Kotchap",
+                "foto": "https://media.api-sports.io/football/players/25061.png",
+                "numeroCamisa": 25,
+                "posicao": "D",
+                "estatisticas": {
+                    "minutos": null,
+                    "nota": null,
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": null,
+                    "precisaoPasses": null,
+                    "desarmes": null,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 2915,
+                "nome": "Matthias Ginter",
+                "foto": "https://media.api-sports.io/football/players/2915.png",
+                "numeroCamisa": 4,
+                "posicao": "D",
+                "estatisticas": {
+                    "minutos": null,
+                    "nota": null,
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": null,
+                    "precisaoPasses": null,
+                    "desarmes": null,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 1144,
+                "nome": "Lukas Klostermann",
+                "foto": "https://media.api-sports.io/football/players/1144.png",
+                "numeroCamisa": 16,
+                "posicao": "D",
+                "estatisticas": {
+                    "minutos": null,
+                    "nota": null,
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": null,
+                    "precisaoPasses": null,
+                    "desarmes": null,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 984,
+                "nome": "Julian Brandt",
+                "foto": "https://media.api-sports.io/football/players/984.png",
+                "numeroCamisa": 17,
+                "posicao": "M",
+                "estatisticas": {
+                    "minutos": null,
+                    "nota": null,
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": null,
+                    "precisaoPasses": null,
+                    "desarmes": null,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 25635,
+                "nome": "Jonas Hofmann",
+                "foto": "https://media.api-sports.io/football/players/25635.png",
+                "numeroCamisa": 18,
+                "posicao": "M",
+                "estatisticas": {
+                    "minutos": 23,
+                    "nota": "5.9",
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": 1,
+                    "passes": 17,
+                    "precisaoPasses": "14",
+                    "desarmes": null,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 511,
+                "nome": "Leon Goretzka",
+                "foto": "https://media.api-sports.io/football/players/511.png",
+                "numeroCamisa": 8,
+                "posicao": "M",
+                "estatisticas": {
+                    "minutos": 23,
+                    "nota": "6.3",
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": 8,
+                    "precisaoPasses": "5",
+                    "desarmes": null,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 16,
+                "nome": "Mario Götze",
+                "foto": "https://media.api-sports.io/football/players/16.png",
+                "numeroCamisa": 11,
+                "posicao": "M",
+                "estatisticas": {
+                    "minutos": 11,
+                    "nota": "6.7",
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": 3,
+                    "precisaoPasses": "2",
+                    "desarmes": null,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 644,
+                "nome": "Leroy Sané",
+                "foto": "https://media.api-sports.io/football/players/644.png",
+                "numeroCamisa": 19,
+                "posicao": "F",
+                "estatisticas": {
+                    "minutos": null,
+                    "nota": null,
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": null,
+                    "precisaoPasses": null,
+                    "desarmes": null,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 7334,
+                "nome": "Karim Adeyemi",
+                "foto": "https://media.api-sports.io/football/players/7334.png",
+                "numeroCamisa": 24,
+                "posicao": "F",
+                "estatisticas": {
+                    "minutos": null,
+                    "nota": null,
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": null,
+                    "precisaoPasses": null,
+                    "desarmes": null,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 25391,
+                "nome": "Niclas Füllkrug",
+                "foto": "https://media.api-sports.io/football/players/25391.png",
+                "numeroCamisa": 9,
+                "posicao": "F",
+                "estatisticas": {
+                    "minutos": 11,
+                    "nota": "6.6",
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": 5,
+                    "precisaoPasses": "3",
+                    "desarmes": null,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 161919,
+                "nome": "Youssoufa Moukoko",
+                "foto": "https://media.api-sports.io/football/players/161919.png",
+                "numeroCamisa": 26,
+                "posicao": "F",
+                "estatisticas": {
+                    "minutos": 9,
+                    "nota": "6.3",
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": 1,
+                    "precisaoPasses": "1",
+                    "desarmes": null,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            }
+        ]
+    },
+    "selecao02": {
+        "id": 12,
+        "nome": "Japan",
+        "escudo": "https://media.api-sports.io/football/teams/12.png",
+        "jogadores": [
+            {
+                "id": 41349,
+                "nome": "Shuichi Gonda",
+                "foto": "https://media.api-sports.io/football/players/41349.png",
+                "numeroCamisa": 12,
+                "posicao": "G",
+                "estatisticas": {
+                    "minutos": 90,
+                    "nota": "7.9",
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": 33,
+                    "precisaoPasses": "23",
+                    "desarmes": null,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 1907,
+                "nome": "Hiroki Sakai",
+                "foto": "https://media.api-sports.io/football/players/1907.png",
+                "numeroCamisa": 19,
+                "posicao": "D",
+                "estatisticas": {
+                    "minutos": 74,
+                    "nota": "6.6",
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": 21,
+                    "precisaoPasses": "12",
+                    "desarmes": 4,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 38114,
+                "nome": "Ko Itakura",
+                "foto": "https://media.api-sports.io/football/players/38114.png",
+                "numeroCamisa": 4,
+                "posicao": "D",
+                "estatisticas": {
+                    "minutos": 90,
+                    "nota": "7.3",
+                    "gols": null,
+                    "assistencias": 1,
+                    "chutesAoGol": null,
+                    "passes": 28,
+                    "precisaoPasses": "21",
+                    "desarmes": 3,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 18944,
+                "nome": "Maya Yoshida",
+                "foto": "https://media.api-sports.io/football/players/18944.png",
+                "numeroCamisa": 22,
+                "posicao": "D",
+                "estatisticas": {
+                    "minutos": 90,
+                    "nota": "6.9",
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": 39,
+                    "precisaoPasses": "30",
+                    "desarmes": null,
+                    "dribles": 1,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 440,
+                "nome": "Yuto Nagatomo",
+                "foto": "https://media.api-sports.io/football/players/440.png",
+                "numeroCamisa": 5,
+                "posicao": "D",
+                "estatisticas": {
+                    "minutos": 57,
+                    "nota": "6.3",
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": 7,
+                    "precisaoPasses": "6",
+                    "desarmes": null,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 8500,
+                "nome": "Wataru Endo",
+                "foto": "https://media.api-sports.io/football/players/8500.png",
+                "numeroCamisa": 6,
+                "posicao": "M",
+                "estatisticas": {
+                    "minutos": 90,
+                    "nota": "7.5",
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": 31,
+                    "precisaoPasses": "20",
+                    "desarmes": 4,
+                    "dribles": 1,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 32966,
+                "nome": "Ao Tanaka",
+                "foto": "https://media.api-sports.io/football/players/32966.png",
+                "numeroCamisa": 17,
+                "posicao": "M",
+                "estatisticas": {
+                    "minutos": 71,
+                    "nota": "6.9",
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": 27,
+                    "precisaoPasses": "21",
+                    "desarmes": 3,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 1942,
+                "nome": "Junya Ito",
+                "foto": "https://media.api-sports.io/football/players/1942.png",
+                "numeroCamisa": 14,
+                "posicao": "M",
+                "estatisticas": {
+                    "minutos": 90,
+                    "nota": "6.6",
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": 1,
+                    "passes": 14,
+                    "precisaoPasses": "4",
+                    "desarmes": 2,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 2601,
+                "nome": "Daichi Kamada",
+                "foto": "https://media.api-sports.io/football/players/2601.png",
+                "numeroCamisa": 15,
+                "posicao": "M",
+                "estatisticas": {
+                    "minutos": 90,
+                    "nota": "7",
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": 18,
+                    "precisaoPasses": "15",
+                    "desarmes": 3,
+                    "dribles": 1,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 32862,
+                "nome": "Takefusa Kubo",
+                "foto": "https://media.api-sports.io/football/players/32862.png",
+                "numeroCamisa": 11,
+                "posicao": "M",
+                "estatisticas": {
+                    "minutos": 45,
+                    "nota": "6.5",
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": 4,
+                    "precisaoPasses": "1",
+                    "desarmes": 1,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 33224,
+                "nome": "Daizen Maeda",
+                "foto": "https://media.api-sports.io/football/players/33224.png",
+                "numeroCamisa": 25,
+                "posicao": "F",
+                "estatisticas": {
+                    "minutos": 57,
+                    "nota": "6.7",
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": 4,
+                    "precisaoPasses": "1",
+                    "desarmes": 1,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 22242,
+                "nome": "Eiji Kawashima",
+                "foto": "https://media.api-sports.io/football/players/22242.png",
+                "numeroCamisa": 1,
+                "posicao": "G",
+                "estatisticas": {
+                    "minutos": null,
+                    "nota": null,
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": null,
+                    "precisaoPasses": null,
+                    "desarmes": null,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 2589,
+                "nome": "Daniel Schmidt",
+                "foto": "https://media.api-sports.io/football/players/2589.png",
+                "numeroCamisa": 23,
+                "posicao": "G",
+                "estatisticas": {
+                    "minutos": null,
+                    "nota": null,
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": null,
+                    "precisaoPasses": null,
+                    "desarmes": null,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 32954,
+                "nome": "Shogo Taniguchi",
+                "foto": "https://media.api-sports.io/football/players/32954.png",
+                "numeroCamisa": 3,
+                "posicao": "D",
+                "estatisticas": {
+                    "minutos": null,
+                    "nota": null,
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": null,
+                    "precisaoPasses": null,
+                    "desarmes": null,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 33144,
+                "nome": "Miki Yamane",
+                "foto": "https://media.api-sports.io/football/players/33144.png",
+                "numeroCamisa": 2,
+                "posicao": "D",
+                "estatisticas": {
+                    "minutos": null,
+                    "nota": null,
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": null,
+                    "precisaoPasses": null,
+                    "desarmes": null,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 2597,
+                "nome": "Takehiro Tomiyasu",
+                "foto": "https://media.api-sports.io/football/players/2597.png",
+                "numeroCamisa": 16,
+                "posicao": "D",
+                "estatisticas": {
+                    "minutos": 45,
+                    "nota": "6.9",
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": 20,
+                    "precisaoPasses": "18",
+                    "desarmes": null,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 32893,
+                "nome": "Hiroki Ito",
+                "foto": "https://media.api-sports.io/football/players/32893.png",
+                "numeroCamisa": 26,
+                "posicao": "D",
+                "estatisticas": {
+                    "minutos": null,
+                    "nota": null,
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": null,
+                    "precisaoPasses": null,
+                    "desarmes": null,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 106835,
+                "nome": "Kaoru Mitoma",
+                "foto": "https://media.api-sports.io/football/players/106835.png",
+                "numeroCamisa": 9,
+                "posicao": "M",
+                "estatisticas": {
+                    "minutos": 33,
+                    "nota": "7.2",
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": 11,
+                    "precisaoPasses": "9",
+                    "desarmes": 4,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 32902,
+                "nome": "Yuki Soma",
+                "foto": "https://media.api-sports.io/football/players/32902.png",
+                "numeroCamisa": 24,
+                "posicao": "F",
+                "estatisticas": {
+                    "minutos": null,
+                    "nota": null,
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": null,
+                    "precisaoPasses": null,
+                    "desarmes": null,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 2598,
+                "nome": "Ritsu Doan",
+                "foto": "https://media.api-sports.io/football/players/2598.png",
+                "numeroCamisa": 8,
+                "posicao": "F",
+                "estatisticas": {
+                    "minutos": 19,
+                    "nota": "7.3",
+                    "gols": 1,
+                    "assistencias": null,
+                    "chutesAoGol": 1,
+                    "passes": 3,
+                    "precisaoPasses": "3",
+                    "desarmes": 3,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 2604,
+                "nome": "Gaku Shibasaki",
+                "foto": "https://media.api-sports.io/football/players/2604.png",
+                "numeroCamisa": 7,
+                "posicao": "M",
+                "estatisticas": {
+                    "minutos": null,
+                    "nota": null,
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": null,
+                    "precisaoPasses": null,
+                    "desarmes": null,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 32960,
+                "nome": "Hidemasa Morita",
+                "foto": "https://media.api-sports.io/football/players/32960.png",
+                "numeroCamisa": 13,
+                "posicao": "M",
+                "estatisticas": {
+                    "minutos": null,
+                    "nota": null,
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": null,
+                    "precisaoPasses": null,
+                    "desarmes": null,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 106851,
+                "nome": "Shuto Machino",
+                "foto": "https://media.api-sports.io/football/players/106851.png",
+                "numeroCamisa": 20,
+                "posicao": "F",
+                "estatisticas": {
+                    "minutos": null,
+                    "nota": null,
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": null,
+                    "precisaoPasses": null,
+                    "desarmes": null,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 72155,
+                "nome": "Ayase Ueda",
+                "foto": "https://media.api-sports.io/football/players/72155.png",
+                "numeroCamisa": 21,
+                "posicao": "F",
+                "estatisticas": {
+                    "minutos": null,
+                    "nota": null,
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": null,
+                    "precisaoPasses": null,
+                    "desarmes": null,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 25375,
+                "nome": "Takuma Asano",
+                "foto": "https://media.api-sports.io/football/players/25375.png",
+                "numeroCamisa": 18,
+                "posicao": "F",
+                "estatisticas": {
+                    "minutos": 33,
+                    "nota": "7.2",
+                    "gols": 1,
+                    "assistencias": null,
+                    "chutesAoGol": 1,
+                    "passes": 6,
+                    "precisaoPasses": "5",
+                    "desarmes": null,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 1101,
+                "nome": "Takumi Minamino",
+                "foto": "https://media.api-sports.io/football/players/1101.png",
+                "numeroCamisa": 10,
+                "posicao": "M",
+                "estatisticas": {
+                    "minutos": 16,
+                    "nota": "6.6",
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": 1,
+                    "passes": 3,
+                    "precisaoPasses": "1",
+                    "desarmes": 1,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            }
+        ]
+    }
+}

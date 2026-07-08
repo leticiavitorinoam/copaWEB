@@ -1,1 +1,1056 @@
-{}
+{
+    "selecao01": {
+        "id": 31,
+        "nome": "Morocco",
+        "escudo": "https://media.api-sports.io/football/teams/31.png",
+        "jogadores": [
+            {
+                "id": 2701,
+                "nome": "Bono",
+                "foto": "https://media.api-sports.io/football/players/2701.png",
+                "numeroCamisa": 1,
+                "posicao": "G",
+                "estatisticas": {
+                    "minutos": 90,
+                    "nota": "7.3",
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": 21,
+                    "precisaoPasses": "15",
+                    "desarmes": null,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 9,
+                "nome": "Achraf Hakimi",
+                "foto": "https://media.api-sports.io/football/players/9.png",
+                "numeroCamisa": 2,
+                "posicao": "D",
+                "estatisticas": {
+                    "minutos": 90,
+                    "nota": "7.3",
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": 1,
+                    "passes": 36,
+                    "precisaoPasses": "31",
+                    "desarmes": 3,
+                    "dribles": 1,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 21694,
+                "nome": "Nayef Aguerd",
+                "foto": "https://media.api-sports.io/football/players/21694.png",
+                "numeroCamisa": 5,
+                "posicao": "D",
+                "estatisticas": {
+                    "minutos": 90,
+                    "nota": "7.2",
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": 47,
+                    "precisaoPasses": "41",
+                    "desarmes": 1,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 2716,
+                "nome": "Romain Saïss",
+                "foto": "https://media.api-sports.io/football/players/2716.png",
+                "numeroCamisa": 6,
+                "posicao": "D",
+                "estatisticas": {
+                    "minutos": 90,
+                    "nota": "7.2",
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": 49,
+                    "precisaoPasses": "41",
+                    "desarmes": 2,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 545,
+                "nome": "Noussair Mazraoui",
+                "foto": "https://media.api-sports.io/football/players/545.png",
+                "numeroCamisa": 3,
+                "posicao": "D",
+                "estatisticas": {
+                    "minutos": 60,
+                    "nota": "7.3",
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": 1,
+                    "passes": 19,
+                    "precisaoPasses": "15",
+                    "desarmes": 4,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 129678,
+                "nome": "Azzedine Ounahi",
+                "foto": "https://media.api-sports.io/football/players/129678.png",
+                "numeroCamisa": 8,
+                "posicao": "M",
+                "estatisticas": {
+                    "minutos": 82,
+                    "nota": "7",
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": 30,
+                    "precisaoPasses": "22",
+                    "desarmes": 2,
+                    "dribles": 1,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 74,
+                "nome": "Sofyan Amrabat",
+                "foto": "https://media.api-sports.io/football/players/74.png",
+                "numeroCamisa": 4,
+                "posicao": "M",
+                "estatisticas": {
+                    "minutos": 90,
+                    "nota": "7.3",
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": 45,
+                    "precisaoPasses": "39",
+                    "desarmes": 1,
+                    "dribles": null,
+                    "cartoesAmarelos": 1,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 8587,
+                "nome": "Selim Amallah",
+                "foto": "https://media.api-sports.io/football/players/8587.png",
+                "numeroCamisa": 15,
+                "posicao": "M",
+                "estatisticas": {
+                    "minutos": 90,
+                    "nota": "6.9",
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": 13,
+                    "precisaoPasses": "10",
+                    "desarmes": 3,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 548,
+                "nome": "Hakim Ziyech",
+                "foto": "https://media.api-sports.io/football/players/548.png",
+                "numeroCamisa": 7,
+                "posicao": "F",
+                "estatisticas": {
+                    "minutos": 90,
+                    "nota": "6.9",
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": 31,
+                    "precisaoPasses": "19",
+                    "desarmes": 3,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 47422,
+                "nome": "Youssef En-Nesyri",
+                "foto": "https://media.api-sports.io/football/players/47422.png",
+                "numeroCamisa": 19,
+                "posicao": "F",
+                "estatisticas": {
+                    "minutos": 81,
+                    "nota": "6.9",
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": 15,
+                    "precisaoPasses": "8",
+                    "desarmes": null,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 2710,
+                "nome": "Sofiane Boufal",
+                "foto": "https://media.api-sports.io/football/players/2710.png",
+                "numeroCamisa": 17,
+                "posicao": "F",
+                "estatisticas": {
+                    "minutos": 65,
+                    "nota": "6.3",
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": 17,
+                    "precisaoPasses": "13",
+                    "desarmes": 1,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 2702,
+                "nome": "Monir El Kajoui",
+                "foto": "https://media.api-sports.io/football/players/2702.png",
+                "numeroCamisa": 12,
+                "posicao": "G",
+                "estatisticas": {
+                    "minutos": null,
+                    "nota": null,
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": null,
+                    "precisaoPasses": null,
+                    "desarmes": null,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 2703,
+                "nome": "Ahmed Reda Tagnaouti",
+                "foto": "https://media.api-sports.io/football/players/2703.png",
+                "numeroCamisa": 22,
+                "posicao": "G",
+                "estatisticas": {
+                    "minutos": null,
+                    "nota": null,
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": null,
+                    "precisaoPasses": null,
+                    "desarmes": null,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 135836,
+                "nome": "Yahia Attiyat Allah",
+                "foto": "https://media.api-sports.io/football/players/135836.png",
+                "numeroCamisa": 25,
+                "posicao": "D",
+                "estatisticas": {
+                    "minutos": 30,
+                    "nota": "6.7",
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": 14,
+                    "precisaoPasses": "12",
+                    "desarmes": null,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 31386,
+                "nome": "Jawad El Yamiq",
+                "foto": "https://media.api-sports.io/football/players/31386.png",
+                "numeroCamisa": 18,
+                "posicao": "D",
+                "estatisticas": {
+                    "minutos": null,
+                    "nota": null,
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": null,
+                    "precisaoPasses": null,
+                    "desarmes": null,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 36556,
+                "nome": "Badr Benoun",
+                "foto": "https://media.api-sports.io/football/players/36556.png",
+                "numeroCamisa": 24,
+                "posicao": "D",
+                "estatisticas": {
+                    "minutos": null,
+                    "nota": null,
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": null,
+                    "precisaoPasses": null,
+                    "desarmes": null,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 36540,
+                "nome": "Achraf Dari",
+                "foto": "https://media.api-sports.io/football/players/36540.png",
+                "numeroCamisa": 20,
+                "posicao": "D",
+                "estatisticas": {
+                    "minutos": null,
+                    "nota": null,
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": null,
+                    "precisaoPasses": null,
+                    "desarmes": null,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 340573,
+                "nome": "Bilal El Khannouss",
+                "foto": "https://media.api-sports.io/football/players/340573.png",
+                "numeroCamisa": 23,
+                "posicao": "M",
+                "estatisticas": {
+                    "minutos": null,
+                    "nota": null,
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": null,
+                    "precisaoPasses": null,
+                    "desarmes": null,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 36544,
+                "nome": "Yahya Jabrane",
+                "foto": "https://media.api-sports.io/football/players/36544.png",
+                "numeroCamisa": 26,
+                "posicao": "M",
+                "estatisticas": {
+                    "minutos": null,
+                    "nota": null,
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": null,
+                    "precisaoPasses": null,
+                    "desarmes": null,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 19053,
+                "nome": "Abdelhamid Sabiri",
+                "foto": "https://media.api-sports.io/football/players/19053.png",
+                "numeroCamisa": 11,
+                "posicao": "M",
+                "estatisticas": {
+                    "minutos": 8,
+                    "nota": "6.5",
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": 11,
+                    "precisaoPasses": "7",
+                    "desarmes": null,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 44325,
+                "nome": "Abderrazak Hamdallah",
+                "foto": "https://media.api-sports.io/football/players/44325.png",
+                "numeroCamisa": 9,
+                "posicao": "F",
+                "estatisticas": {
+                    "minutos": 9,
+                    "nota": "6.5",
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": null,
+                    "precisaoPasses": null,
+                    "desarmes": null,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 243,
+                "nome": "Zakaria Aboukhlal",
+                "foto": "https://media.api-sports.io/football/players/243.png",
+                "numeroCamisa": 14,
+                "posicao": "F",
+                "estatisticas": {
+                    "minutos": null,
+                    "nota": null,
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": null,
+                    "precisaoPasses": null,
+                    "desarmes": null,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 17632,
+                "nome": "Ilias Chair",
+                "foto": "https://media.api-sports.io/football/players/17632.png",
+                "numeroCamisa": 13,
+                "posicao": "M",
+                "estatisticas": {
+                    "minutos": null,
+                    "nota": null,
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": null,
+                    "precisaoPasses": null,
+                    "desarmes": null,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 181421,
+                "nome": "Abdessamad Ezzalzouli",
+                "foto": "https://media.api-sports.io/football/players/181421.png",
+                "numeroCamisa": 16,
+                "posicao": "F",
+                "estatisticas": {
+                    "minutos": 25,
+                    "nota": "6.5",
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": null,
+                    "precisaoPasses": null,
+                    "desarmes": 1,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 128478,
+                "nome": "Walid Cheddira",
+                "foto": "https://media.api-sports.io/football/players/128478.png",
+                "numeroCamisa": 21,
+                "posicao": "F",
+                "estatisticas": {
+                    "minutos": null,
+                    "nota": null,
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": null,
+                    "precisaoPasses": null,
+                    "desarmes": null,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 129169,
+                "nome": "Anass Zaroury",
+                "foto": "https://media.api-sports.io/football/players/129169.png",
+                "numeroCamisa": 10,
+                "posicao": "F",
+                "estatisticas": {
+                    "minutos": null,
+                    "nota": null,
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": null,
+                    "precisaoPasses": null,
+                    "desarmes": null,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            }
+        ]
+    },
+    "selecao02": {
+        "id": 3,
+        "nome": "Croatia",
+        "escudo": "https://media.api-sports.io/football/teams/3.png",
+        "jogadores": [
+            {
+                "id": 1305,
+                "nome": "Dominik Livaković",
+                "foto": "https://media.api-sports.io/football/players/1305.png",
+                "numeroCamisa": 1,
+                "posicao": "G",
+                "estatisticas": {
+                    "minutos": 90,
+                    "nota": "7.2",
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": 21,
+                    "precisaoPasses": "21",
+                    "desarmes": null,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 14330,
+                "nome": "Josip Juranović",
+                "foto": "https://media.api-sports.io/football/players/14330.png",
+                "numeroCamisa": 22,
+                "posicao": "D",
+                "estatisticas": {
+                    "minutos": 90,
+                    "nota": "7.2",
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": 43,
+                    "precisaoPasses": "33",
+                    "desarmes": 2,
+                    "dribles": 1,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 287,
+                "nome": "Dejan Lovren",
+                "foto": "https://media.api-sports.io/football/players/287.png",
+                "numeroCamisa": 6,
+                "posicao": "D",
+                "estatisticas": {
+                    "minutos": 90,
+                    "nota": "8.3",
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": 1,
+                    "passes": 90,
+                    "precisaoPasses": "81",
+                    "desarmes": 4,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 129033,
+                "nome": "Joško Gvardiol",
+                "foto": "https://media.api-sports.io/football/players/129033.png",
+                "numeroCamisa": 20,
+                "posicao": "D",
+                "estatisticas": {
+                    "minutos": 90,
+                    "nota": "7.5",
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": 115,
+                    "precisaoPasses": "102",
+                    "desarmes": null,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 26303,
+                "nome": "Borna Sosa",
+                "foto": "https://media.api-sports.io/football/players/26303.png",
+                "numeroCamisa": 19,
+                "posicao": "D",
+                "estatisticas": {
+                    "minutos": 90,
+                    "nota": "7.2",
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": 55,
+                    "precisaoPasses": "44",
+                    "desarmes": 3,
+                    "dribles": 1,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 754,
+                "nome": "Luka Modrić",
+                "foto": "https://media.api-sports.io/football/players/754.png",
+                "numeroCamisa": 10,
+                "posicao": "M",
+                "estatisticas": {
+                    "minutos": 90,
+                    "nota": "7.2",
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": 86,
+                    "precisaoPasses": "77",
+                    "desarmes": 1,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 201,
+                "nome": "Marcelo Brozović",
+                "foto": "https://media.api-sports.io/football/players/201.png",
+                "numeroCamisa": 11,
+                "posicao": "M",
+                "estatisticas": {
+                    "minutos": 90,
+                    "nota": "7",
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": 89,
+                    "precisaoPasses": "77",
+                    "desarmes": 2,
+                    "dribles": 2,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 2291,
+                "nome": "Mateo Kovačić",
+                "foto": "https://media.api-sports.io/football/players/2291.png",
+                "numeroCamisa": 8,
+                "posicao": "M",
+                "estatisticas": {
+                    "minutos": 79,
+                    "nota": "6.6",
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": 53,
+                    "precisaoPasses": "46",
+                    "desarmes": 2,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 842,
+                "nome": "Nikola Vlašić",
+                "foto": "https://media.api-sports.io/football/players/842.png",
+                "numeroCamisa": 13,
+                "posicao": "F",
+                "estatisticas": {
+                    "minutos": 45,
+                    "nota": "6",
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": 1,
+                    "passes": 9,
+                    "precisaoPasses": "7",
+                    "desarmes": null,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 726,
+                "nome": "Andrej Kramarić",
+                "foto": "https://media.api-sports.io/football/players/726.png",
+                "numeroCamisa": 9,
+                "posicao": "F",
+                "estatisticas": {
+                    "minutos": 71,
+                    "nota": "6.2",
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": 12,
+                    "precisaoPasses": "11",
+                    "desarmes": null,
+                    "dribles": 1,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 207,
+                "nome": "Ivan Perišić",
+                "foto": "https://media.api-sports.io/football/players/207.png",
+                "numeroCamisa": 4,
+                "posicao": "F",
+                "estatisticas": {
+                    "minutos": 89,
+                    "nota": "6.9",
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": 35,
+                    "precisaoPasses": "26",
+                    "desarmes": 2,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 14382,
+                "nome": "Ivo Grbić",
+                "foto": "https://media.api-sports.io/football/players/14382.png",
+                "numeroCamisa": 12,
+                "posicao": "G",
+                "estatisticas": {
+                    "minutos": null,
+                    "nota": null,
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": null,
+                    "precisaoPasses": null,
+                    "desarmes": null,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 14297,
+                "nome": "Ivica Ivušić",
+                "foto": "https://media.api-sports.io/football/players/14297.png",
+                "numeroCamisa": 23,
+                "posicao": "G",
+                "estatisticas": {
+                    "minutos": null,
+                    "nota": null,
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": null,
+                    "precisaoPasses": null,
+                    "desarmes": null,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 14701,
+                "nome": "Josip Šutalo",
+                "foto": "https://media.api-sports.io/football/players/14701.png",
+                "numeroCamisa": 24,
+                "posicao": "D",
+                "estatisticas": {
+                    "minutos": null,
+                    "nota": null,
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": null,
+                    "precisaoPasses": null,
+                    "desarmes": null,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 30827,
+                "nome": "Martin Erlić",
+                "foto": "https://media.api-sports.io/football/players/30827.png",
+                "numeroCamisa": 5,
+                "posicao": "D",
+                "estatisticas": {
+                    "minutos": null,
+                    "nota": null,
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": null,
+                    "precisaoPasses": null,
+                    "desarmes": null,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 1738,
+                "nome": "Borna Barišić",
+                "foto": "https://media.api-sports.io/football/players/1738.png",
+                "numeroCamisa": 3,
+                "posicao": "D",
+                "estatisticas": {
+                    "minutos": null,
+                    "nota": null,
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": null,
+                    "precisaoPasses": null,
+                    "desarmes": null,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 1986,
+                "nome": "Domagoj Vida",
+                "foto": "https://media.api-sports.io/football/players/1986.png",
+                "numeroCamisa": 21,
+                "posicao": "D",
+                "estatisticas": {
+                    "minutos": null,
+                    "nota": null,
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": null,
+                    "precisaoPasses": null,
+                    "desarmes": null,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 125171,
+                "nome": "Josip Stanišić",
+                "foto": "https://media.api-sports.io/football/players/125171.png",
+                "numeroCamisa": 2,
+                "posicao": "D",
+                "estatisticas": {
+                    "minutos": null,
+                    "nota": null,
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": null,
+                    "precisaoPasses": null,
+                    "desarmes": null,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 7332,
+                "nome": "Luka Sučić",
+                "foto": "https://media.api-sports.io/football/players/7332.png",
+                "numeroCamisa": 25,
+                "posicao": "M",
+                "estatisticas": {
+                    "minutos": null,
+                    "nota": null,
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": null,
+                    "precisaoPasses": null,
+                    "desarmes": null,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 1321,
+                "nome": "Lovro Majer",
+                "foto": "https://media.api-sports.io/football/players/1321.png",
+                "numeroCamisa": 7,
+                "posicao": "M",
+                "estatisticas": {
+                    "minutos": 11,
+                    "nota": "6.3",
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": 11,
+                    "precisaoPasses": "9",
+                    "desarmes": null,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 1330,
+                "nome": "Mislav Oršić",
+                "foto": "https://media.api-sports.io/football/players/1330.png",
+                "numeroCamisa": 18,
+                "posicao": "F",
+                "estatisticas": {
+                    "minutos": 1,
+                    "nota": null,
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": 1,
+                    "precisaoPasses": "1",
+                    "desarmes": null,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 14395,
+                "nome": "Kristijan Jakić",
+                "foto": "https://media.api-sports.io/football/players/14395.png",
+                "numeroCamisa": 26,
+                "posicao": "M",
+                "estatisticas": {
+                    "minutos": null,
+                    "nota": null,
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": null,
+                    "precisaoPasses": null,
+                    "desarmes": null,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 46746,
+                "nome": "Ante Budimir",
+                "foto": "https://media.api-sports.io/football/players/46746.png",
+                "numeroCamisa": 17,
+                "posicao": "F",
+                "estatisticas": {
+                    "minutos": null,
+                    "nota": null,
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": null,
+                    "precisaoPasses": null,
+                    "desarmes": null,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 1331,
+                "nome": "Bruno Petković",
+                "foto": "https://media.api-sports.io/football/players/1331.png",
+                "numeroCamisa": 16,
+                "posicao": "F",
+                "estatisticas": {
+                    "minutos": null,
+                    "nota": null,
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": null,
+                    "precisaoPasses": null,
+                    "desarmes": null,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 2763,
+                "nome": "Mario Pašalić",
+                "foto": "https://media.api-sports.io/football/players/2763.png",
+                "numeroCamisa": 15,
+                "posicao": "M",
+                "estatisticas": {
+                    "minutos": 45,
+                    "nota": "6.7",
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": 14,
+                    "precisaoPasses": "13",
+                    "desarmes": null,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            },
+            {
+                "id": 611,
+                "nome": "Marko Livaja",
+                "foto": "https://media.api-sports.io/football/players/611.png",
+                "numeroCamisa": 14,
+                "posicao": "F",
+                "estatisticas": {
+                    "minutos": 19,
+                    "nota": "6.7",
+                    "gols": null,
+                    "assistencias": null,
+                    "chutesAoGol": null,
+                    "passes": 8,
+                    "precisaoPasses": "3",
+                    "desarmes": 1,
+                    "dribles": null,
+                    "cartoesAmarelos": 0,
+                    "cartoesVermelhos": 0
+                }
+            }
+        ]
+    }
+}

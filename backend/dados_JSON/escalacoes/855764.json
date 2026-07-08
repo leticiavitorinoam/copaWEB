@@ -1,1 +1,358 @@
-{}
+{
+    "selecao01": {
+        "id": 24,
+        "nome": "Poland",
+        "escudo": "https://media.api-sports.io/football/teams/24.png",
+        "tecnico": "C. Michniewicz",
+        "formacao": "4-4-2",
+        "titulares": [
+            {
+                "id": 851,
+                "nome": "W. Szczęsny",
+                "numeroCamisa": 1,
+                "posicao": "G",
+                "coordenadas": "1:1"
+            },
+            {
+                "id": 19298,
+                "nome": "M. Cash",
+                "numeroCamisa": 2,
+                "posicao": "D",
+                "coordenadas": "2:4"
+            },
+            {
+                "id": 97,
+                "nome": "K. Glik",
+                "numeroCamisa": 15,
+                "posicao": "D",
+                "coordenadas": "2:3"
+            },
+            {
+                "id": 61431,
+                "nome": "J. Kiwior",
+                "numeroCamisa": 14,
+                "posicao": "D",
+                "coordenadas": "2:2"
+            },
+            {
+                "id": 3000,
+                "nome": "B. Bereszyński",
+                "numeroCamisa": 18,
+                "posicao": "D",
+                "coordenadas": "2:1"
+            },
+            {
+                "id": 329,
+                "nome": "P. Zieliński",
+                "numeroCamisa": 20,
+                "posicao": "M",
+                "coordenadas": "3:4"
+            },
+            {
+                "id": 19826,
+                "nome": "K. Bielik",
+                "numeroCamisa": 6,
+                "posicao": "M",
+                "coordenadas": "3:3"
+            },
+            {
+                "id": 481,
+                "nome": "G. Krychowiak",
+                "numeroCamisa": 10,
+                "posicao": "M",
+                "coordenadas": "3:2"
+            },
+            {
+                "id": 3007,
+                "nome": "P. Frankowski",
+                "numeroCamisa": 24,
+                "posicao": "M",
+                "coordenadas": "3:1"
+            },
+            {
+                "id": 521,
+                "nome": "R. Lewandowski",
+                "numeroCamisa": 9,
+                "posicao": "F",
+                "coordenadas": "4:2"
+            },
+            {
+                "id": 2385,
+                "nome": "K. Świderski",
+                "numeroCamisa": 16,
+                "posicao": "F",
+                "coordenadas": "4:1"
+            }
+        ],
+        "reservas": [
+            {
+                "id": 40809,
+                "nome": "M. Skóraś",
+                "numeroCamisa": 26,
+                "posicao": "M"
+            },
+            {
+                "id": 40560,
+                "nome": "J. Kamiński",
+                "numeroCamisa": 13,
+                "posicao": "M"
+            },
+            {
+                "id": 3011,
+                "nome": "D. Szymański",
+                "numeroCamisa": 8,
+                "posicao": "M"
+            },
+            {
+                "id": 3002,
+                "nome": "A. Jędrzejczyk",
+                "numeroCamisa": 3,
+                "posicao": "D"
+            },
+            {
+                "id": 1651,
+                "nome": "K. Piątek",
+                "numeroCamisa": 23,
+                "posicao": "F"
+            },
+            {
+                "id": 203474,
+                "nome": "N. Zalewski",
+                "numeroCamisa": 21,
+                "posicao": "D"
+            },
+            {
+                "id": 40392,
+                "nome": "M. Wieteska",
+                "numeroCamisa": 4,
+                "posicao": "D"
+            },
+            {
+                "id": 333,
+                "nome": "A. Milik",
+                "numeroCamisa": 7,
+                "posicao": "F"
+            },
+            {
+                "id": 2999,
+                "nome": "J. Bednarek",
+                "numeroCamisa": 5,
+                "posicao": "D"
+            },
+            {
+                "id": 3001,
+                "nome": "R. Gumny",
+                "numeroCamisa": 25,
+                "posicao": "D"
+            },
+            {
+                "id": 40403,
+                "nome": "S. Szymański",
+                "numeroCamisa": 19,
+                "posicao": "M"
+            },
+            {
+                "id": 15573,
+                "nome": "K. Grabara",
+                "numeroCamisa": 22,
+                "posicao": "G"
+            },
+            {
+                "id": 2998,
+                "nome": "Ł. Skorupski",
+                "numeroCamisa": 12,
+                "posicao": "G"
+            },
+            {
+                "id": 3012,
+                "nome": "K. Grosicki",
+                "numeroCamisa": 11,
+                "posicao": "M"
+            },
+            {
+                "id": 3014,
+                "nome": "S. Żurkowski",
+                "numeroCamisa": 17,
+                "posicao": "M"
+            }
+        ]
+    },
+    "selecao02": {
+        "id": 26,
+        "nome": "Argentina",
+        "escudo": "https://media.api-sports.io/football/teams/26.png",
+        "tecnico": "L. Scaloni",
+        "formacao": "4-3-3",
+        "titulares": [
+            {
+                "id": 19599,
+                "nome": "E. Martínez",
+                "numeroCamisa": 23,
+                "posicao": "G",
+                "coordenadas": "1:1"
+            },
+            {
+                "id": 6503,
+                "nome": "N. Molina",
+                "numeroCamisa": 26,
+                "posicao": "D",
+                "coordenadas": "2:4"
+            },
+            {
+                "id": 30776,
+                "nome": "C. Romero",
+                "numeroCamisa": 13,
+                "posicao": "D",
+                "coordenadas": "2:3"
+            },
+            {
+                "id": 624,
+                "nome": "N. Otamendi",
+                "numeroCamisa": 19,
+                "posicao": "D",
+                "coordenadas": "2:2"
+            },
+            {
+                "id": 1493,
+                "nome": "M. Acuña",
+                "numeroCamisa": 8,
+                "posicao": "D",
+                "coordenadas": "2:1"
+            },
+            {
+                "id": 2472,
+                "nome": "R. De Paul",
+                "numeroCamisa": 7,
+                "posicao": "M",
+                "coordenadas": "3:3"
+            },
+            {
+                "id": 5996,
+                "nome": "E. Fernández",
+                "numeroCamisa": 24,
+                "posicao": "M",
+                "coordenadas": "3:2"
+            },
+            {
+                "id": 6716,
+                "nome": "A. Mac Allister",
+                "numeroCamisa": 20,
+                "posicao": "M",
+                "coordenadas": "3:1"
+            },
+            {
+                "id": 266,
+                "nome": "Á. Di María",
+                "numeroCamisa": 11,
+                "posicao": "F",
+                "coordenadas": "4:3"
+            },
+            {
+                "id": 154,
+                "nome": "L. Messi",
+                "numeroCamisa": 10,
+                "posicao": "F",
+                "coordenadas": "4:2"
+            },
+            {
+                "id": 6009,
+                "nome": "J. Álvarez",
+                "numeroCamisa": 9,
+                "posicao": "F",
+                "coordenadas": "4:1"
+            }
+        ],
+        "reservas": [
+            {
+                "id": 271,
+                "nome": "L. Paredes",
+                "numeroCamisa": 5,
+                "posicao": "M"
+            },
+            {
+                "id": 529,
+                "nome": "N. Tagliafico",
+                "numeroCamisa": 3,
+                "posicao": "D"
+            },
+            {
+                "id": 217,
+                "nome": "Lautaro Martínez",
+                "numeroCamisa": 22,
+                "posicao": "F"
+            },
+            {
+                "id": 2469,
+                "nome": "G. Pezzella",
+                "numeroCamisa": 6,
+                "posicao": "D"
+            },
+            {
+                "id": 6067,
+                "nome": "T. Almada",
+                "numeroCamisa": 16,
+                "posicao": "M"
+            },
+            {
+                "id": 2476,
+                "nome": "G. Rodríguez",
+                "numeroCamisa": 18,
+                "posicao": "M"
+            },
+            {
+                "id": 875,
+                "nome": "P. Dybala",
+                "numeroCamisa": 21,
+                "posicao": "F"
+            },
+            {
+                "id": 6002,
+                "nome": "E. Palacios",
+                "numeroCamisa": 14,
+                "posicao": "M"
+            },
+            {
+                "id": 53,
+                "nome": "Á. Correa",
+                "numeroCamisa": 15,
+                "posicao": "F"
+            },
+            {
+                "id": 30433,
+                "nome": "P. Gómez",
+                "numeroCamisa": 17,
+                "posicao": "M"
+            },
+            {
+                "id": 47296,
+                "nome": "G. Rulli",
+                "numeroCamisa": 12,
+                "posicao": "G"
+            },
+            {
+                "id": 2467,
+                "nome": "Lisandro Martínez",
+                "numeroCamisa": 25,
+                "posicao": "D"
+            },
+            {
+                "id": 2468,
+                "nome": "G. Montiel",
+                "numeroCamisa": 4,
+                "posicao": "D"
+            },
+            {
+                "id": 166,
+                "nome": "J. Foyth",
+                "numeroCamisa": 2,
+                "posicao": "D"
+            },
+            {
+                "id": 2463,
+                "nome": "F. Armani",
+                "numeroCamisa": 1,
+                "posicao": "G"
+            }
+        ]
+    }
+}

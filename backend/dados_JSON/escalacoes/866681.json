@@ -1,1 +1,358 @@
-{}
+{
+    "selecao01": {
+        "id": 2384,
+        "nome": "USA",
+        "escudo": "https://media.api-sports.io/football/teams/2384.png",
+        "tecnico": "G. Berhalter",
+        "formacao": "4-3-3",
+        "titulares": [
+            {
+                "id": 50999,
+                "nome": "M. Turner",
+                "numeroCamisa": 1,
+                "posicao": "G",
+                "coordenadas": "1:1"
+            },
+            {
+                "id": 38735,
+                "nome": "S. Dest",
+                "numeroCamisa": 2,
+                "posicao": "D",
+                "coordenadas": "2:4"
+            },
+            {
+                "id": 51032,
+                "nome": "W. Zimmerman",
+                "numeroCamisa": 3,
+                "posicao": "D",
+                "coordenadas": "2:3"
+            },
+            {
+                "id": 19023,
+                "nome": "T. Ream",
+                "numeroCamisa": 13,
+                "posicao": "M",
+                "coordenadas": "2:2"
+            },
+            {
+                "id": 19549,
+                "nome": "A. Robinson",
+                "numeroCamisa": 5,
+                "posicao": "D",
+                "coordenadas": "2:1"
+            },
+            {
+                "id": 415,
+                "nome": "W. McKennie",
+                "numeroCamisa": 8,
+                "posicao": "M",
+                "coordenadas": "3:3"
+            },
+            {
+                "id": 1150,
+                "nome": "T. Adams",
+                "numeroCamisa": 4,
+                "posicao": "D",
+                "coordenadas": "3:2"
+            },
+            {
+                "id": 162106,
+                "nome": "Y. Musah",
+                "numeroCamisa": 6,
+                "posicao": "M",
+                "coordenadas": "3:1"
+            },
+            {
+                "id": 1138,
+                "nome": "T. Weah",
+                "numeroCamisa": 21,
+                "posicao": "F",
+                "coordenadas": "4:3"
+            },
+            {
+                "id": 25332,
+                "nome": "J. Sargent",
+                "numeroCamisa": 24,
+                "posicao": "F",
+                "coordenadas": "4:2"
+            },
+            {
+                "id": 17,
+                "nome": "C. Pulišić",
+                "numeroCamisa": 10,
+                "posicao": "F",
+                "coordenadas": "4:1"
+            }
+        ],
+        "reservas": [
+            {
+                "id": 50739,
+                "nome": "B. Aaronson",
+                "numeroCamisa": 11,
+                "posicao": "M"
+            },
+            {
+                "id": 427,
+                "nome": "H. Wright",
+                "numeroCamisa": 19,
+                "posicao": "F"
+            },
+            {
+                "id": 18897,
+                "nome": "D. Yedlin",
+                "numeroCamisa": 22,
+                "posicao": "D"
+            },
+            {
+                "id": 51310,
+                "nome": "K. Acosta",
+                "numeroCamisa": 23,
+                "posicao": "M"
+            },
+            {
+                "id": 51118,
+                "nome": "J. Morris",
+                "numeroCamisa": 16,
+                "posicao": "F"
+            },
+            {
+                "id": 19026,
+                "nome": "L. de la Torre",
+                "numeroCamisa": 14,
+                "posicao": "M"
+            },
+            {
+                "id": 62,
+                "nome": "E. Horvath",
+                "numeroCamisa": 12,
+                "posicao": "G"
+            },
+            {
+                "id": 50952,
+                "nome": "A. Long",
+                "numeroCamisa": 15,
+                "posicao": "D"
+            },
+            {
+                "id": 51142,
+                "nome": "J. Ferreira",
+                "numeroCamisa": 9,
+                "posicao": "F"
+            },
+            {
+                "id": 64310,
+                "nome": "S. Moore",
+                "numeroCamisa": 18,
+                "posicao": "D"
+            },
+            {
+                "id": 19314,
+                "nome": "C. Carter-Vickers",
+                "numeroCamisa": 20,
+                "posicao": "D"
+            },
+            {
+                "id": 161921,
+                "nome": "G. Reyna",
+                "numeroCamisa": 7,
+                "posicao": "M"
+            },
+            {
+                "id": 50852,
+                "nome": "J. Scally",
+                "numeroCamisa": 26,
+                "posicao": "D"
+            },
+            {
+                "id": 50848,
+                "nome": "S. Johnson",
+                "numeroCamisa": 25,
+                "posicao": "G"
+            },
+            {
+                "id": 51114,
+                "nome": "C. Roldán",
+                "numeroCamisa": 17,
+                "posicao": "M"
+            }
+        ]
+    },
+    "selecao02": {
+        "id": 767,
+        "nome": "Wales",
+        "escudo": "https://media.api-sports.io/football/teams/767.png",
+        "tecnico": "R. Page",
+        "formacao": "3-5-2",
+        "titulares": [
+            {
+                "id": 18836,
+                "nome": "W. Hennessey",
+                "numeroCamisa": 1,
+                "posicao": "G",
+                "coordenadas": "1:1"
+            },
+            {
+                "id": 18866,
+                "nome": "C. Mepham",
+                "numeroCamisa": 5,
+                "posicao": "M",
+                "coordenadas": "2:3"
+            },
+            {
+                "id": 19321,
+                "nome": "J. Rodon",
+                "numeroCamisa": 6,
+                "posicao": "M",
+                "coordenadas": "2:2"
+            },
+            {
+                "id": 164,
+                "nome": "B. Davies",
+                "numeroCamisa": 4,
+                "posicao": "D",
+                "coordenadas": "2:1"
+            },
+            {
+                "id": 19331,
+                "nome": "C. Roberts",
+                "numeroCamisa": 14,
+                "posicao": "D",
+                "coordenadas": "3:5"
+            },
+            {
+                "id": 1459,
+                "nome": "A. Ramsey",
+                "numeroCamisa": 10,
+                "posicao": "M",
+                "coordenadas": "3:4"
+            },
+            {
+                "id": 2279,
+                "nome": "E. Ampadu",
+                "numeroCamisa": 15,
+                "posicao": "M",
+                "coordenadas": "3:3"
+            },
+            {
+                "id": 19221,
+                "nome": "H. Wilson",
+                "numeroCamisa": 8,
+                "posicao": "M",
+                "coordenadas": "3:2"
+            },
+            {
+                "id": 138780,
+                "nome": "N. Williams",
+                "numeroCamisa": 3,
+                "posicao": "D",
+                "coordenadas": "3:1"
+            },
+            {
+                "id": 758,
+                "nome": "G. Bale",
+                "numeroCamisa": 11,
+                "posicao": "F",
+                "coordenadas": "4:2"
+            },
+            {
+                "id": 19329,
+                "nome": "D. James",
+                "numeroCamisa": 20,
+                "posicao": "F",
+                "coordenadas": "4:1"
+            }
+        ],
+        "reservas": [
+            {
+                "id": 19804,
+                "nome": "K. Moore",
+                "numeroCamisa": 13,
+                "posicao": "F"
+            },
+            {
+                "id": 129711,
+                "nome": "B. Johnson",
+                "numeroCamisa": 9,
+                "posicao": "F"
+            },
+            {
+                "id": 19271,
+                "nome": "J. Morrell",
+                "numeroCamisa": 16,
+                "posicao": "M"
+            },
+            {
+                "id": 18599,
+                "nome": "S. Thomas",
+                "numeroCamisa": 22,
+                "posicao": "M"
+            },
+            {
+                "id": 104041,
+                "nome": "B. Cabango",
+                "numeroCamisa": 24,
+                "posicao": "D"
+            },
+            {
+                "id": 19502,
+                "nome": "J. Allen",
+                "numeroCamisa": 7,
+                "posicao": "M"
+            },
+            {
+                "id": 301184,
+                "nome": "R. Colwill",
+                "numeroCamisa": 25,
+                "posicao": "M"
+            },
+            {
+                "id": 18146,
+                "nome": "D. Ward",
+                "numeroCamisa": 12,
+                "posicao": "G"
+            },
+            {
+                "id": 20203,
+                "nome": "T. Lockyer",
+                "numeroCamisa": 17,
+                "posicao": "D"
+            },
+            {
+                "id": 70335,
+                "nome": "D. Levitt",
+                "numeroCamisa": 23,
+                "posicao": "M"
+            },
+            {
+                "id": 19779,
+                "nome": "A. Davies",
+                "numeroCamisa": 21,
+                "posicao": "G"
+            },
+            {
+                "id": 19837,
+                "nome": "J. Williams",
+                "numeroCamisa": 18,
+                "posicao": "M"
+            },
+            {
+                "id": 36843,
+                "nome": "M. Smith",
+                "numeroCamisa": 26,
+                "posicao": "M"
+            },
+            {
+                "id": 17932,
+                "nome": "M. Harris",
+                "numeroCamisa": 19,
+                "posicao": "F"
+            },
+            {
+                "id": 19602,
+                "nome": "C. Gunter",
+                "numeroCamisa": 2,
+                "posicao": "D"
+            }
+        ]
+    }
+}

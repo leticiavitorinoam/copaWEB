@@ -1,1 +1,346 @@
-{}
+{
+    "selecao01": {
+        "id": 10,
+        "nome": "England",
+        "escudo": "https://media.api-sports.io/football/teams/10.png",
+        "tecnico": "G. Southgate",
+        "formacao": "4-2-3-1",
+        "titulares": [
+            {
+                "id": 2932,
+                "nome": "J. Pickford",
+                "numeroCamisa": 1,
+                "posicao": "G",
+                "coordenadas": "1:1"
+            },
+            {
+                "id": 169,
+                "nome": "K. Trippier",
+                "numeroCamisa": 12,
+                "posicao": "D",
+                "coordenadas": "2:4"
+            },
+            {
+                "id": 626,
+                "nome": "J. Stones",
+                "numeroCamisa": 5,
+                "posicao": "D",
+                "coordenadas": "2:3"
+            },
+            {
+                "id": 2935,
+                "nome": "H. Maguire",
+                "numeroCamisa": 6,
+                "posicao": "D",
+                "coordenadas": "2:2"
+            },
+            {
+                "id": 891,
+                "nome": "L. Shaw",
+                "numeroCamisa": 3,
+                "posicao": "D",
+                "coordenadas": "2:1"
+            },
+            {
+                "id": 129718,
+                "nome": "J. Bellingham",
+                "numeroCamisa": 22,
+                "posicao": "M",
+                "coordenadas": "3:2"
+            },
+            {
+                "id": 2937,
+                "nome": "D. Rice",
+                "numeroCamisa": 4,
+                "posicao": "M",
+                "coordenadas": "3:1"
+            },
+            {
+                "id": 1460,
+                "nome": "B. Saka",
+                "numeroCamisa": 17,
+                "posicao": "M",
+                "coordenadas": "4:3"
+            },
+            {
+                "id": 19220,
+                "nome": "M. Mount",
+                "numeroCamisa": 19,
+                "posicao": "M",
+                "coordenadas": "4:2"
+            },
+            {
+                "id": 645,
+                "nome": "R. Sterling",
+                "numeroCamisa": 10,
+                "posicao": "M",
+                "coordenadas": "4:1"
+            },
+            {
+                "id": 184,
+                "nome": "H. Kane",
+                "numeroCamisa": 9,
+                "posicao": "F",
+                "coordenadas": "5:1"
+            }
+        ],
+        "reservas": [
+            {
+                "id": 175,
+                "nome": "E. Dier",
+                "numeroCamisa": 15,
+                "posicao": "D"
+            },
+            {
+                "id": 631,
+                "nome": "P. Foden",
+                "numeroCamisa": 20,
+                "posicao": "M"
+            },
+            {
+                "id": 909,
+                "nome": "M. Rashford",
+                "numeroCamisa": 11,
+                "posicao": "F"
+            },
+            {
+                "id": 19187,
+                "nome": "J. Grealish",
+                "numeroCamisa": 7,
+                "posicao": "M"
+            },
+            {
+                "id": 2939,
+                "nome": "C. Wilson",
+                "numeroCamisa": 24,
+                "posicao": "F"
+            },
+            {
+                "id": 19959,
+                "nome": "B. White",
+                "numeroCamisa": 21,
+                "posicao": "D"
+            },
+            {
+                "id": 67972,
+                "nome": "C. Gallagher",
+                "numeroCamisa": 26,
+                "posicao": "M"
+            },
+            {
+                "id": 18911,
+                "nome": "N. Pope",
+                "numeroCamisa": 13,
+                "posicao": "G"
+            },
+            {
+                "id": 20355,
+                "nome": "A. Ramsdale",
+                "numeroCamisa": 23,
+                "posicao": "G"
+            },
+            {
+                "id": 19130,
+                "nome": "K. Phillips",
+                "numeroCamisa": 14,
+                "posicao": "M"
+            },
+            {
+                "id": 627,
+                "nome": "K. Walker",
+                "numeroCamisa": 2,
+                "posicao": "D"
+            },
+            {
+                "id": 292,
+                "nome": "J. Henderson",
+                "numeroCamisa": 8,
+                "posicao": "M"
+            },
+            {
+                "id": 18741,
+                "nome": "C. Coady",
+                "numeroCamisa": 16,
+                "posicao": "D"
+            },
+            {
+                "id": 283,
+                "nome": "T. Alexander-Arnold",
+                "numeroCamisa": 18,
+                "posicao": "D"
+            }
+        ]
+    },
+    "selecao02": {
+        "id": 22,
+        "nome": "Iran",
+        "escudo": "https://media.api-sports.io/football/teams/22.png",
+        "tecnico": "Carlos Queiroz",
+        "formacao": "5-4-1",
+        "titulares": [
+            {
+                "id": 2682,
+                "nome": "A. Beiranvand",
+                "numeroCamisa": 1,
+                "posicao": "G",
+                "coordenadas": "1:1"
+            },
+            {
+                "id": 1311,
+                "nome": "S. Moharrami",
+                "numeroCamisa": 2,
+                "posicao": "D",
+                "coordenadas": "2:5"
+            },
+            {
+                "id": 2690,
+                "nome": "M. Pouraliganji",
+                "numeroCamisa": 8,
+                "posicao": "D",
+                "coordenadas": "2:4"
+            },
+            {
+                "id": 2683,
+                "nome": "R. Cheshmi",
+                "numeroCamisa": 15,
+                "posicao": "D",
+                "coordenadas": "2:3"
+            },
+            {
+                "id": 2686,
+                "nome": "M. Hosseini",
+                "numeroCamisa": 19,
+                "posicao": "D",
+                "coordenadas": "2:2"
+            },
+            {
+                "id": 2688,
+                "nome": "M. Mohammadi",
+                "numeroCamisa": 5,
+                "posicao": "D",
+                "coordenadas": "2:1"
+            },
+            {
+                "id": 2700,
+                "nome": "A. Jahanbakhsh",
+                "numeroCamisa": 7,
+                "posicao": "M",
+                "coordenadas": "3:4"
+            },
+            {
+                "id": 2695,
+                "nome": "A. Noorollahi",
+                "numeroCamisa": 21,
+                "posicao": "M",
+                "coordenadas": "3:3"
+            },
+            {
+                "id": 29770,
+                "nome": "A. Karimi",
+                "numeroCamisa": 18,
+                "posicao": "M",
+                "coordenadas": "3:2"
+            },
+            {
+                "id": 2685,
+                "nome": "E. Hajisafi",
+                "numeroCamisa": 3,
+                "posicao": "M",
+                "coordenadas": "3:1"
+            },
+            {
+                "id": 42315,
+                "nome": "M. Taremi",
+                "numeroCamisa": 9,
+                "posicao": "F",
+                "coordenadas": "4:1"
+            }
+        ],
+        "reservas": [
+            {
+                "id": 29755,
+                "nome": "H. Hosseini",
+                "numeroCamisa": 24,
+                "posicao": "G"
+            },
+            {
+                "id": 19614,
+                "nome": "S. Ezatolahi",
+                "numeroCamisa": 6,
+                "posicao": "M"
+            },
+            {
+                "id": 8564,
+                "nome": "A. Gholizadeh",
+                "numeroCamisa": 17,
+                "posicao": "M"
+            },
+            {
+                "id": 2687,
+                "nome": "H. Kanani",
+                "numeroCamisa": 13,
+                "posicao": "D"
+            },
+            {
+                "id": 2697,
+                "nome": "M. Torabi",
+                "numeroCamisa": 16,
+                "posicao": "M"
+            },
+            {
+                "id": 1221,
+                "nome": "S. Azmoun",
+                "numeroCamisa": 20,
+                "posicao": "F"
+            },
+            {
+                "id": 2699,
+                "nome": "S. Ghoddos",
+                "numeroCamisa": 14,
+                "posicao": "F"
+            },
+            {
+                "id": 29704,
+                "nome": "S. Khalilzadeh",
+                "numeroCamisa": 4,
+                "posicao": "D"
+            },
+            {
+                "id": 2680,
+                "nome": "A. Abedzadeh",
+                "numeroCamisa": 22,
+                "posicao": "G"
+            },
+            {
+                "id": 2698,
+                "nome": "K. Ansarifard",
+                "numeroCamisa": 10,
+                "posicao": "F"
+            },
+            {
+                "id": 2692,
+                "nome": "V. Amiri",
+                "numeroCamisa": 11,
+                "posicao": "M"
+            },
+            {
+                "id": 2691,
+                "nome": "R. Rezaeian",
+                "numeroCamisa": 23,
+                "posicao": "D"
+            },
+            {
+                "id": 29926,
+                "nome": "A. Jalali",
+                "numeroCamisa": 25,
+                "posicao": "D"
+            },
+            {
+                "id": 2681,
+                "nome": "P. Niazmand",
+                "numeroCamisa": 12,
+                "posicao": "G"
+            }
+        ]
+    }
+}

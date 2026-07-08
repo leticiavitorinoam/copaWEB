@@ -1,1 +1,358 @@
-{}
+{
+    "selecao01": {
+        "id": 1569,
+        "nome": "Qatar",
+        "escudo": "https://media.api-sports.io/football/teams/1569.png",
+        "tecnico": "Félix Sánchez",
+        "formacao": "5-3-2",
+        "titulares": [
+            {
+                "id": 2525,
+                "nome": "Saad Al Sheeb",
+                "numeroCamisa": 1,
+                "posicao": "G",
+                "coordenadas": "1:1"
+            },
+            {
+                "id": 2530,
+                "nome": "Pedro Miguel",
+                "numeroCamisa": 2,
+                "posicao": "D",
+                "coordenadas": "2:5"
+            },
+            {
+                "id": 2536,
+                "nome": "Bassam Al Rawi",
+                "numeroCamisa": 15,
+                "posicao": "D",
+                "coordenadas": "2:4"
+            },
+            {
+                "id": 2532,
+                "nome": "Boualem Khoukhi",
+                "numeroCamisa": 16,
+                "posicao": "D",
+                "coordenadas": "2:3"
+            },
+            {
+                "id": 2527,
+                "nome": "Abdelkarim Hassan",
+                "numeroCamisa": 3,
+                "posicao": "D",
+                "coordenadas": "2:2"
+            },
+            {
+                "id": 175439,
+                "nome": "Homam Ahmed",
+                "numeroCamisa": 14,
+                "posicao": "D",
+                "coordenadas": "2:1"
+            },
+            {
+                "id": 2545,
+                "nome": "Hassan Al Haydos",
+                "numeroCamisa": 10,
+                "posicao": "M",
+                "coordenadas": "3:3"
+            },
+            {
+                "id": 2537,
+                "nome": "Karim Boudiaf",
+                "numeroCamisa": 12,
+                "posicao": "M",
+                "coordenadas": "3:2"
+            },
+            {
+                "id": 2533,
+                "nome": "Abdulaziz Hatem",
+                "numeroCamisa": 6,
+                "posicao": "M",
+                "coordenadas": "3:1"
+            },
+            {
+                "id": 2543,
+                "nome": "Almoez Ali",
+                "numeroCamisa": 19,
+                "posicao": "F",
+                "coordenadas": "4:2"
+            },
+            {
+                "id": 2544,
+                "nome": "Akram Afif",
+                "numeroCamisa": 11,
+                "posicao": "F",
+                "coordenadas": "4:1"
+            }
+        ],
+        "reservas": [
+            {
+                "id": 42180,
+                "nome": "Mohammed Waad",
+                "numeroCamisa": 4,
+                "posicao": "M"
+            },
+            {
+                "id": 42089,
+                "nome": "Mohammed Muntari",
+                "numeroCamisa": 9,
+                "posicao": "F"
+            },
+            {
+                "id": 2526,
+                "nome": "Yousef Hassan",
+                "numeroCamisa": 21,
+                "posicao": "G"
+            },
+            {
+                "id": 2528,
+                "nome": "Salem Al Hajri",
+                "numeroCamisa": 20,
+                "posicao": "D"
+            },
+            {
+                "id": 42088,
+                "nome": "Ismaeel Mohammad",
+                "numeroCamisa": 17,
+                "posicao": "D"
+            },
+            {
+                "id": 42021,
+                "nome": "Meshaal Barsham",
+                "numeroCamisa": 22,
+                "posicao": "G"
+            },
+            {
+                "id": 42044,
+                "nome": "Ali Asad",
+                "numeroCamisa": 8,
+                "posicao": "M"
+            },
+            {
+                "id": 2535,
+                "nome": "Assim Madibo",
+                "numeroCamisa": 23,
+                "posicao": "M"
+            },
+            {
+                "id": 182330,
+                "nome": "Naif Al Hadhrami",
+                "numeroCamisa": 24,
+                "posicao": "M"
+            },
+            {
+                "id": 200981,
+                "nome": "Jassem Gaber",
+                "numeroCamisa": 25,
+                "posicao": "D"
+            },
+            {
+                "id": 2541,
+                "nome": "Tarek Salman",
+                "numeroCamisa": 5,
+                "posicao": "D"
+            },
+            {
+                "id": 42215,
+                "nome": "Musaab Khidir",
+                "numeroCamisa": 13,
+                "posicao": "D"
+            },
+            {
+                "id": 2542,
+                "nome": "Ahmed Alaa",
+                "numeroCamisa": 7,
+                "posicao": "F"
+            },
+            {
+                "id": 42087,
+                "nome": "Khalid Muneer",
+                "numeroCamisa": 18,
+                "posicao": "F"
+            },
+            {
+                "id": 42043,
+                "nome": "Mostafa Meshaal",
+                "numeroCamisa": 26,
+                "posicao": "M"
+            }
+        ]
+    },
+    "selecao02": {
+        "id": 2382,
+        "nome": "Ecuador",
+        "escudo": "https://media.api-sports.io/football/teams/2382.png",
+        "tecnico": "G. Alfaro",
+        "formacao": "4-4-2",
+        "titulares": [
+            {
+                "id": 16380,
+                "nome": "H. Galíndez",
+                "numeroCamisa": 1,
+                "posicao": "G",
+                "coordenadas": "1:1"
+            },
+            {
+                "id": 2583,
+                "nome": "Angelo Preciado",
+                "numeroCamisa": 17,
+                "posicao": "D",
+                "coordenadas": "2:4"
+            },
+            {
+                "id": 63964,
+                "nome": "F. Torres",
+                "numeroCamisa": 2,
+                "posicao": "D",
+                "coordenadas": "2:3"
+            },
+            {
+                "id": 127817,
+                "nome": "P. Hincapié",
+                "numeroCamisa": 3,
+                "posicao": "D",
+                "coordenadas": "2:2"
+            },
+            {
+                "id": 46731,
+                "nome": "P. Estupiñán",
+                "numeroCamisa": 7,
+                "posicao": "D",
+                "coordenadas": "2:1"
+            },
+            {
+                "id": 16369,
+                "nome": "G. Plata",
+                "numeroCamisa": 19,
+                "posicao": "M",
+                "coordenadas": "3:4"
+            },
+            {
+                "id": 2581,
+                "nome": "J. Méndez",
+                "numeroCamisa": 20,
+                "posicao": "M",
+                "coordenadas": "3:3"
+            },
+            {
+                "id": 116117,
+                "nome": "M. Caicedo",
+                "numeroCamisa": 23,
+                "posicao": "M",
+                "coordenadas": "3:2"
+            },
+            {
+                "id": 2585,
+                "nome": "R. Ibarra",
+                "numeroCamisa": 10,
+                "posicao": "M",
+                "coordenadas": "3:1"
+            },
+            {
+                "id": 35533,
+                "nome": "E. Valencia",
+                "numeroCamisa": 13,
+                "posicao": "F",
+                "coordenadas": "4:2"
+            },
+            {
+                "id": 16432,
+                "nome": "M. Estrada",
+                "numeroCamisa": 11,
+                "posicao": "F",
+                "coordenadas": "4:1"
+            }
+        ],
+        "reservas": [
+            {
+                "id": 202086,
+                "nome": "J. Sarmiento",
+                "numeroCamisa": 16,
+                "posicao": "F"
+            },
+            {
+                "id": 16776,
+                "nome": "J. Cifuentes",
+                "numeroCamisa": 5,
+                "posicao": "M"
+            },
+            {
+                "id": 16360,
+                "nome": "A. Franco",
+                "numeroCamisa": 21,
+                "posicao": "M"
+            },
+            {
+                "id": 361966,
+                "nome": "K. Rodríguez",
+                "numeroCamisa": 26,
+                "posicao": "M"
+            },
+            {
+                "id": 35786,
+                "nome": "Ayrton Preciado",
+                "numeroCamisa": 9,
+                "posicao": "M"
+            },
+            {
+                "id": 2575,
+                "nome": "J. Porozo",
+                "numeroCamisa": 25,
+                "posicao": "D"
+            },
+            {
+                "id": 16480,
+                "nome": "D. Reasco",
+                "numeroCamisa": 24,
+                "posicao": "F"
+            },
+            {
+                "id": 2571,
+                "nome": "R. Arboleda",
+                "numeroCamisa": 4,
+                "posicao": "D"
+            },
+            {
+                "id": 16367,
+                "nome": "W. Pacho",
+                "numeroCamisa": 6,
+                "posicao": "D"
+            },
+            {
+                "id": 2572,
+                "nome": "X. Arreaga",
+                "numeroCamisa": 14,
+                "posicao": "D"
+            },
+            {
+                "id": 81224,
+                "nome": "M. Ramírez",
+                "numeroCamisa": 12,
+                "posicao": "G"
+            },
+            {
+                "id": 36784,
+                "nome": "D. Palacios",
+                "numeroCamisa": 18,
+                "posicao": "D"
+            },
+            {
+                "id": 2586,
+                "nome": "Á. Mena",
+                "numeroCamisa": 15,
+                "posicao": "F"
+            },
+            {
+                "id": 2577,
+                "nome": "C. Gruezo",
+                "numeroCamisa": 8,
+                "posicao": "M"
+            },
+            {
+                "id": 2568,
+                "nome": "A. Domínguez",
+                "numeroCamisa": 22,
+                "posicao": "G"
+            }
+        ]
+    }
+}

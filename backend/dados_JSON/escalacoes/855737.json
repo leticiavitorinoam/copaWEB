@@ -1,1 +1,352 @@
-{}
+{
+    "selecao01": {
+        "id": 26,
+        "nome": "Argentina",
+        "escudo": "https://media.api-sports.io/football/teams/26.png",
+        "tecnico": "L. Scaloni",
+        "formacao": "4-4-2",
+        "titulares": [
+            {
+                "id": 19599,
+                "nome": "E. Martínez",
+                "numeroCamisa": 23,
+                "posicao": "G",
+                "coordenadas": "1:1"
+            },
+            {
+                "id": 6503,
+                "nome": "N. Molina",
+                "numeroCamisa": 26,
+                "posicao": "D",
+                "coordenadas": "2:4"
+            },
+            {
+                "id": 30776,
+                "nome": "C. Romero",
+                "numeroCamisa": 13,
+                "posicao": "D",
+                "coordenadas": "2:3"
+            },
+            {
+                "id": 624,
+                "nome": "N. Otamendi",
+                "numeroCamisa": 19,
+                "posicao": "D",
+                "coordenadas": "2:2"
+            },
+            {
+                "id": 529,
+                "nome": "N. Tagliafico",
+                "numeroCamisa": 3,
+                "posicao": "D",
+                "coordenadas": "2:1"
+            },
+            {
+                "id": 266,
+                "nome": "Á. Di María",
+                "numeroCamisa": 11,
+                "posicao": "M",
+                "coordenadas": "3:4"
+            },
+            {
+                "id": 2472,
+                "nome": "R. De Paul",
+                "numeroCamisa": 7,
+                "posicao": "M",
+                "coordenadas": "3:3"
+            },
+            {
+                "id": 271,
+                "nome": "L. Paredes",
+                "numeroCamisa": 5,
+                "posicao": "M",
+                "coordenadas": "3:2"
+            },
+            {
+                "id": 30433,
+                "nome": "P. Gómez",
+                "numeroCamisa": 17,
+                "posicao": "M",
+                "coordenadas": "3:1"
+            },
+            {
+                "id": 154,
+                "nome": "L. Messi",
+                "numeroCamisa": 10,
+                "posicao": "F",
+                "coordenadas": "4:2"
+            },
+            {
+                "id": 217,
+                "nome": "Lautaro Martínez",
+                "numeroCamisa": 22,
+                "posicao": "F",
+                "coordenadas": "4:1"
+            }
+        ],
+        "reservas": [
+            {
+                "id": 6009,
+                "nome": "J. Álvarez",
+                "numeroCamisa": 9,
+                "posicao": "F"
+            },
+            {
+                "id": 5996,
+                "nome": "E. Fernández",
+                "numeroCamisa": 24,
+                "posicao": "M"
+            },
+            {
+                "id": 2467,
+                "nome": "Lisandro Martínez",
+                "numeroCamisa": 25,
+                "posicao": "D"
+            },
+            {
+                "id": 1493,
+                "nome": "M. Acuña",
+                "numeroCamisa": 8,
+                "posicao": "D"
+            },
+            {
+                "id": 2468,
+                "nome": "G. Montiel",
+                "numeroCamisa": 4,
+                "posicao": "D"
+            },
+            {
+                "id": 166,
+                "nome": "J. Foyth",
+                "numeroCamisa": 2,
+                "posicao": "D"
+            },
+            {
+                "id": 2463,
+                "nome": "F. Armani",
+                "numeroCamisa": 1,
+                "posicao": "G"
+            },
+            {
+                "id": 2476,
+                "nome": "G. Rodríguez",
+                "numeroCamisa": 18,
+                "posicao": "M"
+            },
+            {
+                "id": 6002,
+                "nome": "E. Palacios",
+                "numeroCamisa": 14,
+                "posicao": "M"
+            },
+            {
+                "id": 6067,
+                "nome": "T. Almada",
+                "numeroCamisa": 16,
+                "posicao": "M"
+            },
+            {
+                "id": 53,
+                "nome": "Á. Correa",
+                "numeroCamisa": 15,
+                "posicao": "F"
+            },
+            {
+                "id": 2469,
+                "nome": "G. Pezzella",
+                "numeroCamisa": 6,
+                "posicao": "D"
+            },
+            {
+                "id": 6716,
+                "nome": "A. Mac Allister",
+                "numeroCamisa": 20,
+                "posicao": "M"
+            },
+            {
+                "id": 875,
+                "nome": "P. Dybala",
+                "numeroCamisa": 21,
+                "posicao": "F"
+            },
+            {
+                "id": 47296,
+                "nome": "G. Rulli",
+                "numeroCamisa": 12,
+                "posicao": "G"
+            }
+        ]
+    },
+    "selecao02": {
+        "id": 23,
+        "nome": "Saudi Arabia",
+        "escudo": "https://media.api-sports.io/football/teams/23.png",
+        "tecnico": "H. Renard",
+        "formacao": "4-1-4-1",
+        "titulares": [
+            {
+                "id": 44411,
+                "nome": "Mohammed Al Owais",
+                "numeroCamisa": 21,
+                "posicao": "G",
+                "coordenadas": "1:1"
+            },
+            {
+                "id": 44594,
+                "nome": "Saud Abdulhamid",
+                "numeroCamisa": 12,
+                "posicao": "D",
+                "coordenadas": "2:4"
+            },
+            {
+                "id": 44362,
+                "nome": "Hassan Tambakti",
+                "numeroCamisa": 17,
+                "posicao": "D",
+                "coordenadas": "2:3"
+            },
+            {
+                "id": 44332,
+                "nome": "Ali Al Bulayhi",
+                "numeroCamisa": 5,
+                "posicao": "D",
+                "coordenadas": "2:2"
+            },
+            {
+                "id": 44331,
+                "nome": "Yasir Al Shahrani",
+                "numeroCamisa": 13,
+                "posicao": "D",
+                "coordenadas": "2:1"
+            },
+            {
+                "id": 44483,
+                "nome": "Abdulelah Al Malki",
+                "numeroCamisa": 8,
+                "posicao": "M",
+                "coordenadas": "3:1"
+            },
+            {
+                "id": 44324,
+                "nome": "Feras Al Brikan",
+                "numeroCamisa": 9,
+                "posicao": "M",
+                "coordenadas": "4:4"
+            },
+            {
+                "id": 44341,
+                "nome": "Salman Al Faraj",
+                "numeroCamisa": 7,
+                "posicao": "M",
+                "coordenadas": "4:3"
+            },
+            {
+                "id": 44349,
+                "nome": "Mohammed Kanno",
+                "numeroCamisa": 23,
+                "posicao": "M",
+                "coordenadas": "4:2"
+            },
+            {
+                "id": 44340,
+                "nome": "Salem Al Dawsari",
+                "numeroCamisa": 10,
+                "posicao": "M",
+                "coordenadas": "4:1"
+            },
+            {
+                "id": 44551,
+                "nome": "Saleh Al Shehri",
+                "numeroCamisa": 11,
+                "posicao": "F",
+                "coordenadas": "5:1"
+            }
+        ],
+        "reservas": [
+            {
+                "id": 44338,
+                "nome": "Nawaf Al Abid",
+                "numeroCamisa": 18,
+                "posicao": "M"
+            },
+            {
+                "id": 44309,
+                "nome": "Sultan Al Ghannam",
+                "numeroCamisa": 2,
+                "posicao": "D"
+            },
+            {
+                "id": 44475,
+                "nome": "Abdulelah Al Amri",
+                "numeroCamisa": 4,
+                "posicao": "D"
+            },
+            {
+                "id": 268087,
+                "nome": "Haitham Asiri",
+                "numeroCamisa": 25,
+                "posicao": "F"
+            },
+            {
+                "id": 44329,
+                "nome": "Mohammed Al Burayk",
+                "numeroCamisa": 6,
+                "posicao": "D"
+            },
+            {
+                "id": 44692,
+                "nome": "Sami Al Naji",
+                "numeroCamisa": 16,
+                "posicao": "M"
+            },
+            {
+                "id": 44347,
+                "nome": "Hattan Bahbri",
+                "numeroCamisa": 19,
+                "posicao": "M"
+            },
+            {
+                "id": 44709,
+                "nome": "Mohammed Al Yami",
+                "numeroCamisa": 1,
+                "posicao": "G"
+            },
+            {
+                "id": 44303,
+                "nome": "Abdullah Madu",
+                "numeroCamisa": 3,
+                "posicao": "D"
+            },
+            {
+                "id": 44586,
+                "nome": "Abdulrahman Al Obud",
+                "numeroCamisa": 20,
+                "posicao": "F"
+            },
+            {
+                "id": 44350,
+                "nome": "Abdullah Otayf",
+                "numeroCamisa": 14,
+                "posicao": "M"
+            },
+            {
+                "id": 44339,
+                "nome": "Nasser Al Dawsari",
+                "numeroCamisa": 24,
+                "posicao": "M"
+            },
+            {
+                "id": 193288,
+                "nome": "Nawaf Al Aqidi",
+                "numeroCamisa": 22,
+                "posicao": "G"
+            },
+            {
+                "id": 44509,
+                "nome": "Ali Al Hassan",
+                "numeroCamisa": 15,
+                "posicao": "M"
+            }
+        ]
+    }
+}

@@ -1,1 +1,346 @@
-{}
+{
+    "selecao01": {
+        "id": 28,
+        "nome": "Tunisia",
+        "escudo": "https://media.api-sports.io/football/teams/28.png",
+        "tecnico": "J. Kadri",
+        "formacao": "3-4-2-1",
+        "titulares": [
+            {
+                "id": 49424,
+                "nome": "A. Dahmen",
+                "numeroCamisa": 16,
+                "posicao": "G",
+                "coordenadas": "1:1"
+            },
+            {
+                "id": 1597,
+                "nome": "Y. Meriah",
+                "numeroCamisa": 4,
+                "posicao": "D",
+                "coordenadas": "2:3"
+            },
+            {
+                "id": 8990,
+                "nome": "N. Ghandri",
+                "numeroCamisa": 5,
+                "posicao": "D",
+                "coordenadas": "2:2"
+            },
+            {
+                "id": 50030,
+                "nome": "M. Talbi",
+                "numeroCamisa": 3,
+                "posicao": "D",
+                "coordenadas": "2:1"
+            },
+            {
+                "id": 2954,
+                "nome": "W. Kechrida",
+                "numeroCamisa": 21,
+                "posicao": "M",
+                "coordenadas": "3:4"
+            },
+            {
+                "id": 21587,
+                "nome": "E. Skhiri",
+                "numeroCamisa": 17,
+                "posicao": "M",
+                "coordenadas": "3:3"
+            },
+            {
+                "id": 43246,
+                "nome": "A. Laïdouni",
+                "numeroCamisa": 14,
+                "posicao": "M",
+                "coordenadas": "3:2"
+            },
+            {
+                "id": 2947,
+                "nome": "A. Maâloul",
+                "numeroCamisa": 12,
+                "posicao": "M",
+                "coordenadas": "3:1"
+            },
+            {
+                "id": 199310,
+                "nome": "A. Ben Slimane",
+                "numeroCamisa": 25,
+                "posicao": "F",
+                "coordenadas": "4:2"
+            },
+            {
+                "id": 49404,
+                "nome": "M. Ben Romdhane",
+                "numeroCamisa": 15,
+                "posicao": "F",
+                "coordenadas": "4:1"
+            },
+            {
+                "id": 22102,
+                "nome": "W. Khazri",
+                "numeroCamisa": 10,
+                "posicao": "F",
+                "coordenadas": "5:1"
+            }
+        ],
+        "reservas": [
+            {
+                "id": 44497,
+                "nome": "I. Jebali",
+                "numeroCamisa": 9,
+                "posicao": "F"
+            },
+            {
+                "id": 49407,
+                "nome": "G. Chaalali",
+                "numeroCamisa": 18,
+                "posicao": "M"
+            },
+            {
+                "id": 49583,
+                "nome": "A. Abdi",
+                "numeroCamisa": 24,
+                "posicao": "D"
+            },
+            {
+                "id": 2941,
+                "nome": "M. Hassen",
+                "numeroCamisa": 26,
+                "posicao": "G"
+            },
+            {
+                "id": 2957,
+                "nome": "F. Sassi",
+                "numeroCamisa": 13,
+                "posicao": "M"
+            },
+            {
+                "id": 2958,
+                "nome": "N. Sliti",
+                "numeroCamisa": 23,
+                "posicao": "M"
+            },
+            {
+                "id": 49587,
+                "nome": "B. Ifa",
+                "numeroCamisa": 2,
+                "posicao": "D"
+            },
+            {
+                "id": 49610,
+                "nome": "B. Ben Saïd",
+                "numeroCamisa": 22,
+                "posicao": "G"
+            },
+            {
+                "id": 2945,
+                "nome": "D. Bronn",
+                "numeroCamisa": 6,
+                "posicao": "D"
+            },
+            {
+                "id": 2963,
+                "nome": "T. Khenissi",
+                "numeroCamisa": 11,
+                "posicao": "F"
+            },
+            {
+                "id": 2942,
+                "nome": "A. Balbouli",
+                "numeroCamisa": 1,
+                "posicao": "G"
+            },
+            {
+                "id": 180560,
+                "nome": "H. Mejbri",
+                "numeroCamisa": 8,
+                "posicao": "M"
+            },
+            {
+                "id": 2952,
+                "nome": "M. Dräger",
+                "numeroCamisa": 20,
+                "posicao": "D"
+            },
+            {
+                "id": 2964,
+                "nome": "Y. Msakni",
+                "numeroCamisa": 7,
+                "posicao": "F"
+            },
+            {
+                "id": 16933,
+                "nome": "S. Jaziri",
+                "numeroCamisa": 19,
+                "posicao": "F"
+            }
+        ]
+    },
+    "selecao02": {
+        "id": 2,
+        "nome": "France",
+        "escudo": "https://media.api-sports.io/football/teams/2.png",
+        "tecnico": "D. Deschamps",
+        "formacao": "4-3-3",
+        "titulares": [
+            {
+                "id": 1897,
+                "nome": "S. Mandanda",
+                "numeroCamisa": 16,
+                "posicao": "G",
+                "coordenadas": "1:1"
+            },
+            {
+                "id": 21998,
+                "nome": "A. Disasi",
+                "numeroCamisa": 3,
+                "posicao": "D",
+                "coordenadas": "2:4"
+            },
+            {
+                "id": 742,
+                "nome": "R. Varane",
+                "numeroCamisa": 4,
+                "posicao": "D",
+                "coordenadas": "2:3"
+            },
+            {
+                "id": 1145,
+                "nome": "I. Konaté",
+                "numeroCamisa": 24,
+                "posicao": "D",
+                "coordenadas": "2:2"
+            },
+            {
+                "id": 2207,
+                "nome": "E. Camavinga",
+                "numeroCamisa": 25,
+                "posicao": "D",
+                "coordenadas": "2:1"
+            },
+            {
+                "id": 22254,
+                "nome": "Y. Fofana",
+                "numeroCamisa": 13,
+                "posicao": "M",
+                "coordenadas": "3:3"
+            },
+            {
+                "id": 1271,
+                "nome": "A. Tchouaméni",
+                "numeroCamisa": 8,
+                "posicao": "M",
+                "coordenadas": "3:2"
+            },
+            {
+                "id": 30409,
+                "nome": "J. Veretout",
+                "numeroCamisa": 15,
+                "posicao": "M",
+                "coordenadas": "3:1"
+            },
+            {
+                "id": 508,
+                "nome": "K. Coman",
+                "numeroCamisa": 20,
+                "posicao": "F",
+                "coordenadas": "4:3"
+            },
+            {
+                "id": 21104,
+                "nome": "R. Kolo Muani",
+                "numeroCamisa": 12,
+                "posicao": "F",
+                "coordenadas": "4:2"
+            },
+            {
+                "id": 1454,
+                "nome": "M. Guendouzi",
+                "numeroCamisa": 6,
+                "posicao": "F",
+                "coordenadas": "4:1"
+            }
+        ],
+        "reservas": [
+            {
+                "id": 278,
+                "nome": "K. Mbappé",
+                "numeroCamisa": 10,
+                "posicao": "F"
+            },
+            {
+                "id": 22090,
+                "nome": "W. Saliba",
+                "numeroCamisa": 17,
+                "posicao": "D"
+            },
+            {
+                "id": 272,
+                "nome": "A. Rabiot",
+                "numeroCamisa": 14,
+                "posicao": "M"
+            },
+            {
+                "id": 56,
+                "nome": "A. Griezmann",
+                "numeroCamisa": 7,
+                "posicao": "F"
+            },
+            {
+                "id": 153,
+                "nome": "O. Dembélé",
+                "numeroCamisa": 11,
+                "posicao": "F"
+            },
+            {
+                "id": 47300,
+                "nome": "T. Hernández",
+                "numeroCamisa": 22,
+                "posicao": "D"
+            },
+            {
+                "id": 253,
+                "nome": "A. Aréola",
+                "numeroCamisa": 23,
+                "posicao": "G"
+            },
+            {
+                "id": 2295,
+                "nome": "O. Giroud",
+                "numeroCamisa": 9,
+                "posicao": "F"
+            },
+            {
+                "id": 21509,
+                "nome": "M. Thuram",
+                "numeroCamisa": 26,
+                "posicao": "F"
+            },
+            {
+                "id": 1257,
+                "nome": "J. Koundé",
+                "numeroCamisa": 5,
+                "posicao": "D"
+            },
+            {
+                "id": 1149,
+                "nome": "D. Upamecano",
+                "numeroCamisa": 18,
+                "posicao": "D"
+            },
+            {
+                "id": 2725,
+                "nome": "B. Pavard",
+                "numeroCamisa": 2,
+                "posicao": "D"
+            },
+            {
+                "id": 159,
+                "nome": "H. Lloris",
+                "numeroCamisa": 1,
+                "posicao": "G"
+            }
+        ]
+    }
+}
