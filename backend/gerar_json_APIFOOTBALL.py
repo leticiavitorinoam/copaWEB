@@ -5,7 +5,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-API_KEY = os.getenv("API_KEY")
+API_KEY = os.getenv("API_FOOTBALL_KEY")
 BASE_URL = "https://v3.football.api-sports.io"
 
 headers = {
@@ -684,18 +684,18 @@ def gerar_artilheiros():
     print("artilheiros.json gerado com sucesso!")
 
 
-# CHAMA AS FUNÇÕES
+# CHAMAR FUNÇOES
 # ==========================================
 if __name__ == "__main__":
 
-    # (OK) gerar_selecoes()
-    # (OK) gerar_jogos()
-    # (OK) gerar_classificacao()
-    # (OK) gerar_artilheiros()
+    # (deu certo!) gerar_selecoes()
+    # (deu certo!) gerar_jogos()
+    # (deu certo!) gerar_classificacao()
+    # (deu certo!) gerar_artilheiros()
 
-    # (OK) gerar_jogadores()
-    # (OK) gerar_estatisticas()
-    # (OK) gerar_eventos()
-    # daqui pra baixo deu problema :)
-    gerar_escalacoes()
-    # gerar_jogadores_partida()
+# daqui pra baixo deu problema :)
+    # gerar_jogadores()
+    # gerar_estatisticas()
+    # gerar_eventos()
+    # gerar_escalacoes()
+     gerar_jogadores_partida()

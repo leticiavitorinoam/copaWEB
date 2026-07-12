@@ -1,0 +1,2690 @@
+{
+  "10230541": {
+    "selecao01": {
+      "id": 4792,
+      "nome": "Qatar",
+      "escudo": "https://img.sofascore.com/api/v1/team/4792/image",
+      "estatisticas": {
+        "chutesAoGol": 0,
+        "chutesFora": 5,
+        "totalChutes": 5,
+        "posseBola": "47%",
+        "passes": 434,
+        "passesCertos": 351,
+        "precisaoPasses": "81%",
+        "escanteios": 1,
+        "impedimentos": 3,
+        "faltas": 15,
+        "cartoesAmarelos": 4,
+        "cartoesVermelhos": null,
+        "defesasGoleiro": 1
+      }
+    },
+    "selecao02": {
+      "id": 4757,
+      "nome": "Ecuador",
+      "escudo": "https://img.sofascore.com/api/v1/team/4757/image",
+      "estatisticas": {
+        "chutesAoGol": 3,
+        "chutesFora": 3,
+        "totalChutes": 6,
+        "posseBola": "53%",
+        "passes": 486,
+        "passesCertos": 412,
+        "precisaoPasses": "85%",
+        "escanteios": 3,
+        "impedimentos": 4,
+        "faltas": 15,
+        "cartoesAmarelos": 2,
+        "cartoesVermelhos": null,
+        "defesasGoleiro": 0
+      }
+    }
+  },
+  "10230543": {
+    "selecao01": {
+      "id": 4713,
+      "nome": "England",
+      "escudo": "https://img.sofascore.com/api/v1/team/4713/image",
+      "estatisticas": {
+        "chutesAoGol": 7,
+        "chutesFora": 2,
+        "totalChutes": 13,
+        "posseBola": "78%",
+        "passes": 797,
+        "passesCertos": 716,
+        "precisaoPasses": "90%",
+        "escanteios": 8,
+        "impedimentos": 2,
+        "faltas": 9,
+        "cartoesAmarelos": 0,
+        "cartoesVermelhos": null,
+        "defesasGoleiro": 1
+      }
+    },
+    "selecao02": {
+      "id": 4766,
+      "nome": "Iran",
+      "escudo": "https://img.sofascore.com/api/v1/team/4766/image",
+      "estatisticas": {
+        "chutesAoGol": 3,
+        "chutesFora": 4,
+        "totalChutes": 8,
+        "posseBola": "22%",
+        "passes": 215,
+        "passesCertos": 142,
+        "precisaoPasses": "66%",
+        "escanteios": 0,
+        "impedimentos": 2,
+        "faltas": 14,
+        "cartoesAmarelos": 2,
+        "cartoesVermelhos": null,
+        "defesasGoleiro": 1
+      }
+    }
+  },
+  "10230533": {
+    "selecao01": {
+      "id": 4739,
+      "nome": "Senegal",
+      "escudo": "https://img.sofascore.com/api/v1/team/4739/image",
+      "estatisticas": {
+        "chutesAoGol": 4,
+        "chutesFora": 7,
+        "totalChutes": 15,
+        "posseBola": "47%",
+        "passes": 385,
+        "passesCertos": 307,
+        "precisaoPasses": "80%",
+        "escanteios": 6,
+        "impedimentos": 2,
+        "faltas": 13,
+        "cartoesAmarelos": 2,
+        "cartoesVermelhos": null,
+        "defesasGoleiro": 1
+      }
+    },
+    "selecao02": {
+      "id": 4705,
+      "nome": "Netherlands",
+      "escudo": "https://img.sofascore.com/api/v1/team/4705/image",
+      "estatisticas": {
+        "chutesAoGol": 3,
+        "chutesFora": 4,
+        "totalChutes": 10,
+        "posseBola": "53%",
+        "passes": 436,
+        "passesCertos": 355,
+        "precisaoPasses": "81%",
+        "escanteios": 7,
+        "impedimentos": 1,
+        "faltas": 13,
+        "cartoesAmarelos": 1,
+        "cartoesVermelhos": null,
+        "defesasGoleiro": 4
+      }
+    }
+  },
+  "10230548": {
+    "selecao01": {
+      "id": 4724,
+      "nome": "USA",
+      "escudo": "https://img.sofascore.com/api/v1/team/4724/image",
+      "estatisticas": {
+        "chutesAoGol": 1,
+        "chutesFora": 4,
+        "totalChutes": 6,
+        "posseBola": "59%",
+        "passes": 567,
+        "passesCertos": 495,
+        "precisaoPasses": "87%",
+        "escanteios": 5,
+        "impedimentos": 1,
+        "faltas": 15,
+        "cartoesAmarelos": 4,
+        "cartoesVermelhos": null,
+        "defesasGoleiro": 2
+      }
+    },
+    "selecao02": {
+      "id": 4702,
+      "nome": "Wales",
+      "escudo": "https://img.sofascore.com/api/v1/team/4702/image",
+      "estatisticas": {
+        "chutesAoGol": 3,
+        "chutesFora": 3,
+        "totalChutes": 7,
+        "posseBola": "41%",
+        "passes": 403,
+        "passesCertos": 308,
+        "precisaoPasses": "76%",
+        "escanteios": 3,
+        "impedimentos": 1,
+        "faltas": 10,
+        "cartoesAmarelos": 2,
+        "cartoesVermelhos": null,
+        "defesasGoleiro": 1
+      }
+    }
+  },
+  "10230528": {
+    "selecao01": {
+      "id": 4819,
+      "nome": "Argentina",
+      "escudo": "https://img.sofascore.com/api/v1/team/4819/image",
+      "estatisticas": {
+        "chutesAoGol": 6,
+        "chutesFora": 6,
+        "totalChutes": 15,
+        "posseBola": "69%",
+        "passes": 596,
+        "passesCertos": 508,
+        "precisaoPasses": "85%",
+        "escanteios": 9,
+        "impedimentos": 10,
+        "faltas": 7,
+        "cartoesAmarelos": 0,
+        "cartoesVermelhos": null,
+        "defesasGoleiro": 0
+      }
+    },
+    "selecao02": {
+      "id": 4834,
+      "nome": "Saudi Arabia",
+      "escudo": "https://img.sofascore.com/api/v1/team/4834/image",
+      "estatisticas": {
+        "chutesAoGol": 2,
+        "chutesFora": 0,
+        "totalChutes": 3,
+        "posseBola": "31%",
+        "passes": 266,
+        "passesCertos": 181,
+        "precisaoPasses": "68%",
+        "escanteios": 2,
+        "impedimentos": 1,
+        "faltas": 21,
+        "cartoesAmarelos": 6,
+        "cartoesVermelhos": null,
+        "defesasGoleiro": 5
+      }
+    }
+  },
+  "10230576": {
+    "selecao01": {
+      "id": 4476,
+      "nome": "Denmark",
+      "escudo": "https://img.sofascore.com/api/v1/team/4476/image",
+      "estatisticas": {
+        "chutesAoGol": 5,
+        "chutesFora": 3,
+        "totalChutes": 11,
+        "posseBola": "61%",
+        "passes": 595,
+        "passesCertos": 501,
+        "precisaoPasses": "84%",
+        "escanteios": 11,
+        "impedimentos": 1,
+        "faltas": 9,
+        "cartoesAmarelos": 2,
+        "cartoesVermelhos": null,
+        "defesasGoleiro": 1
+      }
+    },
+    "selecao02": {
+      "id": 4729,
+      "nome": "Tunisia",
+      "escudo": "https://img.sofascore.com/api/v1/team/4729/image",
+      "estatisticas": {
+        "chutesAoGol": 1,
+        "chutesFora": 5,
+        "totalChutes": 13,
+        "posseBola": "39%",
+        "passes": 374,
+        "passesCertos": 280,
+        "precisaoPasses": "75%",
+        "escanteios": 9,
+        "impedimentos": 1,
+        "faltas": 10,
+        "cartoesAmarelos": 1,
+        "cartoesVermelhos": null,
+        "defesasGoleiro": 5
+      }
+    }
+  },
+  "10230565": {
+    "selecao01": {
+      "id": 4781,
+      "nome": "Mexico",
+      "escudo": "https://img.sofascore.com/api/v1/team/4781/image",
+      "estatisticas": {
+        "chutesAoGol": 4,
+        "chutesFora": 4,
+        "totalChutes": 11,
+        "posseBola": "61%",
+        "passes": 487,
+        "passesCertos": 407,
+        "precisaoPasses": "84%",
+        "escanteios": 6,
+        "impedimentos": 3,
+        "faltas": 14,
+        "cartoesAmarelos": 2,
+        "cartoesVermelhos": null,
+        "defesasGoleiro": 2
+      }
+    },
+    "selecao02": {
+      "id": 4703,
+      "nome": "Poland",
+      "escudo": "https://img.sofascore.com/api/v1/team/4703/image",
+      "estatisticas": {
+        "chutesAoGol": 2,
+        "chutesFora": 3,
+        "totalChutes": 6,
+        "posseBola": "39%",
+        "passes": 322,
+        "passesCertos": 228,
+        "precisaoPasses": "71%",
+        "escanteios": 5,
+        "impedimentos": 0,
+        "faltas": 15,
+        "cartoesAmarelos": 1,
+        "cartoesVermelhos": null,
+        "defesasGoleiro": 4
+      }
+    }
+  },
+  "10230563": {
+    "selecao01": {
+      "id": 4481,
+      "nome": "France",
+      "escudo": "https://img.sofascore.com/api/v1/team/4481/image",
+      "estatisticas": {
+        "chutesAoGol": 7,
+        "chutesFora": 10,
+        "totalChutes": 23,
+        "posseBola": "62%",
+        "passes": 723,
+        "passesCertos": 646,
+        "precisaoPasses": "89%",
+        "escanteios": 8,
+        "impedimentos": null,
+        "faltas": 5,
+        "cartoesAmarelos": 0,
+        "cartoesVermelhos": null,
+        "defesasGoleiro": 0
+      }
+    },
+    "selecao02": {
+      "id": 4741,
+      "nome": "Australia",
+      "escudo": "https://img.sofascore.com/api/v1/team/4741/image",
+      "estatisticas": {
+        "chutesAoGol": 1,
+        "chutesFora": 3,
+        "totalChutes": 4,
+        "posseBola": "38%",
+        "passes": 440,
+        "passesCertos": 368,
+        "precisaoPasses": "84%",
+        "escanteios": 1,
+        "impedimentos": null,
+        "faltas": 11,
+        "cartoesAmarelos": 3,
+        "cartoesVermelhos": null,
+        "defesasGoleiro": 2
+      }
+    }
+  },
+  "10230570": {
+    "selecao01": {
+      "id": 4778,
+      "nome": "Morocco",
+      "escudo": "https://img.sofascore.com/api/v1/team/4778/image",
+      "estatisticas": {
+        "chutesAoGol": 2,
+        "chutesFora": 0,
+        "totalChutes": 8,
+        "posseBola": "35%",
+        "passes": 348,
+        "passesCertos": 273,
+        "precisaoPasses": "78%",
+        "escanteios": 0,
+        "impedimentos": 0,
+        "faltas": 16,
+        "cartoesAmarelos": 1,
+        "cartoesVermelhos": null,
+        "defesasGoleiro": 1
+      }
+    },
+    "selecao02": {
+      "id": 4715,
+      "nome": "Croatia",
+      "escudo": "https://img.sofascore.com/api/v1/team/4715/image",
+      "estatisticas": {
+        "chutesAoGol": 2,
+        "chutesFora": 2,
+        "totalChutes": 5,
+        "posseBola": "65%",
+        "passes": 642,
+        "passesCertos": 551,
+        "precisaoPasses": "86%",
+        "escanteios": 5,
+        "impedimentos": 1,
+        "faltas": 11,
+        "cartoesAmarelos": 0,
+        "cartoesVermelhos": null,
+        "defesasGoleiro": 2
+      }
+    }
+  },
+  "10230562": {
+    "selecao01": {
+      "id": 4711,
+      "nome": "Germany",
+      "escudo": "https://img.sofascore.com/api/v1/team/4711/image",
+      "estatisticas": {
+        "chutesAoGol": 9,
+        "chutesFora": 11,
+        "totalChutes": 26,
+        "posseBola": "74%",
+        "passes": 771,
+        "passesCertos": 686,
+        "precisaoPasses": "89%",
+        "escanteios": 6,
+        "impedimentos": 4,
+        "faltas": 6,
+        "cartoesAmarelos": null,
+        "cartoesVermelhos": null,
+        "defesasGoleiro": 2
+      }
+    },
+    "selecao02": {
+      "id": 4770,
+      "nome": "Japan",
+      "escudo": "https://img.sofascore.com/api/v1/team/4770/image",
+      "estatisticas": {
+        "chutesAoGol": 4,
+        "chutesFora": 4,
+        "totalChutes": 12,
+        "posseBola": "26%",
+        "passes": 269,
+        "passesCertos": 190,
+        "precisaoPasses": "71%",
+        "escanteios": 6,
+        "impedimentos": 4,
+        "faltas": 14,
+        "cartoesAmarelos": null,
+        "cartoesVermelhos": null,
+        "defesasGoleiro": 8
+      }
+    }
+  },
+  "10230571": {
+    "selecao01": {
+      "id": 4698,
+      "nome": "Spain",
+      "escudo": "https://img.sofascore.com/api/v1/team/4698/image",
+      "estatisticas": {
+        "chutesAoGol": 8,
+        "chutesFora": 7,
+        "totalChutes": 17,
+        "posseBola": "82%",
+        "passes": 1045,
+        "passesCertos": 978,
+        "precisaoPasses": "94%",
+        "escanteios": 5,
+        "impedimentos": 3,
+        "faltas": 8,
+        "cartoesAmarelos": 0,
+        "cartoesVermelhos": null,
+        "defesasGoleiro": 0
+      }
+    },
+    "selecao02": {
+      "id": 4756,
+      "nome": "Costa Rica",
+      "escudo": "https://img.sofascore.com/api/v1/team/4756/image",
+      "estatisticas": {
+        "chutesAoGol": 0,
+        "chutesFora": 0,
+        "totalChutes": 0,
+        "posseBola": "18%",
+        "passes": 230,
+        "passesCertos": 165,
+        "precisaoPasses": "72%",
+        "escanteios": 0,
+        "impedimentos": 7,
+        "faltas": 12,
+        "cartoesAmarelos": 2,
+        "cartoesVermelhos": null,
+        "defesasGoleiro": 1
+      }
+    }
+  },
+  "10230559": {
+    "selecao01": {
+      "id": 4717,
+      "nome": "Belgium",
+      "escudo": "https://img.sofascore.com/api/v1/team/4717/image",
+      "estatisticas": {
+        "chutesAoGol": 3,
+        "chutesFora": 3,
+        "totalChutes": 9,
+        "posseBola": "54%",
+        "passes": 520,
+        "passesCertos": 432,
+        "precisaoPasses": "83%",
+        "escanteios": 4,
+        "impedimentos": 0,
+        "faltas": 11,
+        "cartoesAmarelos": 3,
+        "cartoesVermelhos": null,
+        "defesasGoleiro": 3
+      }
+    },
+    "selecao02": {
+      "id": 4752,
+      "nome": "Canada",
+      "escudo": "https://img.sofascore.com/api/v1/team/4752/image",
+      "estatisticas": {
+        "chutesAoGol": 3,
+        "chutesFora": 11,
+        "totalChutes": 22,
+        "posseBola": "46%",
+        "passes": 429,
+        "passesCertos": 353,
+        "precisaoPasses": "82%",
+        "escanteios": 4,
+        "impedimentos": 1,
+        "faltas": 14,
+        "cartoesAmarelos": 2,
+        "cartoesVermelhos": null,
+        "defesasGoleiro": 2
+      }
+    }
+  },
+  "10230569": {
+    "selecao01": {
+      "id": 4699,
+      "nome": "Switzerland",
+      "escudo": "https://img.sofascore.com/api/v1/team/4699/image",
+      "estatisticas": {
+        "chutesAoGol": 3,
+        "chutesFora": 3,
+        "totalChutes": 7,
+        "posseBola": "51%",
+        "passes": 514,
+        "passesCertos": 432,
+        "precisaoPasses": "84%",
+        "escanteios": 11,
+        "impedimentos": 2,
+        "faltas": 12,
+        "cartoesAmarelos": 2,
+        "cartoesVermelhos": null,
+        "defesasGoleiro": 5
+      }
+    },
+    "selecao02": {
+      "id": 4751,
+      "nome": "Cameroon",
+      "escudo": "https://img.sofascore.com/api/v1/team/4751/image",
+      "estatisticas": {
+        "chutesAoGol": 5,
+        "chutesFora": 2,
+        "totalChutes": 8,
+        "posseBola": "49%",
+        "passes": 494,
+        "passesCertos": 420,
+        "precisaoPasses": "85%",
+        "escanteios": 5,
+        "impedimentos": 2,
+        "faltas": 10,
+        "cartoesAmarelos": 1,
+        "cartoesVermelhos": null,
+        "defesasGoleiro": 2
+      }
+    }
+  },
+  "10230530": {
+    "selecao01": {
+      "id": 4725,
+      "nome": "Uruguay",
+      "escudo": "https://img.sofascore.com/api/v1/team/4725/image",
+      "estatisticas": {
+        "chutesAoGol": 1,
+        "chutesFora": 7,
+        "totalChutes": 10,
+        "posseBola": "56%",
+        "passes": 548,
+        "passesCertos": 448,
+        "precisaoPasses": "82%",
+        "escanteios": 4,
+        "impedimentos": 1,
+        "faltas": 7,
+        "cartoesAmarelos": 1,
+        "cartoesVermelhos": null,
+        "defesasGoleiro": 0
+      }
+    },
+    "selecao02": {
+      "id": 4735,
+      "nome": "South Korea",
+      "escudo": "https://img.sofascore.com/api/v1/team/4735/image",
+      "estatisticas": {
+        "chutesAoGol": 0,
+        "chutesFora": 6,
+        "totalChutes": 7,
+        "posseBola": "44%",
+        "passes": 418,
+        "passesCertos": 326,
+        "precisaoPasses": "78%",
+        "escanteios": 3,
+        "impedimentos": 0,
+        "faltas": 10,
+        "cartoesAmarelos": 1,
+        "cartoesVermelhos": null,
+        "defesasGoleiro": 1
+      }
+    }
+  },
+  "10230534": {
+    "selecao01": {
+      "id": 4704,
+      "nome": "Portugal",
+      "escudo": "https://img.sofascore.com/api/v1/team/4704/image",
+      "estatisticas": {
+        "chutesAoGol": 5,
+        "chutesFora": 3,
+        "totalChutes": 11,
+        "posseBola": "62%",
+        "passes": 622,
+        "passesCertos": 551,
+        "precisaoPasses": "89%",
+        "escanteios": 3,
+        "impedimentos": 1,
+        "faltas": 14,
+        "cartoesAmarelos": 2,
+        "cartoesVermelhos": null,
+        "defesasGoleiro": 1
+      }
+    },
+    "selecao02": {
+      "id": 4764,
+      "nome": "Ghana",
+      "escudo": "https://img.sofascore.com/api/v1/team/4764/image",
+      "estatisticas": {
+        "chutesAoGol": 3,
+        "chutesFora": 5,
+        "totalChutes": 9,
+        "posseBola": "38%",
+        "passes": 387,
+        "passesCertos": 315,
+        "precisaoPasses": "81%",
+        "escanteios": 3,
+        "impedimentos": 1,
+        "faltas": 19,
+        "cartoesAmarelos": 4,
+        "cartoesVermelhos": null,
+        "defesasGoleiro": 2
+      }
+    }
+  },
+  "10230567": {
+    "selecao01": {
+      "id": 4748,
+      "nome": "Brazil",
+      "escudo": "https://img.sofascore.com/api/v1/team/4748/image",
+      "estatisticas": {
+        "chutesAoGol": 9,
+        "chutesFora": 9,
+        "totalChutes": 23,
+        "posseBola": "59%",
+        "passes": 581,
+        "passesCertos": 504,
+        "precisaoPasses": "87%",
+        "escanteios": 6,
+        "impedimentos": 1,
+        "faltas": 7,
+        "cartoesAmarelos": 0,
+        "cartoesVermelhos": null,
+        "defesasGoleiro": 0
+      }
+    },
+    "selecao02": {
+      "id": 6355,
+      "nome": "Serbia",
+      "escudo": "https://img.sofascore.com/api/v1/team/6355/image",
+      "estatisticas": {
+        "chutesAoGol": 0,
+        "chutesFora": 3,
+        "totalChutes": 5,
+        "posseBola": "41%",
+        "passes": 406,
+        "passesCertos": 326,
+        "precisaoPasses": "80%",
+        "escanteios": 4,
+        "impedimentos": 0,
+        "faltas": 12,
+        "cartoesAmarelos": 3,
+        "cartoesVermelhos": null,
+        "defesasGoleiro": 7
+      }
+    }
+  },
+  "10230556": {
+    "selecao01": {
+      "id": 4702,
+      "nome": "Wales",
+      "escudo": "https://img.sofascore.com/api/v1/team/4702/image",
+      "estatisticas": {
+        "chutesAoGol": 3,
+        "chutesFora": 5,
+        "totalChutes": 10,
+        "posseBola": "62%",
+        "passes": 501,
+        "passesCertos": 390,
+        "precisaoPasses": "78%",
+        "escanteios": 2,
+        "impedimentos": 2,
+        "faltas": 9,
+        "cartoesAmarelos": 1,
+        "cartoesVermelhos": 1,
+        "defesasGoleiro": 4
+      }
+    },
+    "selecao02": {
+      "id": 4766,
+      "nome": "Iran",
+      "escudo": "https://img.sofascore.com/api/v1/team/4766/image",
+      "estatisticas": {
+        "chutesAoGol": 6,
+        "chutesFora": 6,
+        "totalChutes": 21,
+        "posseBola": "38%",
+        "passes": 298,
+        "passesCertos": 197,
+        "precisaoPasses": "66%",
+        "escanteios": 7,
+        "impedimentos": 2,
+        "faltas": 10,
+        "cartoesAmarelos": 2,
+        "cartoesVermelhos": 0,
+        "defesasGoleiro": 3
+      }
+    }
+  },
+  "10230537": {
+    "selecao01": {
+      "id": 4792,
+      "nome": "Qatar",
+      "escudo": "https://img.sofascore.com/api/v1/team/4792/image",
+      "estatisticas": {
+        "chutesAoGol": 3,
+        "chutesFora": 5,
+        "totalChutes": 10,
+        "posseBola": "45%",
+        "passes": 405,
+        "passesCertos": 328,
+        "precisaoPasses": "81%",
+        "escanteios": 6,
+        "impedimentos": 4,
+        "faltas": 7,
+        "cartoesAmarelos": 3,
+        "cartoesVermelhos": null,
+        "defesasGoleiro": 2
+      }
+    },
+    "selecao02": {
+      "id": 4739,
+      "nome": "Senegal",
+      "escudo": "https://img.sofascore.com/api/v1/team/4739/image",
+      "estatisticas": {
+        "chutesAoGol": 5,
+        "chutesFora": 6,
+        "totalChutes": 13,
+        "posseBola": "55%",
+        "passes": 502,
+        "passesCertos": 432,
+        "precisaoPasses": "86%",
+        "escanteios": 6,
+        "impedimentos": 3,
+        "faltas": 12,
+        "cartoesAmarelos": 3,
+        "cartoesVermelhos": null,
+        "defesasGoleiro": 2
+      }
+    }
+  },
+  "10230529": {
+    "selecao01": {
+      "id": 4705,
+      "nome": "Netherlands",
+      "escudo": "https://img.sofascore.com/api/v1/team/4705/image",
+      "estatisticas": {
+        "chutesAoGol": 1,
+        "chutesFora": 1,
+        "totalChutes": 2,
+        "posseBola": "54%",
+        "passes": 506,
+        "passesCertos": 418,
+        "precisaoPasses": "83%",
+        "escanteios": 2,
+        "impedimentos": 1,
+        "faltas": 15,
+        "cartoesAmarelos": 0,
+        "cartoesVermelhos": null,
+        "defesasGoleiro": 3
+      }
+    },
+    "selecao02": {
+      "id": 4757,
+      "nome": "Ecuador",
+      "escudo": "https://img.sofascore.com/api/v1/team/4757/image",
+      "estatisticas": {
+        "chutesAoGol": 4,
+        "chutesFora": 4,
+        "totalChutes": 15,
+        "posseBola": "46%",
+        "passes": 413,
+        "passesCertos": 328,
+        "precisaoPasses": "79%",
+        "escanteios": 5,
+        "impedimentos": 4,
+        "faltas": 12,
+        "cartoesAmarelos": 1,
+        "cartoesVermelhos": null,
+        "defesasGoleiro": 0
+      }
+    }
+  },
+  "10230557": {
+    "selecao01": {
+      "id": 4713,
+      "nome": "England",
+      "escudo": "https://img.sofascore.com/api/v1/team/4713/image",
+      "estatisticas": {
+        "chutesAoGol": 3,
+        "chutesFora": 4,
+        "totalChutes": 8,
+        "posseBola": "56%",
+        "passes": 541,
+        "passesCertos": 472,
+        "precisaoPasses": "87%",
+        "escanteios": 3,
+        "impedimentos": 1,
+        "faltas": 9,
+        "cartoesAmarelos": null,
+        "cartoesVermelhos": null,
+        "defesasGoleiro": 1
+      }
+    },
+    "selecao02": {
+      "id": 4724,
+      "nome": "USA",
+      "escudo": "https://img.sofascore.com/api/v1/team/4724/image",
+      "estatisticas": {
+        "chutesAoGol": 1,
+        "chutesFora": 5,
+        "totalChutes": 10,
+        "posseBola": "44%",
+        "passes": 421,
+        "passesCertos": 352,
+        "precisaoPasses": "84%",
+        "escanteios": 7,
+        "impedimentos": 0,
+        "faltas": 15,
+        "cartoesAmarelos": null,
+        "cartoesVermelhos": null,
+        "defesasGoleiro": 3
+      }
+    }
+  },
+  "10230574": {
+    "selecao01": {
+      "id": 4729,
+      "nome": "Tunisia",
+      "escudo": "https://img.sofascore.com/api/v1/team/4729/image",
+      "estatisticas": {
+        "chutesAoGol": 4,
+        "chutesFora": 4,
+        "totalChutes": 14,
+        "posseBola": "58%",
+        "passes": 497,
+        "passesCertos": 378,
+        "precisaoPasses": "76%",
+        "escanteios": 5,
+        "impedimentos": 3,
+        "faltas": 16,
+        "cartoesAmarelos": 3,
+        "cartoesVermelhos": null,
+        "defesasGoleiro": 1
+      }
+    },
+    "selecao02": {
+      "id": 4741,
+      "nome": "Australia",
+      "escudo": "https://img.sofascore.com/api/v1/team/4741/image",
+      "estatisticas": {
+        "chutesAoGol": 2,
+        "chutesFora": 5,
+        "totalChutes": 9,
+        "posseBola": "42%",
+        "passes": 351,
+        "passesCertos": 239,
+        "precisaoPasses": "68%",
+        "escanteios": 2,
+        "impedimentos": 0,
+        "faltas": 15,
+        "cartoesAmarelos": 0,
+        "cartoesVermelhos": null,
+        "defesasGoleiro": 4
+      }
+    }
+  },
+  "10230542": {
+    "selecao01": {
+      "id": 4703,
+      "nome": "Poland",
+      "escudo": "https://img.sofascore.com/api/v1/team/4703/image",
+      "estatisticas": {
+        "chutesAoGol": 3,
+        "chutesFora": 4,
+        "totalChutes": 9,
+        "posseBola": "36%",
+        "passes": 297,
+        "passesCertos": 228,
+        "precisaoPasses": "77%",
+        "escanteios": 4,
+        "impedimentos": null,
+        "faltas": 18,
+        "cartoesAmarelos": 3,
+        "cartoesVermelhos": null,
+        "defesasGoleiro": 5
+      }
+    },
+    "selecao02": {
+      "id": 4834,
+      "nome": "Saudi Arabia",
+      "escudo": "https://img.sofascore.com/api/v1/team/4834/image",
+      "estatisticas": {
+        "chutesAoGol": 5,
+        "chutesFora": 8,
+        "totalChutes": 16,
+        "posseBola": "64%",
+        "passes": 537,
+        "passesCertos": 456,
+        "precisaoPasses": "85%",
+        "escanteios": 5,
+        "impedimentos": null,
+        "faltas": 15,
+        "cartoesAmarelos": 2,
+        "cartoesVermelhos": null,
+        "defesasGoleiro": 1
+      }
+    }
+  },
+  "10230577": {
+    "selecao01": {
+      "id": 4481,
+      "nome": "France",
+      "escudo": "https://img.sofascore.com/api/v1/team/4481/image",
+      "estatisticas": {
+        "chutesAoGol": 7,
+        "chutesFora": 6,
+        "totalChutes": 21,
+        "posseBola": "49%",
+        "passes": 491,
+        "passesCertos": 421,
+        "precisaoPasses": "86%",
+        "escanteios": 6,
+        "impedimentos": 1,
+        "faltas": 4,
+        "cartoesAmarelos": 1,
+        "cartoesVermelhos": null,
+        "defesasGoleiro": 1
+      }
+    },
+    "selecao02": {
+      "id": 4476,
+      "nome": "Denmark",
+      "escudo": "https://img.sofascore.com/api/v1/team/4476/image",
+      "estatisticas": {
+        "chutesAoGol": 2,
+        "chutesFora": 6,
+        "totalChutes": 10,
+        "posseBola": "51%",
+        "passes": 528,
+        "passesCertos": 456,
+        "precisaoPasses": "86%",
+        "escanteios": 4,
+        "impedimentos": 1,
+        "faltas": 9,
+        "cartoesAmarelos": 2,
+        "cartoesVermelhos": null,
+        "defesasGoleiro": 4
+      }
+    }
+  },
+  "10230540": {
+    "selecao01": {
+      "id": 4819,
+      "nome": "Argentina",
+      "escudo": "https://img.sofascore.com/api/v1/team/4819/image",
+      "estatisticas": {
+        "chutesAoGol": 2,
+        "chutesFora": 3,
+        "totalChutes": 5,
+        "posseBola": "59%",
+        "passes": 528,
+        "passesCertos": 446,
+        "precisaoPasses": "84%",
+        "escanteios": 4,
+        "impedimentos": 2,
+        "faltas": 15,
+        "cartoesAmarelos": 1,
+        "cartoesVermelhos": null,
+        "defesasGoleiro": 1
+      }
+    },
+    "selecao02": {
+      "id": 4781,
+      "nome": "Mexico",
+      "escudo": "https://img.sofascore.com/api/v1/team/4781/image",
+      "estatisticas": {
+        "chutesAoGol": 1,
+        "chutesFora": 2,
+        "totalChutes": 4,
+        "posseBola": "41%",
+        "passes": 370,
+        "passesCertos": 284,
+        "precisaoPasses": "77%",
+        "escanteios": 2,
+        "impedimentos": 4,
+        "faltas": 19,
+        "cartoesAmarelos": 4,
+        "cartoesVermelhos": null,
+        "defesasGoleiro": 0
+      }
+    }
+  },
+  "10230564": {
+    "selecao01": {
+      "id": 4770,
+      "nome": "Japan",
+      "escudo": "https://img.sofascore.com/api/v1/team/4770/image",
+      "estatisticas": {
+        "chutesAoGol": 3,
+        "chutesFora": 3,
+        "totalChutes": 13,
+        "posseBola": "57%",
+        "passes": 582,
+        "passesCertos": 505,
+        "precisaoPasses": "87%",
+        "escanteios": 5,
+        "impedimentos": 0,
+        "faltas": 22,
+        "cartoesAmarelos": 3,
+        "cartoesVermelhos": null,
+        "defesasGoleiro": 0
+      }
+    },
+    "selecao02": {
+      "id": 4756,
+      "nome": "Costa Rica",
+      "escudo": "https://img.sofascore.com/api/v1/team/4756/image",
+      "estatisticas": {
+        "chutesAoGol": 1,
+        "chutesFora": 2,
+        "totalChutes": 4,
+        "posseBola": "43%",
+        "passes": 443,
+        "passesCertos": 353,
+        "precisaoPasses": "80%",
+        "escanteios": 0,
+        "impedimentos": 2,
+        "faltas": 9,
+        "cartoesAmarelos": 3,
+        "cartoesVermelhos": null,
+        "defesasGoleiro": 3
+      }
+    }
+  },
+  "10230545": {
+    "selecao01": {
+      "id": 4717,
+      "nome": "Belgium",
+      "escudo": "https://img.sofascore.com/api/v1/team/4717/image",
+      "estatisticas": {
+        "chutesAoGol": 3,
+        "chutesFora": 5,
+        "totalChutes": 10,
+        "posseBola": "67%",
+        "passes": 652,
+        "passesCertos": 577,
+        "precisaoPasses": "88%",
+        "escanteios": 9,
+        "impedimentos": 3,
+        "faltas": 10,
+        "cartoesAmarelos": 1,
+        "cartoesVermelhos": null,
+        "defesasGoleiro": 2
+      }
+    },
+    "selecao02": {
+      "id": 4778,
+      "nome": "Morocco",
+      "escudo": "https://img.sofascore.com/api/v1/team/4778/image",
+      "estatisticas": {
+        "chutesAoGol": 4,
+        "chutesFora": 6,
+        "totalChutes": 10,
+        "posseBola": "33%",
+        "passes": 328,
+        "passesCertos": 274,
+        "precisaoPasses": "84%",
+        "escanteios": 1,
+        "impedimentos": 3,
+        "faltas": 14,
+        "cartoesAmarelos": 1,
+        "cartoesVermelhos": null,
+        "defesasGoleiro": 3
+      }
+    }
+  },
+  "10230550": {
+    "selecao01": {
+      "id": 4715,
+      "nome": "Croatia",
+      "escudo": "https://img.sofascore.com/api/v1/team/4715/image",
+      "estatisticas": {
+        "chutesAoGol": 10,
+        "chutesFora": 3,
+        "totalChutes": 13,
+        "posseBola": "48%",
+        "passes": 443,
+        "passesCertos": 372,
+        "precisaoPasses": "84%",
+        "escanteios": 5,
+        "impedimentos": 1,
+        "faltas": 13,
+        "cartoesAmarelos": 2,
+        "cartoesVermelhos": null,
+        "defesasGoleiro": 1
+      }
+    },
+    "selecao02": {
+      "id": 4752,
+      "nome": "Canada",
+      "escudo": "https://img.sofascore.com/api/v1/team/4752/image",
+      "estatisticas": {
+        "chutesAoGol": 2,
+        "chutesFora": 3,
+        "totalChutes": 8,
+        "posseBola": "52%",
+        "passes": 473,
+        "passesCertos": 399,
+        "precisaoPasses": "84%",
+        "escanteios": 2,
+        "impedimentos": 3,
+        "faltas": 5,
+        "cartoesAmarelos": 2,
+        "cartoesVermelhos": null,
+        "defesasGoleiro": 6
+      }
+    }
+  },
+  "10230575": {
+    "selecao01": {
+      "id": 4698,
+      "nome": "Spain",
+      "escudo": "https://img.sofascore.com/api/v1/team/4698/image",
+      "estatisticas": {
+        "chutesAoGol": 3,
+        "chutesFora": 2,
+        "totalChutes": 7,
+        "posseBola": "64%",
+        "passes": 634,
+        "passesCertos": 542,
+        "precisaoPasses": "85%",
+        "escanteios": 6,
+        "impedimentos": 2,
+        "faltas": 13,
+        "cartoesAmarelos": 1,
+        "cartoesVermelhos": null,
+        "defesasGoleiro": 3
+      }
+    },
+    "selecao02": {
+      "id": 4711,
+      "nome": "Germany",
+      "escudo": "https://img.sofascore.com/api/v1/team/4711/image",
+      "estatisticas": {
+        "chutesAoGol": 4,
+        "chutesFora": 4,
+        "totalChutes": 11,
+        "posseBola": "36%",
+        "passes": 343,
+        "passesCertos": 270,
+        "precisaoPasses": "79%",
+        "escanteios": 5,
+        "impedimentos": 5,
+        "faltas": 11,
+        "cartoesAmarelos": 3,
+        "cartoesVermelhos": null,
+        "defesasGoleiro": 2
+      }
+    }
+  },
+  "10230568": {
+    "selecao01": {
+      "id": 4751,
+      "nome": "Cameroon",
+      "escudo": "https://img.sofascore.com/api/v1/team/4751/image",
+      "estatisticas": {
+        "chutesAoGol": 8,
+        "chutesFora": 2,
+        "totalChutes": 13,
+        "posseBola": "41%",
+        "passes": 339,
+        "passesCertos": 243,
+        "precisaoPasses": "72%",
+        "escanteios": 4,
+        "impedimentos": 0,
+        "faltas": 8,
+        "cartoesAmarelos": 2,
+        "cartoesVermelhos": null,
+        "defesasGoleiro": 2
+      }
+    },
+    "selecao02": {
+      "id": 6355,
+      "nome": "Serbia",
+      "escudo": "https://img.sofascore.com/api/v1/team/6355/image",
+      "estatisticas": {
+        "chutesAoGol": 5,
+        "chutesFora": 8,
+        "totalChutes": 15,
+        "posseBola": "59%",
+        "passes": 502,
+        "passesCertos": 409,
+        "precisaoPasses": "81%",
+        "escanteios": 3,
+        "impedimentos": 4,
+        "faltas": 13,
+        "cartoesAmarelos": 2,
+        "cartoesVermelhos": null,
+        "defesasGoleiro": 5
+      }
+    }
+  },
+  "10230552": {
+    "selecao01": {
+      "id": 4735,
+      "nome": "South Korea",
+      "escudo": "https://img.sofascore.com/api/v1/team/4735/image",
+      "estatisticas": {
+        "chutesAoGol": 7,
+        "chutesFora": 5,
+        "totalChutes": 22,
+        "posseBola": "63%",
+        "passes": 528,
+        "passesCertos": 455,
+        "precisaoPasses": "86%",
+        "escanteios": 12,
+        "impedimentos": 1,
+        "faltas": 13,
+        "cartoesAmarelos": 2,
+        "cartoesVermelhos": null,
+        "defesasGoleiro": 0
+      }
+    },
+    "selecao02": {
+      "id": 4764,
+      "nome": "Ghana",
+      "escudo": "https://img.sofascore.com/api/v1/team/4764/image",
+      "estatisticas": {
+        "chutesAoGol": 3,
+        "chutesFora": 4,
+        "totalChutes": 7,
+        "posseBola": "37%",
+        "passes": 320,
+        "passesCertos": 254,
+        "precisaoPasses": "79%",
+        "escanteios": 5,
+        "impedimentos": 1,
+        "faltas": 9,
+        "cartoesAmarelos": 2,
+        "cartoesVermelhos": null,
+        "defesasGoleiro": 4
+      }
+    }
+  },
+  "10230561": {
+    "selecao01": {
+      "id": 4748,
+      "nome": "Brazil",
+      "escudo": "https://img.sofascore.com/api/v1/team/4748/image",
+      "estatisticas": {
+        "chutesAoGol": 5,
+        "chutesFora": 3,
+        "totalChutes": 13,
+        "posseBola": "54%",
+        "passes": 550,
+        "passesCertos": 483,
+        "precisaoPasses": "88%",
+        "escanteios": 8,
+        "impedimentos": 3,
+        "faltas": 10,
+        "cartoesAmarelos": 1,
+        "cartoesVermelhos": null,
+        "defesasGoleiro": 0
+      }
+    },
+    "selecao02": {
+      "id": 4699,
+      "nome": "Switzerland",
+      "escudo": "https://img.sofascore.com/api/v1/team/4699/image",
+      "estatisticas": {
+        "chutesAoGol": 0,
+        "chutesFora": 2,
+        "totalChutes": 6,
+        "posseBola": "46%",
+        "passes": 481,
+        "passesCertos": 403,
+        "precisaoPasses": "84%",
+        "escanteios": 3,
+        "impedimentos": 1,
+        "faltas": 17,
+        "cartoesAmarelos": 1,
+        "cartoesVermelhos": null,
+        "defesasGoleiro": 4
+      }
+    }
+  },
+  "10230539": {
+    "selecao01": {
+      "id": 4704,
+      "nome": "Portugal",
+      "escudo": "https://img.sofascore.com/api/v1/team/4704/image",
+      "estatisticas": {
+        "chutesAoGol": 3,
+        "chutesFora": 6,
+        "totalChutes": 15,
+        "posseBola": "60%",
+        "passes": 603,
+        "passesCertos": 501,
+        "precisaoPasses": "83%",
+        "escanteios": 6,
+        "impedimentos": 3,
+        "faltas": 10,
+        "cartoesAmarelos": 3,
+        "cartoesVermelhos": null,
+        "defesasGoleiro": 3
+      }
+    },
+    "selecao02": {
+      "id": 4725,
+      "nome": "Uruguay",
+      "escudo": "https://img.sofascore.com/api/v1/team/4725/image",
+      "estatisticas": {
+        "chutesAoGol": 3,
+        "chutesFora": 6,
+        "totalChutes": 11,
+        "posseBola": "40%",
+        "passes": 403,
+        "passesCertos": 295,
+        "precisaoPasses": "73%",
+        "escanteios": 2,
+        "impedimentos": 0,
+        "faltas": 16,
+        "cartoesAmarelos": 2,
+        "cartoesVermelhos": null,
+        "defesasGoleiro": 1
+      }
+    }
+  },
+  "10230551": {
+    "selecao01": {
+      "id": 4757,
+      "nome": "Ecuador",
+      "escudo": "https://img.sofascore.com/api/v1/team/4757/image",
+      "estatisticas": {
+        "chutesAoGol": 4,
+        "chutesFora": 3,
+        "totalChutes": 9,
+        "posseBola": "61%",
+        "passes": 434,
+        "passesCertos": 336,
+        "precisaoPasses": "77%",
+        "escanteios": 3,
+        "impedimentos": 0,
+        "faltas": 23,
+        "cartoesAmarelos": 0,
+        "cartoesVermelhos": null,
+        "defesasGoleiro": 1
+      }
+    },
+    "selecao02": {
+      "id": 4739,
+      "nome": "Senegal",
+      "escudo": "https://img.sofascore.com/api/v1/team/4739/image",
+      "estatisticas": {
+        "chutesAoGol": 3,
+        "chutesFora": 7,
+        "totalChutes": 14,
+        "posseBola": "39%",
+        "passes": 267,
+        "passesCertos": 181,
+        "precisaoPasses": "68%",
+        "escanteios": 6,
+        "impedimentos": 3,
+        "faltas": 11,
+        "cartoesAmarelos": 1,
+        "cartoesVermelhos": null,
+        "defesasGoleiro": 3
+      }
+    }
+  },
+  "10230538": {
+    "selecao01": {
+      "id": 4705,
+      "nome": "Netherlands",
+      "escudo": "https://img.sofascore.com/api/v1/team/4705/image",
+      "estatisticas": {
+        "chutesAoGol": 4,
+        "chutesFora": 6,
+        "totalChutes": 13,
+        "posseBola": "63%",
+        "passes": 783,
+        "passesCertos": 718,
+        "precisaoPasses": "92%",
+        "escanteios": 4,
+        "impedimentos": 5,
+        "faltas": 19,
+        "cartoesAmarelos": 1,
+        "cartoesVermelhos": null,
+        "defesasGoleiro": 3
+      }
+    },
+    "selecao02": {
+      "id": 4792,
+      "nome": "Qatar",
+      "escudo": "https://img.sofascore.com/api/v1/team/4792/image",
+      "estatisticas": {
+        "chutesAoGol": 3,
+        "chutesFora": 2,
+        "totalChutes": 5,
+        "posseBola": "37%",
+        "passes": 452,
+        "passesCertos": 371,
+        "precisaoPasses": "82%",
+        "escanteios": 2,
+        "impedimentos": 0,
+        "faltas": 9,
+        "cartoesAmarelos": 0,
+        "cartoesVermelhos": null,
+        "defesasGoleiro": 2
+      }
+    }
+  },
+  "10230536": {
+    "selecao01": {
+      "id": 4766,
+      "nome": "Iran",
+      "escudo": "https://img.sofascore.com/api/v1/team/4766/image",
+      "estatisticas": {
+        "chutesAoGol": 1,
+        "chutesFora": 3,
+        "totalChutes": 4,
+        "posseBola": "49%",
+        "passes": 466,
+        "passesCertos": 361,
+        "precisaoPasses": "77%",
+        "escanteios": 1,
+        "impedimentos": 2,
+        "faltas": 14,
+        "cartoesAmarelos": 3,
+        "cartoesVermelhos": null,
+        "defesasGoleiro": 4
+      }
+    },
+    "selecao02": {
+      "id": 4724,
+      "nome": "USA",
+      "escudo": "https://img.sofascore.com/api/v1/team/4724/image",
+      "estatisticas": {
+        "chutesAoGol": 5,
+        "chutesFora": 4,
+        "totalChutes": 12,
+        "posseBola": "51%",
+        "passes": 474,
+        "passesCertos": 397,
+        "precisaoPasses": "84%",
+        "escanteios": 5,
+        "impedimentos": 1,
+        "faltas": 10,
+        "cartoesAmarelos": 1,
+        "cartoesVermelhos": null,
+        "defesasGoleiro": 0
+      }
+    }
+  },
+  "10230532": {
+    "selecao01": {
+      "id": 4702,
+      "nome": "Wales",
+      "escudo": "https://img.sofascore.com/api/v1/team/4702/image",
+      "estatisticas": {
+        "chutesAoGol": 1,
+        "chutesFora": 3,
+        "totalChutes": 7,
+        "posseBola": "35%",
+        "passes": 329,
+        "passesCertos": 257,
+        "precisaoPasses": "78%",
+        "escanteios": 1,
+        "impedimentos": 1,
+        "faltas": 16,
+        "cartoesAmarelos": 2,
+        "cartoesVermelhos": null,
+        "defesasGoleiro": 4
+      }
+    },
+    "selecao02": {
+      "id": 4713,
+      "nome": "England",
+      "escudo": "https://img.sofascore.com/api/v1/team/4713/image",
+      "estatisticas": {
+        "chutesAoGol": 7,
+        "chutesFora": 6,
+        "totalChutes": 18,
+        "posseBola": "65%",
+        "passes": 594,
+        "passesCertos": 525,
+        "precisaoPasses": "88%",
+        "escanteios": 6,
+        "impedimentos": 1,
+        "faltas": 9,
+        "cartoesAmarelos": 0,
+        "cartoesVermelhos": null,
+        "defesasGoleiro": 1
+      }
+    }
+  },
+  "10230560": {
+    "selecao01": {
+      "id": 4741,
+      "nome": "Australia",
+      "escudo": "https://img.sofascore.com/api/v1/team/4741/image",
+      "estatisticas": {
+        "chutesAoGol": 4,
+        "chutesFora": 2,
+        "totalChutes": 8,
+        "posseBola": "31%",
+        "passes": 304,
+        "passesCertos": 195,
+        "precisaoPasses": "64%",
+        "escanteios": 2,
+        "impedimentos": 1,
+        "faltas": 11,
+        "cartoesAmarelos": 2,
+        "cartoesVermelhos": null,
+        "defesasGoleiro": 3
+      }
+    },
+    "selecao02": {
+      "id": 4476,
+      "nome": "Denmark",
+      "escudo": "https://img.sofascore.com/api/v1/team/4476/image",
+      "estatisticas": {
+        "chutesAoGol": 3,
+        "chutesFora": 5,
+        "totalChutes": 13,
+        "posseBola": "69%",
+        "passes": 664,
+        "passesCertos": 548,
+        "precisaoPasses": "83%",
+        "escanteios": 6,
+        "impedimentos": 3,
+        "faltas": 10,
+        "cartoesAmarelos": 1,
+        "cartoesVermelhos": null,
+        "defesasGoleiro": 3
+      }
+    }
+  },
+  "10230555": {
+    "selecao01": {
+      "id": 4729,
+      "nome": "Tunisia",
+      "escudo": "https://img.sofascore.com/api/v1/team/4729/image",
+      "estatisticas": {
+        "chutesAoGol": 3,
+        "chutesFora": 2,
+        "totalChutes": 5,
+        "posseBola": "34%",
+        "passes": 312,
+        "passesCertos": 243,
+        "precisaoPasses": "78%",
+        "escanteios": 7,
+        "impedimentos": 3,
+        "faltas": 14,
+        "cartoesAmarelos": 1,
+        "cartoesVermelhos": null,
+        "defesasGoleiro": 3
+      }
+    },
+    "selecao02": {
+      "id": 4481,
+      "nome": "France",
+      "escudo": "https://img.sofascore.com/api/v1/team/4481/image",
+      "estatisticas": {
+        "chutesAoGol": 3,
+        "chutesFora": 3,
+        "totalChutes": 10,
+        "posseBola": "66%",
+        "passes": 621,
+        "passesCertos": 533,
+        "precisaoPasses": "86%",
+        "escanteios": 8,
+        "impedimentos": 2,
+        "faltas": 6,
+        "cartoesAmarelos": 0,
+        "cartoesVermelhos": null,
+        "defesasGoleiro": 2
+      }
+    }
+  },
+  "10230547": {
+    "selecao01": {
+      "id": 4703,
+      "nome": "Poland",
+      "escudo": "https://img.sofascore.com/api/v1/team/4703/image",
+      "estatisticas": {
+        "chutesAoGol": 0,
+        "chutesFora": 2,
+        "totalChutes": 4,
+        "posseBola": "27%",
+        "passes": 315,
+        "passesCertos": 243,
+        "precisaoPasses": "77%",
+        "escanteios": 1,
+        "impedimentos": 0,
+        "faltas": 6,
+        "cartoesAmarelos": 1,
+        "cartoesVermelhos": null,
+        "defesasGoleiro": 9
+      }
+    },
+    "selecao02": {
+      "id": 4819,
+      "nome": "Argentina",
+      "escudo": "https://img.sofascore.com/api/v1/team/4819/image",
+      "estatisticas": {
+        "chutesAoGol": 12,
+        "chutesFora": 7,
+        "totalChutes": 23,
+        "posseBola": "73%",
+        "passes": 868,
+        "passesCertos": 800,
+        "precisaoPasses": "92%",
+        "escanteios": 9,
+        "impedimentos": 1,
+        "faltas": 11,
+        "cartoesAmarelos": 1,
+        "cartoesVermelhos": null,
+        "defesasGoleiro": 0
+      }
+    }
+  },
+  "10230546": {
+    "selecao01": {
+      "id": 4834,
+      "nome": "Saudi Arabia",
+      "escudo": "https://img.sofascore.com/api/v1/team/4834/image",
+      "estatisticas": {
+        "chutesAoGol": 2,
+        "chutesFora": 7,
+        "totalChutes": 10,
+        "posseBola": "39%",
+        "passes": 287,
+        "passesCertos": 166,
+        "precisaoPasses": "58%",
+        "escanteios": 1,
+        "impedimentos": 2,
+        "faltas": 20,
+        "cartoesAmarelos": 6,
+        "cartoesVermelhos": null,
+        "defesasGoleiro": 8
+      }
+    },
+    "selecao02": {
+      "id": 4781,
+      "nome": "Mexico",
+      "escudo": "https://img.sofascore.com/api/v1/team/4781/image",
+      "estatisticas": {
+        "chutesAoGol": 11,
+        "chutesFora": 7,
+        "totalChutes": 26,
+        "posseBola": "61%",
+        "passes": 426,
+        "passesCertos": 320,
+        "precisaoPasses": "75%",
+        "escanteios": 8,
+        "impedimentos": 6,
+        "faltas": 18,
+        "cartoesAmarelos": 1,
+        "cartoesVermelhos": null,
+        "defesasGoleiro": 1
+      }
+    }
+  },
+  "10230531": {
+    "selecao01": {
+      "id": 4752,
+      "nome": "Canada",
+      "escudo": "https://img.sofascore.com/api/v1/team/4752/image",
+      "estatisticas": {
+        "chutesAoGol": 0,
+        "chutesFora": 4,
+        "totalChutes": 5,
+        "posseBola": "59%",
+        "passes": 523,
+        "passesCertos": 452,
+        "precisaoPasses": "86%",
+        "escanteios": 6,
+        "impedimentos": 4,
+        "faltas": 14,
+        "cartoesAmarelos": 4,
+        "cartoesVermelhos": null,
+        "defesasGoleiro": null
+      }
+    },
+    "selecao02": {
+      "id": 4778,
+      "nome": "Morocco",
+      "escudo": "https://img.sofascore.com/api/v1/team/4778/image",
+      "estatisticas": {
+        "chutesAoGol": 2,
+        "chutesFora": 2,
+        "totalChutes": 6,
+        "posseBola": "41%",
+        "passes": 373,
+        "passesCertos": 295,
+        "precisaoPasses": "79%",
+        "escanteios": 2,
+        "impedimentos": 4,
+        "faltas": 14,
+        "cartoesAmarelos": 0,
+        "cartoesVermelhos": null,
+        "defesasGoleiro": null
+      }
+    }
+  },
+  "10230535": {
+    "selecao01": {
+      "id": 4715,
+      "nome": "Croatia",
+      "escudo": "https://img.sofascore.com/api/v1/team/4715/image",
+      "estatisticas": {
+        "chutesAoGol": 4,
+        "chutesFora": 6,
+        "totalChutes": 11,
+        "posseBola": "49%",
+        "passes": 554,
+        "passesCertos": 471,
+        "precisaoPasses": "85%",
+        "escanteios": 2,
+        "impedimentos": 4,
+        "faltas": 7,
+        "cartoesAmarelos": 0,
+        "cartoesVermelhos": null,
+        "defesasGoleiro": 3
+      }
+    },
+    "selecao02": {
+      "id": 4717,
+      "nome": "Belgium",
+      "escudo": "https://img.sofascore.com/api/v1/team/4717/image",
+      "estatisticas": {
+        "chutesAoGol": 3,
+        "chutesFora": 8,
+        "totalChutes": 16,
+        "posseBola": "51%",
+        "passes": 592,
+        "passesCertos": 520,
+        "precisaoPasses": "88%",
+        "escanteios": 4,
+        "impedimentos": 0,
+        "faltas": 9,
+        "cartoesAmarelos": 1,
+        "cartoesVermelhos": null,
+        "defesasGoleiro": 4
+      }
+    }
+  },
+  "10230573": {
+    "selecao01": {
+      "id": 4756,
+      "nome": "Costa Rica",
+      "escudo": "https://img.sofascore.com/api/v1/team/4756/image",
+      "estatisticas": {
+        "chutesAoGol": 6,
+        "chutesFora": 1,
+        "totalChutes": 8,
+        "posseBola": "32%",
+        "passes": 337,
+        "passesCertos": 252,
+        "precisaoPasses": "75%",
+        "escanteios": 1,
+        "impedimentos": 4,
+        "faltas": 3,
+        "cartoesAmarelos": 1,
+        "cartoesVermelhos": null,
+        "defesasGoleiro": 7
+      }
+    },
+    "selecao02": {
+      "id": 4711,
+      "nome": "Germany",
+      "escudo": "https://img.sofascore.com/api/v1/team/4711/image",
+      "estatisticas": {
+        "chutesAoGol": 11,
+        "chutesFora": 15,
+        "totalChutes": 32,
+        "posseBola": "68%",
+        "passes": 713,
+        "passesCertos": 638,
+        "precisaoPasses": "89%",
+        "escanteios": 14,
+        "impedimentos": 3,
+        "faltas": 9,
+        "cartoesAmarelos": 0,
+        "cartoesVermelhos": null,
+        "defesasGoleiro": 4
+      }
+    }
+  },
+  "10230554": {
+    "selecao01": {
+      "id": 4770,
+      "nome": "Japan",
+      "escudo": "https://img.sofascore.com/api/v1/team/4770/image",
+      "estatisticas": {
+        "chutesAoGol": 3,
+        "chutesFora": 2,
+        "totalChutes": 6,
+        "posseBola": "18%",
+        "passes": 228,
+        "passesCertos": 153,
+        "precisaoPasses": "67%",
+        "escanteios": 0,
+        "impedimentos": 2,
+        "faltas": 9,
+        "cartoesAmarelos": 3,
+        "cartoesVermelhos": null,
+        "defesasGoleiro": 4
+      }
+    },
+    "selecao02": {
+      "id": 4698,
+      "nome": "Spain",
+      "escudo": "https://img.sofascore.com/api/v1/team/4698/image",
+      "estatisticas": {
+        "chutesAoGol": 5,
+        "chutesFora": 2,
+        "totalChutes": 12,
+        "posseBola": "82%",
+        "passes": 1058,
+        "passesCertos": 969,
+        "precisaoPasses": "92%",
+        "escanteios": 2,
+        "impedimentos": 2,
+        "faltas": 6,
+        "cartoesAmarelos": 0,
+        "cartoesVermelhos": null,
+        "defesasGoleiro": 1
+      }
+    }
+  },
+  "10230549": {
+    "selecao01": {
+      "id": 4764,
+      "nome": "Ghana",
+      "escudo": "https://img.sofascore.com/api/v1/team/4764/image",
+      "estatisticas": {
+        "chutesAoGol": 4,
+        "chutesFora": 3,
+        "totalChutes": 10,
+        "posseBola": "51%",
+        "passes": 432,
+        "passesCertos": 344,
+        "precisaoPasses": "80%",
+        "escanteios": 5,
+        "impedimentos": 2,
+        "faltas": 18,
+        "cartoesAmarelos": 2,
+        "cartoesVermelhos": null,
+        "defesasGoleiro": 4
+      }
+    },
+    "selecao02": {
+      "id": 4725,
+      "nome": "Uruguay",
+      "escudo": "https://img.sofascore.com/api/v1/team/4725/image",
+      "estatisticas": {
+        "chutesAoGol": 7,
+        "chutesFora": 5,
+        "totalChutes": 12,
+        "posseBola": "49%",
+        "passes": 433,
+        "passesCertos": 335,
+        "precisaoPasses": "77%",
+        "escanteios": 2,
+        "impedimentos": 2,
+        "faltas": 11,
+        "cartoesAmarelos": 5,
+        "cartoesVermelhos": null,
+        "defesasGoleiro": 4
+      }
+    }
+  },
+  "10230544": {
+    "selecao01": {
+      "id": 4735,
+      "nome": "South Korea",
+      "escudo": "https://img.sofascore.com/api/v1/team/4735/image",
+      "estatisticas": {
+        "chutesAoGol": 6,
+        "chutesFora": 2,
+        "totalChutes": 13,
+        "posseBola": "39%",
+        "passes": 357,
+        "passesCertos": 281,
+        "precisaoPasses": "79%",
+        "escanteios": 5,
+        "impedimentos": 1,
+        "faltas": 9,
+        "cartoesAmarelos": 2,
+        "cartoesVermelhos": null,
+        "defesasGoleiro": 5
+      }
+    },
+    "selecao02": {
+      "id": 4704,
+      "nome": "Portugal",
+      "escudo": "https://img.sofascore.com/api/v1/team/4704/image",
+      "estatisticas": {
+        "chutesAoGol": 6,
+        "chutesFora": 3,
+        "totalChutes": 13,
+        "posseBola": "61%",
+        "passes": 574,
+        "passesCertos": 503,
+        "precisaoPasses": "88%",
+        "escanteios": 4,
+        "impedimentos": 5,
+        "faltas": 10,
+        "cartoesAmarelos": 0,
+        "cartoesVermelhos": null,
+        "defesasGoleiro": 4
+      }
+    }
+  },
+  "10230553": {
+    "selecao01": {
+      "id": 4751,
+      "nome": "Cameroon",
+      "escudo": "https://img.sofascore.com/api/v1/team/4751/image",
+      "estatisticas": {
+        "chutesAoGol": 3,
+        "chutesFora": 3,
+        "totalChutes": 7,
+        "posseBola": "35%",
+        "passes": 299,
+        "passesCertos": 231,
+        "precisaoPasses": "77%",
+        "escanteios": 3,
+        "impedimentos": 0,
+        "faltas": 14,
+        "cartoesAmarelos": 5,
+        "cartoesVermelhos": 1,
+        "defesasGoleiro": 7
+      }
+    },
+    "selecao02": {
+      "id": 4748,
+      "nome": "Brazil",
+      "escudo": "https://img.sofascore.com/api/v1/team/4748/image",
+      "estatisticas": {
+        "chutesAoGol": 7,
+        "chutesFora": 11,
+        "totalChutes": 21,
+        "posseBola": "65%",
+        "passes": 541,
+        "passesCertos": 475,
+        "precisaoPasses": "88%",
+        "escanteios": 11,
+        "impedimentos": 1,
+        "faltas": 14,
+        "cartoesAmarelos": 2,
+        "cartoesVermelhos": 0,
+        "defesasGoleiro": 2
+      }
+    }
+  },
+  "10230558": {
+    "selecao01": {
+      "id": 6355,
+      "nome": "Serbia",
+      "escudo": "https://img.sofascore.com/api/v1/team/6355/image",
+      "estatisticas": {
+        "chutesAoGol": 4,
+        "chutesFora": 6,
+        "totalChutes": 12,
+        "posseBola": "54%",
+        "passes": 466,
+        "passesCertos": 363,
+        "precisaoPasses": "78%",
+        "escanteios": 2,
+        "impedimentos": null,
+        "faltas": 18,
+        "cartoesAmarelos": 7,
+        "cartoesVermelhos": null,
+        "defesasGoleiro": 4
+      }
+    },
+    "selecao02": {
+      "id": 4699,
+      "nome": "Switzerland",
+      "escudo": "https://img.sofascore.com/api/v1/team/4699/image",
+      "estatisticas": {
+        "chutesAoGol": 7,
+        "chutesFora": 4,
+        "totalChutes": 14,
+        "posseBola": "46%",
+        "passes": 415,
+        "passesCertos": 319,
+        "precisaoPasses": "77%",
+        "escanteios": 0,
+        "impedimentos": null,
+        "faltas": 14,
+        "cartoesAmarelos": 4,
+        "cartoesVermelhos": null,
+        "defesasGoleiro": 2
+      }
+    }
+  },
+  "10230638": {
+    "selecao01": {
+      "id": 4705,
+      "nome": "Netherlands",
+      "escudo": "https://img.sofascore.com/api/v1/team/4705/image",
+      "estatisticas": {
+        "chutesAoGol": 6,
+        "chutesFora": 4,
+        "totalChutes": 11,
+        "posseBola": "42%",
+        "passes": 414,
+        "passesCertos": 315,
+        "precisaoPasses": "76%",
+        "escanteios": 4,
+        "impedimentos": 0,
+        "faltas": 10,
+        "cartoesAmarelos": 2,
+        "cartoesVermelhos": null,
+        "defesasGoleiro": 5
+      }
+    },
+    "selecao02": {
+      "id": 4724,
+      "nome": "USA",
+      "escudo": "https://img.sofascore.com/api/v1/team/4724/image",
+      "estatisticas": {
+        "chutesAoGol": 8,
+        "chutesFora": 5,
+        "totalChutes": 17,
+        "posseBola": "58%",
+        "passes": 569,
+        "passesCertos": 473,
+        "precisaoPasses": "83%",
+        "escanteios": 5,
+        "impedimentos": 3,
+        "faltas": 5,
+        "cartoesAmarelos": 0,
+        "cartoesVermelhos": null,
+        "defesasGoleiro": 4
+      }
+    }
+  },
+  "10230641": {
+    "selecao01": {
+      "id": 4819,
+      "nome": "Argentina",
+      "escudo": "https://img.sofascore.com/api/v1/team/4819/image",
+      "estatisticas": {
+        "chutesAoGol": 5,
+        "chutesFora": 7,
+        "totalChutes": 14,
+        "posseBola": "61%",
+        "passes": 695,
+        "passesCertos": 610,
+        "precisaoPasses": "88%",
+        "escanteios": 1,
+        "impedimentos": 3,
+        "faltas": 8,
+        "cartoesAmarelos": 0,
+        "cartoesVermelhos": null,
+        "defesasGoleiro": 1
+      }
+    },
+    "selecao02": {
+      "id": 4741,
+      "nome": "Australia",
+      "escudo": "https://img.sofascore.com/api/v1/team/4741/image",
+      "estatisticas": {
+        "chutesAoGol": 1,
+        "chutesFora": 2,
+        "totalChutes": 5,
+        "posseBola": "39%",
+        "passes": 435,
+        "passesCertos": 359,
+        "precisaoPasses": "83%",
+        "escanteios": 3,
+        "impedimentos": 0,
+        "faltas": 15,
+        "cartoesAmarelos": 2,
+        "cartoesVermelhos": null,
+        "defesasGoleiro": 3
+      }
+    }
+  },
+  "10230582": {
+    "selecao01": {
+      "id": 4770,
+      "nome": "Japan",
+      "escudo": "https://img.sofascore.com/api/v1/team/4770/image",
+      "estatisticas": {
+        "chutesAoGol": 4,
+        "chutesFora": 5,
+        "totalChutes": 13,
+        "posseBola": "42%",
+        "passes": 524,
+        "passesCertos": 394,
+        "precisaoPasses": "75%",
+        "escanteios": 8,
+        "impedimentos": 3,
+        "faltas": 13,
+        "cartoesAmarelos": 0,
+        "cartoesVermelhos": null,
+        "defesasGoleiro": 3
+      }
+    },
+    "selecao02": {
+      "id": 4715,
+      "nome": "Croatia",
+      "escudo": "https://img.sofascore.com/api/v1/team/4715/image",
+      "estatisticas": {
+        "chutesAoGol": 4,
+        "chutesFora": 6,
+        "totalChutes": 17,
+        "posseBola": "58%",
+        "passes": 725,
+        "passesCertos": 608,
+        "precisaoPasses": "84%",
+        "escanteios": 5,
+        "impedimentos": 0,
+        "faltas": 16,
+        "cartoesAmarelos": 2,
+        "cartoesVermelhos": null,
+        "defesasGoleiro": 3
+      }
+    }
+  },
+  "10230633": {
+    "selecao01": {
+      "id": 4748,
+      "nome": "Brazil",
+      "escudo": "https://img.sofascore.com/api/v1/team/4748/image",
+      "estatisticas": {
+        "chutesAoGol": 9,
+        "chutesFora": 7,
+        "totalChutes": 18,
+        "posseBola": "53%",
+        "passes": 608,
+        "passesCertos": 543,
+        "precisaoPasses": "89%",
+        "escanteios": 5,
+        "impedimentos": 0,
+        "faltas": 8,
+        "cartoesAmarelos": 0,
+        "cartoesVermelhos": null,
+        "defesasGoleiro": 5
+      }
+    },
+    "selecao02": {
+      "id": 4735,
+      "nome": "South Korea",
+      "escudo": "https://img.sofascore.com/api/v1/team/4735/image",
+      "estatisticas": {
+        "chutesAoGol": 6,
+        "chutesFora": 2,
+        "totalChutes": 8,
+        "posseBola": "47%",
+        "passes": 528,
+        "passesCertos": 457,
+        "precisaoPasses": "87%",
+        "escanteios": 4,
+        "impedimentos": 5,
+        "faltas": 13,
+        "cartoesAmarelos": 1,
+        "cartoesVermelhos": null,
+        "defesasGoleiro": 5
+      }
+    }
+  },
+  "10230632": {
+    "selecao01": {
+      "id": 4713,
+      "nome": "England",
+      "escudo": "https://img.sofascore.com/api/v1/team/4713/image",
+      "estatisticas": {
+        "chutesAoGol": 4,
+        "chutesFora": 4,
+        "totalChutes": 8,
+        "posseBola": "61%",
+        "passes": 589,
+        "passesCertos": 505,
+        "precisaoPasses": "86%",
+        "escanteios": 3,
+        "impedimentos": null,
+        "faltas": 16,
+        "cartoesAmarelos": 0,
+        "cartoesVermelhos": null,
+        "defesasGoleiro": 1
+      }
+    },
+    "selecao02": {
+      "id": 4739,
+      "nome": "Senegal",
+      "escudo": "https://img.sofascore.com/api/v1/team/4739/image",
+      "estatisticas": {
+        "chutesAoGol": 1,
+        "chutesFora": 5,
+        "totalChutes": 10,
+        "posseBola": "39%",
+        "passes": 368,
+        "passesCertos": 295,
+        "precisaoPasses": "80%",
+        "escanteios": 3,
+        "impedimentos": null,
+        "faltas": 12,
+        "cartoesAmarelos": 1,
+        "cartoesVermelhos": null,
+        "defesasGoleiro": 1
+      }
+    }
+  },
+  "10230579": {
+    "selecao01": {
+      "id": 4481,
+      "nome": "France",
+      "escudo": "https://img.sofascore.com/api/v1/team/4481/image",
+      "estatisticas": {
+        "chutesAoGol": 8,
+        "chutesFora": 5,
+        "totalChutes": 16,
+        "posseBola": "55%",
+        "passes": 551,
+        "passesCertos": 476,
+        "precisaoPasses": "86%",
+        "escanteios": 7,
+        "impedimentos": 3,
+        "faltas": 10,
+        "cartoesAmarelos": 1,
+        "cartoesVermelhos": null,
+        "defesasGoleiro": 1
+      }
+    },
+    "selecao02": {
+      "id": 4703,
+      "nome": "Poland",
+      "escudo": "https://img.sofascore.com/api/v1/team/4703/image",
+      "estatisticas": {
+        "chutesAoGol": 3,
+        "chutesFora": 4,
+        "totalChutes": 12,
+        "posseBola": "45%",
+        "passes": 456,
+        "passesCertos": 377,
+        "precisaoPasses": "83%",
+        "escanteios": 1,
+        "impedimentos": 1,
+        "faltas": 8,
+        "cartoesAmarelos": 2,
+        "cartoesVermelhos": null,
+        "defesasGoleiro": 5
+      }
+    }
+  },
+  "10230636": {
+    "selecao01": {
+      "id": 4778,
+      "nome": "Morocco",
+      "escudo": "https://img.sofascore.com/api/v1/team/4778/image",
+      "estatisticas": {
+        "chutesAoGol": 2,
+        "chutesFora": 4,
+        "totalChutes": 6,
+        "posseBola": "23%",
+        "passes": 305,
+        "passesCertos": 216,
+        "precisaoPasses": "71%",
+        "escanteios": 0,
+        "impedimentos": 5,
+        "faltas": 15,
+        "cartoesAmarelos": 1,
+        "cartoesVermelhos": null,
+        "defesasGoleiro": 1
+      }
+    },
+    "selecao02": {
+      "id": 4698,
+      "nome": "Spain",
+      "escudo": "https://img.sofascore.com/api/v1/team/4698/image",
+      "estatisticas": {
+        "chutesAoGol": 1,
+        "chutesFora": 7,
+        "totalChutes": 13,
+        "posseBola": "77%",
+        "passes": 1019,
+        "passesCertos": 926,
+        "precisaoPasses": "91%",
+        "escanteios": 8,
+        "impedimentos": 4,
+        "faltas": 14,
+        "cartoesAmarelos": 1,
+        "cartoesVermelhos": null,
+        "defesasGoleiro": 2
+      }
+    }
+  },
+  "10230631": {
+    "selecao01": {
+      "id": 4704,
+      "nome": "Portugal",
+      "escudo": "https://img.sofascore.com/api/v1/team/4704/image",
+      "estatisticas": {
+        "chutesAoGol": 9,
+        "chutesFora": 3,
+        "totalChutes": 15,
+        "posseBola": "48%",
+        "passes": 449,
+        "passesCertos": 372,
+        "precisaoPasses": "83%",
+        "escanteios": 6,
+        "impedimentos": 3,
+        "faltas": 12,
+        "cartoesAmarelos": 0,
+        "cartoesVermelhos": null,
+        "defesasGoleiro": 1
+      }
+    },
+    "selecao02": {
+      "id": 4699,
+      "nome": "Switzerland",
+      "escudo": "https://img.sofascore.com/api/v1/team/4699/image",
+      "estatisticas": {
+        "chutesAoGol": 3,
+        "chutesFora": 3,
+        "totalChutes": 10,
+        "posseBola": "52%",
+        "passes": 489,
+        "passesCertos": 413,
+        "precisaoPasses": "84%",
+        "escanteios": 6,
+        "impedimentos": 3,
+        "faltas": 10,
+        "cartoesAmarelos": 2,
+        "cartoesVermelhos": null,
+        "defesasGoleiro": 3
+      }
+    }
+  },
+  "10230639": {
+    "selecao01": {
+      "id": 4705,
+      "nome": "Netherlands",
+      "escudo": "https://img.sofascore.com/api/v1/team/4705/image",
+      "estatisticas": {
+        "chutesAoGol": 2,
+        "chutesFora": 1,
+        "totalChutes": 6,
+        "posseBola": "52%",
+        "passes": 634,
+        "passesCertos": 529,
+        "precisaoPasses": "83%",
+        "escanteios": 2,
+        "impedimentos": 1,
+        "faltas": 30,
+        "cartoesAmarelos": 8,
+        "cartoesVermelhos": 1,
+        "defesasGoleiro": 3
+      }
+    },
+    "selecao02": {
+      "id": 4819,
+      "nome": "Argentina",
+      "escudo": "https://img.sofascore.com/api/v1/team/4819/image",
+      "estatisticas": {
+        "chutesAoGol": 5,
+        "chutesFora": 5,
+        "totalChutes": 14,
+        "posseBola": "48%",
+        "passes": 602,
+        "passesCertos": 499,
+        "precisaoPasses": "83%",
+        "escanteios": 8,
+        "impedimentos": 2,
+        "faltas": 18,
+        "cartoesAmarelos": 8,
+        "cartoesVermelhos": 0,
+        "defesasGoleiro": 0
+      }
+    }
+  },
+  "10230640": {
+    "selecao01": {
+      "id": 4715,
+      "nome": "Croatia",
+      "escudo": "https://img.sofascore.com/api/v1/team/4715/image",
+      "estatisticas": {
+        "chutesAoGol": 1,
+        "chutesFora": 5,
+        "totalChutes": 9,
+        "posseBola": "51%",
+        "passes": 694,
+        "passesCertos": 613,
+        "precisaoPasses": "88%",
+        "escanteios": 3,
+        "impedimentos": 3,
+        "faltas": 22,
+        "cartoesAmarelos": 2,
+        "cartoesVermelhos": null,
+        "defesasGoleiro": 11
+      }
+    },
+    "selecao02": {
+      "id": 4748,
+      "nome": "Brazil",
+      "escudo": "https://img.sofascore.com/api/v1/team/4748/image",
+      "estatisticas": {
+        "chutesAoGol": 11,
+        "chutesFora": 3,
+        "totalChutes": 21,
+        "posseBola": "49%",
+        "passes": 683,
+        "passesCertos": 608,
+        "precisaoPasses": "89%",
+        "escanteios": 7,
+        "impedimentos": 3,
+        "faltas": 24,
+        "cartoesAmarelos": 3,
+        "cartoesVermelhos": null,
+        "defesasGoleiro": 0
+      }
+    }
+  },
+  "10230634": {
+    "selecao01": {
+      "id": 4713,
+      "nome": "England",
+      "escudo": "https://img.sofascore.com/api/v1/team/4713/image",
+      "estatisticas": {
+        "chutesAoGol": 8,
+        "chutesFora": 4,
+        "totalChutes": 16,
+        "posseBola": "57%",
+        "passes": 503,
+        "passesCertos": 441,
+        "precisaoPasses": "88%",
+        "escanteios": 5,
+        "impedimentos": 1,
+        "faltas": 10,
+        "cartoesAmarelos": 1,
+        "cartoesVermelhos": null,
+        "defesasGoleiro": 3
+      }
+    },
+    "selecao02": {
+      "id": 4481,
+      "nome": "France",
+      "escudo": "https://img.sofascore.com/api/v1/team/4481/image",
+      "estatisticas": {
+        "chutesAoGol": 5,
+        "chutesFora": 2,
+        "totalChutes": 8,
+        "posseBola": "43%",
+        "passes": 377,
+        "passesCertos": 306,
+        "precisaoPasses": "81%",
+        "escanteios": 2,
+        "impedimentos": 2,
+        "faltas": 14,
+        "cartoesAmarelos": 3,
+        "cartoesVermelhos": null,
+        "defesasGoleiro": 6
+      }
+    }
+  },
+  "10230581": {
+    "selecao01": {
+      "id": 4778,
+      "nome": "Morocco",
+      "escudo": "https://img.sofascore.com/api/v1/team/4778/image",
+      "estatisticas": {
+        "chutesAoGol": 3,
+        "chutesFora": 6,
+        "totalChutes": 9,
+        "posseBola": "27%",
+        "passes": 247,
+        "passesCertos": 176,
+        "precisaoPasses": "71%",
+        "escanteios": 3,
+        "impedimentos": 2,
+        "faltas": 15,
+        "cartoesAmarelos": 3,
+        "cartoesVermelhos": 1,
+        "defesasGoleiro": 3
+      }
+    },
+    "selecao02": {
+      "id": 4704,
+      "nome": "Portugal",
+      "escudo": "https://img.sofascore.com/api/v1/team/4704/image",
+      "estatisticas": {
+        "chutesAoGol": 3,
+        "chutesFora": 6,
+        "totalChutes": 12,
+        "posseBola": "73%",
+        "passes": 663,
+        "passesCertos": 567,
+        "precisaoPasses": "86%",
+        "escanteios": 9,
+        "impedimentos": 2,
+        "faltas": 9,
+        "cartoesAmarelos": 1,
+        "cartoesVermelhos": 0,
+        "defesasGoleiro": 2
+      }
+    }
+  },
+  "10230580": {
+    "selecao01": {
+      "id": 4819,
+      "nome": "Argentina",
+      "escudo": "https://img.sofascore.com/api/v1/team/4819/image",
+      "estatisticas": {
+        "chutesAoGol": 7,
+        "chutesFora": 1,
+        "totalChutes": 9,
+        "posseBola": "39%",
+        "passes": 399,
+        "passesCertos": 333,
+        "precisaoPasses": "83%",
+        "escanteios": 2,
+        "impedimentos": 1,
+        "faltas": 15,
+        "cartoesAmarelos": 2,
+        "cartoesVermelhos": null,
+        "defesasGoleiro": 3
+      }
+    },
+    "selecao02": {
+      "id": 4715,
+      "nome": "Croatia",
+      "escudo": "https://img.sofascore.com/api/v1/team/4715/image",
+      "estatisticas": {
+        "chutesAoGol": 2,
+        "chutesFora": 7,
+        "totalChutes": 12,
+        "posseBola": "61%",
+        "passes": 607,
+        "passesCertos": 531,
+        "precisaoPasses": "87%",
+        "escanteios": 4,
+        "impedimentos": 0,
+        "faltas": 8,
+        "cartoesAmarelos": 2,
+        "cartoesVermelhos": null,
+        "defesasGoleiro": 4
+      }
+    }
+  },
+  "10230578": {
+    "selecao01": {
+      "id": 4481,
+      "nome": "France",
+      "escudo": "https://img.sofascore.com/api/v1/team/4481/image",
+      "estatisticas": {
+        "chutesAoGol": 3,
+        "chutesFora": 6,
+        "totalChutes": 14,
+        "posseBola": "39%",
+        "passes": 363,
+        "passesCertos": 293,
+        "precisaoPasses": "81%",
+        "escanteios": 2,
+        "impedimentos": 4,
+        "faltas": 11,
+        "cartoesAmarelos": 0,
+        "cartoesVermelhos": null,
+        "defesasGoleiro": 2
+      }
+    },
+    "selecao02": {
+      "id": 4778,
+      "nome": "Morocco",
+      "escudo": "https://img.sofascore.com/api/v1/team/4778/image",
+      "estatisticas": {
+        "chutesAoGol": 3,
+        "chutesFora": 5,
+        "totalChutes": 13,
+        "posseBola": "61%",
+        "passes": 576,
+        "passesCertos": 500,
+        "precisaoPasses": "87%",
+        "escanteios": 3,
+        "impedimentos": 3,
+        "faltas": 11,
+        "cartoesAmarelos": 1,
+        "cartoesVermelhos": null,
+        "defesasGoleiro": 0
+      }
+    }
+  },
+  "10230635": {
+    "selecao01": {
+      "id": 4819,
+      "nome": "Argentina",
+      "escudo": "https://img.sofascore.com/api/v1/team/4819/image",
+      "estatisticas": {
+        "chutesAoGol": 10,
+        "chutesFora": 7,
+        "totalChutes": 20,
+        "posseBola": "54%",
+        "passes": 635,
+        "passesCertos": 525,
+        "precisaoPasses": "83%",
+        "escanteios": 6,
+        "impedimentos": 4,
+        "faltas": 26,
+        "cartoesAmarelos": 5,
+        "cartoesVermelhos": null,
+        "defesasGoleiro": 2
+      }
+    },
+    "selecao02": {
+      "id": 4481,
+      "nome": "France",
+      "escudo": "https://img.sofascore.com/api/v1/team/4481/image",
+      "estatisticas": {
+        "chutesAoGol": 5,
+        "chutesFora": 2,
+        "totalChutes": 10,
+        "posseBola": "46%",
+        "passes": 532,
+        "passesCertos": 409,
+        "precisaoPasses": "77%",
+        "escanteios": 5,
+        "impedimentos": 4,
+        "faltas": 19,
+        "cartoesAmarelos": 3,
+        "cartoesVermelhos": null,
+        "defesasGoleiro": 7
+      }
+    }
+  },
+  "10230637": {
+    "selecao01": {
+      "id": 4715,
+      "nome": "Croatia",
+      "escudo": "https://img.sofascore.com/api/v1/team/4715/image",
+      "estatisticas": {
+        "chutesAoGol": 4,
+        "chutesFora": 5,
+        "totalChutes": 12,
+        "posseBola": "51%",
+        "passes": 487,
+        "passesCertos": 410,
+        "precisaoPasses": "84%",
+        "escanteios": 6,
+        "impedimentos": 2,
+        "faltas": 13,
+        "cartoesAmarelos": 0,
+        "cartoesVermelhos": null,
+        "defesasGoleiro": 1
+      }
+    },
+    "selecao02": {
+      "id": 4778,
+      "nome": "Morocco",
+      "escudo": "https://img.sofascore.com/api/v1/team/4778/image",
+      "estatisticas": {
+        "chutesAoGol": 2,
+        "chutesFora": 5,
+        "totalChutes": 9,
+        "posseBola": "49%",
+        "passes": 472,
+        "passesCertos": 403,
+        "precisaoPasses": "85%",
+        "escanteios": 3,
+        "impedimentos": 2,
+        "faltas": 11,
+        "cartoesAmarelos": 2,
+        "cartoesVermelhos": null,
+        "defesasGoleiro": 2
+      }
+    }
+  }
+}

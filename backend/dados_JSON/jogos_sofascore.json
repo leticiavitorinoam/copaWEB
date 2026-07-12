@@ -1,0 +1,674 @@
+[
+    {
+        "match_id": 10230541,
+        "rodada": 1,
+        "data": 1668960000,
+        "status": "finished",
+        "casa": {
+            "id": 4792,
+            "nome": "Qatar"
+        },
+        "fora": {
+            "id": 4757,
+            "nome": "Ecuador"
+        }
+    },
+    {
+        "match_id": 10230543,
+        "rodada": 1,
+        "data": 1669035600,
+        "status": "finished",
+        "casa": {
+            "id": 4713,
+            "nome": "England"
+        },
+        "fora": {
+            "id": 4766,
+            "nome": "Iran"
+        }
+    },
+    {
+        "match_id": 10230533,
+        "rodada": 1,
+        "data": 1669046400,
+        "status": "finished",
+        "casa": {
+            "id": 4739,
+            "nome": "Senegal"
+        },
+        "fora": {
+            "id": 4705,
+            "nome": "Netherlands"
+        }
+    },
+    {
+        "match_id": 10230548,
+        "rodada": 1,
+        "data": 1669057200,
+        "status": "finished",
+        "casa": {
+            "id": 4724,
+            "nome": "USA"
+        },
+        "fora": {
+            "id": 4702,
+            "nome": "Wales"
+        }
+    },
+    {
+        "match_id": 10230528,
+        "rodada": 1,
+        "data": 1669111200,
+        "status": "finished",
+        "casa": {
+            "id": 4819,
+            "nome": "Argentina"
+        },
+        "fora": {
+            "id": 4834,
+            "nome": "Saudi Arabia"
+        }
+    },
+    {
+        "match_id": 10230576,
+        "rodada": 1,
+        "data": 1669122000,
+        "status": "finished",
+        "casa": {
+            "id": 4476,
+            "nome": "Denmark"
+        },
+        "fora": {
+            "id": 4729,
+            "nome": "Tunisia"
+        }
+    },
+    {
+        "match_id": 10230565,
+        "rodada": 1,
+        "data": 1669132800,
+        "status": "finished",
+        "casa": {
+            "id": 4781,
+            "nome": "Mexico"
+        },
+        "fora": {
+            "id": 4703,
+            "nome": "Poland"
+        }
+    },
+    {
+        "match_id": 10230563,
+        "rodada": 1,
+        "data": 1669143600,
+        "status": "finished",
+        "casa": {
+            "id": 4481,
+            "nome": "France"
+        },
+        "fora": {
+            "id": 4741,
+            "nome": "Australia"
+        }
+    },
+    {
+        "match_id": 10230570,
+        "rodada": 1,
+        "data": 1669197600,
+        "status": "finished",
+        "casa": {
+            "id": 4778,
+            "nome": "Morocco"
+        },
+        "fora": {
+            "id": 4715,
+            "nome": "Croatia"
+        }
+    },
+    {
+        "match_id": 10230562,
+        "rodada": 1,
+        "data": 1669208400,
+        "status": "finished",
+        "casa": {
+            "id": 4711,
+            "nome": "Germany"
+        },
+        "fora": {
+            "id": 4770,
+            "nome": "Japan"
+        }
+    },
+    {
+        "match_id": 10230571,
+        "rodada": 1,
+        "data": 1669219200,
+        "status": "finished",
+        "casa": {
+            "id": 4698,
+            "nome": "Spain"
+        },
+        "fora": {
+            "id": 4756,
+            "nome": "Costa Rica"
+        }
+    },
+    {
+        "match_id": 10230559,
+        "rodada": 1,
+        "data": 1669230000,
+        "status": "finished",
+        "casa": {
+            "id": 4717,
+            "nome": "Belgium"
+        },
+        "fora": {
+            "id": 4752,
+            "nome": "Canada"
+        }
+    },
+    {
+        "match_id": 10230569,
+        "rodada": 1,
+        "data": 1669284000,
+        "status": "finished",
+        "casa": {
+            "id": 4699,
+            "nome": "Switzerland"
+        },
+        "fora": {
+            "id": 4751,
+            "nome": "Cameroon"
+        }
+    },
+    {
+        "match_id": 10230530,
+        "rodada": 1,
+        "data": 1669294800,
+        "status": "finished",
+        "casa": {
+            "id": 4725,
+            "nome": "Uruguay"
+        },
+        "fora": {
+            "id": 4735,
+            "nome": "South Korea"
+        }
+    },
+    {
+        "match_id": 10230534,
+        "rodada": 1,
+        "data": 1669305600,
+        "status": "finished",
+        "casa": {
+            "id": 4704,
+            "nome": "Portugal"
+        },
+        "fora": {
+            "id": 4764,
+            "nome": "Ghana"
+        }
+    },
+    {
+        "match_id": 10230567,
+        "rodada": 1,
+        "data": 1669316400,
+        "status": "finished",
+        "casa": {
+            "id": 4748,
+            "nome": "Brazil"
+        },
+        "fora": {
+            "id": 6355,
+            "nome": "Serbia"
+        }
+    },
+    {
+        "match_id": 10230556,
+        "rodada": 2,
+        "data": 1669370400,
+        "status": "finished",
+        "casa": {
+            "id": 4702,
+            "nome": "Wales"
+        },
+        "fora": {
+            "id": 4766,
+            "nome": "Iran"
+        }
+    },
+    {
+        "match_id": 10230537,
+        "rodada": 2,
+        "data": 1669381200,
+        "status": "finished",
+        "casa": {
+            "id": 4792,
+            "nome": "Qatar"
+        },
+        "fora": {
+            "id": 4739,
+            "nome": "Senegal"
+        }
+    },
+    {
+        "match_id": 10230529,
+        "rodada": 2,
+        "data": 1669392000,
+        "status": "finished",
+        "casa": {
+            "id": 4705,
+            "nome": "Netherlands"
+        },
+        "fora": {
+            "id": 4757,
+            "nome": "Ecuador"
+        }
+    },
+    {
+        "match_id": 10230557,
+        "rodada": 2,
+        "data": 1669402800,
+        "status": "finished",
+        "casa": {
+            "id": 4713,
+            "nome": "England"
+        },
+        "fora": {
+            "id": 4724,
+            "nome": "USA"
+        }
+    },
+    {
+        "match_id": 10230574,
+        "rodada": 2,
+        "data": 1669456800,
+        "status": "finished",
+        "casa": {
+            "id": 4729,
+            "nome": "Tunisia"
+        },
+        "fora": {
+            "id": 4741,
+            "nome": "Australia"
+        }
+    },
+    {
+        "match_id": 10230542,
+        "rodada": 2,
+        "data": 1669467600,
+        "status": "finished",
+        "casa": {
+            "id": 4703,
+            "nome": "Poland"
+        },
+        "fora": {
+            "id": 4834,
+            "nome": "Saudi Arabia"
+        }
+    },
+    {
+        "match_id": 10230577,
+        "rodada": 2,
+        "data": 1669478400,
+        "status": "finished",
+        "casa": {
+            "id": 4481,
+            "nome": "France"
+        },
+        "fora": {
+            "id": 4476,
+            "nome": "Denmark"
+        }
+    },
+    {
+        "match_id": 10230540,
+        "rodada": 2,
+        "data": 1669489200,
+        "status": "finished",
+        "casa": {
+            "id": 4819,
+            "nome": "Argentina"
+        },
+        "fora": {
+            "id": 4781,
+            "nome": "Mexico"
+        }
+    },
+    {
+        "match_id": 10230564,
+        "rodada": 2,
+        "data": 1669543200,
+        "status": "finished",
+        "casa": {
+            "id": 4770,
+            "nome": "Japan"
+        },
+        "fora": {
+            "id": 4756,
+            "nome": "Costa Rica"
+        }
+    },
+    {
+        "match_id": 10230545,
+        "rodada": 2,
+        "data": 1669554000,
+        "status": "finished",
+        "casa": {
+            "id": 4717,
+            "nome": "Belgium"
+        },
+        "fora": {
+            "id": 4778,
+            "nome": "Morocco"
+        }
+    },
+    {
+        "match_id": 10230550,
+        "rodada": 2,
+        "data": 1669564800,
+        "status": "finished",
+        "casa": {
+            "id": 4715,
+            "nome": "Croatia"
+        },
+        "fora": {
+            "id": 4752,
+            "nome": "Canada"
+        }
+    },
+    {
+        "match_id": 10230575,
+        "rodada": 2,
+        "data": 1669575600,
+        "status": "finished",
+        "casa": {
+            "id": 4698,
+            "nome": "Spain"
+        },
+        "fora": {
+            "id": 4711,
+            "nome": "Germany"
+        }
+    },
+    {
+        "match_id": 10230568,
+        "rodada": 2,
+        "data": 1669629600,
+        "status": "finished",
+        "casa": {
+            "id": 4751,
+            "nome": "Cameroon"
+        },
+        "fora": {
+            "id": 6355,
+            "nome": "Serbia"
+        }
+    },
+    {
+        "match_id": 10230552,
+        "rodada": 2,
+        "data": 1669640400,
+        "status": "finished",
+        "casa": {
+            "id": 4735,
+            "nome": "South Korea"
+        },
+        "fora": {
+            "id": 4764,
+            "nome": "Ghana"
+        }
+    },
+    {
+        "match_id": 10230561,
+        "rodada": 2,
+        "data": 1669651200,
+        "status": "finished",
+        "casa": {
+            "id": 4748,
+            "nome": "Brazil"
+        },
+        "fora": {
+            "id": 4699,
+            "nome": "Switzerland"
+        }
+    },
+    {
+        "match_id": 10230539,
+        "rodada": 2,
+        "data": 1669662000,
+        "status": "finished",
+        "casa": {
+            "id": 4704,
+            "nome": "Portugal"
+        },
+        "fora": {
+            "id": 4725,
+            "nome": "Uruguay"
+        }
+    },
+    {
+        "match_id": 10230551,
+        "rodada": 3,
+        "data": 1669734000,
+        "status": "finished",
+        "casa": {
+            "id": 4757,
+            "nome": "Ecuador"
+        },
+        "fora": {
+            "id": 4739,
+            "nome": "Senegal"
+        }
+    },
+    {
+        "match_id": 10230538,
+        "rodada": 3,
+        "data": 1669734000,
+        "status": "finished",
+        "casa": {
+            "id": 4705,
+            "nome": "Netherlands"
+        },
+        "fora": {
+            "id": 4792,
+            "nome": "Qatar"
+        }
+    },
+    {
+        "match_id": 10230536,
+        "rodada": 3,
+        "data": 1669748400,
+        "status": "finished",
+        "casa": {
+            "id": 4766,
+            "nome": "Iran"
+        },
+        "fora": {
+            "id": 4724,
+            "nome": "USA"
+        }
+    },
+    {
+        "match_id": 10230532,
+        "rodada": 3,
+        "data": 1669748400,
+        "status": "finished",
+        "casa": {
+            "id": 4702,
+            "nome": "Wales"
+        },
+        "fora": {
+            "id": 4713,
+            "nome": "England"
+        }
+    },
+    {
+        "match_id": 10230560,
+        "rodada": 3,
+        "data": 1669820400,
+        "status": "finished",
+        "casa": {
+            "id": 4741,
+            "nome": "Australia"
+        },
+        "fora": {
+            "id": 4476,
+            "nome": "Denmark"
+        }
+    },
+    {
+        "match_id": 10230555,
+        "rodada": 3,
+        "data": 1669820400,
+        "status": "finished",
+        "casa": {
+            "id": 4729,
+            "nome": "Tunisia"
+        },
+        "fora": {
+            "id": 4481,
+            "nome": "France"
+        }
+    },
+    {
+        "match_id": 10230547,
+        "rodada": 3,
+        "data": 1669834800,
+        "status": "finished",
+        "casa": {
+            "id": 4703,
+            "nome": "Poland"
+        },
+        "fora": {
+            "id": 4819,
+            "nome": "Argentina"
+        }
+    },
+    {
+        "match_id": 10230546,
+        "rodada": 3,
+        "data": 1669834800,
+        "status": "finished",
+        "casa": {
+            "id": 4834,
+            "nome": "Saudi Arabia"
+        },
+        "fora": {
+            "id": 4781,
+            "nome": "Mexico"
+        }
+    },
+    {
+        "match_id": 10230531,
+        "rodada": 3,
+        "data": 1669906800,
+        "status": "finished",
+        "casa": {
+            "id": 4752,
+            "nome": "Canada"
+        },
+        "fora": {
+            "id": 4778,
+            "nome": "Morocco"
+        }
+    },
+    {
+        "match_id": 10230535,
+        "rodada": 3,
+        "data": 1669906800,
+        "status": "finished",
+        "casa": {
+            "id": 4715,
+            "nome": "Croatia"
+        },
+        "fora": {
+            "id": 4717,
+            "nome": "Belgium"
+        }
+    },
+    {
+        "match_id": 10230573,
+        "rodada": 3,
+        "data": 1669921200,
+        "status": "finished",
+        "casa": {
+            "id": 4756,
+            "nome": "Costa Rica"
+        },
+        "fora": {
+            "id": 4711,
+            "nome": "Germany"
+        }
+    },
+    {
+        "match_id": 10230554,
+        "rodada": 3,
+        "data": 1669921200,
+        "status": "finished",
+        "casa": {
+            "id": 4770,
+            "nome": "Japan"
+        },
+        "fora": {
+            "id": 4698,
+            "nome": "Spain"
+        }
+    },
+    {
+        "match_id": 10230549,
+        "rodada": 3,
+        "data": 1669993200,
+        "status": "finished",
+        "casa": {
+            "id": 4764,
+            "nome": "Ghana"
+        },
+        "fora": {
+            "id": 4725,
+            "nome": "Uruguay"
+        }
+    },
+    {
+        "match_id": 10230544,
+        "rodada": 3,
+        "data": 1669993200,
+        "status": "finished",
+        "casa": {
+            "id": 4735,
+            "nome": "South Korea"
+        },
+        "fora": {
+            "id": 4704,
+            "nome": "Portugal"
+        }
+    },
+    {
+        "match_id": 10230553,
+        "rodada": 3,
+        "data": 1670007600,
+        "status": "finished",
+        "casa": {
+            "id": 4751,
+            "nome": "Cameroon"
+        },
+        "fora": {
+            "id": 4748,
+            "nome": "Brazil"
+        }
+    },
+    {
+        "match_id": 10230558,
+        "rodada": 3,
+        "data": 1670007600,
+        "status": "finished",
+        "casa": {
+            "id": 6355,
+            "nome": "Serbia"
+        },
+        "fora": {
+            "id": 4699,
+            "nome": "Switzerland"
+        }
+    }
+]
