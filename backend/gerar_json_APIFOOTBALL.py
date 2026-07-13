@@ -686,7 +686,7 @@ def gerar_artilheiros():
 
 # CHAMAR FUNÇOES
 # ==========================================
-if __name__ == "__main__":
+#if __name__ == "__main__":
 
     # (deu certo!) gerar_selecoes()
     # (deu certo!) gerar_jogos()
@@ -698,4 +698,4 @@ if __name__ == "__main__":
     # gerar_estatisticas()
     # gerar_eventos()
     # gerar_escalacoes()
-     gerar_jogadores_partida()
+    #gerar_jogadores_partida()
