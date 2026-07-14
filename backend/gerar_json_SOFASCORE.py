@@ -568,6 +568,72 @@ def gerar_jogadores_partida():
 
     return jogadores_por_jogo
 
+
+# =================================
+# DADOS INDIVIDUAIS DO JOGADOR
+def gerar_perfil_jogadores():
+    caminho_ids = os.path.join(OUTPUT_DIR, "ids_partidas.json")
+    with open(caminho_ids, "r", encoding="utf-8") as f:
+        ids_partidas = json.load(f)
+
+    perfis = {}
+
+    for match_id, partida in ids_partidas.items():
+        print(f"Buscando perfis de jogadores do jogo {match_id}...")
+
+        home_team = partida.get('homeTeam', {})
+        away_team = partida.get('awayTeam', {})
+
+        url = f"{BASE_URL}/match/lineups"
+        params = {"match_id": match_id}
+        resp = requests.get(url, headers=HEADERS, params=params)
+
+        if resp.status_code != 200:
+            print(f"  Erro {resp.status_code} no jogo {match_id}")
+            time.sleep(1)
+            continue
+
+        data = resp.json()
+
+        for lado, time_info in [('home', home_team), ('away', away_team)]:
+            players = data.get(lado, {}).get('players', [])
+
+            for p in players:
+                player_id = p.get('id')
+                if not player_id or player_id in perfis:
+                    continue  # já capturamos esse jogador em outro jogo
+
+                nascimento_ts = p.get('dateOfBirthTimestamp')
+
+                perfis[player_id] = {
+                    "id": player_id,
+                    "nome": p.get('name'),
+                    "nomeCurto": p.get('shortName'),
+                    "foto": p.get('imagePath'),
+                    "posicao": p.get('position'),
+                    "numeroCamisa": p.get('jerseyNumber'),
+                    "altura": p.get('height'),
+                    "peDominante": p.get('preferredFoot'),
+                    "nascimentoTimestamp": nascimento_ts,
+                    "nacionalidade": (p.get('country') or {}).get('name'),
+                    "selecao": {
+                        "id": time_info.get('id'),
+                        "nome": time_info.get('name'),
+                        "escudo": time_info.get('imagePath')
+                    }
+                }
+
+        time.sleep(1)  # respeita rate limit do plano free
+
+    filepath = os.path.join(OUTPUT_DIR, "jogadores_perfil.json")
+    with open(filepath, "w", encoding="utf-8") as f:
+        json.dump(perfis, f, ensure_ascii=False, indent=2)
+
+    print(f"\nTotal de jogadores unicos salvos: {len(perfis)}")
+    print(f"Salvo em: {filepath}")
+
+    return perfis
+
 # =================================
 # CHAMA AS FUNÇÕES
 #if __name__ == "__main__":
@@ -576,3 +642,4 @@ def gerar_jogadores_partida():
     #gerar_escalacoes()
     #gerar_eventos()
     #gerar_jogadores_partida()
+    gerar_perfil_jogadores()
