@@ -6,24 +6,26 @@
 @import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@500;600;700&family=Inter:wght@400;500;600;700&display=swap');
 
 :root {
-    --bg-principal: #0a0a14;
-    --bg-elevado: #101020;
-    --bg-card: #14141f;
-    --bg-card-2: #191928;
-    --borda: #24243a;
-    --borda-clara: #33334d;
+    --bg-principal: #0B081A;
+    --bg-elevado: #140f2c;
+    --bg-card: #1C1535;
+    --bg-card-2: #241c42;
+    --borda: #2a2350;
+    --borda-clara: #3b2f66;
 
-    --roxo-neon: #a855f7;
-    --roxo-neon-fraco: rgba(168, 85, 247, 0.16);
-    --roxo-glow: rgba(168, 85, 247, 0.45);
+    --roxo-neon: #9A42FF;
+    --roxo-hover: #7b2cbf;
+    --roxo-neon-fraco: rgba(154, 66, 255, 0.16);
+    --roxo-glow: rgba(154, 66, 255, 0.45);
 
-    --verde-stat: #35e0a1;
-    --vermelho-stat: #ff4d6d;
+    --verde-stat: #00D26A;
+    --vermelho-stat: #F93B4D;
+    --vermelho-live: #FF3366;
     --amarelo-stat: #ffd166;
 
-    --texto-principal: #f3f3fb;
-    --texto-secundario: #83839c;
-    --texto-terciario: #5a5a72;
+    --texto-principal: #FFFFFF;
+    --texto-secundario: #8E8B99;
+    --texto-terciario: #5c5866;
 
     --fonte-display: 'Rajdhani', 'Inter', sans-serif;
     --fonte-corpo: 'Inter', sans-serif;
@@ -44,10 +46,7 @@ html {
 }
 
 body {
-    background:
-        radial-gradient(circle at 15% 0%, rgba(168, 85, 247, 0.10), transparent 45%),
-        radial-gradient(circle at 85% 15%, rgba(53, 224, 161, 0.06), transparent 40%),
-        var(--bg-principal);
+    background-color: var(--bg-principal);
     color: var(--texto-principal);
     font-family: var(--fonte-corpo);
     min-height: 100vh;
@@ -344,7 +343,7 @@ a .card-jogo:hover {
     display: inline-flex;
     align-items: center;
     gap: 6px;
-    color: var(--vermelho-stat);
+    color: var(--vermelho-live);
     font-weight: 700;
     font-size: 0.72rem;
     letter-spacing: 0.06em;
@@ -354,8 +353,8 @@ a .card-jogo:hover {
     width: 7px;
     height: 7px;
     border-radius: 50%;
-    background: var(--vermelho-stat);
-    box-shadow: 0 0 8px var(--vermelho-stat);
+    background: var(--vermelho-live);
+    box-shadow: 0 0 8px var(--vermelho-live);
     animation: pulso 1.4s ease-in-out infinite;
 }
 
@@ -422,8 +421,9 @@ a .card-jogo:hover {
 }
 
 .btn-neon:hover {
-    background: var(--roxo-neon);
-    color: var(--bg-principal);
+    background: var(--roxo-hover);
+    border-color: var(--roxo-hover);
+    color: #fff;
     box-shadow: 0 0 18px var(--roxo-glow);
 }
 
