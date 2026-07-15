@@ -7,12 +7,14 @@ document.addEventListener("DOMContentLoaded", async () => {
     if (!container) return;
 
     try {
-        const lista = await api.getSelecoes();
+        const resposta = await fetch("../backend/dados_JSON/selecoes.json");
+        const lista = await resposta.json();
+        
         lista.sort((a, b) => a.nome.localeCompare(b.nome));
 
         container.innerHTML = lista.map(s => {
             // Link atualizado para apontar para perfilselecao.html
-            const link = `perfilselecao.html?id=${encodeURIComponent(s.nome)}`;
+            const link = `perfilselecao.html?id=${s.id}`;
 
             return `
                 <a href="${link}" style="text-decoration: none; color: inherit;">
