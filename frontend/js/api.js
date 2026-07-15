@@ -1,6 +1,6 @@
-const API_URL = "http://127.0.0.1:5000"; 
+const API_URL = "http://127.0.0.1:5000";
 
-// 1. Busca os dados no servidor Python (porta 5000)
+// Busca dados no backend Flask
 async function fetchAPI(endpoint) {
     const resposta = await fetch(`${API_URL}${endpoint}`);
     if (!resposta.ok) {
@@ -9,34 +9,26 @@ async function fetchAPI(endpoint) {
     return resposta.json();
 }
 
-// 2. Busca os arquivos locais da própria pasta do projeto (porta 5500)
-async function fetchLocal(caminho) {
-    const resposta = await fetch(caminho);
-    if (!resposta.ok) {
-        throw new Error(`Não foi possível carregar local ${caminho} (status ${resposta.status})`);
-    }
-    return resposta.json();
-}
-
-// Objeto centralizado para buscar os dados
+// TUDO passa pelo Flask agora.
 const api = {
-    // O jogo vem do Flask na porta 5000
-    getJogos: () => fetchAPI("/api/jogos"), 
-    
-    // Arquivos da pasta backend/dados_JSON
-    getClassificacao: () => fetchLocal("../backend/dados_JSON/classificacao.json"),
-    getArtilheiros: () => fetchLocal("../backend/dados_JSON/artilheiros.json"),
-    getSelecoes: () => fetchLocal("../backend/dados_JSON/selecoes.json"),
-    
-    getMapaIds: () => fetchLocal("../backend/dados_JSON/mapa_ids.json"),
-    
-    // Arquivos da pasta backend/data/sofascore
-    getEstatisticas: () => fetchLocal("../backend/data/sofascore/estatisticas.json"),
-    getEventos: () => fetchLocal("../backend/data/sofascore/eventos.json"),
-    getEscalacoes: () => fetchLocal("../backend/data/sofascore/escalacoes.json"),
-    getJogadoresPartida: () => fetchLocal("../backend/data/sofascore/jogadores_partida.json"),
-    getJogadoresPerfil: () => fetchLocal("../backend/data/sofascore/jogadores_perfil.json")
+    getJogos: () => fetchAPI("/api/jogos"),
+    getClassificacao: () => fetchAPI("/api/classificacao"),
+    getArtilheiros: () => fetchAPI("/api/artilheiros"),
+    getSelecoes: () => fetchAPI("/api/selecoes"),
+
+    // Dados por partida — recebem o id da API-Football. O Flask traduz 
+    // pro id da SofaScore usando o mapa_ids.json.
+    getEstatisticas: (fixtureId) => fetchAPI(`/api/estatisticas/${fixtureId}`),
+    getEventos: (fixtureId) => fetchAPI(`/api/eventos/${fixtureId}`),
+    getEscalacoes: (fixtureId) => fetchAPI(`/api/escalacoes/${fixtureId}`),
+    getJogadoresPartida: (fixtureId) => fetchAPI(`/api/jogadores-partida/${fixtureId}`),
+
+    // Perfil de jogador — lista inteira
+    getJogadoresPerfil: () => fetchAPI(`/api/jogadores-perfil`),
+
+    getJogadorPerfil: (playerId) => fetchAPI(`/api/jogador/${playerId}`)
 };
+
 // ==========================================================================
 // CONSTANTES E FUNÇÕES ÚTEIS (Compartilhadas)
 // ==========================================================================
