@@ -11,7 +11,6 @@ function iconeEvento(tipo) {
     if (t.includes("goal")) return "⚽";
     if (t.includes("card")) return "🟨";
     if (t.includes("subst")) return "🔄";
-    if (t.includes("var")) return "📺";
     return "•";
 }
 
@@ -19,7 +18,7 @@ async function safeFetch(promise, valorPadrao) {
     try {
         return await promise;
     } catch (erro) {
-        console.error("Falha ao carregar um dos arquivos de dados:", erro);
+        console.error("Falha ao carregar um dos dados da partida:", erro);
         return valorPadrao;
     }
 }
@@ -36,20 +35,20 @@ document.addEventListener("DOMContentLoaded", async () => {
     }
 
     try {
+        // matchId aqui é o id da API-Football (o mesmo que está em jogo.id
+        // dentro de /api/jogos) — o Flask já traduz pra SofaScore por trás,
+        // não precisamos mais buscar/ler o mapa_ids.json no frontend.
         const jogos = await safeFetch(api.getJogos(), []);
-        const estatisticas = await safeFetch(api.getEstatisticas(), {});
-        const eventos = await safeFetch(api.getEventos(), {});
-        const escalacoes = await safeFetch(api.getEscalacoes(), {});
-        const jogadoresPartida = await safeFetch(api.getJogadoresPartida(), {});
-        
-        // Puxa o arquivo que traduz os IDs
-        const mapaIds = await safeFetch(api.getMapaIds(), {}); 
+        const estatisticas = await safeFetch(api.getEstatisticas(matchId), null);
+        const listaEventos = await safeFetch(api.getEventos(matchId), null);
+        const escalacao = await safeFetch(api.getEscalacoes(matchId), null);
+        const jogadoresDaPartida = await safeFetch(api.getJogadoresPartida(matchId), null);
 
         if (jogos.length === 0) {
             throw new Error("A API de jogos não retornou nenhum dado.");
         }
 
-        const jogo = jogos.find(j => String(j.matchIdSofascore) === String(matchId) || String(j.id) === String(matchId));
+        const jogo = jogos.find(j => String(j.id) === String(matchId));
 
         if (jogo) {
             const { dia } = formatarData(jogo.data);
@@ -78,25 +77,11 @@ document.addEventListener("DOMContentLoaded", async () => {
             return;
         }
 
-        // =====================================================================
-        //  TRADUÇÃO DE ID
-        // =====================================================================
-        let keyId = matchId; 
-        
-        
-        if (mapaIds && mapaIds[matchId]) {
-            keyId = mapaIds[matchId];
-        } else if (jogo.matchIdSofascore) {
-            keyId = jogo.matchIdSofascore;
-        }
-
-        // ID traduzido (keyId) para buscar nas estatísticas
+        // ESTATÍSTICAS
         const containerStats = document.getElementById("partida-estatisticas");
-        const stats = estatisticas[keyId]; 
-        
-        if (containerStats && stats) {
-            const e1 = stats.selecao01.estatisticas;
-            const e2 = stats.selecao02.estatisticas;
+        if (containerStats && estatisticas) {
+            const e1 = estatisticas.selecao01.estatisticas;
+            const e2 = estatisticas.selecao02.estatisticas;
 
             const linha = (label, v1, v2) => `
                 <div class="stat-row">
@@ -129,9 +114,9 @@ document.addEventListener("DOMContentLoaded", async () => {
             containerStats.innerHTML = "<p style='color: var(--texto-secundario);'>Estatísticas não disponíveis para esta partida.</p>";
         }
 
+        // EVENTOS
         const containerEventos = document.getElementById("partida-eventos");
-        const listaEventos = eventos[keyId];
-        if (containerEventos && listaEventos) {
+        if (containerEventos && listaEventos && listaEventos.length) {
             const ordenados = [...listaEventos].sort((a, b) => a.minuto - b.minuto);
             containerEventos.innerHTML = ordenados.map(ev => `
                 <div class="evento-item">
@@ -142,19 +127,20 @@ document.addEventListener("DOMContentLoaded", async () => {
                         — ${ev.selecao.nome}
                     </span>
                 </div>
-            `).join("") || "<p style='color: var(--texto-secundario);'>Sem eventos registrados.</p>";
+            `).join("");
         } else if (containerEventos) {
-            containerEventos.innerHTML = "<p style='color: var(--texto-secundario);'>Eventos não disponíveis para esta partida.</p>";
+            containerEventos.innerHTML = "<p style='color: var(--texto-secundario);'>Sem eventos registrados.</p>";
         }
 
+        // ESCALAÇÕES
         const containerEscalacoes = document.getElementById("partida-escalacoes");
-        const escalacao = escalacoes[keyId];
         if (containerEscalacoes && escalacao) {
             containerEscalacoes.innerHTML = ["selecao01", "selecao02"].map(chave => {
                 const time = escalacao[chave];
                 if (!time) return "";
-                
-                // A MÁGICA: Pega a imagem (escudo) direto do objeto 'jogo' que sabemos que funciona!
+
+                // pega o escudo direto do objeto "jogo" (API-Football),
+                // que sabemos que sempre vem certo
                 const escudoCorreto = jogo[chave].escudo;
 
                 return `
@@ -173,8 +159,8 @@ document.addEventListener("DOMContentLoaded", async () => {
             containerEscalacoes.innerHTML = "<p style='color: var(--texto-secundario);'>Escalações não disponíveis para esta partida.</p>";
         }
 
+        // DESTAQUES DA PARTIDA
         const containerDestaques = document.getElementById("partida-destaques");
-        const jogadoresDaPartida = jogadoresPartida[keyId]; 
         if (containerDestaques && jogadoresDaPartida) {
             const todos = [
                 ...jogadoresDaPartida.selecao01.jogadores.map(j => ({ ...j, time: jogadoresDaPartida.selecao01.nome })),
