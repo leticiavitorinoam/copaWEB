@@ -6,6 +6,8 @@
     <title>Tabela — copaWEB</title>
 
     <link rel="stylesheet" href="css/style.css">
+    <script src="js/busca.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
 </head>
 <body>
 
@@ -14,7 +16,10 @@
             <span class="profile-icon"></span>
             copaWEB
         </div>
-        <div class="search-icon">🔍</div>
+        <div class="search-container" style="position: absolute; right: 20px; top: 15px; display: flex; align-items: center; background: rgba(255, 255, 255, 0.1); border-radius: 20px; padding: 6px 12px; border: 1px solid rgba(255, 255, 255, 0.2); z-index: 1000;">
+            <input type="text" id="campo-pesquisa" placeholder="Pesquisar..." style="background: transparent; border: none; color: #fff; outline: none; width: 120px; font-size: 0.85rem;">
+            <i class="fa-solid fa-magnifying-glass" style="color: rgba(255, 255, 255, 0.6); font-size: 0.9rem; cursor: pointer;"></i>
+        </div>
     </header>
 
     <div class="container-simples" style="padding-top: 20px;">
@@ -25,20 +30,20 @@
     </div>
 
     <div class="bottom-nav">
-        <a href="index.html" class="nav-item">
-            <span style="font-size: 1.2rem;">🏠</span>
+        <a href="index.html" class="nav-item active">
+            <i class="fa-solid fa-house-chimney" style="font-size: 1.2rem;"></i>
             Início
         </a>
-        <a href="tabela.html" class="nav-item active">
-            <span style="font-size: 1.2rem;">📊</span>
+        <a href="tabela.html" class="nav-item">
+            <i class="fa-solid fa-table-list" style="font-size: 1.2rem;"></i>
             Tabela
         </a>
         <a href="artilheiros.html" class="nav-item">
-            <span style="font-size: 1.2rem;">⚽</span>
+            <i class="fa-solid fa-ranking-star" style="font-size: 1.2rem;"></i>
             Artilheiros
         </a>
         <a href="selecoes.html" class="nav-item">
-            <span style="font-size: 1.2rem;">🏳️</span>
+            <i class="fa-solid fa-flag" style="font-size: 1.2rem;"></i>
             Seleções
         </a>
     </div>
