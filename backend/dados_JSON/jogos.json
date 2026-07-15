@@ -7,12 +7,12 @@
         "cidade": "Al Khor",
         "selecao01": {
             "id": 1569,
-            "nome": "Qatar",
+            "nome": "Catar",
             "escudo": "https://media.api-sports.io/football/teams/1569.png"
         },
         "selecao02": {
             "id": 2382,
-            "nome": "Ecuador",
+            "nome": "Equador",
             "escudo": "https://media.api-sports.io/football/teams/2382.png"
         },
         "score": {
@@ -42,12 +42,12 @@
         "cidade": "Ar-Rayyan",
         "selecao01": {
             "id": 10,
-            "nome": "England",
+            "nome": "Inglaterra",
             "escudo": "https://media.api-sports.io/football/teams/10.png"
         },
         "selecao02": {
             "id": 22,
-            "nome": "Iran",
+            "nome": "Irã",
             "escudo": "https://media.api-sports.io/football/teams/22.png"
         },
         "score": {
@@ -82,7 +82,7 @@
         },
         "selecao02": {
             "id": 1118,
-            "nome": "Netherlands",
+            "nome": "Países Baixos",
             "escudo": "https://media.api-sports.io/football/teams/1118.png"
         },
         "score": {
@@ -112,12 +112,12 @@
         "cidade": "Al-Rayyan",
         "selecao01": {
             "id": 2384,
-            "nome": "USA",
+            "nome": "Estados Unidos",
             "escudo": "https://media.api-sports.io/football/teams/2384.png"
         },
         "selecao02": {
             "id": 767,
-            "nome": "Wales",
+            "nome": "País de Gales",
             "escudo": "https://media.api-sports.io/football/teams/767.png"
         },
         "score": {
@@ -152,7 +152,7 @@
         },
         "selecao02": {
             "id": 23,
-            "nome": "Saudi Arabia",
+            "nome": "Arábia Saudita",
             "escudo": "https://media.api-sports.io/football/teams/23.png"
         },
         "score": {
@@ -182,12 +182,12 @@
         "cidade": "Ar-Rayyan",
         "selecao01": {
             "id": 21,
-            "nome": "Denmark",
+            "nome": "Dinamarca",
             "escudo": "https://media.api-sports.io/football/teams/21.png"
         },
         "selecao02": {
             "id": 28,
-            "nome": "Tunisia",
+            "nome": "Tunísia",
             "escudo": "https://media.api-sports.io/football/teams/28.png"
         },
         "score": {
@@ -217,12 +217,12 @@
         "cidade": "Doha",
         "selecao01": {
             "id": 16,
-            "nome": "Mexico",
+            "nome": "México",
             "escudo": "https://media.api-sports.io/football/teams/16.png"
         },
         "selecao02": {
             "id": 24,
-            "nome": "Poland",
+            "nome": "Polônia",
             "escudo": "https://media.api-sports.io/football/teams/24.png"
         },
         "score": {
@@ -252,12 +252,12 @@
         "cidade": "Al Wakrah",
         "selecao01": {
             "id": 2,
-            "nome": "France",
+            "nome": "França",
             "escudo": "https://media.api-sports.io/football/teams/2.png"
         },
         "selecao02": {
             "id": 20,
-            "nome": "Australia",
+            "nome": "Austrália",
             "escudo": "https://media.api-sports.io/football/teams/20.png"
         },
         "score": {
@@ -287,12 +287,12 @@
         "cidade": "Al Khor",
         "selecao01": {
             "id": 31,
-            "nome": "Morocco",
+            "nome": "Marrocos",
             "escudo": "https://media.api-sports.io/football/teams/31.png"
         },
         "selecao02": {
             "id": 3,
-            "nome": "Croatia",
+            "nome": "Croácia",
             "escudo": "https://media.api-sports.io/football/teams/3.png"
         },
         "score": {
@@ -322,12 +322,12 @@
         "cidade": "Ar-Rayyan",
         "selecao01": {
             "id": 25,
-            "nome": "Germany",
+            "nome": "Alemanha",
             "escudo": "https://media.api-sports.io/football/teams/25.png"
         },
         "selecao02": {
             "id": 12,
-            "nome": "Japan",
+            "nome": "Japão",
             "escudo": "https://media.api-sports.io/football/teams/12.png"
         },
         "score": {
@@ -357,7 +357,7 @@
         "cidade": "Doha",
         "selecao01": {
             "id": 9,
-            "nome": "Spain",
+            "nome": "Espanha",
             "escudo": "https://media.api-sports.io/football/teams/9.png"
         },
         "selecao02": {
@@ -392,12 +392,12 @@
         "cidade": "Al-Rayyan",
         "selecao01": {
             "id": 1,
-            "nome": "Belgium",
+            "nome": "Bélgica",
             "escudo": "https://media.api-sports.io/football/teams/1.png"
         },
         "selecao02": {
             "id": 5529,
-            "nome": "Canada",
+            "nome": "Canadá",
             "escudo": "https://media.api-sports.io/football/teams/5529.png"
         },
         "score": {
@@ -427,12 +427,12 @@
         "cidade": "Al Wakrah",
         "selecao01": {
             "id": 15,
-            "nome": "Switzerland",
+            "nome": "Suíça",
             "escudo": "https://media.api-sports.io/football/teams/15.png"
         },
         "selecao02": {
             "id": 1530,
-            "nome": "Cameroon",
+            "nome": "Camarões",
             "escudo": "https://media.api-sports.io/football/teams/1530.png"
         },
         "score": {
@@ -462,12 +462,12 @@
         "cidade": "Ar-Rayyan",
         "selecao01": {
             "id": 7,
-            "nome": "Uruguay",
+            "nome": "Uruguai",
             "escudo": "https://media.api-sports.io/football/teams/7.png"
         },
         "selecao02": {
             "id": 17,
-            "nome": "South Korea",
+            "nome": "Coreia do Sul",
             "escudo": "https://media.api-sports.io/football/teams/17.png"
         },
         "score": {
@@ -502,7 +502,7 @@
         },
         "selecao02": {
             "id": 1504,
-            "nome": "Ghana",
+            "nome": "Gana",
             "escudo": "https://media.api-sports.io/football/teams/1504.png"
         },
         "score": {
@@ -532,12 +532,12 @@
         "cidade": "Lusail",
         "selecao01": {
             "id": 6,
-            "nome": "Brazil",
+            "nome": "Brasil",
             "escudo": "https://media.api-sports.io/football/teams/6.png"
         },
         "selecao02": {
             "id": 14,
-            "nome": "Serbia",
+            "nome": "Sérvia",
             "escudo": "https://media.api-sports.io/football/teams/14.png"
         },
         "score": {
@@ -567,12 +567,12 @@
         "cidade": "Al-Rayyan",
         "selecao01": {
             "id": 767,
-            "nome": "Wales",
+            "nome": "País de Gales",
             "escudo": "https://media.api-sports.io/football/teams/767.png"
         },
         "selecao02": {
             "id": 22,
-            "nome": "Iran",
+            "nome": "Irã",
             "escudo": "https://media.api-sports.io/football/teams/22.png"
         },
         "score": {
@@ -602,7 +602,7 @@
         "cidade": "Doha",
         "selecao01": {
             "id": 1569,
-            "nome": "Qatar",
+            "nome": "Catar",
             "escudo": "https://media.api-sports.io/football/teams/1569.png"
         },
         "selecao02": {
@@ -637,12 +637,12 @@
         "cidade": "Ar-Rayyan",
         "selecao01": {
             "id": 1118,
-            "nome": "Netherlands",
+            "nome": "Países Baixos",
             "escudo": "https://media.api-sports.io/football/teams/1118.png"
         },
         "selecao02": {
             "id": 2382,
-            "nome": "Ecuador",
+            "nome": "Equador",
             "escudo": "https://media.api-sports.io/football/teams/2382.png"
         },
         "score": {
@@ -672,12 +672,12 @@
         "cidade": "Al Khor",
         "selecao01": {
             "id": 10,
-            "nome": "England",
+            "nome": "Inglaterra",
             "escudo": "https://media.api-sports.io/football/teams/10.png"
         },
         "selecao02": {
             "id": 2384,
-            "nome": "USA",
+            "nome": "Estados Unidos",
             "escudo": "https://media.api-sports.io/football/teams/2384.png"
         },
         "score": {
@@ -707,12 +707,12 @@
         "cidade": "Al Wakrah",
         "selecao01": {
             "id": 28,
-            "nome": "Tunisia",
+            "nome": "Tunísia",
             "escudo": "https://media.api-sports.io/football/teams/28.png"
         },
         "selecao02": {
             "id": 20,
-            "nome": "Australia",
+            "nome": "Austrália",
             "escudo": "https://media.api-sports.io/football/teams/20.png"
         },
         "score": {
@@ -742,12 +742,12 @@
         "cidade": "Ar-Rayyan",
         "selecao01": {
             "id": 24,
-            "nome": "Poland",
+            "nome": "Polônia",
             "escudo": "https://media.api-sports.io/football/teams/24.png"
         },
         "selecao02": {
             "id": 23,
-            "nome": "Saudi Arabia",
+            "nome": "Arábia Saudita",
             "escudo": "https://media.api-sports.io/football/teams/23.png"
         },
         "score": {
@@ -777,12 +777,12 @@
         "cidade": "Doha",
         "selecao01": {
             "id": 2,
-            "nome": "France",
+            "nome": "França",
             "escudo": "https://media.api-sports.io/football/teams/2.png"
         },
         "selecao02": {
             "id": 21,
-            "nome": "Denmark",
+            "nome": "Dinamarca",
             "escudo": "https://media.api-sports.io/football/teams/21.png"
         },
         "score": {
@@ -817,7 +817,7 @@
         },
         "selecao02": {
             "id": 16,
-            "nome": "Mexico",
+            "nome": "México",
             "escudo": "https://media.api-sports.io/football/teams/16.png"
         },
         "score": {
@@ -847,7 +847,7 @@
         "cidade": "Al-Rayyan",
         "selecao01": {
             "id": 12,
-            "nome": "Japan",
+            "nome": "Japão",
             "escudo": "https://media.api-sports.io/football/teams/12.png"
         },
         "selecao02": {
@@ -882,12 +882,12 @@
         "cidade": "Doha",
         "selecao01": {
             "id": 1,
-            "nome": "Belgium",
+            "nome": "Bélgica",
             "escudo": "https://media.api-sports.io/football/teams/1.png"
         },
         "selecao02": {
             "id": 31,
-            "nome": "Morocco",
+            "nome": "Marrocos",
             "escudo": "https://media.api-sports.io/football/teams/31.png"
         },
         "score": {
@@ -917,12 +917,12 @@
         "cidade": "Ar-Rayyan",
         "selecao01": {
             "id": 3,
-            "nome": "Croatia",
+            "nome": "Croácia",
             "escudo": "https://media.api-sports.io/football/teams/3.png"
         },
         "selecao02": {
             "id": 5529,
-            "nome": "Canada",
+            "nome": "Canadá",
             "escudo": "https://media.api-sports.io/football/teams/5529.png"
         },
         "score": {
@@ -952,12 +952,12 @@
         "cidade": "Al Khor",
         "selecao01": {
             "id": 9,
-            "nome": "Spain",
+            "nome": "Espanha",
             "escudo": "https://media.api-sports.io/football/teams/9.png"
         },
         "selecao02": {
             "id": 25,
-            "nome": "Germany",
+            "nome": "Alemanha",
             "escudo": "https://media.api-sports.io/football/teams/25.png"
         },
         "score": {
@@ -987,12 +987,12 @@
         "cidade": "Al Wakrah",
         "selecao01": {
             "id": 1530,
-            "nome": "Cameroon",
+            "nome": "Camarões",
             "escudo": "https://media.api-sports.io/football/teams/1530.png"
         },
         "selecao02": {
             "id": 14,
-            "nome": "Serbia",
+            "nome": "Sérvia",
             "escudo": "https://media.api-sports.io/football/teams/14.png"
         },
         "score": {
@@ -1022,12 +1022,12 @@
         "cidade": "Ar-Rayyan",
         "selecao01": {
             "id": 17,
-            "nome": "South Korea",
+            "nome": "Coreia do Sul",
             "escudo": "https://media.api-sports.io/football/teams/17.png"
         },
         "selecao02": {
             "id": 1504,
-            "nome": "Ghana",
+            "nome": "Gana",
             "escudo": "https://media.api-sports.io/football/teams/1504.png"
         },
         "score": {
@@ -1057,12 +1057,12 @@
         "cidade": "Doha",
         "selecao01": {
             "id": 6,
-            "nome": "Brazil",
+            "nome": "Brasil",
             "escudo": "https://media.api-sports.io/football/teams/6.png"
         },
         "selecao02": {
             "id": 15,
-            "nome": "Switzerland",
+            "nome": "Suíça",
             "escudo": "https://media.api-sports.io/football/teams/15.png"
         },
         "score": {
@@ -1097,7 +1097,7 @@
         },
         "selecao02": {
             "id": 7,
-            "nome": "Uruguay",
+            "nome": "Uruguai",
             "escudo": "https://media.api-sports.io/football/teams/7.png"
         },
         "score": {
@@ -1127,12 +1127,12 @@
         "cidade": "Al Khor",
         "selecao01": {
             "id": 1118,
-            "nome": "Netherlands",
+            "nome": "Países Baixos",
             "escudo": "https://media.api-sports.io/football/teams/1118.png"
         },
         "selecao02": {
             "id": 1569,
-            "nome": "Qatar",
+            "nome": "Catar",
             "escudo": "https://media.api-sports.io/football/teams/1569.png"
         },
         "score": {
@@ -1162,7 +1162,7 @@
         "cidade": "Ar-Rayyan",
         "selecao01": {
             "id": 2382,
-            "nome": "Ecuador",
+            "nome": "Equador",
             "escudo": "https://media.api-sports.io/football/teams/2382.png"
         },
         "selecao02": {
@@ -1197,12 +1197,12 @@
         "cidade": "Doha",
         "selecao01": {
             "id": 22,
-            "nome": "Iran",
+            "nome": "Irã",
             "escudo": "https://media.api-sports.io/football/teams/22.png"
         },
         "selecao02": {
             "id": 2384,
-            "nome": "USA",
+            "nome": "Estados Unidos",
             "escudo": "https://media.api-sports.io/football/teams/2384.png"
         },
         "score": {
@@ -1232,12 +1232,12 @@
         "cidade": "Al-Rayyan",
         "selecao01": {
             "id": 767,
-            "nome": "Wales",
+            "nome": "País de Gales",
             "escudo": "https://media.api-sports.io/football/teams/767.png"
         },
         "selecao02": {
             "id": 10,
-            "nome": "England",
+            "nome": "Inglaterra",
             "escudo": "https://media.api-sports.io/football/teams/10.png"
         },
         "score": {
@@ -1267,12 +1267,12 @@
         "cidade": "Al Wakrah",
         "selecao01": {
             "id": 20,
-            "nome": "Australia",
+            "nome": "Austrália",
             "escudo": "https://media.api-sports.io/football/teams/20.png"
         },
         "selecao02": {
             "id": 21,
-            "nome": "Denmark",
+            "nome": "Dinamarca",
             "escudo": "https://media.api-sports.io/football/teams/21.png"
         },
         "score": {
@@ -1302,12 +1302,12 @@
         "cidade": "Ar-Rayyan",
         "selecao01": {
             "id": 28,
-            "nome": "Tunisia",
+            "nome": "Tunísia",
             "escudo": "https://media.api-sports.io/football/teams/28.png"
         },
         "selecao02": {
             "id": 2,
-            "nome": "France",
+            "nome": "França",
             "escudo": "https://media.api-sports.io/football/teams/2.png"
         },
         "score": {
@@ -1337,12 +1337,12 @@
         "cidade": "Lusail",
         "selecao01": {
             "id": 23,
-            "nome": "Saudi Arabia",
+            "nome": "Arábia Saudita",
             "escudo": "https://media.api-sports.io/football/teams/23.png"
         },
         "selecao02": {
             "id": 16,
-            "nome": "Mexico",
+            "nome": "México",
             "escudo": "https://media.api-sports.io/football/teams/16.png"
         },
         "score": {
@@ -1372,7 +1372,7 @@
         "cidade": "Doha",
         "selecao01": {
             "id": 24,
-            "nome": "Poland",
+            "nome": "Polônia",
             "escudo": "https://media.api-sports.io/football/teams/24.png"
         },
         "selecao02": {
@@ -1407,12 +1407,12 @@
         "cidade": "Al-Rayyan",
         "selecao01": {
             "id": 3,
-            "nome": "Croatia",
+            "nome": "Croácia",
             "escudo": "https://media.api-sports.io/football/teams/3.png"
         },
         "selecao02": {
             "id": 1,
-            "nome": "Belgium",
+            "nome": "Bélgica",
             "escudo": "https://media.api-sports.io/football/teams/1.png"
         },
         "score": {
@@ -1442,12 +1442,12 @@
         "cidade": "Doha",
         "selecao01": {
             "id": 5529,
-            "nome": "Canada",
+            "nome": "Canadá",
             "escudo": "https://media.api-sports.io/football/teams/5529.png"
         },
         "selecao02": {
             "id": 31,
-            "nome": "Morocco",
+            "nome": "Marrocos",
             "escudo": "https://media.api-sports.io/football/teams/31.png"
         },
         "score": {
@@ -1477,12 +1477,12 @@
         "cidade": "Ar-Rayyan",
         "selecao01": {
             "id": 12,
-            "nome": "Japan",
+            "nome": "Japão",
             "escudo": "https://media.api-sports.io/football/teams/12.png"
         },
         "selecao02": {
             "id": 9,
-            "nome": "Spain",
+            "nome": "Espanha",
             "escudo": "https://media.api-sports.io/football/teams/9.png"
         },
         "score": {
@@ -1517,7 +1517,7 @@
         },
         "selecao02": {
             "id": 25,
-            "nome": "Germany",
+            "nome": "Alemanha",
             "escudo": "https://media.api-sports.io/football/teams/25.png"
         },
         "score": {
@@ -1547,7 +1547,7 @@
         "cidade": "Ar-Rayyan",
         "selecao01": {
             "id": 17,
-            "nome": "South Korea",
+            "nome": "Coreia do Sul",
             "escudo": "https://media.api-sports.io/football/teams/17.png"
         },
         "selecao02": {
@@ -1582,12 +1582,12 @@
         "cidade": "Al Wakrah",
         "selecao01": {
             "id": 1504,
-            "nome": "Ghana",
+            "nome": "Gana",
             "escudo": "https://media.api-sports.io/football/teams/1504.png"
         },
         "selecao02": {
             "id": 7,
-            "nome": "Uruguay",
+            "nome": "Uruguai",
             "escudo": "https://media.api-sports.io/football/teams/7.png"
         },
         "score": {
@@ -1617,12 +1617,12 @@
         "cidade": "Doha",
         "selecao01": {
             "id": 14,
-            "nome": "Serbia",
+            "nome": "Sérvia",
             "escudo": "https://media.api-sports.io/football/teams/14.png"
         },
         "selecao02": {
             "id": 15,
-            "nome": "Switzerland",
+            "nome": "Suíça",
             "escudo": "https://media.api-sports.io/football/teams/15.png"
         },
         "score": {
@@ -1652,12 +1652,12 @@
         "cidade": "Lusail",
         "selecao01": {
             "id": 1530,
-            "nome": "Cameroon",
+            "nome": "Camarões",
             "escudo": "https://media.api-sports.io/football/teams/1530.png"
         },
         "selecao02": {
             "id": 6,
-            "nome": "Brazil",
+            "nome": "Brasil",
             "escudo": "https://media.api-sports.io/football/teams/6.png"
         },
         "score": {
@@ -1687,12 +1687,12 @@
         "cidade": "Ar-Rayyan",
         "selecao01": {
             "id": 1118,
-            "nome": "Netherlands",
+            "nome": "Países Baixos",
             "escudo": "https://media.api-sports.io/football/teams/1118.png"
         },
         "selecao02": {
             "id": 2384,
-            "nome": "USA",
+            "nome": "Estados Unidos",
             "escudo": "https://media.api-sports.io/football/teams/2384.png"
         },
         "score": {
@@ -1727,7 +1727,7 @@
         },
         "selecao02": {
             "id": 20,
-            "nome": "Australia",
+            "nome": "Austrália",
             "escudo": "https://media.api-sports.io/football/teams/20.png"
         },
         "score": {
@@ -1757,12 +1757,12 @@
         "cidade": "Doha",
         "selecao01": {
             "id": 2,
-            "nome": "France",
+            "nome": "França",
             "escudo": "https://media.api-sports.io/football/teams/2.png"
         },
         "selecao02": {
             "id": 24,
-            "nome": "Poland",
+            "nome": "Polônia",
             "escudo": "https://media.api-sports.io/football/teams/24.png"
         },
         "score": {
@@ -1792,7 +1792,7 @@
         "cidade": "Al Khor",
         "selecao01": {
             "id": 10,
-            "nome": "England",
+            "nome": "Inglaterra",
             "escudo": "https://media.api-sports.io/football/teams/10.png"
         },
         "selecao02": {
@@ -1827,12 +1827,12 @@
         "cidade": "Al Wakrah",
         "selecao01": {
             "id": 12,
-            "nome": "Japan",
+            "nome": "Japão",
             "escudo": "https://media.api-sports.io/football/teams/12.png"
         },
         "selecao02": {
             "id": 3,
-            "nome": "Croatia",
+            "nome": "Croácia",
             "escudo": "https://media.api-sports.io/football/teams/3.png"
         },
         "score": {
@@ -1862,12 +1862,12 @@
         "cidade": "Doha",
         "selecao01": {
             "id": 6,
-            "nome": "Brazil",
+            "nome": "Brasil",
             "escudo": "https://media.api-sports.io/football/teams/6.png"
         },
         "selecao02": {
             "id": 17,
-            "nome": "South Korea",
+            "nome": "Coreia do Sul",
             "escudo": "https://media.api-sports.io/football/teams/17.png"
         },
         "score": {
@@ -1897,12 +1897,12 @@
         "cidade": "Ar-Rayyan",
         "selecao01": {
             "id": 31,
-            "nome": "Morocco",
+            "nome": "Marrocos",
             "escudo": "https://media.api-sports.io/football/teams/31.png"
         },
         "selecao02": {
             "id": 9,
-            "nome": "Spain",
+            "nome": "Espanha",
             "escudo": "https://media.api-sports.io/football/teams/9.png"
         },
         "score": {
@@ -1937,7 +1937,7 @@
         },
         "selecao02": {
             "id": 15,
-            "nome": "Switzerland",
+            "nome": "Suíça",
             "escudo": "https://media.api-sports.io/football/teams/15.png"
         },
         "score": {
@@ -1967,12 +1967,12 @@
         "cidade": "Ar-Rayyan",
         "selecao01": {
             "id": 3,
-            "nome": "Croatia",
+            "nome": "Croácia",
             "escudo": "https://media.api-sports.io/football/teams/3.png"
         },
         "selecao02": {
             "id": 6,
-            "nome": "Brazil",
+            "nome": "Brasil",
             "escudo": "https://media.api-sports.io/football/teams/6.png"
         },
         "score": {
@@ -2002,7 +2002,7 @@
         "cidade": "Lusail",
         "selecao01": {
             "id": 1118,
-            "nome": "Netherlands",
+            "nome": "Países Baixos",
             "escudo": "https://media.api-sports.io/football/teams/1118.png"
         },
         "selecao02": {
@@ -2037,7 +2037,7 @@
         "cidade": "Doha",
         "selecao01": {
             "id": 31,
-            "nome": "Morocco",
+            "nome": "Marrocos",
             "escudo": "https://media.api-sports.io/football/teams/31.png"
         },
         "selecao02": {
@@ -2072,12 +2072,12 @@
         "cidade": "Al Khor",
         "selecao01": {
             "id": 10,
-            "nome": "England",
+            "nome": "Inglaterra",
             "escudo": "https://media.api-sports.io/football/teams/10.png"
         },
         "selecao02": {
             "id": 2,
-            "nome": "France",
+            "nome": "França",
             "escudo": "https://media.api-sports.io/football/teams/2.png"
         },
         "score": {
@@ -2112,7 +2112,7 @@
         },
         "selecao02": {
             "id": 3,
-            "nome": "Croatia",
+            "nome": "Croácia",
             "escudo": "https://media.api-sports.io/football/teams/3.png"
         },
         "score": {
@@ -2142,12 +2142,12 @@
         "cidade": "Al Khor",
         "selecao01": {
             "id": 2,
-            "nome": "France",
+            "nome": "França",
             "escudo": "https://media.api-sports.io/football/teams/2.png"
         },
         "selecao02": {
             "id": 31,
-            "nome": "Morocco",
+            "nome": "Marrocos",
             "escudo": "https://media.api-sports.io/football/teams/31.png"
         },
         "score": {
@@ -2177,12 +2177,12 @@
         "cidade": "Ar-Rayyan",
         "selecao01": {
             "id": 3,
-            "nome": "Croatia",
+            "nome": "Croácia",
             "escudo": "https://media.api-sports.io/football/teams/3.png"
         },
         "selecao02": {
             "id": 31,
-            "nome": "Morocco",
+            "nome": "Marrocos",
             "escudo": "https://media.api-sports.io/football/teams/31.png"
         },
         "score": {
@@ -2217,7 +2217,7 @@
         },
         "selecao02": {
             "id": 2,
-            "nome": "France",
+            "nome": "França",
             "escudo": "https://media.api-sports.io/football/teams/2.png"
         },
         "score": {

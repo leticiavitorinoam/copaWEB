@@ -4,10 +4,10 @@
         "id": 278,
         "nome": "Kylian Mbappé",
         "foto": "https://media.api-sports.io/football/players/278.png",
-        "posicao": "Midfielder",
+        "posicao": "Meio-Campo",
         "selecao": {
             "id": 2,
-            "nome": "France",
+            "nome": "França",
             "escudo": "https://media.api-sports.io/football/teams/2.png"
         },
         "gols": 8,
@@ -23,7 +23,7 @@
         "id": 154,
         "nome": "L. Messi",
         "foto": "https://media.api-sports.io/football/players/154.png",
-        "posicao": "Attacker",
+        "posicao": "Atacante",
         "selecao": {
             "id": 26,
             "nome": "Argentina",
@@ -42,7 +42,7 @@
         "id": 6009,
         "nome": "J. Álvarez",
         "foto": "https://media.api-sports.io/football/players/6009.png",
-        "posicao": "Attacker",
+        "posicao": "Atacante",
         "selecao": {
             "id": 26,
             "nome": "Argentina",
@@ -61,10 +61,10 @@
         "id": 2295,
         "nome": "O. Giroud",
         "foto": "https://media.api-sports.io/football/players/2295.png",
-        "posicao": "Attacker",
+        "posicao": "Atacante",
         "selecao": {
             "id": 2,
-            "nome": "France",
+            "nome": "França",
             "escudo": "https://media.api-sports.io/football/teams/2.png"
         },
         "gols": 4,
@@ -80,7 +80,7 @@
         "id": 41585,
         "nome": "Gonçalo Ramos",
         "foto": "https://media.api-sports.io/football/players/41585.png",
-        "posicao": "Attacker",
+        "posicao": "Atacante",
         "selecao": {
             "id": 27,
             "nome": "Portugal",
@@ -99,10 +99,10 @@
         "id": 59,
         "nome": "Álvaro Morata",
         "foto": "https://media.api-sports.io/football/players/59.png",
-        "posicao": "Attacker",
+        "posicao": "Atacante",
         "selecao": {
             "id": 9,
-            "nome": "Spain",
+            "nome": "Espanha",
             "escudo": "https://media.api-sports.io/football/teams/9.png"
         },
         "gols": 3,
@@ -118,10 +118,10 @@
         "id": 909,
         "nome": "M. Rashford",
         "foto": "https://media.api-sports.io/football/players/909.png",
-        "posicao": "Attacker",
+        "posicao": "Atacante",
         "selecao": {
             "id": 10,
-            "nome": "England",
+            "nome": "Inglaterra",
             "escudo": "https://media.api-sports.io/football/teams/10.png"
         },
         "gols": 3,
@@ -137,10 +137,10 @@
         "id": 247,
         "nome": "C. Gakpo",
         "foto": "https://media.api-sports.io/football/players/247.png",
-        "posicao": "Attacker",
+        "posicao": "Atacante",
         "selecao": {
             "id": 1118,
-            "nome": "Netherlands",
+            "nome": "Países Baixos",
             "escudo": "https://media.api-sports.io/football/teams/1118.png"
         },
         "gols": 3,
@@ -156,10 +156,10 @@
         "id": 1460,
         "nome": "B. Saka",
         "foto": "https://media.api-sports.io/football/players/1460.png",
-        "posicao": "Midfielder",
+        "posicao": "Meio-Campo",
         "selecao": {
             "id": 10,
-            "nome": "England",
+            "nome": "Inglaterra",
             "escudo": "https://media.api-sports.io/football/teams/10.png"
         },
         "gols": 3,
@@ -175,10 +175,10 @@
         "id": 2413,
         "nome": "Richarlison",
         "foto": "https://media.api-sports.io/football/players/2413.png",
-        "posicao": "Attacker",
+        "posicao": "Atacante",
         "selecao": {
             "id": 6,
-            "nome": "Brazil",
+            "nome": "Brasil",
             "escudo": "https://media.api-sports.io/football/teams/6.png"
         },
         "gols": 3,
@@ -194,10 +194,10 @@
         "id": 35533,
         "nome": "E. Valencia",
         "foto": "https://media.api-sports.io/football/players/35533.png",
-        "posicao": "Attacker",
+        "posicao": "Atacante",
         "selecao": {
             "id": 2382,
-            "nome": "Ecuador",
+            "nome": "Equador",
             "escudo": "https://media.api-sports.io/football/teams/2382.png"
         },
         "gols": 3,
@@ -213,10 +213,10 @@
         "id": 25391,
         "nome": "N. Füllkrug",
         "foto": "https://media.api-sports.io/football/players/25391.png",
-        "posicao": "Attacker",
+        "posicao": "Atacante",
         "selecao": {
             "id": 25,
-            "nome": "Germany",
+            "nome": "Alemanha",
             "escudo": "https://media.api-sports.io/football/teams/25.png"
         },
         "gols": 2,
@@ -232,10 +232,10 @@
         "id": 386,
         "nome": "V. Aboubakar",
         "foto": "https://media.api-sports.io/football/players/386.png",
-        "posicao": "Attacker",
+        "posicao": "Atacante",
         "selecao": {
             "id": 1530,
-            "nome": "Cameroon",
+            "nome": "Camarões",
             "escudo": "https://media.api-sports.io/football/teams/1530.png"
         },
         "gols": 2,
@@ -251,10 +251,10 @@
         "id": 726,
         "nome": "A. Kramarić",
         "foto": "https://media.api-sports.io/football/players/726.png",
-        "posicao": "Attacker",
+        "posicao": "Atacante",
         "selecao": {
             "id": 3,
-            "nome": "Croatia",
+            "nome": "Croácia",
             "escudo": "https://media.api-sports.io/football/teams/3.png"
         },
         "gols": 2,
@@ -270,10 +270,10 @@
         "id": 47422,
         "nome": "Y. En-Nesyri",
         "foto": "https://media.api-sports.io/football/players/47422.png",
-        "posicao": "Attacker",
+        "posicao": "Atacante",
         "selecao": {
             "id": 31,
-            "nome": "Morocco",
+            "nome": "Marrocos",
             "escudo": "https://media.api-sports.io/football/teams/31.png"
         },
         "gols": 2,
@@ -289,7 +289,7 @@
         "id": 22236,
         "nome": "Rafael Leão",
         "foto": "https://media.api-sports.io/football/players/22236.png",
-        "posicao": "Attacker",
+        "posicao": "Atacante",
         "selecao": {
             "id": 27,
             "nome": "Portugal",
@@ -308,10 +308,10 @@
         "id": 25416,
         "nome": "W. Weghorst",
         "foto": "https://media.api-sports.io/football/players/25416.png",
-        "posicao": "Attacker",
+        "posicao": "Atacante",
         "selecao": {
             "id": 1118,
-            "nome": "Netherlands",
+            "nome": "Países Baixos",
             "escudo": "https://media.api-sports.io/football/teams/1118.png"
         },
         "gols": 2,
@@ -327,10 +327,10 @@
         "id": 2598,
         "nome": "R. Dōan",
         "foto": "https://media.api-sports.io/football/players/2598.png",
-        "posicao": "Attacker",
+        "posicao": "Atacante",
         "selecao": {
             "id": 12,
-            "nome": "Japan",
+            "nome": "Japão",
             "escudo": "https://media.api-sports.io/football/teams/12.png"
         },
         "gols": 2,
@@ -346,10 +346,10 @@
         "id": 34211,
         "nome": "Cho Gue-Sung",
         "foto": "https://media.api-sports.io/football/players/34211.png",
-        "posicao": "Attacker",
+        "posicao": "Atacante",
         "selecao": {
             "id": 17,
-            "nome": "South Korea",
+            "nome": "Coreia do Sul",
             "escudo": "https://media.api-sports.io/football/teams/17.png"
         },
         "gols": 2,
@@ -365,10 +365,10 @@
         "id": 421,
         "nome": "B. Embolo",
         "foto": "https://media.api-sports.io/football/players/421.png",
-        "posicao": "Attacker",
+        "posicao": "Atacante",
         "selecao": {
             "id": 15,
-            "nome": "Switzerland",
+            "nome": "Suíça",
             "escudo": "https://media.api-sports.io/football/teams/15.png"
         },
         "gols": 2,
