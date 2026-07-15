@@ -2,7 +2,7 @@
   "10230541": {
     "selecao01": {
       "id": 4792,
-      "nome": "Qatar",
+      "nome": "Catar",
       "escudo": "https://img.sofascore.com/api/v1/team/4792/image",
       "tecnico": null,
       "formacao": "5-3-2",
@@ -53,7 +53,7 @@
           "id": 93953,
           "nome": "H. A. Haydos",
           "numeroCamisa": 10,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -97,7 +97,7 @@
           "id": 326185,
           "nome": "M. Muntari",
           "numeroCamisa": 3,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -132,7 +132,7 @@
           "id": 229278,
           "nome": "A. Alaaeldin",
           "numeroCamisa": 30,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -195,7 +195,7 @@
     },
     "selecao02": {
       "id": 4757,
-      "nome": "Ecuador",
+      "nome": "Equador",
       "escudo": "https://img.sofascore.com/api/v1/team/4757/image",
       "tecnico": null,
       "formacao": "4-4-2",
@@ -267,14 +267,14 @@
           "id": 106456,
           "nome": "E. Valencia",
           "numeroCamisa": 10,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 860561,
           "nome": "M. Estrada",
           "numeroCamisa": 11,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         }
       ],
@@ -297,7 +297,7 @@
           "id": 1431770,
           "nome": "K. Rodríguez",
           "numeroCamisa": 13,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -332,7 +332,7 @@
           "id": 873890,
           "nome": "D. Reascos",
           "numeroCamisa": 99,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -390,7 +390,7 @@
   "10230543": {
     "selecao01": {
       "id": 4713,
-      "nome": "England",
+      "nome": "Inglaterra",
       "escudo": "https://img.sofascore.com/api/v1/team/4713/image",
       "tecnico": null,
       "formacao": "4-2-3-1",
@@ -448,7 +448,7 @@
           "id": 934235,
           "nome": "B. Saka",
           "numeroCamisa": 7,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -462,14 +462,14 @@
           "id": 138534,
           "nome": "R. Sterling",
           "numeroCamisa": 19,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 108579,
           "nome": "H. Kane",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         }
       ],
@@ -492,7 +492,7 @@
           "id": 814590,
           "nome": "M. Rashford",
           "numeroCamisa": 14,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -506,7 +506,7 @@
           "id": 113956,
           "nome": "C. Wilson",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -576,7 +576,7 @@
     },
     "selecao02": {
       "id": 4766,
-      "nome": "Iran",
+      "nome": "Irã",
       "escudo": "https://img.sofascore.com/api/v1/team/4766/image",
       "tecnico": null,
       "formacao": "5-4-1",
@@ -627,7 +627,7 @@
           "id": 331837,
           "nome": "A. Jahanbakhsh",
           "numeroCamisa": 27,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -655,7 +655,7 @@
           "id": 812533,
           "nome": "M. Taremi",
           "numeroCamisa": 99,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         }
       ],
@@ -692,21 +692,21 @@
           "id": 812953,
           "nome": "M. Torabi",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 150998,
           "nome": "S. Azmoun",
           "numeroCamisa": 20,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 144594,
           "nome": "K. A. Fard",
           "numeroCamisa": null,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -836,14 +836,14 @@
           "id": 845286,
           "nome": "I. Sarr",
           "numeroCamisa": 7,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 960080,
           "nome": "B. Dia",
           "numeroCamisa": 19,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         }
       ],
@@ -859,14 +859,14 @@
           "id": 1102503,
           "nome": "A. B. Dieng",
           "numeroCamisa": 12,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 1085381,
           "nome": "N. Jackson",
           "numeroCamisa": 11,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -887,7 +887,7 @@
           "id": 293115,
           "nome": "F. Diédhiou",
           "numeroCamisa": 18,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -957,7 +957,7 @@
     },
     "selecao02": {
       "id": 4705,
-      "nome": "Netherlands",
+      "nome": "Países Baixos",
       "escudo": "https://img.sofascore.com/api/v1/team/4705/image",
       "tecnico": null,
       "formacao": "3-4-1-2",
@@ -1001,7 +1001,7 @@
           "id": 100386,
           "nome": "S. Berghuis",
           "numeroCamisa": 23,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -1029,7 +1029,7 @@
           "id": 339901,
           "nome": "V. Janssen",
           "numeroCamisa": 18,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -1045,7 +1045,7 @@
           "id": 138833,
           "nome": "M. Depay",
           "numeroCamisa": 10,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -1094,7 +1094,7 @@
           "id": 252215,
           "nome": "W. Weghorst",
           "numeroCamisa": 25,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -1108,7 +1108,7 @@
           "id": 40878,
           "nome": "L. de Jong",
           "numeroCamisa": 26,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -1136,7 +1136,7 @@
           "id": 875136,
           "nome": "N. Lang",
           "numeroCamisa": 77,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -1152,7 +1152,7 @@
   "10230548": {
     "selecao01": {
       "id": 4724,
-      "nome": "USA",
+      "nome": "Estados Unidos",
       "escudo": "https://img.sofascore.com/api/v1/team/4724/image",
       "tecnico": null,
       "formacao": "4-3-3",
@@ -1224,14 +1224,14 @@
           "id": 880796,
           "nome": "J. Sargent",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 817957,
           "nome": "C. Pulišić",
           "numeroCamisa": 11,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         }
       ],
@@ -1254,7 +1254,7 @@
           "id": 818391,
           "nome": "H. Wright",
           "numeroCamisa": 11,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -1268,7 +1268,7 @@
           "id": 772421,
           "nome": "J. Morris",
           "numeroCamisa": 13,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -1345,7 +1345,7 @@
     },
     "selecao02": {
       "id": 4702,
-      "nome": "Wales",
+      "nome": "País de Gales",
       "escudo": "https://img.sofascore.com/api/v1/team/4702/image",
       "tecnico": null,
       "formacao": "3-5-2",
@@ -1417,7 +1417,7 @@
           "id": 15354,
           "nome": "G. Bale",
           "numeroCamisa": null,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -1433,14 +1433,14 @@
           "id": 298366,
           "nome": "K. Moore",
           "numeroCamisa": 19,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 1085180,
           "nome": "B. Johnson",
           "numeroCamisa": 11,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -1489,7 +1489,7 @@
           "id": 1064263,
           "nome": "M. Harris",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -1584,7 +1584,7 @@
           "id": 30027,
           "nome": "Á. Di María",
           "numeroCamisa": 11,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -1612,14 +1612,14 @@
           "id": 12994,
           "nome": "L. Messi",
           "numeroCamisa": 10,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 823984,
           "nome": "L. Martínez",
           "numeroCamisa": 10,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         }
       ],
@@ -1642,7 +1642,7 @@
           "id": 944656,
           "nome": "J. Álvarez",
           "numeroCamisa": 19,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -1663,7 +1663,7 @@
           "id": 316152,
           "nome": "Á. Correa",
           "numeroCamisa": 7,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -1684,7 +1684,7 @@
           "id": 256219,
           "nome": "P. Dybala",
           "numeroCamisa": 21,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -1733,7 +1733,7 @@
     },
     "selecao02": {
       "id": 4834,
-      "nome": "Saudi Arabia",
+      "nome": "Arábia Saudita",
       "escudo": "https://img.sofascore.com/api/v1/team/4834/image",
       "tecnico": null,
       "formacao": "4-1-4-1",
@@ -1784,7 +1784,7 @@
           "id": 893307,
           "nome": "F. Al-Buraikan",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -1812,7 +1812,7 @@
           "id": 818779,
           "nome": "S. Al-Shehri",
           "numeroCamisa": 11,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         }
       ],
@@ -1842,7 +1842,7 @@
           "id": 1118489,
           "nome": "H. M. Asiri",
           "numeroCamisa": 19,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -1884,7 +1884,7 @@
           "id": 872275,
           "nome": "A. Alobud",
           "numeroCamisa": 24,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -1921,7 +1921,7 @@
   "10230576": {
     "selecao01": {
       "id": 4476,
-      "nome": "Denmark",
+      "nome": "Dinamarca",
       "escudo": "https://img.sofascore.com/api/v1/team/4476/image",
       "tecnico": null,
       "formacao": "3-5-2",
@@ -2000,7 +2000,7 @@
           "id": 795761,
           "nome": "K. Dolberg",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         }
       ],
@@ -2030,14 +2030,14 @@
           "id": 183483,
           "nome": "A. Cornelius",
           "numeroCamisa": 14,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 135264,
           "nome": "Y. Poulsen",
           "numeroCamisa": 15,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -2058,14 +2058,14 @@
           "id": 826069,
           "nome": "J. Wind",
           "numeroCamisa": 23,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 66471,
           "nome": "M. Braithwaite",
           "numeroCamisa": 22,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -2114,7 +2114,7 @@
     },
     "selecao02": {
       "id": 4729,
-      "nome": "Tunisia",
+      "nome": "Tunísia",
       "escudo": "https://img.sofascore.com/api/v1/team/4729/image",
       "tecnico": null,
       "formacao": "3-4-2-1",
@@ -2193,7 +2193,7 @@
           "id": 793187,
           "nome": "I. Jebali",
           "numeroCamisa": 11,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         }
       ],
@@ -2216,7 +2216,7 @@
           "id": 205650,
           "nome": "T. Khenissi",
           "numeroCamisa": 27,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -2251,7 +2251,7 @@
           "id": 918996,
           "nome": "S. Jaziri",
           "numeroCamisa": 30,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -2300,7 +2300,7 @@
           "id": 51640,
           "nome": "W. Khazri",
           "numeroCamisa": null,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         }
       ]
@@ -2309,7 +2309,7 @@
   "10230565": {
     "selecao01": {
       "id": 4781,
-      "nome": "Mexico",
+      "nome": "México",
       "escudo": "https://img.sofascore.com/api/v1/team/4781/image",
       "tecnico": null,
       "formacao": "4-3-3",
@@ -2374,14 +2374,14 @@
           "id": 385320,
           "nome": "H. Lozano",
           "numeroCamisa": 11,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 755408,
           "nome": "H. Martín",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -2404,14 +2404,14 @@
           "id": 192442,
           "nome": "R. Jiménez",
           "numeroCamisa": 7,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 843198,
           "nome": "U. Antuna",
           "numeroCamisa": 21,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -2446,7 +2446,7 @@
           "id": 105961,
           "nome": "R. Funes Mori",
           "numeroCamisa": 18,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -2474,7 +2474,7 @@
           "id": 865500,
           "nome": "R. Alvarado",
           "numeroCamisa": 25,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -2502,7 +2502,7 @@
     },
     "selecao02": {
       "id": 4703,
-      "nome": "Poland",
+      "nome": "Polônia",
       "escudo": "https://img.sofascore.com/api/v1/team/4703/image",
       "tecnico": null,
       "formacao": "3-5-2",
@@ -2581,7 +2581,7 @@
           "id": 41789,
           "nome": "R. Lewandowski",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         }
       ],
@@ -2604,7 +2604,7 @@
           "id": 161325,
           "nome": "A. Milik",
           "numeroCamisa": 14,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -2618,7 +2618,7 @@
           "id": 576438,
           "nome": "K. Świderski",
           "numeroCamisa": 19,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -2667,7 +2667,7 @@
           "id": 558738,
           "nome": "K. Piątek",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -2688,7 +2688,7 @@
           "id": 860435,
           "nome": "S. Żurkowski",
           "numeroCamisa": 14,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         }
       ]
@@ -2697,7 +2697,7 @@
   "10230563": {
     "selecao01": {
       "id": 4481,
-      "nome": "France",
+      "nome": "França",
       "escudo": "https://img.sofascore.com/api/v1/team/4481/image",
       "tecnico": null,
       "formacao": "4-2-3-1",
@@ -2755,28 +2755,28 @@
           "id": 818244,
           "nome": "O. Dembélé",
           "numeroCamisa": 10,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 85859,
           "nome": "A. Griezmann",
           "numeroCamisa": 7,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 826643,
           "nome": "K. Mbappé",
           "numeroCamisa": 10,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 39070,
           "nome": "O. Giroud",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         }
       ],
@@ -2813,7 +2813,7 @@
           "id": 791702,
           "nome": "M. Thuram",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -2876,14 +2876,14 @@
           "id": 871706,
           "nome": "R. K. Muani",
           "numeroCamisa": 39,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         }
       ]
     },
     "selecao02": {
       "id": 4741,
-      "nome": "Australia",
+      "nome": "Austrália",
       "escudo": "https://img.sofascore.com/api/v1/team/4741/image",
       "tecnico": null,
       "formacao": "4-1-4-1",
@@ -2962,7 +2962,7 @@
           "id": 146970,
           "nome": "M. Duke",
           "numeroCamisa": 15,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         }
       ],
@@ -2971,7 +2971,7 @@
           "id": 346296,
           "nome": "J. Cummings",
           "numeroCamisa": 35,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -2985,7 +2985,7 @@
           "id": 1169124,
           "nome": "G. Kuol",
           "numeroCamisa": 36,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -3069,7 +3069,7 @@
           "id": 333143,
           "nome": "J. MacLaren",
           "numeroCamisa": 29,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         }
       ]
@@ -3078,7 +3078,7 @@
   "10230570": {
     "selecao01": {
       "id": 4778,
-      "nome": "Morocco",
+      "nome": "Marrocos",
       "escudo": "https://img.sofascore.com/api/v1/team/4778/image",
       "tecnico": null,
       "formacao": "4-3-3",
@@ -3150,14 +3150,14 @@
           "id": 846470,
           "nome": "Y. En-Nesyri",
           "numeroCamisa": 21,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 257205,
           "nome": "S. Boufal",
           "numeroCamisa": 17,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         }
       ],
@@ -3180,7 +3180,7 @@
           "id": 826961,
           "nome": "A. Hamdallah",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -3194,7 +3194,7 @@
           "id": 856737,
           "nome": "Z. Aboukhlal",
           "numeroCamisa": 7,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -3257,21 +3257,21 @@
           "id": 917485,
           "nome": "W. Cheddira",
           "numeroCamisa": 99,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 877036,
           "nome": "A. Zaroury",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         }
       ]
     },
     "selecao02": {
       "id": 4715,
-      "nome": "Croatia",
+      "nome": "Croácia",
       "escudo": "https://img.sofascore.com/api/v1/team/4715/image",
       "tecnico": null,
       "formacao": "4-3-3",
@@ -3343,7 +3343,7 @@
           "id": 67647,
           "nome": "A. Kramarić",
           "numeroCamisa": 27,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -3366,7 +3366,7 @@
           "id": 94226,
           "nome": "M. Livaja",
           "numeroCamisa": 10,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -3415,14 +3415,14 @@
           "id": 37318,
           "nome": "A. Budimir",
           "numeroCamisa": 17,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 309306,
           "nome": "B. Petković",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -3466,7 +3466,7 @@
   "10230562": {
     "selecao01": {
       "id": 4711,
-      "nome": "Germany",
+      "nome": "Alemanha",
       "escudo": "https://img.sofascore.com/api/v1/team/4711/image",
       "tecnico": null,
       "formacao": "4-2-3-1",
@@ -3545,7 +3545,7 @@
           "id": 836705,
           "nome": "K. Havertz",
           "numeroCamisa": 29,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         }
       ],
@@ -3554,7 +3554,7 @@
           "id": 142390,
           "nome": "J. Hofmann",
           "numeroCamisa": 7,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -3575,14 +3575,14 @@
           "id": 132645,
           "nome": "N. Füllkrug",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 997006,
           "nome": "Y. Moukoko",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -3603,14 +3603,14 @@
           "id": 226978,
           "nome": "J. Brandt",
           "numeroCamisa": 10,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 940054,
           "nome": "K. Adeyemi",
           "numeroCamisa": 27,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -3659,7 +3659,7 @@
     },
     "selecao02": {
       "id": 4770,
-      "nome": "Japan",
+      "nome": "Japão",
       "escudo": "https://img.sofascore.com/api/v1/team/4770/image",
       "tecnico": null,
       "formacao": "4-2-3-1",
@@ -3738,7 +3738,7 @@
           "id": 832420,
           "nome": "D. Maeda",
           "numeroCamisa": 38,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         }
       ],
@@ -3782,7 +3782,7 @@
           "id": 925910,
           "nome": "S. Machino",
           "numeroCamisa": 18,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -3796,7 +3796,7 @@
           "id": 945290,
           "nome": "Y. Soma",
           "numeroCamisa": 7,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -3817,7 +3817,7 @@
           "id": 985823,
           "nome": "A. Ueda",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -3854,7 +3854,7 @@
   "10230571": {
     "selecao01": {
       "id": 4698,
-      "nome": "Spain",
+      "nome": "Espanha",
       "escudo": "https://img.sofascore.com/api/v1/team/4698/image",
       "tecnico": null,
       "formacao": "4-3-3",
@@ -3919,7 +3919,7 @@
           "id": 855833,
           "nome": "F. Torres",
           "numeroCamisa": 7,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -3942,7 +3942,7 @@
           "id": 125407,
           "nome": "Á. Morata",
           "numeroCamisa": 7,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -4005,7 +4005,7 @@
           "id": 984624,
           "nome": "Y. Pino",
           "numeroCamisa": 10,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -4040,7 +4040,7 @@
           "id": 962883,
           "nome": "A. Fati",
           "numeroCamisa": 31,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         }
       ]
@@ -4233,7 +4233,7 @@
           "id": 345343,
           "nome": "J. Venegas",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         }
       ]
@@ -4242,7 +4242,7 @@
   "10230559": {
     "selecao01": {
       "id": 4717,
-      "nome": "Belgium",
+      "nome": "Bélgica",
       "escudo": "https://img.sofascore.com/api/v1/team/4717/image",
       "tecnico": null,
       "formacao": "3-4-2-1",
@@ -4300,7 +4300,7 @@
           "id": 182001,
           "nome": "Y. Carrasco",
           "numeroCamisa": 10,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -4314,14 +4314,14 @@
           "id": 27583,
           "nome": "E. Hazard",
           "numeroCamisa": null,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 147745,
           "nome": "M. Batshuayi",
           "numeroCamisa": 30,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         }
       ],
@@ -4344,14 +4344,14 @@
           "id": 135666,
           "nome": "L. Trossard",
           "numeroCamisa": 19,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 835480,
           "nome": "L. Openda",
           "numeroCamisa": 20,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -4386,7 +4386,7 @@
           "id": 960441,
           "nome": "C. De Ketelaere",
           "numeroCamisa": 17,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -4428,7 +4428,7 @@
     },
     "selecao02": {
       "id": 4752,
-      "nome": "Canada",
+      "nome": "Canadá",
       "escudo": "https://img.sofascore.com/api/v1/team/4752/image",
       "tecnico": null,
       "formacao": "3-4-2-1",
@@ -4500,14 +4500,14 @@
           "id": 33478,
           "nome": "J. Hoilett",
           "numeroCamisa": 30,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 935564,
           "nome": "J. David",
           "numeroCamisa": 30,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         }
       ],
@@ -4523,7 +4523,7 @@
           "id": 790179,
           "nome": "C. Larin",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -4579,7 +4579,7 @@
           "id": 791987,
           "nome": "I. Ugbo",
           "numeroCamisa": 11,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -4607,7 +4607,7 @@
           "id": 846412,
           "nome": "L. Cavallini",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -4623,7 +4623,7 @@
   "10230569": {
     "selecao01": {
       "id": 4699,
-      "nome": "Switzerland",
+      "nome": "Suíça",
       "escudo": "https://img.sofascore.com/api/v1/team/4699/image",
       "tecnico": null,
       "formacao": "4-2-3-1",
@@ -4702,7 +4702,7 @@
           "id": 352296,
           "nome": "B. Embolo",
           "numeroCamisa": 7,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         }
       ],
@@ -4718,14 +4718,14 @@
           "id": 865523,
           "nome": "N. Okafor",
           "numeroCamisa": 19,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 50899,
           "nome": "H. Seferović",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -4809,7 +4809,7 @@
     },
     "selecao02": {
       "id": 4751,
-      "nome": "Cameroon",
+      "nome": "Camarões",
       "escudo": "https://img.sofascore.com/api/v1/team/4751/image",
       "tecnico": null,
       "formacao": "4-3-3",
@@ -4874,21 +4874,21 @@
           "id": 927083,
           "nome": "B. Mbeumo",
           "numeroCamisa": 19,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 21626,
           "nome": "E. M. Choupo-Moting",
           "numeroCamisa": 13,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 842931,
           "nome": "K. Toko Ekambi",
           "numeroCamisa": 18,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         }
       ],
@@ -4911,7 +4911,7 @@
           "id": 116869,
           "nome": "V. Aboubakar",
           "numeroCamisa": 45,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -4960,14 +4960,14 @@
           "id": 231614,
           "nome": "J. Nsamé",
           "numeroCamisa": 18,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 1109128,
           "nome": "S. Marou",
           "numeroCamisa": 26,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -5004,7 +5004,7 @@
   "10230530": {
     "selecao01": {
       "id": 4725,
-      "nome": "Uruguay",
+      "nome": "Uruguai",
       "escudo": "https://img.sofascore.com/api/v1/team/4725/image",
       "tecnico": null,
       "formacao": "4-3-3",
@@ -5076,14 +5076,14 @@
           "id": 16943,
           "nome": "L. Suárez",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 924871,
           "nome": "D. Núñez",
           "numeroCamisa": 7,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         }
       ],
@@ -5092,7 +5092,7 @@
           "id": 21521,
           "nome": "E. Cavani",
           "numeroCamisa": 10,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -5134,7 +5134,7 @@
           "id": 805245,
           "nome": "M. Gómez",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -5190,7 +5190,7 @@
     },
     "selecao02": {
       "id": 4735,
-      "nome": "South Korea",
+      "nome": "Coreia do Sul",
       "escudo": "https://img.sofascore.com/api/v1/team/4735/image",
       "tecnico": null,
       "formacao": "4-2-3-1",
@@ -5248,7 +5248,7 @@
           "id": 964307,
           "nome": "S. Na",
           "numeroCamisa": 10,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -5262,14 +5262,14 @@
           "id": 111505,
           "nome": "H. M. Son",
           "numeroCamisa": 7,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 791314,
           "nome": "U. Hwang",
           "numeroCamisa": 16,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         }
       ],
@@ -5278,7 +5278,7 @@
           "id": 1014281,
           "nome": "G. Cho",
           "numeroCamisa": 10,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -5306,7 +5306,7 @@
           "id": 927405,
           "nome": "W. Jeong",
           "numeroCamisa": 11,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -5320,7 +5320,7 @@
           "id": 786186,
           "nome": "H. Hwang",
           "numeroCamisa": 11,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -5457,14 +5457,14 @@
           "id": 750,
           "nome": "C. Ronaldo",
           "numeroCamisa": 7,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 851671,
           "nome": "J. Félix",
           "numeroCamisa": 79,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         }
       ],
@@ -5480,7 +5480,7 @@
           "id": 851284,
           "nome": "R. Leão",
           "numeroCamisa": 10,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -5501,7 +5501,7 @@
           "id": 934510,
           "nome": "G. Ramos",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -5515,7 +5515,7 @@
           "id": 314380,
           "nome": "R. Horta",
           "numeroCamisa": 21,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -5529,7 +5529,7 @@
           "id": 190159,
           "nome": "A. Silva",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -5571,7 +5571,7 @@
     },
     "selecao02": {
       "id": 4764,
-      "nome": "Ghana",
+      "nome": "Gana",
       "escudo": "https://img.sofascore.com/api/v1/team/4764/image",
       "tecnico": null,
       "formacao": "5-3-2",
@@ -5643,7 +5643,7 @@
           "id": 27035,
           "nome": "A. Ayew",
           "numeroCamisa": 24,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -5673,7 +5673,7 @@
           "id": 103045,
           "nome": "J. Ayew",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -5701,7 +5701,7 @@
           "id": 1019442,
           "nome": "K. Sulemana",
           "numeroCamisa": 7,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -5736,7 +5736,7 @@
           "id": 1103077,
           "nome": "D. Afriyie",
           "numeroCamisa": 18,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -5766,7 +5766,7 @@
   "10230567": {
     "selecao01": {
       "id": 4748,
-      "nome": "Brazil",
+      "nome": "Brasil",
       "escudo": "https://img.sofascore.com/api/v1/team/4748/image",
       "tecnico": null,
       "formacao": "4-2-3-1",
@@ -5831,21 +5831,21 @@
           "id": 124712,
           "nome": "Neymar",
           "numeroCamisa": 10,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 868812,
           "nome": "Vinícius Jr.",
           "numeroCamisa": 7,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 840217,
           "nome": "Richarlison",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         }
       ],
@@ -5861,14 +5861,14 @@
           "id": 910536,
           "nome": "Rodrygo",
           "numeroCamisa": 11,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 794839,
           "nome": "G. Jesus",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -5882,7 +5882,7 @@
           "id": 922573,
           "nome": "G. Martinelli",
           "numeroCamisa": 11,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -5938,7 +5938,7 @@
           "id": 840219,
           "nome": "Pedro",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -5959,7 +5959,7 @@
     },
     "selecao02": {
       "id": 6355,
-      "nome": "Serbia",
+      "nome": "Sérvia",
       "escudo": "https://img.sofascore.com/api/v1/team/6355/image",
       "tecnico": null,
       "formacao": "3-4-2-1",
@@ -6024,7 +6024,7 @@
           "id": 38560,
           "nome": "D. Tadić",
           "numeroCamisa": 10,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -6038,7 +6038,7 @@
           "id": 192144,
           "nome": "A. Mitrović",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         }
       ],
@@ -6068,7 +6068,7 @@
           "id": 832208,
           "nome": "D. Vlahović",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -6145,7 +6145,7 @@
           "id": 319129,
           "nome": "L. Jović",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         }
       ]
@@ -6154,7 +6154,7 @@
   "10230556": {
     "selecao01": {
       "id": 4702,
-      "nome": "Wales",
+      "nome": "País de Gales",
       "escudo": "https://img.sofascore.com/api/v1/team/4702/image",
       "tecnico": null,
       "formacao": "3-5-2",
@@ -6226,14 +6226,14 @@
           "id": 15354,
           "nome": "G. Bale",
           "numeroCamisa": null,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 298366,
           "nome": "K. Moore",
           "numeroCamisa": 19,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         }
       ],
@@ -6242,7 +6242,7 @@
           "id": 1085180,
           "nome": "B. Johnson",
           "numeroCamisa": 11,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -6298,7 +6298,7 @@
           "id": 1064263,
           "nome": "M. Harris",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -6347,7 +6347,7 @@
     },
     "selecao02": {
       "id": 4766,
-      "nome": "Iran",
+      "nome": "Irã",
       "escudo": "https://img.sofascore.com/api/v1/team/4766/image",
       "tecnico": null,
       "formacao": "4-3-3",
@@ -6419,14 +6419,14 @@
           "id": 150998,
           "nome": "S. Azmoun",
           "numeroCamisa": 20,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 812533,
           "nome": "M. Taremi",
           "numeroCamisa": 99,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         }
       ],
@@ -6435,21 +6435,21 @@
           "id": 144594,
           "nome": "K. A. Fard",
           "numeroCamisa": null,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 812953,
           "nome": "M. Torabi",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 331837,
           "nome": "A. Jahanbakhsh",
           "numeroCamisa": 27,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -6528,7 +6528,7 @@
   "10230537": {
     "selecao01": {
       "id": 4792,
-      "nome": "Qatar",
+      "nome": "Catar",
       "escudo": "https://img.sofascore.com/api/v1/team/4792/image",
       "tecnico": null,
       "formacao": "5-3-2",
@@ -6586,7 +6586,7 @@
           "id": 93953,
           "nome": "H. A. Haydos",
           "numeroCamisa": 10,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -6623,7 +6623,7 @@
           "id": 326185,
           "nome": "M. Muntari",
           "numeroCamisa": 3,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -6658,7 +6658,7 @@
           "id": 229278,
           "nome": "A. Alaaeldin",
           "numeroCamisa": 30,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -6758,7 +6758,7 @@
           "id": 845286,
           "nome": "I. Sarr",
           "numeroCamisa": 7,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -6786,14 +6786,14 @@
           "id": 960080,
           "nome": "B. Dia",
           "numeroCamisa": 19,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 293115,
           "nome": "F. Diédhiou",
           "numeroCamisa": 18,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         }
       ],
@@ -6809,7 +6809,7 @@
           "id": 1102503,
           "nome": "A. B. Dieng",
           "numeroCamisa": 12,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -6865,7 +6865,7 @@
           "id": 1085381,
           "nome": "N. Jackson",
           "numeroCamisa": 11,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -6895,7 +6895,7 @@
   "10230529": {
     "selecao01": {
       "id": 4705,
-      "nome": "Netherlands",
+      "nome": "Países Baixos",
       "escudo": "https://img.sofascore.com/api/v1/team/4705/image",
       "tecnico": null,
       "formacao": "3-4-1-2",
@@ -6983,14 +6983,14 @@
           "id": 138833,
           "nome": "M. Depay",
           "numeroCamisa": 10,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 100386,
           "nome": "S. Berghuis",
           "numeroCamisa": 23,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -7004,7 +7004,7 @@
           "id": 252215,
           "nome": "W. Weghorst",
           "numeroCamisa": 25,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -7025,7 +7025,7 @@
           "id": 875136,
           "nome": "N. Lang",
           "numeroCamisa": 77,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -7039,14 +7039,14 @@
           "id": 40878,
           "nome": "L. de Jong",
           "numeroCamisa": 26,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 339901,
           "nome": "V. Janssen",
           "numeroCamisa": 18,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -7088,7 +7088,7 @@
     },
     "selecao02": {
       "id": 4757,
-      "nome": "Ecuador",
+      "nome": "Equador",
       "escudo": "https://img.sofascore.com/api/v1/team/4757/image",
       "tecnico": null,
       "formacao": "3-4-2-1",
@@ -7160,14 +7160,14 @@
           "id": 106456,
           "nome": "E. Valencia",
           "numeroCamisa": 10,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 860561,
           "nome": "M. Estrada",
           "numeroCamisa": 11,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         }
       ],
@@ -7190,7 +7190,7 @@
           "id": 1431770,
           "nome": "K. Rodríguez",
           "numeroCamisa": 13,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -7246,7 +7246,7 @@
           "id": 873890,
           "nome": "D. Reascos",
           "numeroCamisa": 99,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -7283,7 +7283,7 @@
   "10230557": {
     "selecao01": {
       "id": 4713,
-      "nome": "England",
+      "nome": "Inglaterra",
       "escudo": "https://img.sofascore.com/api/v1/team/4713/image",
       "tecnico": null,
       "formacao": "4-2-3-1",
@@ -7341,7 +7341,7 @@
           "id": 934235,
           "nome": "B. Saka",
           "numeroCamisa": 7,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -7355,14 +7355,14 @@
           "id": 138534,
           "nome": "R. Sterling",
           "numeroCamisa": 19,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 108579,
           "nome": "H. Kane",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         }
       ],
@@ -7385,7 +7385,7 @@
           "id": 814590,
           "nome": "M. Rashford",
           "numeroCamisa": 14,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -7462,14 +7462,14 @@
           "id": 113956,
           "nome": "C. Wilson",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         }
       ]
     },
     "selecao02": {
       "id": 4724,
-      "nome": "USA",
+      "nome": "Estados Unidos",
       "escudo": "https://img.sofascore.com/api/v1/team/4724/image",
       "tecnico": null,
       "formacao": "4-4-2",
@@ -7534,7 +7534,7 @@
           "id": 817957,
           "nome": "C. Pulišić",
           "numeroCamisa": 11,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -7548,7 +7548,7 @@
           "id": 818391,
           "nome": "H. Wright",
           "numeroCamisa": 11,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         }
       ],
@@ -7578,7 +7578,7 @@
           "id": 880796,
           "nome": "J. Sargent",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -7606,7 +7606,7 @@
           "id": 772421,
           "nome": "J. Morris",
           "numeroCamisa": 13,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -7664,7 +7664,7 @@
   "10230574": {
     "selecao01": {
       "id": 4729,
-      "nome": "Tunisia",
+      "nome": "Tunísia",
       "escudo": "https://img.sofascore.com/api/v1/team/4729/image",
       "tecnico": null,
       "formacao": "3-4-2-1",
@@ -7743,7 +7743,7 @@
           "id": 793187,
           "nome": "I. Jebali",
           "numeroCamisa": 11,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         }
       ],
@@ -7759,7 +7759,7 @@
           "id": 51640,
           "nome": "W. Khazri",
           "numeroCamisa": null,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -7773,7 +7773,7 @@
           "id": 205650,
           "nome": "T. Khenissi",
           "numeroCamisa": 27,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -7843,7 +7843,7 @@
           "id": 918996,
           "nome": "S. Jaziri",
           "numeroCamisa": 30,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -7857,7 +7857,7 @@
     },
     "selecao02": {
       "id": 4741,
-      "nome": "Australia",
+      "nome": "Austrália",
       "escudo": "https://img.sofascore.com/api/v1/team/4741/image",
       "tecnico": null,
       "formacao": "4-3-3",
@@ -7929,7 +7929,7 @@
           "id": 146970,
           "nome": "M. Duke",
           "numeroCamisa": 15,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -7945,7 +7945,7 @@
           "id": 333143,
           "nome": "J. MacLaren",
           "numeroCamisa": 29,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -7980,7 +7980,7 @@
           "id": 346296,
           "nome": "J. Cummings",
           "numeroCamisa": 35,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -8029,7 +8029,7 @@
           "id": 1169124,
           "nome": "G. Kuol",
           "numeroCamisa": 36,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -8045,7 +8045,7 @@
   "10230542": {
     "selecao01": {
       "id": 4703,
-      "nome": "Poland",
+      "nome": "Polônia",
       "escudo": "https://img.sofascore.com/api/v1/team/4703/image",
       "tecnico": null,
       "formacao": "3-4-1-2",
@@ -8117,14 +8117,14 @@
           "id": 161325,
           "nome": "A. Milik",
           "numeroCamisa": 14,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 41789,
           "nome": "R. Lewandowski",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         }
       ],
@@ -8140,7 +8140,7 @@
           "id": 558738,
           "nome": "K. Piątek",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -8161,7 +8161,7 @@
           "id": 576438,
           "nome": "K. Świderski",
           "numeroCamisa": 19,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -8224,7 +8224,7 @@
           "id": 860435,
           "nome": "S. Żurkowski",
           "numeroCamisa": 14,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -8238,7 +8238,7 @@
     },
     "selecao02": {
       "id": 4834,
-      "nome": "Saudi Arabia",
+      "nome": "Arábia Saudita",
       "escudo": "https://img.sofascore.com/api/v1/team/4834/image",
       "tecnico": null,
       "formacao": "4-1-4-1",
@@ -8289,7 +8289,7 @@
           "id": 893307,
           "nome": "F. Al-Buraikan",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -8317,7 +8317,7 @@
           "id": 818779,
           "nome": "S. Al-Shehri",
           "numeroCamisa": 11,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         }
       ],
@@ -8340,7 +8340,7 @@
           "id": 872275,
           "nome": "A. Alobud",
           "numeroCamisa": 24,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -8382,7 +8382,7 @@
           "id": 1118489,
           "nome": "H. M. Asiri",
           "numeroCamisa": 19,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -8412,7 +8412,7 @@
   "10230577": {
     "selecao01": {
       "id": 4481,
-      "nome": "France",
+      "nome": "França",
       "escudo": "https://img.sofascore.com/api/v1/team/4481/image",
       "tecnico": null,
       "formacao": "4-2-3-1",
@@ -8470,28 +8470,28 @@
           "id": 818244,
           "nome": "O. Dembélé",
           "numeroCamisa": 10,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 85859,
           "nome": "A. Griezmann",
           "numeroCamisa": 7,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 826643,
           "nome": "K. Mbappé",
           "numeroCamisa": 10,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 39070,
           "nome": "O. Giroud",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         }
       ],
@@ -8500,7 +8500,7 @@
           "id": 791702,
           "nome": "M. Thuram",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -8542,7 +8542,7 @@
           "id": 871706,
           "nome": "R. K. Muani",
           "numeroCamisa": 39,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -8591,7 +8591,7 @@
     },
     "selecao02": {
       "id": 4476,
-      "nome": "Denmark",
+      "nome": "Dinamarca",
       "escudo": "https://img.sofascore.com/api/v1/team/4476/image",
       "tecnico": null,
       "formacao": "3-4-2-1",
@@ -8670,7 +8670,7 @@
           "id": 183483,
           "nome": "A. Cornelius",
           "numeroCamisa": 14,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         }
       ],
@@ -8679,14 +8679,14 @@
           "id": 66471,
           "nome": "M. Braithwaite",
           "numeroCamisa": 22,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 795761,
           "nome": "K. Dolberg",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -8735,7 +8735,7 @@
           "id": 135264,
           "nome": "Y. Poulsen",
           "numeroCamisa": 15,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -8749,7 +8749,7 @@
           "id": 826069,
           "nome": "J. Wind",
           "numeroCamisa": 23,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -8823,7 +8823,7 @@
           "id": 30027,
           "nome": "Á. Di María",
           "numeroCamisa": 11,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -8851,14 +8851,14 @@
           "id": 12994,
           "nome": "L. Messi",
           "numeroCamisa": 10,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 823984,
           "nome": "L. Martínez",
           "numeroCamisa": 10,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         }
       ],
@@ -8874,7 +8874,7 @@
           "id": 944656,
           "nome": "J. Álvarez",
           "numeroCamisa": 19,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -8930,7 +8930,7 @@
           "id": 316152,
           "nome": "Á. Correa",
           "numeroCamisa": 7,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -8944,7 +8944,7 @@
           "id": 256219,
           "nome": "P. Dybala",
           "numeroCamisa": 21,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -8972,7 +8972,7 @@
     },
     "selecao02": {
       "id": 4781,
-      "nome": "Mexico",
+      "nome": "México",
       "escudo": "https://img.sofascore.com/api/v1/team/4781/image",
       "tecnico": null,
       "formacao": "5-3-2",
@@ -9044,7 +9044,7 @@
           "id": 385320,
           "nome": "H. Lozano",
           "numeroCamisa": 11,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -9067,21 +9067,21 @@
           "id": 192442,
           "nome": "R. Jiménez",
           "numeroCamisa": 7,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 843198,
           "nome": "U. Antuna",
           "numeroCamisa": 21,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 865500,
           "nome": "R. Alvarado",
           "numeroCamisa": 25,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -9130,7 +9130,7 @@
           "id": 105961,
           "nome": "R. Funes Mori",
           "numeroCamisa": 18,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -9158,7 +9158,7 @@
           "id": 755408,
           "nome": "H. Martín",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         }
       ]
@@ -9167,7 +9167,7 @@
   "10230564": {
     "selecao01": {
       "id": 4770,
-      "nome": "Japan",
+      "nome": "Japão",
       "escudo": "https://img.sofascore.com/api/v1/team/4770/image",
       "tecnico": null,
       "formacao": "4-2-3-1",
@@ -9239,14 +9239,14 @@
           "id": 945290,
           "nome": "Y. Soma",
           "numeroCamisa": 7,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 985823,
           "nome": "A. Ueda",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         }
       ],
@@ -9304,14 +9304,14 @@
           "id": 925910,
           "nome": "S. Machino",
           "numeroCamisa": 18,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 832420,
           "nome": "D. Maeda",
           "numeroCamisa": 38,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -9511,7 +9511,7 @@
           "id": 345343,
           "nome": "J. Venegas",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -9555,7 +9555,7 @@
   "10230545": {
     "selecao01": {
       "id": 4717,
-      "nome": "Belgium",
+      "nome": "Bélgica",
       "escudo": "https://img.sofascore.com/api/v1/team/4717/image",
       "tecnico": null,
       "formacao": "4-2-3-1",
@@ -9620,7 +9620,7 @@
           "id": 27583,
           "nome": "E. Hazard",
           "numeroCamisa": null,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -9634,7 +9634,7 @@
           "id": 147745,
           "nome": "M. Batshuayi",
           "numeroCamisa": 30,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         }
       ],
@@ -9657,21 +9657,21 @@
           "id": 135666,
           "nome": "L. Trossard",
           "numeroCamisa": 19,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 960441,
           "nome": "C. De Ketelaere",
           "numeroCamisa": 17,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 78893,
           "nome": "R. Lukaku",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -9706,7 +9706,7 @@
           "id": 182001,
           "nome": "Y. Carrasco",
           "numeroCamisa": 10,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -9720,7 +9720,7 @@
           "id": 835480,
           "nome": "L. Openda",
           "numeroCamisa": 20,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -9748,7 +9748,7 @@
     },
     "selecao02": {
       "id": 4778,
-      "nome": "Morocco",
+      "nome": "Marrocos",
       "escudo": "https://img.sofascore.com/api/v1/team/4778/image",
       "tecnico": null,
       "formacao": "4-3-3",
@@ -9820,14 +9820,14 @@
           "id": 846470,
           "nome": "Y. En-Nesyri",
           "numeroCamisa": 21,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 257205,
           "nome": "S. Boufal",
           "numeroCamisa": 17,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         }
       ],
@@ -9850,14 +9850,14 @@
           "id": 856737,
           "nome": "Z. Aboukhlal",
           "numeroCamisa": 7,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 826961,
           "nome": "A. Hamdallah",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -9892,7 +9892,7 @@
           "id": 877036,
           "nome": "A. Zaroury",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -9913,7 +9913,7 @@
           "id": 917485,
           "nome": "W. Cheddira",
           "numeroCamisa": 99,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -9936,7 +9936,7 @@
   "10230550": {
     "selecao01": {
       "id": 4715,
-      "nome": "Croatia",
+      "nome": "Croácia",
       "escudo": "https://img.sofascore.com/api/v1/team/4715/image",
       "tecnico": null,
       "formacao": "4-3-3",
@@ -10001,14 +10001,14 @@
           "id": 94226,
           "nome": "M. Livaja",
           "numeroCamisa": 10,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 67647,
           "nome": "A. Kramarić",
           "numeroCamisa": 27,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -10024,7 +10024,7 @@
           "id": 309306,
           "nome": "B. Petković",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -10080,7 +10080,7 @@
           "id": 37318,
           "nome": "A. Budimir",
           "numeroCamisa": 17,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -10122,7 +10122,7 @@
     },
     "selecao02": {
       "id": 4752,
-      "nome": "Canada",
+      "nome": "Canadá",
       "escudo": "https://img.sofascore.com/api/v1/team/4752/image",
       "tecnico": null,
       "formacao": "3-4-3",
@@ -10194,14 +10194,14 @@
           "id": 790179,
           "nome": "C. Larin",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 935564,
           "nome": "J. David",
           "numeroCamisa": 30,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         }
       ],
@@ -10224,14 +10224,14 @@
           "id": 33478,
           "nome": "J. Hoilett",
           "numeroCamisa": 30,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 846412,
           "nome": "L. Cavallini",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -10280,7 +10280,7 @@
           "id": 791987,
           "nome": "I. Ugbo",
           "numeroCamisa": 11,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -10317,7 +10317,7 @@
   "10230575": {
     "selecao01": {
       "id": 4698,
-      "nome": "Spain",
+      "nome": "Espanha",
       "escudo": "https://img.sofascore.com/api/v1/team/4698/image",
       "tecnico": null,
       "formacao": "4-3-3",
@@ -10382,7 +10382,7 @@
           "id": 855833,
           "nome": "F. Torres",
           "numeroCamisa": 7,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -10405,7 +10405,7 @@
           "id": 125407,
           "nome": "Á. Morata",
           "numeroCamisa": 7,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -10461,7 +10461,7 @@
           "id": 984624,
           "nome": "Y. Pino",
           "numeroCamisa": 10,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -10489,7 +10489,7 @@
           "id": 962883,
           "nome": "A. Fati",
           "numeroCamisa": 31,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -10510,7 +10510,7 @@
     },
     "selecao02": {
       "id": 4711,
-      "nome": "Germany",
+      "nome": "Alemanha",
       "escudo": "https://img.sofascore.com/api/v1/team/4711/image",
       "tecnico": null,
       "formacao": "4-2-3-1",
@@ -10598,7 +10598,7 @@
           "id": 132645,
           "nome": "N. Füllkrug",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -10619,7 +10619,7 @@
           "id": 142390,
           "nome": "J. Hofmann",
           "numeroCamisa": 7,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -10633,21 +10633,21 @@
           "id": 836705,
           "nome": "K. Havertz",
           "numeroCamisa": 29,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 940054,
           "nome": "K. Adeyemi",
           "numeroCamisa": 27,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 997006,
           "nome": "Y. Moukoko",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -10689,7 +10689,7 @@
           "id": 226978,
           "nome": "J. Brandt",
           "numeroCamisa": 10,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -10705,7 +10705,7 @@
   "10230568": {
     "selecao01": {
       "id": 4751,
-      "nome": "Cameroon",
+      "nome": "Camarões",
       "escudo": "https://img.sofascore.com/api/v1/team/4751/image",
       "tecnico": null,
       "formacao": "4-3-3",
@@ -10770,21 +10770,21 @@
           "id": 927083,
           "nome": "B. Mbeumo",
           "numeroCamisa": 19,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 21626,
           "nome": "E. M. Choupo-Moting",
           "numeroCamisa": 13,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 842931,
           "nome": "K. Toko Ekambi",
           "numeroCamisa": 18,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         }
       ],
@@ -10793,7 +10793,7 @@
           "id": 116869,
           "nome": "V. Aboubakar",
           "numeroCamisa": 45,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -10877,21 +10877,21 @@
           "id": 1109128,
           "nome": "S. Marou",
           "numeroCamisa": 26,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 231614,
           "nome": "J. Nsamé",
           "numeroCamisa": 18,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         }
       ]
     },
     "selecao02": {
       "id": 6355,
-      "nome": "Serbia",
+      "nome": "Sérvia",
       "escudo": "https://img.sofascore.com/api/v1/team/6355/image",
       "tecnico": null,
       "formacao": "3-4-2-1",
@@ -10956,7 +10956,7 @@
           "id": 38560,
           "nome": "D. Tadić",
           "numeroCamisa": 10,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -10970,7 +10970,7 @@
           "id": 192144,
           "nome": "A. Mitrović",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         }
       ],
@@ -11014,7 +11014,7 @@
           "id": 319129,
           "nome": "L. Jović",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -11077,7 +11077,7 @@
           "id": 832208,
           "nome": "D. Vlahović",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         }
       ]
@@ -11086,7 +11086,7 @@
   "10230552": {
     "selecao01": {
       "id": 4735,
-      "nome": "South Korea",
+      "nome": "Coreia do Sul",
       "escudo": "https://img.sofascore.com/api/v1/team/4735/image",
       "tecnico": null,
       "formacao": "4-2-3-1",
@@ -11151,21 +11151,21 @@
           "id": 927405,
           "nome": "W. Jeong",
           "numeroCamisa": 11,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 111505,
           "nome": "H. M. Son",
           "numeroCamisa": 7,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 1014281,
           "nome": "G. Cho",
           "numeroCamisa": 10,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         }
       ],
@@ -11174,7 +11174,7 @@
           "id": 964307,
           "nome": "S. Na",
           "numeroCamisa": 10,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -11188,7 +11188,7 @@
           "id": 791314,
           "nome": "U. Hwang",
           "numeroCamisa": 16,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -11272,14 +11272,14 @@
           "id": 786186,
           "nome": "H. Hwang",
           "numeroCamisa": 11,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         }
       ]
     },
     "selecao02": {
       "id": 4764,
-      "nome": "Ghana",
+      "nome": "Gana",
       "escudo": "https://img.sofascore.com/api/v1/team/4764/image",
       "tecnico": null,
       "formacao": "4-2-3-1",
@@ -11344,14 +11344,14 @@
           "id": 27035,
           "nome": "A. Ayew",
           "numeroCamisa": 24,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 103045,
           "nome": "J. Ayew",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -11381,7 +11381,7 @@
           "id": 1019442,
           "nome": "K. Sulemana",
           "numeroCamisa": 7,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -11409,7 +11409,7 @@
           "id": 1103077,
           "nome": "D. Afriyie",
           "numeroCamisa": 18,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -11474,7 +11474,7 @@
   "10230561": {
     "selecao01": {
       "id": 4748,
-      "nome": "Brazil",
+      "nome": "Brasil",
       "escudo": "https://img.sofascore.com/api/v1/team/4748/image",
       "tecnico": null,
       "formacao": "4-3-3",
@@ -11546,14 +11546,14 @@
           "id": 840217,
           "nome": "Richarlison",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 868812,
           "nome": "Vinícius Jr.",
           "numeroCamisa": 7,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         }
       ],
@@ -11562,7 +11562,7 @@
           "id": 910536,
           "nome": "Rodrygo",
           "numeroCamisa": 11,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -11583,7 +11583,7 @@
           "id": 794839,
           "nome": "G. Jesus",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -11604,7 +11604,7 @@
           "id": 840219,
           "nome": "Pedro",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -11646,14 +11646,14 @@
           "id": 922573,
           "nome": "G. Martinelli",
           "numeroCamisa": 11,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         }
       ]
     },
     "selecao02": {
       "id": 4699,
-      "nome": "Switzerland",
+      "nome": "Suíça",
       "escudo": "https://img.sofascore.com/api/v1/team/4699/image",
       "tecnico": null,
       "formacao": "4-2-3-1",
@@ -11732,7 +11732,7 @@
           "id": 352296,
           "nome": "B. Embolo",
           "numeroCamisa": 7,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         }
       ],
@@ -11748,7 +11748,7 @@
           "id": 243049,
           "nome": "R. Steffen",
           "numeroCamisa": 11,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -11762,7 +11762,7 @@
           "id": 50899,
           "nome": "H. Seferović",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -11913,14 +11913,14 @@
           "id": 851671,
           "nome": "J. Félix",
           "numeroCamisa": 79,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 750,
           "nome": "C. Ronaldo",
           "numeroCamisa": 7,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         }
       ],
@@ -11936,14 +11936,14 @@
           "id": 851284,
           "nome": "R. Leão",
           "numeroCamisa": 10,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 934510,
           "nome": "G. Ramos",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -11992,7 +11992,7 @@
           "id": 314380,
           "nome": "R. Horta",
           "numeroCamisa": 21,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -12006,7 +12006,7 @@
           "id": 190159,
           "nome": "A. Silva",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -12020,7 +12020,7 @@
     },
     "selecao02": {
       "id": 4725,
-      "nome": "Uruguay",
+      "nome": "Uruguai",
       "escudo": "https://img.sofascore.com/api/v1/team/4725/image",
       "tecnico": null,
       "formacao": "3-5-2",
@@ -12092,14 +12092,14 @@
           "id": 924871,
           "nome": "D. Núñez",
           "numeroCamisa": 7,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 21521,
           "nome": "E. Cavani",
           "numeroCamisa": 10,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         }
       ],
@@ -12122,14 +12122,14 @@
           "id": 805245,
           "nome": "M. Gómez",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 16943,
           "nome": "L. Suárez",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -12208,7 +12208,7 @@
   "10230551": {
     "selecao01": {
       "id": 4757,
-      "nome": "Ecuador",
+      "nome": "Equador",
       "escudo": "https://img.sofascore.com/api/v1/team/4757/image",
       "tecnico": null,
       "formacao": "4-3-3",
@@ -12280,14 +12280,14 @@
           "id": 860561,
           "nome": "M. Estrada",
           "numeroCamisa": 11,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 106456,
           "nome": "E. Valencia",
           "numeroCamisa": 10,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         }
       ],
@@ -12310,7 +12310,7 @@
           "id": 873890,
           "nome": "D. Reascos",
           "numeroCamisa": 99,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -12380,7 +12380,7 @@
           "id": 1431770,
           "nome": "K. Rodríguez",
           "numeroCamisa": 13,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -12466,14 +12466,14 @@
           "id": 845286,
           "nome": "I. Sarr",
           "numeroCamisa": 7,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 960080,
           "nome": "B. Dia",
           "numeroCamisa": 19,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         }
       ],
@@ -12489,7 +12489,7 @@
           "id": 1102503,
           "nome": "A. B. Dieng",
           "numeroCamisa": 12,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -12503,7 +12503,7 @@
           "id": 293115,
           "nome": "F. Diédhiou",
           "numeroCamisa": 18,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -12545,7 +12545,7 @@
           "id": 1085381,
           "nome": "N. Jackson",
           "numeroCamisa": 11,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -12582,7 +12582,7 @@
   "10230538": {
     "selecao01": {
       "id": 4705,
-      "nome": "Netherlands",
+      "nome": "Países Baixos",
       "escudo": "https://img.sofascore.com/api/v1/team/4705/image",
       "tecnico": null,
       "formacao": "3-4-1-2",
@@ -12661,7 +12661,7 @@
           "id": 138833,
           "nome": "M. Depay",
           "numeroCamisa": 10,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         }
       ],
@@ -12670,21 +12670,21 @@
           "id": 339901,
           "nome": "V. Janssen",
           "numeroCamisa": 18,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 100386,
           "nome": "S. Berghuis",
           "numeroCamisa": 23,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 252215,
           "nome": "W. Weghorst",
           "numeroCamisa": 25,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -12726,14 +12726,14 @@
           "id": 40878,
           "nome": "L. de Jong",
           "numeroCamisa": 26,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 875136,
           "nome": "N. Lang",
           "numeroCamisa": 77,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -12775,7 +12775,7 @@
     },
     "selecao02": {
       "id": 4792,
-      "nome": "Qatar",
+      "nome": "Catar",
       "escudo": "https://img.sofascore.com/api/v1/team/4792/image",
       "tecnico": null,
       "formacao": "5-3-2",
@@ -12826,7 +12826,7 @@
           "id": 93953,
           "nome": "H. A. Haydos",
           "numeroCamisa": 10,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -12877,14 +12877,14 @@
           "id": 326185,
           "nome": "M. Muntari",
           "numeroCamisa": 3,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 229278,
           "nome": "A. Alaaeldin",
           "numeroCamisa": 30,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -12963,7 +12963,7 @@
   "10230536": {
     "selecao01": {
       "id": 4766,
-      "nome": "Iran",
+      "nome": "Irã",
       "escudo": "https://img.sofascore.com/api/v1/team/4766/image",
       "tecnico": null,
       "formacao": "4-4-1-1",
@@ -13035,14 +13035,14 @@
           "id": 812533,
           "nome": "M. Taremi",
           "numeroCamisa": 99,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 150998,
           "nome": "S. Azmoun",
           "numeroCamisa": 20,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         }
       ],
@@ -13065,7 +13065,7 @@
           "id": 812953,
           "nome": "M. Torabi",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -13079,7 +13079,7 @@
           "id": 144594,
           "nome": "K. A. Fard",
           "numeroCamisa": null,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -13142,7 +13142,7 @@
     },
     "selecao02": {
       "id": 4724,
-      "nome": "USA",
+      "nome": "Estados Unidos",
       "escudo": "https://img.sofascore.com/api/v1/team/4724/image",
       "tecnico": null,
       "formacao": "4-3-3",
@@ -13214,14 +13214,14 @@
           "id": 880796,
           "nome": "J. Sargent",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 817957,
           "nome": "C. Pulišić",
           "numeroCamisa": 11,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         }
       ],
@@ -13244,7 +13244,7 @@
           "id": 818391,
           "nome": "H. Wright",
           "numeroCamisa": 11,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -13293,7 +13293,7 @@
           "id": 772421,
           "nome": "J. Morris",
           "numeroCamisa": 13,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -13337,7 +13337,7 @@
   "10230532": {
     "selecao01": {
       "id": 4702,
-      "nome": "Wales",
+      "nome": "País de Gales",
       "escudo": "https://img.sofascore.com/api/v1/team/4702/image",
       "tecnico": null,
       "formacao": "4-3-3",
@@ -13402,14 +13402,14 @@
           "id": 15354,
           "nome": "G. Bale",
           "numeroCamisa": null,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 298366,
           "nome": "K. Moore",
           "numeroCamisa": 19,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -13432,7 +13432,7 @@
           "id": 1085180,
           "nome": "B. Johnson",
           "numeroCamisa": 11,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -13516,14 +13516,14 @@
           "id": 1064263,
           "nome": "M. Harris",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         }
       ]
     },
     "selecao02": {
       "id": 4713,
-      "nome": "England",
+      "nome": "Inglaterra",
       "escudo": "https://img.sofascore.com/api/v1/team/4713/image",
       "tecnico": null,
       "formacao": "4-3-3",
@@ -13595,14 +13595,14 @@
           "id": 108579,
           "nome": "H. Kane",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 814590,
           "nome": "M. Rashford",
           "numeroCamisa": 14,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         }
       ],
@@ -13618,7 +13618,7 @@
           "id": 113956,
           "nome": "C. Wilson",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -13688,7 +13688,7 @@
           "id": 934235,
           "nome": "B. Saka",
           "numeroCamisa": 7,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -13702,7 +13702,7 @@
           "id": 138534,
           "nome": "R. Sterling",
           "numeroCamisa": 19,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         }
       ]
@@ -13711,7 +13711,7 @@
   "10230560": {
     "selecao01": {
       "id": 4741,
-      "nome": "Australia",
+      "nome": "Austrália",
       "escudo": "https://img.sofascore.com/api/v1/team/4741/image",
       "tecnico": null,
       "formacao": "4-4-2",
@@ -13790,7 +13790,7 @@
           "id": 146970,
           "nome": "M. Duke",
           "numeroCamisa": 15,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         }
       ],
@@ -13813,7 +13813,7 @@
           "id": 333143,
           "nome": "J. MacLaren",
           "numeroCamisa": 29,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -13862,7 +13862,7 @@
           "id": 346296,
           "nome": "J. Cummings",
           "numeroCamisa": 35,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -13883,7 +13883,7 @@
           "id": 1169124,
           "nome": "G. Kuol",
           "numeroCamisa": 36,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -13904,7 +13904,7 @@
     },
     "selecao02": {
       "id": 4476,
-      "nome": "Denmark",
+      "nome": "Dinamarca",
       "escudo": "https://img.sofascore.com/api/v1/team/4476/image",
       "tecnico": null,
       "formacao": "4-3-3",
@@ -13976,7 +13976,7 @@
           "id": 66471,
           "nome": "M. Braithwaite",
           "numeroCamisa": 22,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -13999,7 +13999,7 @@
           "id": 795761,
           "nome": "K. Dolberg",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -14020,7 +14020,7 @@
           "id": 183483,
           "nome": "A. Cornelius",
           "numeroCamisa": 14,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -14034,7 +14034,7 @@
           "id": 135264,
           "nome": "Y. Poulsen",
           "numeroCamisa": 15,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -14062,7 +14062,7 @@
           "id": 826069,
           "nome": "J. Wind",
           "numeroCamisa": 23,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -14092,7 +14092,7 @@
   "10230555": {
     "selecao01": {
       "id": 4729,
-      "nome": "Tunisia",
+      "nome": "Tunísia",
       "escudo": "https://img.sofascore.com/api/v1/team/4729/image",
       "tecnico": null,
       "formacao": "3-4-2-1",
@@ -14171,7 +14171,7 @@
           "id": 51640,
           "nome": "W. Khazri",
           "numeroCamisa": null,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         }
       ],
@@ -14180,7 +14180,7 @@
           "id": 793187,
           "nome": "I. Jebali",
           "numeroCamisa": 11,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -14243,7 +14243,7 @@
           "id": 918996,
           "nome": "S. Jaziri",
           "numeroCamisa": 30,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -14278,14 +14278,14 @@
           "id": 205650,
           "nome": "T. Khenissi",
           "numeroCamisa": 27,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         }
       ]
     },
     "selecao02": {
       "id": 4481,
-      "nome": "France",
+      "nome": "França",
       "escudo": "https://img.sofascore.com/api/v1/team/4481/image",
       "tecnico": null,
       "formacao": "4-3-3",
@@ -14357,7 +14357,7 @@
           "id": 871706,
           "nome": "R. K. Muani",
           "numeroCamisa": 39,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -14373,7 +14373,7 @@
           "id": 826643,
           "nome": "K. Mbappé",
           "numeroCamisa": 10,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -14394,14 +14394,14 @@
           "id": 85859,
           "nome": "A. Griezmann",
           "numeroCamisa": 7,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 818244,
           "nome": "O. Dembélé",
           "numeroCamisa": 10,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -14415,7 +14415,7 @@
           "id": 791702,
           "nome": "M. Thuram",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -14443,7 +14443,7 @@
           "id": 39070,
           "nome": "O. Giroud",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -14466,7 +14466,7 @@
   "10230547": {
     "selecao01": {
       "id": 4703,
-      "nome": "Poland",
+      "nome": "Polônia",
       "escudo": "https://img.sofascore.com/api/v1/team/4703/image",
       "tecnico": null,
       "formacao": "4-4-2",
@@ -14538,14 +14538,14 @@
           "id": 41789,
           "nome": "R. Lewandowski",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 576438,
           "nome": "K. Świderski",
           "numeroCamisa": 19,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         }
       ],
@@ -14582,14 +14582,14 @@
           "id": 558738,
           "nome": "K. Piątek",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 161325,
           "nome": "A. Milik",
           "numeroCamisa": 14,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -14617,7 +14617,7 @@
           "id": 860435,
           "nome": "S. Żurkowski",
           "numeroCamisa": 14,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -14724,21 +14724,21 @@
           "id": 30027,
           "nome": "Á. Di María",
           "numeroCamisa": 11,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 12994,
           "nome": "L. Messi",
           "numeroCamisa": 10,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 944656,
           "nome": "J. Álvarez",
           "numeroCamisa": 19,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         }
       ],
@@ -14761,7 +14761,7 @@
           "id": 823984,
           "nome": "L. Martínez",
           "numeroCamisa": 10,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -14796,7 +14796,7 @@
           "id": 316152,
           "nome": "Á. Correa",
           "numeroCamisa": 7,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -14810,7 +14810,7 @@
           "id": 256219,
           "nome": "P. Dybala",
           "numeroCamisa": 21,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -14854,7 +14854,7 @@
   "10230546": {
     "selecao01": {
       "id": 4834,
-      "nome": "Saudi Arabia",
+      "nome": "Arábia Saudita",
       "escudo": "https://img.sofascore.com/api/v1/team/4834/image",
       "tecnico": null,
       "formacao": "4-4-2",
@@ -14898,7 +14898,7 @@
           "id": 893307,
           "nome": "F. Al-Buraikan",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -14926,7 +14926,7 @@
           "id": 818779,
           "nome": "S. Al-Shehri",
           "numeroCamisa": 11,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -14956,7 +14956,7 @@
           "id": 872275,
           "nome": "A. Alobud",
           "numeroCamisa": 24,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -15012,14 +15012,14 @@
           "id": 1118489,
           "nome": "H. M. Asiri",
           "numeroCamisa": 19,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         }
       ]
     },
     "selecao02": {
       "id": 4781,
-      "nome": "Mexico",
+      "nome": "México",
       "escudo": "https://img.sofascore.com/api/v1/team/4781/image",
       "tecnico": null,
       "formacao": "4-2-3-1",
@@ -15077,7 +15077,7 @@
           "id": 385320,
           "nome": "H. Lozano",
           "numeroCamisa": 11,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -15098,7 +15098,7 @@
           "id": 755408,
           "nome": "H. Martín",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         }
       ],
@@ -15107,7 +15107,7 @@
           "id": 843198,
           "nome": "U. Antuna",
           "numeroCamisa": 21,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -15121,7 +15121,7 @@
           "id": 192442,
           "nome": "R. Jiménez",
           "numeroCamisa": 7,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -15135,7 +15135,7 @@
           "id": 105961,
           "nome": "R. Funes Mori",
           "numeroCamisa": 18,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -15184,7 +15184,7 @@
           "id": 865500,
           "nome": "R. Alvarado",
           "numeroCamisa": 25,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -15214,7 +15214,7 @@
   "10230531": {
     "selecao01": {
       "id": 4752,
-      "nome": "Canada",
+      "nome": "Canadá",
       "escudo": "https://img.sofascore.com/api/v1/team/4752/image",
       "tecnico": null,
       "formacao": "4-4-1-1",
@@ -15286,14 +15286,14 @@
           "id": 33478,
           "nome": "J. Hoilett",
           "numeroCamisa": 30,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 790179,
           "nome": "C. Larin",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         }
       ],
@@ -15309,7 +15309,7 @@
           "id": 935564,
           "nome": "J. David",
           "numeroCamisa": 30,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -15358,7 +15358,7 @@
           "id": 846412,
           "nome": "L. Cavallini",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -15393,14 +15393,14 @@
           "id": 791987,
           "nome": "I. Ugbo",
           "numeroCamisa": 11,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         }
       ]
     },
     "selecao02": {
       "id": 4778,
-      "nome": "Morocco",
+      "nome": "Marrocos",
       "escudo": "https://img.sofascore.com/api/v1/team/4778/image",
       "tecnico": null,
       "formacao": "4-3-3",
@@ -15472,14 +15472,14 @@
           "id": 846470,
           "nome": "Y. En-Nesyri",
           "numeroCamisa": 21,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 257205,
           "nome": "S. Boufal",
           "numeroCamisa": 17,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         }
       ],
@@ -15488,7 +15488,7 @@
           "id": 856737,
           "nome": "Z. Aboukhlal",
           "numeroCamisa": 7,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -15502,7 +15502,7 @@
           "id": 826961,
           "nome": "A. Hamdallah",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -15537,7 +15537,7 @@
           "id": 917485,
           "nome": "W. Cheddira",
           "numeroCamisa": 99,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -15551,7 +15551,7 @@
           "id": 877036,
           "nome": "A. Zaroury",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -15595,7 +15595,7 @@
   "10230535": {
     "selecao01": {
       "id": 4715,
-      "nome": "Croatia",
+      "nome": "Croácia",
       "escudo": "https://img.sofascore.com/api/v1/team/4715/image",
       "tecnico": null,
       "formacao": "4-3-3",
@@ -15660,14 +15660,14 @@
           "id": 67647,
           "nome": "A. Kramarić",
           "numeroCamisa": 27,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 94226,
           "nome": "M. Livaja",
           "numeroCamisa": 10,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -15683,7 +15683,7 @@
           "id": 309306,
           "nome": "B. Petković",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -15753,7 +15753,7 @@
           "id": 37318,
           "nome": "A. Budimir",
           "numeroCamisa": 17,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -15788,7 +15788,7 @@
     },
     "selecao02": {
       "id": 4717,
-      "nome": "Belgium",
+      "nome": "Bélgica",
       "escudo": "https://img.sofascore.com/api/v1/team/4717/image",
       "tecnico": null,
       "formacao": "4-2-3-1",
@@ -15860,14 +15860,14 @@
           "id": 182001,
           "nome": "Y. Carrasco",
           "numeroCamisa": 10,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 135666,
           "nome": "L. Trossard",
           "numeroCamisa": 19,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         }
       ],
@@ -15876,7 +15876,7 @@
           "id": 78893,
           "nome": "R. Lukaku",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -15904,7 +15904,7 @@
           "id": 27583,
           "nome": "E. Hazard",
           "numeroCamisa": null,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -15925,14 +15925,14 @@
           "id": 960441,
           "nome": "C. De Ketelaere",
           "numeroCamisa": 17,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 835480,
           "nome": "L. Openda",
           "numeroCamisa": 20,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -15967,7 +15967,7 @@
           "id": 147745,
           "nome": "M. Batshuayi",
           "numeroCamisa": 30,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         }
       ]
@@ -16055,7 +16055,7 @@
           "id": 345343,
           "nome": "J. Venegas",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         }
       ],
@@ -16162,7 +16162,7 @@
     },
     "selecao02": {
       "id": 4711,
-      "nome": "Germany",
+      "nome": "Alemanha",
       "escudo": "https://img.sofascore.com/api/v1/team/4711/image",
       "tecnico": null,
       "formacao": "4-2-3-1",
@@ -16257,14 +16257,14 @@
           "id": 132645,
           "nome": "N. Füllkrug",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 836705,
           "nome": "K. Havertz",
           "numeroCamisa": 29,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -16292,14 +16292,14 @@
           "id": 940054,
           "nome": "K. Adeyemi",
           "numeroCamisa": 27,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 997006,
           "nome": "Y. Moukoko",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -16313,14 +16313,14 @@
           "id": 142390,
           "nome": "J. Hofmann",
           "numeroCamisa": 7,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 226978,
           "nome": "J. Brandt",
           "numeroCamisa": 10,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -16357,7 +16357,7 @@
   "10230554": {
     "selecao01": {
       "id": 4770,
-      "nome": "Japan",
+      "nome": "Japão",
       "escudo": "https://img.sofascore.com/api/v1/team/4770/image",
       "tecnico": null,
       "formacao": "3-4-3",
@@ -16429,7 +16429,7 @@
           "id": 832420,
           "nome": "D. Maeda",
           "numeroCamisa": 38,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -16487,14 +16487,14 @@
           "id": 945290,
           "nome": "Y. Soma",
           "numeroCamisa": 7,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 985823,
           "nome": "A. Ueda",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -16508,7 +16508,7 @@
           "id": 925910,
           "nome": "S. Machino",
           "numeroCamisa": 18,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -16550,7 +16550,7 @@
     },
     "selecao02": {
       "id": 4698,
-      "nome": "Spain",
+      "nome": "Espanha",
       "escudo": "https://img.sofascore.com/api/v1/team/4698/image",
       "tecnico": null,
       "formacao": "4-3-3",
@@ -16622,7 +16622,7 @@
           "id": 125407,
           "nome": "Á. Morata",
           "numeroCamisa": 7,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -16645,7 +16645,7 @@
           "id": 855833,
           "nome": "F. Torres",
           "numeroCamisa": 7,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -16666,7 +16666,7 @@
           "id": 962883,
           "nome": "A. Fati",
           "numeroCamisa": 31,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -16708,7 +16708,7 @@
           "id": 984624,
           "nome": "Y. Pino",
           "numeroCamisa": 10,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -16745,7 +16745,7 @@
   "10230549": {
     "selecao01": {
       "id": 4764,
-      "nome": "Ghana",
+      "nome": "Gana",
       "escudo": "https://img.sofascore.com/api/v1/team/4764/image",
       "tecnico": null,
       "formacao": "4-2-3-1",
@@ -16810,14 +16810,14 @@
           "id": 27035,
           "nome": "A. Ayew",
           "numeroCamisa": 24,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 103045,
           "nome": "J. Ayew",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -16833,7 +16833,7 @@
           "id": 1019442,
           "nome": "K. Sulemana",
           "numeroCamisa": 7,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -16875,7 +16875,7 @@
           "id": 1103077,
           "nome": "D. Afriyie",
           "numeroCamisa": 18,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -16938,7 +16938,7 @@
     },
     "selecao02": {
       "id": 4725,
-      "nome": "Uruguay",
+      "nome": "Uruguai",
       "escudo": "https://img.sofascore.com/api/v1/team/4725/image",
       "tecnico": null,
       "formacao": "4-4-2",
@@ -17010,14 +17010,14 @@
           "id": 16943,
           "nome": "L. Suárez",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 924871,
           "nome": "D. Núñez",
           "numeroCamisa": 7,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         }
       ],
@@ -17033,7 +17033,7 @@
           "id": 21521,
           "nome": "E. Cavani",
           "numeroCamisa": 10,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -17054,7 +17054,7 @@
           "id": 805245,
           "nome": "M. Gómez",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -17126,7 +17126,7 @@
   "10230544": {
     "selecao01": {
       "id": 4735,
-      "nome": "South Korea",
+      "nome": "Coreia do Sul",
       "escudo": "https://img.sofascore.com/api/v1/team/4735/image",
       "tecnico": null,
       "formacao": "4-3-3",
@@ -17198,14 +17198,14 @@
           "id": 1014281,
           "nome": "G. Cho",
           "numeroCamisa": 10,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 111505,
           "nome": "H. M. Son",
           "numeroCamisa": 7,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         }
       ],
@@ -17214,7 +17214,7 @@
           "id": 786186,
           "nome": "H. Hwang",
           "numeroCamisa": 11,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -17228,7 +17228,7 @@
           "id": 791314,
           "nome": "U. Hwang",
           "numeroCamisa": 16,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -17242,7 +17242,7 @@
           "id": 927405,
           "nome": "W. Jeong",
           "numeroCamisa": 11,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -17298,7 +17298,7 @@
           "id": 964307,
           "nome": "S. Na",
           "numeroCamisa": 10,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -17384,14 +17384,14 @@
           "id": 314380,
           "nome": "R. Horta",
           "numeroCamisa": 21,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 750,
           "nome": "C. Ronaldo",
           "numeroCamisa": 7,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -17414,14 +17414,14 @@
           "id": 190159,
           "nome": "A. Silva",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 851284,
           "nome": "R. Leão",
           "numeroCamisa": 10,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -17442,7 +17442,7 @@
           "id": 851671,
           "nome": "J. Félix",
           "numeroCamisa": 79,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -17484,7 +17484,7 @@
           "id": 934510,
           "nome": "G. Ramos",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         }
       ]
@@ -17493,7 +17493,7 @@
   "10230553": {
     "selecao01": {
       "id": 4751,
-      "nome": "Cameroon",
+      "nome": "Camarões",
       "escudo": "https://img.sofascore.com/api/v1/team/4751/image",
       "tecnico": null,
       "formacao": "4-2-3-1",
@@ -17551,14 +17551,14 @@
           "id": 927083,
           "nome": "B. Mbeumo",
           "numeroCamisa": 19,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 21626,
           "nome": "E. M. Choupo-Moting",
           "numeroCamisa": 13,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -17572,7 +17572,7 @@
           "id": 116869,
           "nome": "V. Aboubakar",
           "numeroCamisa": 45,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         }
       ],
@@ -17581,7 +17581,7 @@
           "id": 842931,
           "nome": "K. Toko Ekambi",
           "numeroCamisa": 18,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -17623,7 +17623,7 @@
           "id": 231614,
           "nome": "J. Nsamé",
           "numeroCamisa": 18,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -17651,14 +17651,14 @@
           "id": 1109128,
           "nome": "S. Marou",
           "numeroCamisa": 26,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         }
       ]
     },
     "selecao02": {
       "id": 4748,
-      "nome": "Brazil",
+      "nome": "Brasil",
       "escudo": "https://img.sofascore.com/api/v1/team/4748/image",
       "tecnico": null,
       "formacao": "4-2-3-1",
@@ -17723,21 +17723,21 @@
           "id": 910536,
           "nome": "Rodrygo",
           "numeroCamisa": 11,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 922573,
           "nome": "G. Martinelli",
           "numeroCamisa": 11,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 794839,
           "nome": "G. Jesus",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         }
       ],
@@ -17767,7 +17767,7 @@
           "id": 840219,
           "nome": "Pedro",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -17809,14 +17809,14 @@
           "id": 840217,
           "nome": "Richarlison",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 868812,
           "nome": "Vinícius Jr.",
           "numeroCamisa": 7,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -17832,7 +17832,7 @@
   "10230558": {
     "selecao01": {
       "id": 6355,
-      "nome": "Serbia",
+      "nome": "Sérvia",
       "escudo": "https://img.sofascore.com/api/v1/team/6355/image",
       "tecnico": null,
       "formacao": "3-4-1-2",
@@ -17897,21 +17897,21 @@
           "id": 38560,
           "nome": "D. Tadić",
           "numeroCamisa": 10,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 832208,
           "nome": "D. Vlahović",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 192144,
           "nome": "A. Mitrović",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         }
       ],
@@ -17927,7 +17927,7 @@
           "id": 319129,
           "nome": "L. Jović",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -18025,7 +18025,7 @@
     },
     "selecao02": {
       "id": 4699,
-      "nome": "Switzerland",
+      "nome": "Suíça",
       "escudo": "https://img.sofascore.com/api/v1/team/4699/image",
       "tecnico": null,
       "formacao": "4-2-3-1",
@@ -18104,7 +18104,7 @@
           "id": 352296,
           "nome": "B. Embolo",
           "numeroCamisa": 7,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         }
       ],
@@ -18134,7 +18134,7 @@
           "id": 865523,
           "nome": "N. Okafor",
           "numeroCamisa": 19,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -18169,7 +18169,7 @@
           "id": 243049,
           "nome": "R. Steffen",
           "numeroCamisa": 11,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -18183,7 +18183,7 @@
           "id": 50899,
           "nome": "H. Seferović",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -18199,7 +18199,7 @@
   "10230638": {
     "selecao01": {
       "id": 4705,
-      "nome": "Netherlands",
+      "nome": "Países Baixos",
       "escudo": "https://img.sofascore.com/api/v1/team/4705/image",
       "tecnico": null,
       "formacao": "3-4-1-2",
@@ -18278,7 +18278,7 @@
           "id": 138833,
           "nome": "M. Depay",
           "numeroCamisa": 10,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         }
       ],
@@ -18315,7 +18315,7 @@
           "id": 252215,
           "nome": "W. Weghorst",
           "numeroCamisa": 25,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -18343,14 +18343,14 @@
           "id": 875136,
           "nome": "N. Lang",
           "numeroCamisa": 77,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 40878,
           "nome": "L. de Jong",
           "numeroCamisa": 26,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -18364,7 +18364,7 @@
           "id": 339901,
           "nome": "V. Janssen",
           "numeroCamisa": 18,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -18385,14 +18385,14 @@
           "id": 100386,
           "nome": "S. Berghuis",
           "numeroCamisa": 23,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         }
       ]
     },
     "selecao02": {
       "id": 4724,
-      "nome": "USA",
+      "nome": "Estados Unidos",
       "escudo": "https://img.sofascore.com/api/v1/team/4724/image",
       "tecnico": null,
       "formacao": "4-3-3",
@@ -18471,7 +18471,7 @@
           "id": 817957,
           "nome": "C. Pulišić",
           "numeroCamisa": 11,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         }
       ],
@@ -18494,7 +18494,7 @@
           "id": 818391,
           "nome": "H. Wright",
           "numeroCamisa": 11,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -18508,7 +18508,7 @@
           "id": 772421,
           "nome": "J. Morris",
           "numeroCamisa": 13,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -18645,14 +18645,14 @@
           "id": 944656,
           "nome": "J. Álvarez",
           "numeroCamisa": 19,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 12994,
           "nome": "L. Messi",
           "numeroCamisa": 10,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -18675,7 +18675,7 @@
           "id": 823984,
           "nome": "L. Martínez",
           "numeroCamisa": 10,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -18703,7 +18703,7 @@
           "id": 30027,
           "nome": "A. Di Maria",
           "numeroCamisa": 11,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -18752,14 +18752,14 @@
           "id": 256219,
           "nome": "P. Dybala",
           "numeroCamisa": 21,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 316152,
           "nome": "A. Correa",
           "numeroCamisa": 7,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -18773,7 +18773,7 @@
     },
     "selecao02": {
       "id": 4741,
-      "nome": "Australia",
+      "nome": "Austrália",
       "escudo": "https://img.sofascore.com/api/v1/team/4741/image",
       "tecnico": null,
       "formacao": "4-4-2",
@@ -18845,7 +18845,7 @@
           "id": 146970,
           "nome": "M. Duke",
           "numeroCamisa": 15,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -18882,14 +18882,14 @@
           "id": 1169124,
           "nome": "G. Kuol",
           "numeroCamisa": 36,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 333143,
           "nome": "J. MacLaren",
           "numeroCamisa": 29,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -18903,7 +18903,7 @@
           "id": 346296,
           "nome": "J. Cummings",
           "numeroCamisa": 35,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -18968,7 +18968,7 @@
   "10230582": {
     "selecao01": {
       "id": 4770,
-      "nome": "Japan",
+      "nome": "Japão",
       "escudo": "https://img.sofascore.com/api/v1/team/4770/image",
       "tecnico": null,
       "formacao": "3-4-3",
@@ -19040,7 +19040,7 @@
           "id": 832420,
           "nome": "D. Maeda",
           "numeroCamisa": 38,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -19119,21 +19119,21 @@
           "id": 925910,
           "nome": "S. Machino",
           "numeroCamisa": 18,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 985823,
           "nome": "A. Ueda",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 945290,
           "nome": "Y. Soma",
           "numeroCamisa": 7,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -19147,7 +19147,7 @@
     },
     "selecao02": {
       "id": 4715,
-      "nome": "Croatia",
+      "nome": "Croácia",
       "escudo": "https://img.sofascore.com/api/v1/team/4715/image",
       "tecnico": null,
       "formacao": "4-3-3",
@@ -19212,14 +19212,14 @@
           "id": 67647,
           "nome": "A. Kramaric",
           "numeroCamisa": 27,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 309306,
           "nome": "B. Petkovic",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -19235,7 +19235,7 @@
           "id": 37318,
           "nome": "A. Budimir",
           "numeroCamisa": 17,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -19263,7 +19263,7 @@
           "id": 94226,
           "nome": "M. Livaja",
           "numeroCamisa": 10,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -19328,7 +19328,7 @@
   "10230633": {
     "selecao01": {
       "id": 4748,
-      "nome": "Brazil",
+      "nome": "Brasil",
       "escudo": "https://img.sofascore.com/api/v1/team/4748/image",
       "tecnico": null,
       "formacao": "4-2-3-1",
@@ -19393,21 +19393,21 @@
           "id": 124712,
           "nome": "Neymar",
           "numeroCamisa": 10,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 868812,
           "nome": "Vinícius Jr.",
           "numeroCamisa": 7,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 840217,
           "nome": "Richarlison",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         }
       ],
@@ -19423,7 +19423,7 @@
           "id": 922573,
           "nome": "G. Martinelli",
           "numeroCamisa": 11,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -19444,7 +19444,7 @@
           "id": 910536,
           "nome": "Rodrygo",
           "numeroCamisa": 11,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -19493,14 +19493,14 @@
           "id": 840219,
           "nome": "Pedro",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         }
       ]
     },
     "selecao02": {
       "id": 4735,
-      "nome": "South Korea",
+      "nome": "Coreia do Sul",
       "escudo": "https://img.sofascore.com/api/v1/team/4735/image",
       "tecnico": null,
       "formacao": "4-4-2",
@@ -19565,21 +19565,21 @@
           "id": 786186,
           "nome": "H. Hwang",
           "numeroCamisa": 11,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 1014281,
           "nome": "G. Cho",
           "numeroCamisa": 10,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 111505,
           "nome": "S. Heung-min",
           "numeroCamisa": 7,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         }
       ],
@@ -19616,14 +19616,14 @@
           "id": 791314,
           "nome": "U. Hwang",
           "numeroCamisa": 16,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 927405,
           "nome": "W. Jeong",
           "numeroCamisa": 11,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -19658,7 +19658,7 @@
           "id": 964307,
           "nome": "S. Na",
           "numeroCamisa": 10,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -19695,7 +19695,7 @@
   "10230632": {
     "selecao01": {
       "id": 4713,
-      "nome": "England",
+      "nome": "Inglaterra",
       "escudo": "https://img.sofascore.com/api/v1/team/4713/image",
       "tecnico": null,
       "formacao": "4-3-3",
@@ -19760,14 +19760,14 @@
           "id": 934235,
           "nome": "B. Saka",
           "numeroCamisa": 7,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 108579,
           "nome": "H. Kane",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -19783,7 +19783,7 @@
           "id": 814590,
           "nome": "M. Rashford",
           "numeroCamisa": 14,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -19860,7 +19860,7 @@
           "id": 113956,
           "nome": "C. Wilson",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -19946,14 +19946,14 @@
           "id": 845286,
           "nome": "I. Sarr",
           "numeroCamisa": 7,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 960080,
           "nome": "B. Dia",
           "numeroCamisa": 19,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         }
       ],
@@ -19976,14 +19976,14 @@
           "id": 1102503,
           "nome": "A. B. Dieng",
           "numeroCamisa": 12,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 293115,
           "nome": "F. Diedhiou",
           "numeroCamisa": 18,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -20046,7 +20046,7 @@
           "id": 1085381,
           "nome": "N. Jackson",
           "numeroCamisa": 11,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         }
       ]
@@ -20055,7 +20055,7 @@
   "10230579": {
     "selecao01": {
       "id": 4481,
-      "nome": "France",
+      "nome": "França",
       "escudo": "https://img.sofascore.com/api/v1/team/4481/image",
       "tecnico": null,
       "formacao": "4-2-3-1",
@@ -20113,28 +20113,28 @@
           "id": 818244,
           "nome": "O. Dembélé",
           "numeroCamisa": 10,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 85859,
           "nome": "A. Griezmann",
           "numeroCamisa": 7,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 826643,
           "nome": "K. Mbappé",
           "numeroCamisa": 10,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 39070,
           "nome": "O. Giroud",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         }
       ],
@@ -20150,7 +20150,7 @@
           "id": 791702,
           "nome": "M. Thuram",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -20185,7 +20185,7 @@
           "id": 871706,
           "nome": "R. K. Muani",
           "numeroCamisa": 39,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -20234,7 +20234,7 @@
     },
     "selecao02": {
       "id": 4703,
-      "nome": "Poland",
+      "nome": "Polônia",
       "escudo": "https://img.sofascore.com/api/v1/team/4703/image",
       "tecnico": null,
       "formacao": "4-1-4-1",
@@ -20313,7 +20313,7 @@
           "id": 41789,
           "nome": "R. Lewandowski",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         }
       ],
@@ -20322,7 +20322,7 @@
           "id": 161325,
           "nome": "A. Milik",
           "numeroCamisa": 14,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -20371,7 +20371,7 @@
           "id": 558738,
           "nome": "K. Piątek",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -20406,14 +20406,14 @@
           "id": 576438,
           "nome": "K. Świderski",
           "numeroCamisa": 19,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 860435,
           "nome": "S. Żurkowski",
           "numeroCamisa": 14,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -20429,7 +20429,7 @@
   "10230636": {
     "selecao01": {
       "id": 4778,
-      "nome": "Morocco",
+      "nome": "Marrocos",
       "escudo": "https://img.sofascore.com/api/v1/team/4778/image",
       "tecnico": null,
       "formacao": "4-3-3",
@@ -20501,14 +20501,14 @@
           "id": 846470,
           "nome": "Y. En-Nesyri",
           "numeroCamisa": 21,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 257205,
           "nome": "S. Boufal",
           "numeroCamisa": 17,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         }
       ],
@@ -20538,7 +20538,7 @@
           "id": 917485,
           "nome": "W. Cheddira",
           "numeroCamisa": 99,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -20580,21 +20580,21 @@
           "id": 856737,
           "nome": "Z. Aboukhlal",
           "numeroCamisa": 7,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 877036,
           "nome": "A. Zaroury",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 826961,
           "nome": "A. Hamdallah",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -20622,7 +20622,7 @@
     },
     "selecao02": {
       "id": 4698,
-      "nome": "Spain",
+      "nome": "Espanha",
       "escudo": "https://img.sofascore.com/api/v1/team/4698/image",
       "tecnico": null,
       "formacao": "4-3-3",
@@ -20687,7 +20687,7 @@
           "id": 855833,
           "nome": "F. Torres",
           "numeroCamisa": 7,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -20710,7 +20710,7 @@
           "id": 125407,
           "nome": "A. Morata",
           "numeroCamisa": 7,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -20731,7 +20731,7 @@
           "id": 962883,
           "nome": "A. Fati",
           "numeroCamisa": 31,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -20752,7 +20752,7 @@
           "id": 984624,
           "nome": "Y. Pino",
           "numeroCamisa": 10,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -20889,14 +20889,14 @@
           "id": 934510,
           "nome": "G. Ramos",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 851671,
           "nome": "J. Félix",
           "numeroCamisa": 79,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         }
       ],
@@ -20905,7 +20905,7 @@
           "id": 750,
           "nome": "C. Ronaldo",
           "numeroCamisa": 7,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -20919,7 +20919,7 @@
           "id": 314380,
           "nome": "R. Horta",
           "numeroCamisa": 21,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -20933,7 +20933,7 @@
           "id": 851284,
           "nome": "R. Leão",
           "numeroCamisa": 10,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -20961,7 +20961,7 @@
           "id": 190159,
           "nome": "A. Silva",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -20996,7 +20996,7 @@
     },
     "selecao02": {
       "id": 4699,
-      "nome": "Switzerland",
+      "nome": "Suíça",
       "escudo": "https://img.sofascore.com/api/v1/team/4699/image",
       "tecnico": null,
       "formacao": "3-1-4-2",
@@ -21068,7 +21068,7 @@
           "id": 352296,
           "nome": "B. Embolo",
           "numeroCamisa": 7,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -21098,14 +21098,14 @@
           "id": 50899,
           "nome": "H. Seferović",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 865523,
           "nome": "N. Okafor",
           "numeroCamisa": 19,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -21154,7 +21154,7 @@
           "id": 243049,
           "nome": "R. Steffen",
           "numeroCamisa": 11,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -21184,7 +21184,7 @@
   "10230639": {
     "selecao01": {
       "id": 4705,
-      "nome": "Netherlands",
+      "nome": "Países Baixos",
       "escudo": "https://img.sofascore.com/api/v1/team/4705/image",
       "tecnico": null,
       "formacao": "3-4-1-2",
@@ -21263,7 +21263,7 @@
           "id": 138833,
           "nome": "M. Depay",
           "numeroCamisa": 10,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         }
       ],
@@ -21272,7 +21272,7 @@
           "id": 100386,
           "nome": "S. Berghuis",
           "numeroCamisa": 23,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -21286,21 +21286,21 @@
           "id": 40878,
           "nome": "L. de Jong",
           "numeroCamisa": 26,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 252215,
           "nome": "W. Weghorst",
           "numeroCamisa": 25,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 875136,
           "nome": "N. Lang",
           "numeroCamisa": 77,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -21335,7 +21335,7 @@
           "id": 339901,
           "nome": "V. Janssen",
           "numeroCamisa": 18,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -21449,14 +21449,14 @@
           "id": 12994,
           "nome": "L. Messi",
           "numeroCamisa": 10,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 944656,
           "nome": "J. Álvarez",
           "numeroCamisa": 19,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         }
       ],
@@ -21486,7 +21486,7 @@
           "id": 823984,
           "nome": "L. Martínez",
           "numeroCamisa": 10,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -21500,7 +21500,7 @@
           "id": 30027,
           "nome": "A. Di Maria",
           "numeroCamisa": 11,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -21528,7 +21528,7 @@
           "id": 256219,
           "nome": "P. Dybala",
           "numeroCamisa": 21,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -21563,7 +21563,7 @@
           "id": 316152,
           "nome": "A. Correa",
           "numeroCamisa": 7,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         }
       ]
@@ -21572,7 +21572,7 @@
   "10230640": {
     "selecao01": {
       "id": 4715,
-      "nome": "Croatia",
+      "nome": "Croácia",
       "escudo": "https://img.sofascore.com/api/v1/team/4715/image",
       "tecnico": null,
       "formacao": "4-3-3",
@@ -21644,7 +21644,7 @@
           "id": 67647,
           "nome": "A. Kramaric",
           "numeroCamisa": 27,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -21660,7 +21660,7 @@
           "id": 309306,
           "nome": "B. Petkovic",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -21681,7 +21681,7 @@
           "id": 37318,
           "nome": "A. Budimir",
           "numeroCamisa": 17,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -21751,7 +21751,7 @@
           "id": 94226,
           "nome": "M. Livaja",
           "numeroCamisa": 10,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -21765,7 +21765,7 @@
     },
     "selecao02": {
       "id": 4748,
-      "nome": "Brazil",
+      "nome": "Brasil",
       "escudo": "https://img.sofascore.com/api/v1/team/4748/image",
       "tecnico": null,
       "formacao": "4-2-3-1",
@@ -21830,21 +21830,21 @@
           "id": 124712,
           "nome": "Neymar",
           "numeroCamisa": 10,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 868812,
           "nome": "Vinícius Jr.",
           "numeroCamisa": 7,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 840217,
           "nome": "Richarlison",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         }
       ],
@@ -21860,14 +21860,14 @@
           "id": 910536,
           "nome": "Rodrygo",
           "numeroCamisa": 11,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 840219,
           "nome": "Pedro",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -21923,7 +21923,7 @@
           "id": 922573,
           "nome": "G. Martinelli",
           "numeroCamisa": 11,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -21946,7 +21946,7 @@
   "10230634": {
     "selecao01": {
       "id": 4713,
-      "nome": "England",
+      "nome": "Inglaterra",
       "escudo": "https://img.sofascore.com/api/v1/team/4713/image",
       "tecnico": null,
       "formacao": "4-3-3",
@@ -22011,14 +22011,14 @@
           "id": 934235,
           "nome": "B. Saka",
           "numeroCamisa": 7,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 108579,
           "nome": "H. Kane",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -22041,14 +22041,14 @@
           "id": 138534,
           "nome": "R. Sterling",
           "numeroCamisa": 19,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 814590,
           "nome": "M. Rashford",
           "numeroCamisa": 14,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -22083,7 +22083,7 @@
           "id": 113956,
           "nome": "C. Wilson",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -22132,7 +22132,7 @@
     },
     "selecao02": {
       "id": 4481,
-      "nome": "France",
+      "nome": "França",
       "escudo": "https://img.sofascore.com/api/v1/team/4481/image",
       "tecnico": null,
       "formacao": "4-2-3-1",
@@ -22190,28 +22190,28 @@
           "id": 818244,
           "nome": "O. Dembélé",
           "numeroCamisa": 10,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 85859,
           "nome": "A. Griezmann",
           "numeroCamisa": 7,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 826643,
           "nome": "K. Mbappé",
           "numeroCamisa": 10,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 39070,
           "nome": "O. Giroud",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         }
       ],
@@ -22262,14 +22262,14 @@
           "id": 791702,
           "nome": "M. Thuram",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 871706,
           "nome": "R. K. Muani",
           "numeroCamisa": 39,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -22313,7 +22313,7 @@
   "10230581": {
     "selecao01": {
       "id": 4778,
-      "nome": "Morocco",
+      "nome": "Marrocos",
       "escudo": "https://img.sofascore.com/api/v1/team/4778/image",
       "tecnico": null,
       "formacao": "4-3-3",
@@ -22385,14 +22385,14 @@
           "id": 846470,
           "nome": "Y. En-Nesyri",
           "numeroCamisa": 21,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 257205,
           "nome": "S. Boufal",
           "numeroCamisa": 17,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         }
       ],
@@ -22408,7 +22408,7 @@
           "id": 917485,
           "nome": "W. Cheddira",
           "numeroCamisa": 99,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -22429,7 +22429,7 @@
           "id": 856737,
           "nome": "Z. Aboukhlal",
           "numeroCamisa": 7,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -22464,7 +22464,7 @@
           "id": 826961,
           "nome": "A. Hamdallah",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -22478,7 +22478,7 @@
           "id": 877036,
           "nome": "A. Zaroury",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -22564,14 +22564,14 @@
           "id": 934510,
           "nome": "G. Ramos",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 851671,
           "nome": "J. Félix",
           "numeroCamisa": 79,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         }
       ],
@@ -22587,7 +22587,7 @@
           "id": 750,
           "nome": "C. Ronaldo",
           "numeroCamisa": 7,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -22601,14 +22601,14 @@
           "id": 851284,
           "nome": "R. Leão",
           "numeroCamisa": 10,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 314380,
           "nome": "R. Horta",
           "numeroCamisa": 21,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -22664,7 +22664,7 @@
           "id": 190159,
           "nome": "A. Silva",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         }
       ]
@@ -22745,14 +22745,14 @@
           "id": 12994,
           "nome": "L. Messi",
           "numeroCamisa": 10,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 944656,
           "nome": "J. Álvarez",
           "numeroCamisa": 19,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         }
       ],
@@ -22768,7 +22768,7 @@
           "id": 256219,
           "nome": "P. Dybala",
           "numeroCamisa": 21,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -22782,7 +22782,7 @@
           "id": 316152,
           "nome": "A. Correa",
           "numeroCamisa": 7,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -22796,7 +22796,7 @@
           "id": 30027,
           "nome": "A. Di Maria",
           "numeroCamisa": 11,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -22817,7 +22817,7 @@
           "id": 823984,
           "nome": "L. Martínez",
           "numeroCamisa": 10,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -22845,7 +22845,7 @@
     },
     "selecao02": {
       "id": 4715,
-      "nome": "Croatia",
+      "nome": "Croácia",
       "escudo": "https://img.sofascore.com/api/v1/team/4715/image",
       "tecnico": null,
       "formacao": "4-3-3",
@@ -22917,7 +22917,7 @@
           "id": 67647,
           "nome": "A. Kramaric",
           "numeroCamisa": 27,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -22947,14 +22947,14 @@
           "id": 309306,
           "nome": "B. Petkovic",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 94226,
           "nome": "M. Livaja",
           "numeroCamisa": 10,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -23003,7 +23003,7 @@
           "id": 37318,
           "nome": "A. Budimir",
           "numeroCamisa": 17,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -23040,7 +23040,7 @@
   "10230578": {
     "selecao01": {
       "id": 4481,
-      "nome": "France",
+      "nome": "França",
       "escudo": "https://img.sofascore.com/api/v1/team/4481/image",
       "tecnico": null,
       "formacao": "4-2-3-1",
@@ -23098,28 +23098,28 @@
           "id": 818244,
           "nome": "O. Dembélé",
           "numeroCamisa": 10,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 85859,
           "nome": "A. Griezmann",
           "numeroCamisa": 7,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 826643,
           "nome": "K. Mbappé",
           "numeroCamisa": 10,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 39070,
           "nome": "O. Giroud",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         }
       ],
@@ -23128,14 +23128,14 @@
           "id": 791702,
           "nome": "M. Thuram",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 871706,
           "nome": "R. K. Muani",
           "numeroCamisa": 39,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -23212,7 +23212,7 @@
     },
     "selecao02": {
       "id": 4778,
-      "nome": "Morocco",
+      "nome": "Marrocos",
       "escudo": "https://img.sofascore.com/api/v1/team/4778/image",
       "tecnico": null,
       "formacao": "5-4-1",
@@ -23284,14 +23284,14 @@
           "id": 257205,
           "nome": "S. Boufal",
           "numeroCamisa": 17,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 846470,
           "nome": "Y. En-Nesyri",
           "numeroCamisa": 21,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         }
       ],
@@ -23314,14 +23314,14 @@
           "id": 826961,
           "nome": "A. Hamdallah",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 856737,
           "nome": "Z. Aboukhlal",
           "numeroCamisa": 7,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -23349,7 +23349,7 @@
           "id": 877036,
           "nome": "A. Zaroury",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -23458,21 +23458,21 @@
           "id": 12994,
           "nome": "L. Messi",
           "numeroCamisa": 10,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 944656,
           "nome": "J. Álvarez",
           "numeroCamisa": 19,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 30027,
           "nome": "A. Di Maria",
           "numeroCamisa": 11,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         }
       ],
@@ -23502,7 +23502,7 @@
           "id": 823984,
           "nome": "L. Martínez",
           "numeroCamisa": 10,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -23516,7 +23516,7 @@
           "id": 256219,
           "nome": "P. Dybala",
           "numeroCamisa": 21,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -23565,7 +23565,7 @@
           "id": 316152,
           "nome": "A. Correa",
           "numeroCamisa": 7,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -23586,7 +23586,7 @@
     },
     "selecao02": {
       "id": 4481,
-      "nome": "France",
+      "nome": "França",
       "escudo": "https://img.sofascore.com/api/v1/team/4481/image",
       "tecnico": null,
       "formacao": "4-2-3-1",
@@ -23644,28 +23644,28 @@
           "id": 818244,
           "nome": "O. Dembélé",
           "numeroCamisa": 10,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 85859,
           "nome": "A. Griezmann",
           "numeroCamisa": 7,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 826643,
           "nome": "K. Mbappé",
           "numeroCamisa": 10,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 39070,
           "nome": "O. Giroud",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         }
       ],
@@ -23674,14 +23674,14 @@
           "id": 871706,
           "nome": "R. K. Muani",
           "numeroCamisa": 39,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 791702,
           "nome": "M. Thuram",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -23767,7 +23767,7 @@
   "10230637": {
     "selecao01": {
       "id": 4715,
-      "nome": "Croatia",
+      "nome": "Croácia",
       "escudo": "https://img.sofascore.com/api/v1/team/4715/image",
       "tecnico": null,
       "formacao": "4-2-3-1",
@@ -23832,7 +23832,7 @@
           "id": 67647,
           "nome": "A. Kramaric",
           "numeroCamisa": 27,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -23846,7 +23846,7 @@
           "id": 94226,
           "nome": "M. Livaja",
           "numeroCamisa": 10,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         }
       ],
@@ -23862,7 +23862,7 @@
           "id": 309306,
           "nome": "B. Petkovic",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -23939,7 +23939,7 @@
           "id": 37318,
           "nome": "A. Budimir",
           "numeroCamisa": 17,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -23960,7 +23960,7 @@
     },
     "selecao02": {
       "id": 4778,
-      "nome": "Morocco",
+      "nome": "Marrocos",
       "escudo": "https://img.sofascore.com/api/v1/team/4778/image",
       "tecnico": null,
       "formacao": "4-3-3",
@@ -24032,14 +24032,14 @@
           "id": 846470,
           "nome": "Y. En-Nesyri",
           "numeroCamisa": 21,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 257205,
           "nome": "S. Boufal",
           "numeroCamisa": 17,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         }
       ],
@@ -24062,7 +24062,7 @@
           "id": 877036,
           "nome": "A. Zaroury",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -24111,14 +24111,14 @@
           "id": 826961,
           "nome": "A. Hamdallah",
           "numeroCamisa": 9,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
           "id": 856737,
           "nome": "Z. Aboukhlal",
           "numeroCamisa": 7,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
@@ -24132,7 +24132,7 @@
           "id": 917485,
           "nome": "W. Cheddira",
           "numeroCamisa": 99,
-          "posicao": "F",
+          "posicao": "A",
           "coordenadas": null
         },
         {
