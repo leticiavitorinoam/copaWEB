@@ -5,13 +5,20 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <title>Perfil do Jogador — copaWEB</title>
     <link rel="stylesheet" href="css/style.css">
+    <script src="js/tema.js"></script>
+
 </head>
 <body>
 
     <header>
         <div class="logo">
-            <a href="artilheiros.html" class="back-icon" style="margin-right: 4px;">←</a>
-            copaWEB
+        <span class="profile-icon"></span>
+        copaWEB
+    </div>
+
+    <button id="btn-tema" style="position: absolute; right: 180px; top: 15px; background: transparent; border: none; color: var(--texto-principal); font-size: 1.2rem; cursor: pointer; padding: 6px; z-index: 1000; transition: var(--transicao);">
+        <i class="fa-solid fa-moon"></i>
+    </button>
         </div>
     </header>
 

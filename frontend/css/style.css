@@ -5,6 +5,55 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@500;600;700&family=Inter:wght@400;500;600;700&display=swap');
 
+/* ==========================================================================
+   CORES DO TEMA 
+   ========================================================================== */
+
+:root {
+    /* Tema Escuro Padrão (Suas cores originais) */
+    --bg-principal: #0B081A;
+    --bg-elevado: #140f2c;
+    --bg-card: #1C1535;
+    --bg-card-2: #241c42;
+    --borda: #2a2350;
+    --borda-clara: #3b2f66;
+
+    --roxo-neon: #9A42FF;
+    --roxo-hover: #7b2cbf;
+    --roxo-neon-fraco: rgba(154, 66, 255, 0.16);
+    --roxo-glow: rgba(154, 66, 255, 0.45);
+
+    --verde-stat: #00D26A;
+    --vermelho-stat: #F93B4D;
+    --vermelho-live: #FF3366;
+    --amarelo-stat: #ffd166;
+
+    --texto-principal: #FFFFFF;
+    --texto-secundario: #A39FC1;
+    --texto-mutado: #6B668B;
+    
+    --raio: 12px;
+    --transicao: all 0.3s ease;
+}
+
+/* Definições para o Modo Claro (Ativado pela classe no body) */
+body.light-mode {
+    --bg-principal: #F4F3F8;     /* Fundo claro acinzentado/azulado */
+    --bg-elevado: #FFFFFF;       /* Fundo de cabeçalhos e painéis */
+    --bg-card: #EBE9F3;          /* Fundo dos cards secundários */
+    --bg-card-2: #DFDCEF;
+    --borda: #D2CDE4;            /* Bordas mais suaves */
+    --borda-clara: #C4BCD9;
+
+    --texto-principal: #1A162C;  /* Texto escuro para contraste */
+    --texto-secundario: #4E4968; /* Texto de apoio */
+    --texto-mutado: #7D7899;
+
+    /* Mantém as cores de destaque e neon adaptadas para fundo claro */
+    --roxo-neon: #7F1DFF;        /* Um roxo ligeiramente mais escuro para melhor legibilidade */
+    --roxo-neon-fraco: rgba(127, 29, 255, 0.1);
+}
+
 :root {
     --bg-principal: #0B081A;
     --bg-elevado: #140f2c;
@@ -860,4 +909,23 @@ a .card-jogo:hover {
 
 .info-row strong {
     color: var(--verde-stat);
+}
+/* ==========================================================================
+   ESTILOS  PARA TABELAS CLICÁVEIS (TELA DE GRUPOS)
+   ========================================================================== */
+
+.grupo-clicavel {
+    transition: transform 0.2s ease, border-color 0.2s ease, box-shadow 0.2s ease !important;
+    cursor: pointer;
+}
+
+.grupo-clicavel:hover {
+    transform: translateY(-3px);
+    border-color: var(--roxo-neon) !important;
+    box-shadow: 0 6px 20px rgba(154, 66, 255, 0.15);
+}
+
+.grupo-clicavel:hover .botao-ver-jogos {
+    color: var(--verde-stat) !important;
+    text-shadow: 0 0 8px rgba(0, 210, 106, 0.4);
 }

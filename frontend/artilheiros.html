@@ -8,13 +8,20 @@
     <link rel="stylesheet" href="css/style.css">
     <script src="js/busca.js"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+    <script src="js/tema.js"></script>
+
 </head>
 <body>
 
     <header>
         <div class="logo">
-            <span class="profile-icon"></span>
-            copaWEB
+        <span class="profile-icon"></span>
+        copaWEB
+    </div>
+
+    <button id="btn-tema" style="position: absolute; right: 180px; top: 15px; background: transparent; border: none; color: var(--texto-principal); font-size: 1.2rem; cursor: pointer; padding: 6px; z-index: 1000; transition: var(--transicao);">
+        <i class="fa-solid fa-moon"></i>
+    </button>
         </div>
         <div class="search-container" style="position: absolute; right: 20px; top: 15px; display: flex; align-items: center; background: rgba(255, 255, 255, 0.1); border-radius: 20px; padding: 6px 12px; border: 1px solid rgba(255, 255, 255, 0.2); z-index: 1000;">
             <input type="text" id="campo-pesquisa" placeholder="Pesquisar..." style="background: transparent; border: none; color: #fff; outline: none; width: 120px; font-size: 0.85rem;">

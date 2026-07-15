@@ -1,5 +1,5 @@
 // ==========================================================================
-// tabela.js - LÓGICA DA TELA DE CLASSIFICAÇÃO
+// tabela.js - LÓGICA DA TELA DE CLASSIFICAÇÃO 
 // ==========================================================================
 
 function criarGrupoTabela(grupoNome, selecoes) {
@@ -22,9 +22,22 @@ function criarGrupoTabela(grupoNome, selecoes) {
         </tr>
     `).join("");
 
+    // Formata o nome do grupo de "Group A" para "Grupo A" na exibição
+    const nomeFormatado = grupoNome.replace("Group ", "Grupo ");
+    
+    // REDIRECIONAMENTO SEGURO: Aponta diretamente para jogosgrupo.html passando o ID correto do grupo
+    const linkGrupo = `jogosgrupo.html?grupo=${encodeURIComponent(grupoNome)}`;
+
     return `
-        <div class="stats-panel" style="margin-bottom: 2rem;">
-            <h3 class="section-header" style="font-size: 1rem;">${grupoNome.replace("Group ", "Grupo ")}</h3>
+        <div class="stats-panel grupo-clicavel" style="margin-bottom: 2rem;">
+            <a href="${linkGrupo}" style="text-decoration: none; color: inherit; display: block;">
+                <div class="header-link-grupo" style="display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid var(--borda); padding-bottom: 10px; margin-bottom: 10px;">
+                    <h3 class="section-header" style="font-size: 1rem; margin: 0; display: flex; align-items: center; gap: 8px;">
+                        <span>📊</span> ${nomeFormatado}
+                    </h3>
+                    <span class="botao-ver-jogos" style="font-size: 0.8rem; color: var(--roxo-neon); font-weight: 600; transition: color 0.2s ease;">Ver Jogos ➔</span>
+                </div>
+            </a>
             <table class="tabela-classificacao">
                 <thead>
                     <tr>
