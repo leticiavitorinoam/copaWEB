@@ -226,7 +226,7 @@ document.addEventListener("DOMContentLoaded", async () => {
             return;
         }
 
-        // 6. Renderiza as partidas na tela
+        // 6. Renderiza as partidas na tela (Modificado com as tags <a> para direcionamento seguro)
         containerJogos.innerHTML = jogosFiltrados.map(j => {
             const timeMandante = j.case || j.casa;
             const timeVisitante = j.fora || j.away;
@@ -249,51 +249,53 @@ document.addEventListener("DOMContentLoaded", async () => {
                 golsFora = dadosPartidaReal.awayScore?.current !== undefined ? dadosPartidaReal.awayScore.current : (dadosPartidaReal.awayTeam?.gols ?? "");
             }
 
-            // Formatação de data idêntica à solicitada (Ex: 20/11/2022 - 13:00)
+            // Formatação de data (Ex: 20/11/2022 - 13:00)
             const dataFormatada = formatarDataHoraIndex(timestamp);
 
-            // Resgate 100% seguro do estádio pelo ID ou Confronto
+            // Resgate seguro do estádio pelo ID ou Confronto
             const estadio = obterEstadioSeguro(nomeCasa, nomeFora, matchIdStr);
 
             return `
-                <div class="card-jogo">
-                    <div class="card-top">
-                        <span class="status-fase" style="text-transform: uppercase; font-weight: 600; font-size: 0.75rem; color: var(--roxo-neon);">
-                            ${nomeAmigavel} — Rodada ${j.rodada || "1"}
-                        </span>
-                        <span style="font-size: 0.75rem; color: var(--texto-secundario); font-weight: 500;">
-                            ${dataFormatada}
-                        </span>
-                    </div>
-                    
-                    <div class="teams">
-                        <div class="team">
-                            <div class="team-flag" style="width: 44px; height: 44px; border-radius: 50%; overflow: hidden; display: flex; align-items: center; justify-content: center; background: var(--bg-elevado); border: 1px solid var(--borda);">
-                                <img src="${escudoCasa}" alt="${nomeCasa}" style="width: 100%; height: 100%; object-fit: contain;">
-                            </div>
-                            <span style="margin-top: 8px;">${nomeCasa}</span>
+                <a href="partidas.html?match_id=${matchIdStr}" style="text-decoration: none; color: inherit; display: block;" class="link-jogo-clicavel">
+                    <div class="card-jogo">
+                        <div class="card-top">
+                            <span class="status-fase" style="text-transform: uppercase; font-weight: 600; font-size: 0.75rem; color: var(--roxo-neon);">
+                                ${nomeAmigavel} — Rodada ${j.rodada || "1"}
+                            </span>
+                            <span style="font-size: 0.75rem; color: var(--texto-secundario); font-weight: 500;">
+                                ${dataFormatada}
+                            </span>
                         </div>
                         
-                        <div class="score">
-                            <span>${golsCasa}</span>
-                            <span class="vs" style="font-size: 0.8rem; color: var(--texto-secundario); margin: 0 6px; font-weight: 400;">x</span>
-                            <span>${golsFora}</span>
-                        </div>
-                        
-                        <div class="team">
-                            <div class="team-flag" style="width: 44px; height: 44px; border-radius: 50%; overflow: hidden; display: flex; align-items: center; justify-content: center; background: var(--bg-elevado); border: 1px solid var(--borda);">
-                                <img src="${escudoFora}" alt="${nomeFora}" style="width: 100%; height: 100%; object-fit: contain;">
+                        <div class="teams">
+                            <div class="team">
+                                <div class="team-flag" style="width: 44px; height: 44px; border-radius: 50%; overflow: hidden; display: flex; align-items: center; justify-content: center; background: var(--bg-elevado); border: 1px solid var(--borda);">
+                                    <img src="${escudoCasa}" alt="${nomeCasa}" style="width: 100%; height: 100%; object-fit: contain;">
+                                </div>
+                                <span style="margin-top: 8px;">${nomeCasa}</span>
                             </div>
-                            <span style="margin-top: 8px;">${nomeFora}</span>
+                            
+                            <div class="score">
+                                <span>${golsCasa}</span>
+                                <span class="vs" style="font-size: 0.8rem; color: var(--texto-secundario); margin: 0 6px; font-weight: 400;">x</span>
+                                <span>${golsFora}</span>
+                            </div>
+                            
+                            <div class="team">
+                                <div class="team-flag" style="width: 44px; height: 44px; border-radius: 50%; overflow: hidden; display: flex; align-items: center; justify-content: center; background: var(--bg-elevado); border: 1px solid var(--borda);">
+                                    <img src="${escudoFora}" alt="${nomeFora}" style="width: 100%; height: 100%; object-fit: contain;">
+                                </div>
+                                <span style="margin-top: 8px;">${nomeFora}</span>
+                            </div>
                         </div>
-                    </div>
 
-                    ${estadio ? `
-                        <div class="estadio-container" style="text-align: center; font-size: 0.75rem; color: var(--texto-secundario); border-top: 1px dashed var(--borda); padding-top: 8px; margin-top: 8px;">
-                            ${estadio}
-                        </div>
-                    ` : ""}
-                </div>
+                        ${estadio ? `
+                            <div class="estadio-container" style="text-align: center; font-size: 0.75rem; color: var(--texto-secundario); border-top: 1px dashed var(--borda); padding-top: 8px; margin-top: 8px;">
+                                ${estadio}
+                            </div>
+                        ` : ""}
+                    </div>
+                </a>
             `;
         }).join("");
 

@@ -1,5 +1,5 @@
 // ==========================================================================
-// partidas.js - LÓGICA DA TELA DE DETALHE DA PARTIDA
+// partidas.js - DETECTANDO STRINGS OU OBJETOS NO MAPA DE IDS
 // ==========================================================================
 
 function parametroURL(nome) {
@@ -27,18 +27,81 @@ document.addEventListener("DOMContentLoaded", async () => {
     const containerPlacar = document.getElementById("partida-placar");
     if (!containerPlacar) return;
 
-    const matchId = parametroURL("id");
+    const urlId = parametroURL("match_id") || parametroURL("id");
 
-    if (!matchId) {
+    if (!urlId) {
         containerPlacar.innerHTML = "<p style='color: var(--texto-secundario);'>Nenhuma partida selecionada. Volte e escolha um jogo.</p>";
         return;
     }
 
     try {
-        // matchId aqui é o id da API-Football (o mesmo que está em jogo.id
-        // dentro de /api/jogos) — o Flask já traduz pra SofaScore por trás,
-        // não precisamos mais buscar/ler o mapa_ids.json no frontend.
+        let matchId = urlId; 
+        console.log("ID recebido da URL:", urlId);
+
+        // 1. Carrega a lista de jogos do banco da API
         const jogos = await safeFetch(api.getJogos(), []);
+
+        if (urlId.length === 8) {
+            console.log("Detectado ID do SofaScore. Iniciando busca inteligente por correspondência...");
+            
+            try {
+                const respostaMapaPartidas = await fetch("../backend/data/sofascore/ids_partidas.json");
+                
+                if (respostaMapaPartidas.ok) {
+                    const mapaPartidas = await respostaMapaPartidas.json();
+                    const dadosMapeados = mapaPartidas[urlId];
+                    
+                    if (dadosMapeados) {
+                        // Extrai com segurança o nome do time da casa (seja ele objeto ou string simples)
+                        let casaJson = "";
+                        if (typeof dadosMapeados.homeTeam === 'object' && dadosMapeados.homeTeam !== null) {
+                            casaJson = dadosMapeados.homeTeam.name || dadosMapeados.homeTeam.nome || "";
+                        } else {
+                            casaJson = dadosMapeados.homeTeam || "";
+                        }
+
+                        // Extrai com segurança o nome do time visitante (seja ele objeto ou string simples)
+                        let foraJson = "";
+                        if (typeof dadosMapeados.awayTeam === 'object' && dadosMapeados.awayTeam !== null) {
+                            foraJson = dadosMapeados.awayTeam.name || dadosMapeados.awayTeam.nome || "";
+                        } else {
+                            foraJson = dadosMapeados.awayTeam || "";
+                        }
+
+                        casaJson = String(casaJson).toLowerCase().trim();
+                        foraJson = String(foraJson).toLowerCase().trim();
+
+                        console.log(`Buscando correspondência de times no banco: ${casaJson} x ${foraJson}`);
+
+                        if (casaJson && foraJson) {
+                            // Procuramos na lista de jogos reais qual partida tem esses mesmos times
+                            const jogoCorrespondente = jogos.find(j => {
+                                const nome01 = String(j.selecao01.nome).toLowerCase().trim();
+                                const nome02 = String(j.selecao02.nome).toLowerCase().trim();
+
+                                return (nome01.includes(casaJson) || casaJson.includes(nome01)) && 
+                                       (nome02.includes(foraJson) || foraJson.includes(nome02)) ||
+                                       (nome01.includes(foraJson) || foraJson.includes(nome01)) && 
+                                       (nome02.includes(casaJson) || casaJson.includes(nome02));
+                            });
+
+                            if (jogoCorrespondente) {
+                                matchId = String(jogoCorrespondente.id);
+                                console.log("Sucesso! ID real da API-Football localizado:", matchId);
+                            } else {
+                                console.warn("Nenhum jogo correspondente encontrado para esses times.");
+                            }
+                        }
+                    }
+                }
+            } catch (erroBusca) {
+                console.error("Erro ao tentar buscar jogo correspondente:", erroBusca);
+            }
+        }
+
+        console.log("Disparando requisições para a API Flask com o ID:", matchId);
+
+        // 2. Faz as requisições principais à sua API Flask com o ID correto descoberto
         const estatisticas = await safeFetch(api.getEstatisticas(matchId), null);
         const listaEventos = await safeFetch(api.getEventos(matchId), null);
         const escalacao = await safeFetch(api.getEscalacoes(matchId), null);
@@ -48,6 +111,7 @@ document.addEventListener("DOMContentLoaded", async () => {
             throw new Error("A API de jogos não retornou nenhum dado.");
         }
 
+        // Encontra o jogo usando o ID traduzido
         const jogo = jogos.find(j => String(j.id) === String(matchId));
 
         if (jogo) {
@@ -83,7 +147,7 @@ document.addEventListener("DOMContentLoaded", async () => {
             const e1 = estatisticas.selecao01.estatisticas;
             const e2 = estatisticas.selecao02.estatisticas;
 
-            const linha = (label, v1, v2) => `
+            const htmlLinha = (label, v1, v2) => `
                 <div class="stat-row">
                     <span class="stat-value val-verde">${v1 ?? "-"}</span>
                     <div class="stat-label">${label}</div>
@@ -101,14 +165,14 @@ document.addEventListener("DOMContentLoaded", async () => {
                     <span class="stat-value val-vermelho">${e2.posseBola ?? "-"}</span>
                 </div>
                 <div style="text-align:center; font-size:0.75rem; color: var(--texto-secundario); margin-top:-10px; margin-bottom:15px;">Posse de bola</div>
-                ${linha("Finalizações", e1.totalChutes, e2.totalChutes)}
-                ${linha("Chutes ao gol", e1.chutesAoGol, e2.chutesAoGol)}
-                ${linha("Passes", e1.passes, e2.passes)}
-                ${linha("Precisão de passes", e1.precisaoPasses, e2.precisaoPasses)}
-                ${linha("Escanteios", e1.escanteios, e2.escanteios)}
-                ${linha("Faltas", e1.faltas, e2.faltas)}
-                ${linha("Cartões amarelos", e1.cartoesAmarelos ?? 0, e2.cartoesAmarelos ?? 0)}
-                ${linha("Defesas do goleiro", e1.defesasGoleiro, e2.defesasGoleiro)}
+                ${htmlLinha("Finalizações", e1.totalChutes, e2.totalChutes)}
+                ${htmlLinha("Chutes ao gol", e1.chutesAoGol, e2.chutesAoGol)}
+                ${htmlLinha("Passes", e1.passes, e2.passes)}
+                ${htmlLinha("Precisão de passes", e1.precisaoPasses, e2.precisaoPasses)}
+                ${htmlLinha("Escanteios", e1.escanteios, e2.escanteios)}
+                ${htmlLinha("Faltas", e1.faltas, e2.faltas)}
+                ${htmlLinha("Cartões amarelos", e1.cartoesAmarelos ?? 0, e2.cartoesAmarelos ?? 0)}
+                ${htmlLinha("Defesas do goleiro", e1.defesasGoleiro, e2.defesasGoleiro)}
             `;
         } else if (containerStats) {
             containerStats.innerHTML = "<p style='color: var(--texto-secundario);'>Estatísticas não disponíveis para esta partida.</p>";
@@ -139,8 +203,6 @@ document.addEventListener("DOMContentLoaded", async () => {
                 const time = escalacao[chave];
                 if (!time) return "";
 
-                // pega o escudo direto do objeto "jogo" (API-Football),
-                // que sabemos que sempre vem certo
                 const escudoCorreto = jogo[chave].escudo;
 
                 return `

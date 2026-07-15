@@ -36,24 +36,32 @@
     --transicao: all 0.3s ease;
 }
 
-/* Definições para o Modo Claro (Ativado pela classe no body) */
+/* Definições para o Modo Claro */
 body.light-mode {
-    --bg-principal: #F4F3F8;     /* Fundo claro acinzentado/azulado */
-    --bg-elevado: #FFFFFF;       /* Fundo de cabeçalhos e painéis */
-    --bg-card: #EBE9F3;          /* Fundo dos cards secundários */
-    --bg-card-2: #DFDCEF;
-    --borda: #D2CDE4;            /* Bordas mais suaves */
-    --borda-clara: #C4BCD9;
+    /* Fundo principal: um lilás acinzentado super suave, muito mais moderno que branco puro */
+    --bg-principal: #fffaf0;     
+    
+    /* Cabeçalhos e painéis elevados com transparência (Efeito Vidro Fosco) */
+    --bg-elevado: rgba(255, 255, 255, 0.75);       
+    
+    /* Cards de jogo e elementos internos: um roxo pastel bem clarinho */
+    --bg-card: #E5E1F2;          
+    --bg-card-2: #DDD9EE;
+    
+    /* Bordas suaves com tom lilás */
+    --borda: rgba(191, 181, 216, 0.4);            
+    --borda-clara: rgba(191, 181, 216, 0.6);
 
-    --texto-principal: #1A162C;  /* Texto escuro para contraste */
-    --texto-secundario: #4E4968; /* Texto de apoio */
-    --texto-mutado: #7D7899;
+    /* Textos: Azul escuro violáceo (evita o preto puro que cansa a vista) */
+    --texto-principal: #1B1233;  
+    --texto-secundario: #5E537A; 
+    --texto-terciario: #8C82A6;
 
-    /* Mantém as cores de destaque e neon adaptadas para fundo claro */
-    --roxo-neon: #7F1DFF;        /* Um roxo ligeiramente mais escuro para melhor legibilidade */
-    --roxo-neon-fraco: rgba(127, 29, 255, 0.1);
+    /* Cores neon adaptadas para fundo claro para não "queimar" a retina */
+    --roxo-neon: #7313F2;        /* Roxo mais profundo e legível */
+    --roxo-neon-fraco: rgba(115, 19, 242, 0.08);
+    --roxo-glow: rgba(115, 19, 242, 0.15);
 }
-
 :root {
     --bg-principal: #0B081A;
     --bg-elevado: #140f2c;
@@ -928,4 +936,241 @@ a .card-jogo:hover {
 .grupo-clicavel:hover .botao-ver-jogos {
     color: var(--verde-stat) !important;
     text-shadow: 0 0 8px rgba(0, 210, 106, 0.4);
+}
+/* ... seus códigos CSS antigos acima ... */
+
+/* Definições Premium para o Modo Claro (Mist/Pastel Violet) */
+body.light-mode {
+    --bg-principal: #F0EDF7;     
+    --bg-elevado: #FFFFFF;       
+    --bg-card: #E5E1F2;          
+    --bg-card-2: #DDD9EE;
+    --borda: #D0C9E3;            
+    --borda-clara: #BFB5D8;
+    --texto-principal: #1B1233;  
+    --texto-secundario: #5E537A; 
+    --texto-terciario: #8C82A6;
+    --roxo-neon: #7313F2;        
+    --roxo-neon-fraco: rgba(115, 19, 242, 0.08);
+    --roxo-glow: rgba(115, 19, 242, 0.25);
+}
+
+/* ==========================================================================
+   AJUSTES DE ACABAMENTO DO TEMA CLARO 
+   ========================================================================== */
+
+/* Transição suave de cores ao alternar o tema */
+body, header, .card-jogo, .stats-panel, .bottom-nav, a, button, input {
+    transition: background-color 0.3s ease, border-color 0.3s ease, color 0.3s ease, box-shadow 0.3s ease !important;
+}
+
+/* Efeito Vidro Fosco (Glassmorphism) na parte de cima e de baixo */
+body.light-mode header,
+body.light-mode .bottom-nav {
+    background: var(--bg-elevado) !important;
+    backdrop-filter: blur(15px) !important;
+    -webkit-backdrop-filter: blur(15px) !important;
+    border-color: var(--borda) !important;
+    box-shadow: 0 4px 30px rgba(27, 18, 51, 0.03) !important;
+}
+
+/* Garante que o círculo de voltar (seta) use as variáveis do tema */
+body.light-mode header a[href="tabela.html"] {
+    background: var(--bg-card) !important;
+    border-color: var(--borda) !important;
+}
+
+/* Ajuste das tabelas no modo claro */
+body.light-mode .tabela-classificacao th {
+    color: var(--texto-secundario);
+}
+
+body.light-mode .tabela-classificacao td {
+    color: var(--texto-principal);
+}
+
+/* Efeito de hover nos cards de grupo no modo claro */
+body.light-mode .grupo-clicavel:hover {
+    box-shadow: 0 6px 20px rgba(115, 19, 242, 0.1);
+}
+
+/* Ajuste dos textos dos inputs e placeholders no modo claro */
+body.light-mode input::placeholder {
+    color: var(--texto-terciario) !important;
+}
+
+body.light-mode input {
+    color: var(--texto-principal) !important;
+}
+
+/* Ícones ativos do menu inferior no modo claro */
+body.light-mode .bottom-nav a.active {
+    color: var(--roxo-neon) !important;
+}
+
+body.light-mode .bottom-nav a {
+    color: var(--texto-secundario);
+}
+   /* ==========================================================================
+   DESTAQUE DA BARRA DE PESQUISA 
+   ========================================================================== */
+
+/* Deixa o container de busca com o mesmo tom lilás elegante dos cards */
+body.light-mode .search-container {
+    background: #E5E1F2 !important; /* Tom lilás suave idêntico ao das divs */
+    border: 1px solid rgba(115, 19, 242, 0.15) !important; /* Borda lilás bem sutil */
+    transition: var(--transicao);
+}
+
+/* Ajusta o texto digitado pelo usuário */
+body.light-mode .search-container input {
+    color: #1B1233 !important; /* Roxo escuro para excelente leitura */
+}
+
+/* Cor do placeholder (texto "Pesquisar...") */
+body.light-mode .search-container input::placeholder {
+    color: #8C82A6 !important; /* Lilás acinzentado suave */
+}
+
+/* Destaca a lupa com o amarelo vibrante #FFAF00 para dar contraste sobre o lilás */
+body.light-mode .search-container i {
+    color: #FFAF00 !important;
+    font-size: 1rem;
+    transition: transform 0.2s ease;
+}
+
+/* Efeito ao passar o mouse por cima da lupa */
+body.light-mode .search-container i:hover {
+    transform: scale(1.15);
+    color: #E09A00 !important;
+}
+
+/* Efeito de foco: ao clicar para digitar, ela ganha um leve brilho amarelo e fundo branco */
+body.light-mode .search-container:focus-within {
+    background: #FFFFFF !important; /* Abre em branco para digitação limpa */
+    border-color: #FFAF00 !important; /* Borda acende no seu amarelo */
+    box-shadow: 0 0 8px rgba(255, 175, 0, 0.25);
+}
+/* ==========================================================================
+   ESPAÇO DA IMAGEM WIDESCREEN (2560x1080)
+   ========================================================================== */
+.container-banner-imagem {
+    width: 100%;
+    /* Mantém a proporção matemática perfeita de 2560px de largura por 1080px de altura */
+    aspect-ratio: 2560 / 1080; 
+    max-height: 420px; /* Impede que a imagem ocupe espaço excessivo em monitores gigantes */
+    overflow: hidden;
+    background: var(--bg-card); /* Fundo lilás suave no modo claro, escuro no modo escuro */
+    border-bottom: 1px solid var(--borda);
+}
+
+/* ==========================================================================
+   BANNER 100% RESPONSIVO 
+   ========================================================================== */
+.container-banner-imagem {
+    width: 100%;
+    height: auto !important; /* Força a altura a ser dinâmica */
+    max-height: none !important; /* Remove qualquer limite de altura herdado */
+    margin: 0;
+    padding: 0;
+    overflow: visible !important; /* Garante que nada ao redor corte a imagem */
+    background: transparent; /* Remove fundos coloridos que possam sobrar */
+    border-bottom: 1px solid var(--borda);
+}
+
+.banner-imagem-wide {
+    width: 100%;
+    height: auto !important; /* Deixa a proporção natural da foto guiar a altura */
+    max-height: none !important;
+    display: block;
+    object-fit: contain !important; /* Garante que a foto seja exibida por inteiro */
+}
+/* ==========================================================================
+   EFEITO DE CLIQUE E HOVER NOS JOGOS DO GRUPO
+   ========================================================================== */
+.link-jogo-clicavel {
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+/* Quando passar o mouse, o card flutua suavemente e ganha uma borda neon ativa */
+.link-jogo-clicavel:hover .card-jogo {
+    transform: translateY(-4px);
+    border-color: var(--roxo-neon) !important; /* Amarelo no modo claro, Roxo no escuro */
+    box-shadow: 0 8px 24px var(--roxo-glow) !important; /* Sombra brilhante */
+}
+
+/* Feedback físico ao clicar com o botão do mouse */
+.link-jogo-clicavel:active .card-jogo {
+    transform: translateY(-1px);
+}
+/* ==========================================================================
+   SEÇÃO: INFORMAÇÕES GERAIS DA COPA 
+   ========================================================================== */
+.info-copa-section {
+    margin: 1.2rem 16px;
+}
+
+.info-copa-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 12px;
+}
+
+.info-card {
+    background: var(--bg-card); /* Fundo lilás/suave no modo claro e escuro no escuro */
+    border-radius: 12px;
+    padding: 16px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+    border: 1px solid var(--borda);
+    transition: var(--transicao);
+}
+
+/* Efeito Hover sutil para combinar com a interatividade da página */
+.info-card:hover {
+    transform: translateY(-2px);
+    border-color: var(--roxo-neon);
+    box-shadow: 0 6px 16px var(--roxo-glow);
+}
+
+.info-card-icon {
+    font-size: 1.5rem;
+    margin-bottom: 6px;
+}
+
+.info-card-label {
+    font-size: 0.75rem;
+    font-weight: 600;
+    color: var(--texto-secundario);
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+.info-card-value {
+    font-size: 1.05rem;
+    font-weight: 700;
+    color: var(--texto-principal);
+    margin-top: 2px;
+}
+
+/* Responsividade: exibe os 4 cards lado a lado em telas maiores (monitores) */
+.info-copa-grid {
+    display: grid;
+    /* No celular, fica 2 colunas (2 de um lado, 2 do outro) */
+    grid-template-columns: repeat(2, 1fr); 
+    gap: 12px;
+    max-width: 1200px;
+    margin: 0 auto; /* Centraliza o grid na tela */
+}
+
+/* Responsividade para telas grandes (monitores/tablets) */
+@media (min-width: 768px) {
+    .info-copa-grid {
+        /* Mantém a divisão perfeita de 2 colunas grandes (2 blocos na esquerda, 2 na direita) */
+        grid-template-columns: repeat(2, 1fr); 
+        gap: 20px; /* Aumenta o espaçamento em telas maiores */
+    }
 }
