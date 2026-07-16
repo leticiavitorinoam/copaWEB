@@ -33,7 +33,7 @@ function criarGrupoTabela(grupoNome, selecoes) {
             <a href="${linkGrupo}" style="text-decoration: none; color: inherit; display: block;">
                 <div class="header-link-grupo" style="display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid var(--borda); padding-bottom: 10px; margin-bottom: 10px;">
                     <h3 class="section-header" style="font-size: 1rem; margin: 0; display: flex; align-items: center; gap: 8px;">
-                        <span>📊</span> ${nomeFormatado}
+                        <span><i class="fa-solid fa-table-list"></i></span> ${nomeFormatado}
                     </h3>
                     <span class="botao-ver-jogos" style="font-size: 0.8rem; color: var(--roxo-neon); font-weight: 600; transition: color 0.2s ease;">Ver Jogos ➔</span>
                 </div>
