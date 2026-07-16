@@ -2,7 +2,7 @@
   "10230541": {
     "selecao01": {
       "id": 4792,
-      "nome": "Qatar",
+      "nome": "Catar",
       "escudo": "https://img.sofascore.com/api/v1/team/4792/image",
       "jogadores": [
         {
@@ -373,7 +373,7 @@
     },
     "selecao02": {
       "id": 4757,
-      "nome": "Ecuador",
+      "nome": "Equador",
       "escudo": "https://img.sofascore.com/api/v1/team/4757/image",
       "jogadores": [
         {
@@ -746,7 +746,7 @@
   "10230543": {
     "selecao01": {
       "id": 4713,
-      "nome": "England",
+      "nome": "Inglaterra",
       "escudo": "https://img.sofascore.com/api/v1/team/4713/image",
       "jogadores": [
         {
@@ -1833,7 +1833,7 @@
     },
     "selecao02": {
       "id": 4705,
-      "nome": "Netherlands",
+      "nome": "Países Baixos",
       "escudo": "https://img.sofascore.com/api/v1/team/4705/image",
       "jogadores": [
         {
@@ -2206,7 +2206,7 @@
   "10230548": {
     "selecao01": {
       "id": 4724,
-      "nome": "USA",
+      "nome": "Estados Unidos",
       "escudo": "https://img.sofascore.com/api/v1/team/4724/image",
       "jogadores": [
         {
@@ -2577,7 +2577,7 @@
     },
     "selecao02": {
       "id": 4702,
-      "nome": "Wales",
+      "nome": "País de Gales",
       "escudo": "https://img.sofascore.com/api/v1/team/4702/image",
       "jogadores": [
         {
@@ -3321,7 +3321,7 @@
     },
     "selecao02": {
       "id": 4834,
-      "nome": "Saudi Arabia",
+      "nome": "Arábia Saudita",
       "escudo": "https://img.sofascore.com/api/v1/team/4834/image",
       "jogadores": [
         {
@@ -3680,7 +3680,7 @@
   "10230576": {
     "selecao01": {
       "id": 4476,
-      "nome": "Denmark",
+      "nome": "Dinamarca",
       "escudo": "https://img.sofascore.com/api/v1/team/4476/image",
       "jogadores": [
         {
@@ -4051,7 +4051,7 @@
     },
     "selecao02": {
       "id": 4729,
-      "nome": "Tunisia",
+      "nome": "Tunísia",
       "escudo": "https://img.sofascore.com/api/v1/team/4729/image",
       "jogadores": [
         {
@@ -4424,7 +4424,7 @@
   "10230565": {
     "selecao01": {
       "id": 4781,
-      "nome": "Mexico",
+      "nome": "México",
       "escudo": "https://img.sofascore.com/api/v1/team/4781/image",
       "jogadores": [
         {
@@ -4795,7 +4795,7 @@
     },
     "selecao02": {
       "id": 4703,
-      "nome": "Poland",
+      "nome": "Polônia",
       "escudo": "https://img.sofascore.com/api/v1/team/4703/image",
       "jogadores": [
         {
@@ -5168,7 +5168,7 @@
   "10230563": {
     "selecao01": {
       "id": 4481,
-      "nome": "France",
+      "nome": "França",
       "escudo": "https://img.sofascore.com/api/v1/team/4481/image",
       "jogadores": [
         {
@@ -5525,7 +5525,7 @@
     },
     "selecao02": {
       "id": 4741,
-      "nome": "Australia",
+      "nome": "Austrália",
       "escudo": "https://img.sofascore.com/api/v1/team/4741/image",
       "jogadores": [
         {
@@ -5898,7 +5898,7 @@
   "10230570": {
     "selecao01": {
       "id": 4778,
-      "nome": "Morocco",
+      "nome": "Marrocos",
       "escudo": "https://img.sofascore.com/api/v1/team/4778/image",
       "jogadores": [
         {
@@ -6269,7 +6269,7 @@
     },
     "selecao02": {
       "id": 4715,
-      "nome": "Croatia",
+      "nome": "Croácia",
       "escudo": "https://img.sofascore.com/api/v1/team/4715/image",
       "jogadores": [
         {
@@ -6642,7 +6642,7 @@
   "10230562": {
     "selecao01": {
       "id": 4711,
-      "nome": "Germany",
+      "nome": "Alemanha",
       "escudo": "https://img.sofascore.com/api/v1/team/4711/image",
       "jogadores": [
         {
@@ -7013,7 +7013,7 @@
     },
     "selecao02": {
       "id": 4770,
-      "nome": "Japan",
+      "nome": "Japão",
       "escudo": "https://img.sofascore.com/api/v1/team/4770/image",
       "jogadores": [
         {
@@ -7386,7 +7386,7 @@
   "10230571": {
     "selecao01": {
       "id": 4698,
-      "nome": "Spain",
+      "nome": "Espanha",
       "escudo": "https://img.sofascore.com/api/v1/team/4698/image",
       "jogadores": [
         {
@@ -8130,7 +8130,7 @@
   "10230559": {
     "selecao01": {
       "id": 4717,
-      "nome": "Belgium",
+      "nome": "Bélgica",
       "escudo": "https://img.sofascore.com/api/v1/team/4717/image",
       "jogadores": [
         {
@@ -8487,7 +8487,7 @@
     },
     "selecao02": {
       "id": 4752,
-      "nome": "Canada",
+      "nome": "Canadá",
       "escudo": "https://img.sofascore.com/api/v1/team/4752/image",
       "jogadores": [
         {
@@ -8860,7 +8860,7 @@
   "10230569": {
     "selecao01": {
       "id": 4699,
-      "nome": "Switzerland",
+      "nome": "Suíça",
       "escudo": "https://img.sofascore.com/api/v1/team/4699/image",
       "jogadores": [
         {
@@ -9217,7 +9217,7 @@
     },
     "selecao02": {
       "id": 4751,
-      "nome": "Cameroon",
+      "nome": "Camarões",
       "escudo": "https://img.sofascore.com/api/v1/team/4751/image",
       "jogadores": [
         {
@@ -9590,7 +9590,7 @@
   "10230530": {
     "selecao01": {
       "id": 4725,
-      "nome": "Uruguay",
+      "nome": "Uruguai",
       "escudo": "https://img.sofascore.com/api/v1/team/4725/image",
       "jogadores": [
         {
@@ -9947,7 +9947,7 @@
     },
     "selecao02": {
       "id": 4735,
-      "nome": "South Korea",
+      "nome": "Coreia do Sul",
       "escudo": "https://img.sofascore.com/api/v1/team/4735/image",
       "jogadores": [
         {
@@ -10677,7 +10677,7 @@
     },
     "selecao02": {
       "id": 4764,
-      "nome": "Ghana",
+      "nome": "Gana",
       "escudo": "https://img.sofascore.com/api/v1/team/4764/image",
       "jogadores": [
         {
@@ -11050,7 +11050,7 @@
   "10230567": {
     "selecao01": {
       "id": 4748,
-      "nome": "Brazil",
+      "nome": "Brasil",
       "escudo": "https://img.sofascore.com/api/v1/team/4748/image",
       "jogadores": [
         {
@@ -11421,7 +11421,7 @@
     },
     "selecao02": {
       "id": 6355,
-      "nome": "Serbia",
+      "nome": "Sérvia",
       "escudo": "https://img.sofascore.com/api/v1/team/6355/image",
       "jogadores": [
         {
@@ -11794,7 +11794,7 @@
   "10230556": {
     "selecao01": {
       "id": 4702,
-      "nome": "Wales",
+      "nome": "País de Gales",
       "escudo": "https://img.sofascore.com/api/v1/team/4702/image",
       "jogadores": [
         {
@@ -12510,7 +12510,7 @@
   "10230537": {
     "selecao01": {
       "id": 4792,
-      "nome": "Qatar",
+      "nome": "Catar",
       "escudo": "https://img.sofascore.com/api/v1/team/4792/image",
       "jogadores": [
         {
@@ -13212,7 +13212,7 @@
   "10230529": {
     "selecao01": {
       "id": 4705,
-      "nome": "Netherlands",
+      "nome": "Países Baixos",
       "escudo": "https://img.sofascore.com/api/v1/team/4705/image",
       "jogadores": [
         {
@@ -13583,7 +13583,7 @@
     },
     "selecao02": {
       "id": 4757,
-      "nome": "Ecuador",
+      "nome": "Equador",
       "escudo": "https://img.sofascore.com/api/v1/team/4757/image",
       "jogadores": [
         {
@@ -13956,7 +13956,7 @@
   "10230557": {
     "selecao01": {
       "id": 4713,
-      "nome": "England",
+      "nome": "Inglaterra",
       "escudo": "https://img.sofascore.com/api/v1/team/4713/image",
       "jogadores": [
         {
@@ -14313,7 +14313,7 @@
     },
     "selecao02": {
       "id": 4724,
-      "nome": "USA",
+      "nome": "Estados Unidos",
       "escudo": "https://img.sofascore.com/api/v1/team/4724/image",
       "jogadores": [
         {
@@ -14686,7 +14686,7 @@
   "10230574": {
     "selecao01": {
       "id": 4729,
-      "nome": "Tunisia",
+      "nome": "Tunísia",
       "escudo": "https://img.sofascore.com/api/v1/team/4729/image",
       "jogadores": [
         {
@@ -15057,7 +15057,7 @@
     },
     "selecao02": {
       "id": 4741,
-      "nome": "Australia",
+      "nome": "Austrália",
       "escudo": "https://img.sofascore.com/api/v1/team/4741/image",
       "jogadores": [
         {
@@ -15416,7 +15416,7 @@
   "10230542": {
     "selecao01": {
       "id": 4703,
-      "nome": "Poland",
+      "nome": "Polônia",
       "escudo": "https://img.sofascore.com/api/v1/team/4703/image",
       "jogadores": [
         {
@@ -15787,7 +15787,7 @@
     },
     "selecao02": {
       "id": 4834,
-      "nome": "Saudi Arabia",
+      "nome": "Arábia Saudita",
       "escudo": "https://img.sofascore.com/api/v1/team/4834/image",
       "jogadores": [
         {
@@ -16118,7 +16118,7 @@
   "10230577": {
     "selecao01": {
       "id": 4481,
-      "nome": "France",
+      "nome": "França",
       "escudo": "https://img.sofascore.com/api/v1/team/4481/image",
       "jogadores": [
         {
@@ -16461,7 +16461,7 @@
     },
     "selecao02": {
       "id": 4476,
-      "nome": "Denmark",
+      "nome": "Dinamarca",
       "escudo": "https://img.sofascore.com/api/v1/team/4476/image",
       "jogadores": [
         {
@@ -17191,7 +17191,7 @@
     },
     "selecao02": {
       "id": 4781,
-      "nome": "Mexico",
+      "nome": "México",
       "escudo": "https://img.sofascore.com/api/v1/team/4781/image",
       "jogadores": [
         {
@@ -17564,7 +17564,7 @@
   "10230564": {
     "selecao01": {
       "id": 4770,
-      "nome": "Japan",
+      "nome": "Japão",
       "escudo": "https://img.sofascore.com/api/v1/team/4770/image",
       "jogadores": [
         {
@@ -18308,7 +18308,7 @@
   "10230545": {
     "selecao01": {
       "id": 4717,
-      "nome": "Belgium",
+      "nome": "Bélgica",
       "escudo": "https://img.sofascore.com/api/v1/team/4717/image",
       "jogadores": [
         {
@@ -18679,7 +18679,7 @@
     },
     "selecao02": {
       "id": 4778,
-      "nome": "Morocco",
+      "nome": "Marrocos",
       "escudo": "https://img.sofascore.com/api/v1/team/4778/image",
       "jogadores": [
         {
@@ -19038,7 +19038,7 @@
   "10230550": {
     "selecao01": {
       "id": 4715,
-      "nome": "Croatia",
+      "nome": "Croácia",
       "escudo": "https://img.sofascore.com/api/v1/team/4715/image",
       "jogadores": [
         {
@@ -19395,7 +19395,7 @@
     },
     "selecao02": {
       "id": 4752,
-      "nome": "Canada",
+      "nome": "Canadá",
       "escudo": "https://img.sofascore.com/api/v1/team/4752/image",
       "jogadores": [
         {
@@ -19768,7 +19768,7 @@
   "10230575": {
     "selecao01": {
       "id": 4698,
-      "nome": "Spain",
+      "nome": "Espanha",
       "escudo": "https://img.sofascore.com/api/v1/team/4698/image",
       "jogadores": [
         {
@@ -20139,7 +20139,7 @@
     },
     "selecao02": {
       "id": 4711,
-      "nome": "Germany",
+      "nome": "Alemanha",
       "escudo": "https://img.sofascore.com/api/v1/team/4711/image",
       "jogadores": [
         {
@@ -20512,7 +20512,7 @@
   "10230568": {
     "selecao01": {
       "id": 4751,
-      "nome": "Cameroon",
+      "nome": "Camarões",
       "escudo": "https://img.sofascore.com/api/v1/team/4751/image",
       "jogadores": [
         {
@@ -20869,7 +20869,7 @@
     },
     "selecao02": {
       "id": 6355,
-      "nome": "Serbia",
+      "nome": "Sérvia",
       "escudo": "https://img.sofascore.com/api/v1/team/6355/image",
       "jogadores": [
         {
@@ -21242,7 +21242,7 @@
   "10230552": {
     "selecao01": {
       "id": 4735,
-      "nome": "South Korea",
+      "nome": "Coreia do Sul",
       "escudo": "https://img.sofascore.com/api/v1/team/4735/image",
       "jogadores": [
         {
@@ -21613,7 +21613,7 @@
     },
     "selecao02": {
       "id": 4764,
-      "nome": "Ghana",
+      "nome": "Gana",
       "escudo": "https://img.sofascore.com/api/v1/team/4764/image",
       "jogadores": [
         {
@@ -21986,7 +21986,7 @@
   "10230561": {
     "selecao01": {
       "id": 4748,
-      "nome": "Brazil",
+      "nome": "Brasil",
       "escudo": "https://img.sofascore.com/api/v1/team/4748/image",
       "jogadores": [
         {
@@ -22329,7 +22329,7 @@
     },
     "selecao02": {
       "id": 4699,
-      "nome": "Switzerland",
+      "nome": "Suíça",
       "escudo": "https://img.sofascore.com/api/v1/team/4699/image",
       "jogadores": [
         {
@@ -23031,7 +23031,7 @@
     },
     "selecao02": {
       "id": 4725,
-      "nome": "Uruguay",
+      "nome": "Uruguai",
       "escudo": "https://img.sofascore.com/api/v1/team/4725/image",
       "jogadores": [
         {
@@ -23390,7 +23390,7 @@
   "10230551": {
     "selecao01": {
       "id": 4757,
-      "nome": "Ecuador",
+      "nome": "Equador",
       "escudo": "https://img.sofascore.com/api/v1/team/4757/image",
       "jogadores": [
         {
@@ -24106,7 +24106,7 @@
   "10230538": {
     "selecao01": {
       "id": 4705,
-      "nome": "Netherlands",
+      "nome": "Países Baixos",
       "escudo": "https://img.sofascore.com/api/v1/team/4705/image",
       "jogadores": [
         {
@@ -24477,7 +24477,7 @@
     },
     "selecao02": {
       "id": 4792,
-      "nome": "Qatar",
+      "nome": "Catar",
       "escudo": "https://img.sofascore.com/api/v1/team/4792/image",
       "jogadores": [
         {
@@ -25179,7 +25179,7 @@
     },
     "selecao02": {
       "id": 4724,
-      "nome": "USA",
+      "nome": "Estados Unidos",
       "escudo": "https://img.sofascore.com/api/v1/team/4724/image",
       "jogadores": [
         {
@@ -25552,7 +25552,7 @@
   "10230532": {
     "selecao01": {
       "id": 4702,
-      "nome": "Wales",
+      "nome": "País de Gales",
       "escudo": "https://img.sofascore.com/api/v1/team/4702/image",
       "jogadores": [
         {
@@ -25909,7 +25909,7 @@
     },
     "selecao02": {
       "id": 4713,
-      "nome": "England",
+      "nome": "Inglaterra",
       "escudo": "https://img.sofascore.com/api/v1/team/4713/image",
       "jogadores": [
         {
@@ -26268,7 +26268,7 @@
   "10230560": {
     "selecao01": {
       "id": 4741,
-      "nome": "Australia",
+      "nome": "Austrália",
       "escudo": "https://img.sofascore.com/api/v1/team/4741/image",
       "jogadores": [
         {
@@ -26639,7 +26639,7 @@
     },
     "selecao02": {
       "id": 4476,
-      "nome": "Denmark",
+      "nome": "Dinamarca",
       "escudo": "https://img.sofascore.com/api/v1/team/4476/image",
       "jogadores": [
         {
@@ -26998,7 +26998,7 @@
   "10230555": {
     "selecao01": {
       "id": 4729,
-      "nome": "Tunisia",
+      "nome": "Tunísia",
       "escudo": "https://img.sofascore.com/api/v1/team/4729/image",
       "jogadores": [
         {
@@ -27369,7 +27369,7 @@
     },
     "selecao02": {
       "id": 4481,
-      "nome": "France",
+      "nome": "França",
       "escudo": "https://img.sofascore.com/api/v1/team/4481/image",
       "jogadores": [
         {
@@ -27714,7 +27714,7 @@
   "10230547": {
     "selecao01": {
       "id": 4703,
-      "nome": "Poland",
+      "nome": "Polônia",
       "escudo": "https://img.sofascore.com/api/v1/team/4703/image",
       "jogadores": [
         {
@@ -28458,7 +28458,7 @@
   "10230546": {
     "selecao01": {
       "id": 4834,
-      "nome": "Saudi Arabia",
+      "nome": "Arábia Saudita",
       "escudo": "https://img.sofascore.com/api/v1/team/4834/image",
       "jogadores": [
         {
@@ -28773,7 +28773,7 @@
     },
     "selecao02": {
       "id": 4781,
-      "nome": "Mexico",
+      "nome": "México",
       "escudo": "https://img.sofascore.com/api/v1/team/4781/image",
       "jogadores": [
         {
@@ -29146,7 +29146,7 @@
   "10230531": {
     "selecao01": {
       "id": 4752,
-      "nome": "Canada",
+      "nome": "Canadá",
       "escudo": "https://img.sofascore.com/api/v1/team/4752/image",
       "jogadores": [
         {
@@ -29503,7 +29503,7 @@
     },
     "selecao02": {
       "id": 4778,
-      "nome": "Morocco",
+      "nome": "Marrocos",
       "escudo": "https://img.sofascore.com/api/v1/team/4778/image",
       "jogadores": [
         {
@@ -29876,7 +29876,7 @@
   "10230535": {
     "selecao01": {
       "id": 4715,
-      "nome": "Croatia",
+      "nome": "Croácia",
       "escudo": "https://img.sofascore.com/api/v1/team/4715/image",
       "jogadores": [
         {
@@ -30247,7 +30247,7 @@
     },
     "selecao02": {
       "id": 4717,
-      "nome": "Belgium",
+      "nome": "Bélgica",
       "escudo": "https://img.sofascore.com/api/v1/team/4717/image",
       "jogadores": [
         {
@@ -30963,7 +30963,7 @@
     },
     "selecao02": {
       "id": 4711,
-      "nome": "Germany",
+      "nome": "Alemanha",
       "escudo": "https://img.sofascore.com/api/v1/team/4711/image",
       "jogadores": [
         {
@@ -31336,7 +31336,7 @@
   "10230554": {
     "selecao01": {
       "id": 4770,
-      "nome": "Japan",
+      "nome": "Japão",
       "escudo": "https://img.sofascore.com/api/v1/team/4770/image",
       "jogadores": [
         {
@@ -31707,7 +31707,7 @@
     },
     "selecao02": {
       "id": 4698,
-      "nome": "Spain",
+      "nome": "Espanha",
       "escudo": "https://img.sofascore.com/api/v1/team/4698/image",
       "jogadores": [
         {
@@ -32080,7 +32080,7 @@
   "10230549": {
     "selecao01": {
       "id": 4764,
-      "nome": "Ghana",
+      "nome": "Gana",
       "escudo": "https://img.sofascore.com/api/v1/team/4764/image",
       "jogadores": [
         {
@@ -32451,7 +32451,7 @@
     },
     "selecao02": {
       "id": 4725,
-      "nome": "Uruguay",
+      "nome": "Uruguai",
       "escudo": "https://img.sofascore.com/api/v1/team/4725/image",
       "jogadores": [
         {
@@ -32810,7 +32810,7 @@
   "10230544": {
     "selecao01": {
       "id": 4735,
-      "nome": "South Korea",
+      "nome": "Coreia do Sul",
       "escudo": "https://img.sofascore.com/api/v1/team/4735/image",
       "jogadores": [
         {
@@ -33512,7 +33512,7 @@
   "10230553": {
     "selecao01": {
       "id": 4751,
-      "nome": "Cameroon",
+      "nome": "Camarões",
       "escudo": "https://img.sofascore.com/api/v1/team/4751/image",
       "jogadores": [
         {
@@ -33827,7 +33827,7 @@
     },
     "selecao02": {
       "id": 4748,
-      "nome": "Brazil",
+      "nome": "Brasil",
       "escudo": "https://img.sofascore.com/api/v1/team/4748/image",
       "jogadores": [
         {
@@ -34158,7 +34158,7 @@
   "10230558": {
     "selecao01": {
       "id": 6355,
-      "nome": "Serbia",
+      "nome": "Sérvia",
       "escudo": "https://img.sofascore.com/api/v1/team/6355/image",
       "jogadores": [
         {
@@ -34529,7 +34529,7 @@
     },
     "selecao02": {
       "id": 4699,
-      "nome": "Switzerland",
+      "nome": "Suíça",
       "escudo": "https://img.sofascore.com/api/v1/team/4699/image",
       "jogadores": [
         {
@@ -34860,7 +34860,7 @@
   "10230638": {
     "selecao01": {
       "id": 4705,
-      "nome": "Netherlands",
+      "nome": "Países Baixos",
       "escudo": "https://img.sofascore.com/api/v1/team/4705/image",
       "jogadores": [
         {
@@ -35231,7 +35231,7 @@
     },
     "selecao02": {
       "id": 4724,
-      "nome": "USA",
+      "nome": "Estados Unidos",
       "escudo": "https://img.sofascore.com/api/v1/team/4724/image",
       "jogadores": [
         {
@@ -35961,7 +35961,7 @@
     },
     "selecao02": {
       "id": 4741,
-      "nome": "Australia",
+      "nome": "Austrália",
       "escudo": "https://img.sofascore.com/api/v1/team/4741/image",
       "jogadores": [
         {
@@ -36334,7 +36334,7 @@
   "10230582": {
     "selecao01": {
       "id": 4770,
-      "nome": "Japan",
+      "nome": "Japão",
       "escudo": "https://img.sofascore.com/api/v1/team/4770/image",
       "jogadores": [
         {
@@ -36677,7 +36677,7 @@
     },
     "selecao02": {
       "id": 4715,
-      "nome": "Croatia",
+      "nome": "Croácia",
       "escudo": "https://img.sofascore.com/api/v1/team/4715/image",
       "jogadores": [
         {
@@ -37022,7 +37022,7 @@
   "10230633": {
     "selecao01": {
       "id": 4748,
-      "nome": "Brazil",
+      "nome": "Brasil",
       "escudo": "https://img.sofascore.com/api/v1/team/4748/image",
       "jogadores": [
         {
@@ -37351,7 +37351,7 @@
     },
     "selecao02": {
       "id": 4735,
-      "nome": "South Korea",
+      "nome": "Coreia do Sul",
       "escudo": "https://img.sofascore.com/api/v1/team/4735/image",
       "jogadores": [
         {
@@ -37724,7 +37724,7 @@
   "10230632": {
     "selecao01": {
       "id": 4713,
-      "nome": "England",
+      "nome": "Inglaterra",
       "escudo": "https://img.sofascore.com/api/v1/team/4713/image",
       "jogadores": [
         {
@@ -38412,7 +38412,7 @@
   "10230579": {
     "selecao01": {
       "id": 4481,
-      "nome": "France",
+      "nome": "França",
       "escudo": "https://img.sofascore.com/api/v1/team/4481/image",
       "jogadores": [
         {
@@ -38755,7 +38755,7 @@
     },
     "selecao02": {
       "id": 4703,
-      "nome": "Poland",
+      "nome": "Polônia",
       "escudo": "https://img.sofascore.com/api/v1/team/4703/image",
       "jogadores": [
         {
@@ -39128,7 +39128,7 @@
   "10230636": {
     "selecao01": {
       "id": 4778,
-      "nome": "Morocco",
+      "nome": "Marrocos",
       "escudo": "https://img.sofascore.com/api/v1/team/4778/image",
       "jogadores": [
         {
@@ -39499,7 +39499,7 @@
     },
     "selecao02": {
       "id": 4698,
-      "nome": "Spain",
+      "nome": "Espanha",
       "escudo": "https://img.sofascore.com/api/v1/team/4698/image",
       "jogadores": [
         {
@@ -40215,7 +40215,7 @@
     },
     "selecao02": {
       "id": 4699,
-      "nome": "Switzerland",
+      "nome": "Suíça",
       "escudo": "https://img.sofascore.com/api/v1/team/4699/image",
       "jogadores": [
         {
@@ -40574,7 +40574,7 @@
   "10230639": {
     "selecao01": {
       "id": 4705,
-      "nome": "Netherlands",
+      "nome": "Países Baixos",
       "escudo": "https://img.sofascore.com/api/v1/team/4705/image",
       "jogadores": [
         {
@@ -41318,7 +41318,7 @@
   "10230640": {
     "selecao01": {
       "id": 4715,
-      "nome": "Croatia",
+      "nome": "Croácia",
       "escudo": "https://img.sofascore.com/api/v1/team/4715/image",
       "jogadores": [
         {
@@ -41689,7 +41689,7 @@
     },
     "selecao02": {
       "id": 4748,
-      "nome": "Brazil",
+      "nome": "Brasil",
       "escudo": "https://img.sofascore.com/api/v1/team/4748/image",
       "jogadores": [
         {
@@ -42034,7 +42034,7 @@
   "10230634": {
     "selecao01": {
       "id": 4713,
-      "nome": "England",
+      "nome": "Inglaterra",
       "escudo": "https://img.sofascore.com/api/v1/team/4713/image",
       "jogadores": [
         {
@@ -42391,7 +42391,7 @@
     },
     "selecao02": {
       "id": 4481,
-      "nome": "France",
+      "nome": "França",
       "escudo": "https://img.sofascore.com/api/v1/team/4481/image",
       "jogadores": [
         {
@@ -42736,7 +42736,7 @@
   "10230581": {
     "selecao01": {
       "id": 4778,
-      "nome": "Morocco",
+      "nome": "Marrocos",
       "escudo": "https://img.sofascore.com/api/v1/team/4778/image",
       "jogadores": [
         {
@@ -43753,7 +43753,7 @@
     },
     "selecao02": {
       "id": 4715,
-      "nome": "Croatia",
+      "nome": "Croácia",
       "escudo": "https://img.sofascore.com/api/v1/team/4715/image",
       "jogadores": [
         {
@@ -44126,7 +44126,7 @@
   "10230578": {
     "selecao01": {
       "id": 4481,
-      "nome": "France",
+      "nome": "França",
       "escudo": "https://img.sofascore.com/api/v1/team/4481/image",
       "jogadores": [
         {
@@ -44455,7 +44455,7 @@
     },
     "selecao02": {
       "id": 4778,
-      "nome": "Morocco",
+      "nome": "Marrocos",
       "escudo": "https://img.sofascore.com/api/v1/team/4778/image",
       "jogadores": [
         {
@@ -45171,7 +45171,7 @@
     },
     "selecao02": {
       "id": 4481,
-      "nome": "France",
+      "nome": "França",
       "escudo": "https://img.sofascore.com/api/v1/team/4481/image",
       "jogadores": [
         {
@@ -45516,7 +45516,7 @@
   "10230637": {
     "selecao01": {
       "id": 4715,
-      "nome": "Croatia",
+      "nome": "Croácia",
       "escudo": "https://img.sofascore.com/api/v1/team/4715/image",
       "jogadores": [
         {
@@ -45887,7 +45887,7 @@
     },
     "selecao02": {
       "id": 4778,
-      "nome": "Morocco",
+      "nome": "Marrocos",
       "escudo": "https://img.sofascore.com/api/v1/team/4778/image",
       "jogadores": [
         {

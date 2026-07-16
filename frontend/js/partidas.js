@@ -25,7 +25,7 @@ async function safeFetch(promise, valorPadrao) {
 
 const traducaoTimes = {
     "qatar": "catar",
-    "netherlands": "holanda",
+    "netherlands": "países baixos",
     "senegal": "senegal",
     "ecuador": "equador",
     "england": "inglaterra",
