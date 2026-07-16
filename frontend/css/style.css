@@ -546,14 +546,18 @@ a .card-jogo:hover {
     background: var(--bg-elevado);
 }
 
-.progress-a {
+.progress-verde {
     background: var(--verde-stat);
     box-shadow: 0 0 8px rgba(53, 224, 161, 0.5);
 }
 
-.progress-b {
+.progress-vermelho {
     background: var(--vermelho-stat);
     box-shadow: 0 0 8px rgba(255, 77, 109, 0.5);
+}
+
+.val-amarelo {
+    color: #f5c542;
 }
 
 /* ---------------------------------------------------------------------- */

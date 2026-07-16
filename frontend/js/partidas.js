@@ -187,31 +187,54 @@ document.addEventListener("DOMContentLoaded", async () => {
             const e1 = estatisticas.selecao01.estatisticas;
             const e2 = estatisticas.selecao02.estatisticas;
 
-            const htmlLinha = (label, v1, v2) => `
-                <div class="stat-row">
-                    <span class="stat-value val-verde">${v1 ?? "-"}</span>
-                    <div class="stat-label">${label}</div>
-                    <span class="stat-value val-vermelho">${v2 ?? "-"}</span>
-                </div>
-            `;
+            const htmlLinha = (label, v1, v2, inverter = false) => {
+                const n1 = parseFloat(v1) || 0;
+                const n2 = parseFloat(v2) || 0;
+    
+                let c1, c2;
+                if (n1 === n2) {
+                    c1 = "val-amarelo";
+                    c2 = "val-amarelo";
+                } else if (inverter) {
+                    c1 = n1 < n2 ? "val-verde" : "val-vermelho";
+                    c2 = n2 < n1 ? "val-verde" : "val-vermelho";
+                } else {
+                    c1 = n1 > n2 ? "val-verde" : "val-vermelho";
+                    c2 = n2 > n1 ? "val-verde" : "val-vermelho";
+                }
 
-            containerStats.innerHTML = `
-                <div class="stat-row">
-                    <span class="stat-value val-verde">${e1.posseBola ?? "-"}</span>
-                    <div class="progress-container">
-                        <div class="progress-a" style="width: ${parseInt(e1.posseBola) || 50}%;"></div>
-                        <div class="progress-b" style="width: ${100 - (parseInt(e1.posseBola) || 50)}%;"></div>
+                return `
+                    <div class="stat-row">
+                        <span class="stat-value ${c1}">${v1 ?? "-"}</span>
+                        <div class="stat-label">${label}</div>
+                        <span class="stat-value ${c2}">${v2 ?? "-"}</span>
                     </div>
-                    <span class="stat-value val-vermelho">${e2.posseBola ?? "-"}</span>
+                `;
+            };
+
+            const posse1 = parseInt(e1.posseBola) || 50;
+            const posse2 = 100 - posse1;
+            const classe1 = posse1 >= posse2 ? "val-verde" : "val-vermelho";
+            const classe2 = posse2 > posse1 ? "val-verde" : "val-vermelho";
+
+            containerStats.innerHTML = `    
+                <div class="stat-row">
+                    <span class="stat-value ${classe1}">${e1.posseBola ?? "-"}</span>
+                    <div class="progress-container">
+                        <div class="${classe1 === 'val-verde' ? 'progress-verde' : 'progress-vermelho'}" style="width: ${posse1}%;"></div>
+                        <div class="${classe2 === 'val-verde' ? 'progress-verde' : 'progress-vermelho'}" style="width: ${posse2}%;"></div>
+                    </div>
+                    <span class="stat-value ${classe2}">${e2.posseBola ?? "-"}</span>
                 </div>
+                
                 <div style="text-align:center; font-size:0.75rem; color: var(--texto-secundario); margin-top:-10px; margin-bottom:15px;">Posse de bola</div>
                 ${htmlLinha("Finalizações", e1.totalChutes, e2.totalChutes)}
                 ${htmlLinha("Chutes ao gol", e1.chutesAoGol, e2.chutesAoGol)}
                 ${htmlLinha("Passes", e1.passes, e2.passes)}
                 ${htmlLinha("Precisão de passes", e1.precisaoPasses, e2.precisaoPasses)}
                 ${htmlLinha("Escanteios", e1.escanteios, e2.escanteios)}
-                ${htmlLinha("Faltas", e1.faltas, e2.faltas)}
-                ${htmlLinha("Cartões amarelos", e1.cartoesAmarelos ?? 0, e2.cartoesAmarelos ?? 0)}
+                ${htmlLinha("Faltas", e1.faltas, e2.faltas, true)}
+                ${htmlLinha("Cartões amarelos", e1.cartoesAmarelos ?? 0, e2.cartoesAmarelos ?? 0, true)}
                 ${htmlLinha("Defesas do goleiro", e1.defesasGoleiro, e2.defesasGoleiro)}
             `;
         } else if (containerStats) {
