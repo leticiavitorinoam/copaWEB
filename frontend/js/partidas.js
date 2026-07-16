@@ -8,9 +8,9 @@ function parametroURL(nome) {
 
 function iconeEvento(tipo) {
     const t = (tipo || "").toLowerCase();
-    if (t.includes("goal")) return "⚽";
-    if (t.includes("card")) return "🟨";
-    if (t.includes("subst")) return "🔄";
+    if (t.includes("gol")) return "fa-solid fa-futbol";
+    if (t.includes("cartão")) return "fa-solid fa-clone";
+    if (t.includes("subst")) return "fa-solid fa-rotate";
     return "•";
 }
 
@@ -226,7 +226,7 @@ document.addEventListener("DOMContentLoaded", async () => {
                 <div class="evento-item">
                     <span class="evento-minuto">${ev.minuto}'</span>
                     <span>
-                        ${iconeEvento(ev.tipo)} <strong>${ev.jogador}</strong>
+                        <i class="${iconeEvento(ev.tipo)}"></i> <strong>${ev.jogador}</strong>
                         ${ev.assistencia ? ` (assist.: ${ev.assistencia})` : ""}
                         — ${ev.selecao.nome}
                     </span>
@@ -265,19 +265,27 @@ document.addEventListener("DOMContentLoaded", async () => {
         const containerDestaques = document.getElementById("partida-destaques");
         if (containerDestaques && jogadoresDaPartida) {
             const todos = [
-                ...jogadoresDaPartida.selecao01.jogadores.map(j => ({ ...j, time: jogadoresDaPartida.selecao01.nome })),
-                ...jogadoresDaPartida.selecao02.jogadores.map(j => ({ ...j, time: jogadoresDaPartida.selecao02.nome }))
-            ].filter(j => j.nota);
+                    ...jogadoresDaPartida.selecao01.jogadores.map(j => ({ ...j, time: jogadoresDaPartida.selecao01.nome })),
+                    ...jogadoresDaPartida.selecao02.jogadores.map(j => ({ ...j, time: jogadoresDaPartida.selecao02.nome }))
+                ].filter(j => j.nota);
 
-            todos.sort((a, b) => b.nota - a.nota);
-            const top3 = todos.slice(0, 3);
+                todos.sort((a, b) => b.nota - a.nota);
+                const top3 = todos.slice(0, 3);
 
-            containerDestaques.innerHTML = top3.map(j => `
-                <div class="evento-item">
-                    <span class="evento-minuto" style="color: var(--verde-stat);">${j.nota.toFixed(1)}</span>
-                    <span><strong>${j.nome}</strong> — ${j.time} ${j.gols ? `⚽x${j.gols}` : ""}</span>
-                </div>
-            `).join("") || "<p style='color: var(--texto-secundario);'>Sem dados de desempenho.</p>";
+                containerDestaques.innerHTML = top3.map(j => {
+                    const nomePaisTraduzido = traduzirTime(j.time).replace(/^\w/, c => c.toUpperCase());
+                
+                    return `
+                        <div class="evento-item">
+                            <span class="evento-minuto" style="color: var(--verde-stat);">${j.nota.toFixed(1)}</span>
+                            <span>
+                                <strong>${j.nome}</strong> — 
+                                ${nomePaisTraduzido} 
+                                ${j.gols ? ` <span class="info-card-icon" style="margin-left: 6px;"><i class="fa-regular fa-futbol"></i></span>x${j.gols}` : ""}
+                        </span>
+                    </div>
+                `;
+            }).join("") || "<p style='color: var(--texto-secundario);'>Sem dados de desempenho.</p>";
         } else if (containerDestaques) {
             containerDestaques.innerHTML = "<p style='color: var(--texto-secundario);'>Sem dados de desempenho.</p>";
         }
