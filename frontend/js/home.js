@@ -7,7 +7,7 @@ function criarCardJogo(jogo, destaque = false) {
     
     // CORREÇÃO: Garante que ele pegue o ID certo, seja jogo.id ou jogo.matchIdSofascore
     const idDaPartida = jogo.id || jogo.matchIdSofascore;
-    const link = idDaPartida ? `partidas.html?id=${idDaPartida}` : "#";
+    const link = idDaPartida ? `frontend/partidas.html?id=${idDaPartida}` : "#";
 
     return `
         <a href="${link}" style="text-decoration:none; color:inherit;">

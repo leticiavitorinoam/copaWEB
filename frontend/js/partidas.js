@@ -23,6 +23,46 @@ async function safeFetch(promise, valorPadrao) {
     }
 }
 
+const traducaoTimes = {
+    "qatar": "catar",
+    "netherlands": "holanda",
+    "senegal": "senegal",
+    "ecuador": "equador",
+    "england": "inglaterra",
+    "iran": "irã",
+    "usa": "estados unidos",
+    "wales": "país de gales",
+    "argentina": "argentina",
+    "saudi arabia": "arábia saudita",
+    "mexico": "méxico",
+    "poland": "polônia",
+    "denmark": "dinamarca",
+    "tunisia": "tunísia",
+    "australia": "austrália",
+    "france": "frança",
+    "germany": "alemanha",
+    "japan": "japão",
+    "costa rica": "costa rica",
+    "spain": "espanha",
+    "croatia": "croácia",
+    "morocco": "marrocos",
+    "canada": "canadá",
+    "belgium": "bélgica",
+    "cameroon": "camarões",
+    "switzerland": "suíça",
+    "brazil": "brasil",
+    "serbia": "sérvia",
+    "south korea": "coreia do sul",
+    "ghana": "gana",
+    "portugal": "portugal",
+    "uruguay": "uruguai"
+};
+ 
+function traduzirTime(nome) {
+    const chave = String(nome).toLowerCase().trim();
+    return traducaoTimes[chave] || chave;
+}
+
 document.addEventListener("DOMContentLoaded", async () => {
     const containerPlacar = document.getElementById("partida-placar");
     if (!containerPlacar) return;
@@ -68,8 +108,8 @@ document.addEventListener("DOMContentLoaded", async () => {
                             foraJson = dadosMapeados.awayTeam || "";
                         }
 
-                        casaJson = String(casaJson).toLowerCase().trim();
-                        foraJson = String(foraJson).toLowerCase().trim();
+                        casaJson = traduzirTime(casaJson);
+                        foraJson = traduzirTime(foraJson);
 
                         console.log(`Buscando correspondência de times no banco: ${casaJson} x ${foraJson}`);
 

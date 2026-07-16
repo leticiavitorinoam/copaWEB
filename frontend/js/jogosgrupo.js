@@ -256,7 +256,7 @@ document.addEventListener("DOMContentLoaded", async () => {
             const estadio = obterEstadioSeguro(nomeCasa, nomeFora, matchIdStr);
 
             return `
-                <a href="partidas.html?match_id=${matchIdStr}" style="text-decoration: none; color: inherit; display: block;" class="link-jogo-clicavel">
+                <a href="../frontend/partidas.html?id=${matchIdStr}" style="text-decoration: none; color: inherit; display: block;" class="link-jogo-clicavel">
                     <div class="card-jogo">
                         <div class="card-top">
                             <span class="status-fase" style="text-transform: uppercase; font-weight: 600; font-size: 0.75rem; color: var(--roxo-neon);">
