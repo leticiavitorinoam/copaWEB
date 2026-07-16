@@ -1,4 +1,4 @@
-const API_URL = "http://127.0.0.1:5000";
+const API_URL = "https://copaweb.onrender.com";
 
 // Busca dados no backend Flask
 async function fetchAPI(endpoint) {
